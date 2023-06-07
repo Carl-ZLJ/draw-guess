@@ -1,0 +1,6 @@
+# ignore node_modules folder
+node_modules
+
+# ignore png files
+**/*.png
+**/*.json

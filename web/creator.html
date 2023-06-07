@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Data Creator</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, maximum-scale=0.9, user-scalable=0">
+    <link href="style.css" rel="stylesheet">
+  </head>
+  <body>
+    <div id="content">
+      <h1>Data Creator</h1>
+      <div class="info">
+        <input type="text" id="user" placeholder="Enter your name here">
+        <span id="instructions"></span>
+        <button id="advanceBtn" onclick="start()">Start</button>
+      </div>
+      <br>
+      <div id="sketchPadContainer" style="visibility: hidden;"></div>
+    </div>
+    <script src="../common/draw.js"></script>
+    <script src="js/sketchPad.js"></script>
+    <script>
+      let index = 0
+      const labels = [
+        'car',
+        'fish',
+        'house',
+        'tree',
+        'bicycle',
+        'guitar',
+        'pencil',
+        'clock',
+      ]
+      const data = {
+        user: '',
+        session: '',
+        drawings: {},
+      }
+      const sketchPad = new SketchPad(sketchPadContainer)
+      function start() {
+        if (user.value == "") {
+          alert('Please enter your name')
+          return
+        }
+        data.user = user.value
+        data.session = `${user.value}-${Date.now()}`
+        user.style.display = 'none'
+        advanceBtn.innerHTML = 'Next'
+        advanceBtn.onclick = next
+        instructions.innerHTML = 'Draw a ' + labels[index]
+        sketchPadContainer.style.visibility = 'visible'
+      }
+
+      function next() {
+        if (sketchPad.paths.length == 0) {
+          alert('Please draw something')
+          return
+        }
+
+        data.drawings[labels[index]] = sketchPad.paths
+        sketchPad.reset()
+        index++
+        if (index > labels.length - 1) {
+          sketchPadContainer.style.visibility = 'hidden'
+          advanceBtn.innerHTML = 'Save'
+          instructions.innerHTML = 'Thank you'
+          advanceBtn.onclick = save
+          return
+        } else {
+          instructions.innerHTML = 'Draw a ' + labels[index]
+        }
+      }
+
+      function save() {
+        instructions.innerHTML = 'Thank you for your time!'
+        const json = JSON.stringify(data)
+        const blob = new Blob([json], {type: "application/json"})
+        const url = URL.createObjectURL(blob)
+
+        const a = document.createElement('a')
+        a.download = `${data.session}.json`
+        a.href = url
+        a.click()
+        a.remove()
+        URL.revokeObjectURL(url)
+      }
+    </script>
+  </body>
+</html>
+
