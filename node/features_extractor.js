@@ -24,6 +24,7 @@ const featureNames = [
     'pathCount',
     'pointsCount',
 ]
+
 fs.writeFileSync(path.resolve(__dirname, constants.FEATURES), JSON.stringify(
     {
         featureNames,

@@ -7,11 +7,7 @@ features.pathCount = function (paths) {
 }
 
 features.pointsCount = function (paths) {
-    let len = 0
-    for (const path of paths) {
-        len += path.length
-    }
-    return len
+    return paths.flat().length
 }
 
 if (module !== undefined && module.exports) {

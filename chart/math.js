@@ -1,4 +1,4 @@
-const math = {}
+const math = Object.create(null)
 
 math.lerp = (a, b, t) => {
     return a + (b - a) * t

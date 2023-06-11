@@ -76,6 +76,7 @@
             }
 
             function handleClick(sample, scroll = true) {
+                // click nothing
                 if (sample == null) {
                     [...document.querySelectorAll('tr.emphasis')]
                         .forEach(row => row.classList.remove('emphasis'))
@@ -83,18 +84,20 @@
                 }
 
                 const row = document.getElementById(`row-${sample.id}`)
-
+                // click the same item
                 if (row.classList.contains('emphasis')) {
                     row.classList.remove('emphasis')
                     chart.selectSample(null)
                     return
                 }
 
+                // click another item
                 [...document.querySelectorAll('tr.emphasis')]
                     .forEach(row => row.classList.remove('emphasis'))
 
                 row.classList.add('emphasis')
 
+                // whether to scroll to the item
                 if (scroll) {
                     row.scrollIntoView({ behavior: 'auto', block: 'center' })
                 }

@@ -58,7 +58,6 @@ button:disabled:hover {
 
 .thumbnail {
   width: 100%;
-  background-color: white;
 }
 
 .row-label {
@@ -74,3 +73,19 @@ button:disabled:hover {
   padding: 10px;
   margin: 2px;
 }
+
+.emphasis {
+  background-color: yellow;
+}
+
+#chartContainer {
+  position: fixed;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+#container {
+  width: calc(100% - 500px);
+}
+

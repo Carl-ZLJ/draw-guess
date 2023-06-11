@@ -10,6 +10,8 @@ function createRow(container, username, samples) {
 
     for (let sample of samples) {
         const sampleContainer = document.createElement('div')
+        sampleContainer.id = `sample_${sample.id}`
+        sampleContainer.onclick = () => handleClick(sample, false)
         sampleContainer.classList.add('sample-container')
         row.appendChild(sampleContainer)
 
@@ -21,6 +23,34 @@ function createRow(container, username, samples) {
         const label = document.createElement('span')
         label.classList.add('label')
         label.innerText = sample.label
+
         sampleContainer.appendChild(label)
     }
+}
+
+function handleClick(sample, scroll = true) {
+    if (sample == null) {
+        [...document.querySelectorAll('.sample-container.emphasis')]
+            .forEach(container => container.classList.remove('emphasis'))
+        return
+    }
+
+    const container = document.getElementById(`sample_${sample.id}`)
+
+    if (container.classList.contains('emphasis')) {
+        container.classList.remove('emphasis')
+        chart.selectSample(null)
+        return
+    }
+
+    [...document.querySelectorAll('.sample-container.emphasis')]
+        .forEach(container => container.classList.remove('emphasis'))
+
+    container.classList.add('emphasis')
+
+    if (scroll) {
+        container.scrollIntoView({ behavior: 'auto', block: 'center' })
+    }
+
+    chart.selectSample(sample)
 }

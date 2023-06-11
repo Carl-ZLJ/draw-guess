@@ -1,4 +1,4 @@
-const constants = {}
+const constants = Object.create(null)
 
 // create dir constants 
 constants.DATA_DIR = '../data'
