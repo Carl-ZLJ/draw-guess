@@ -13,6 +13,7 @@ constants.COMMON = '../common'
 constants.JS_OBJECT = constants.COMMON + '/js_objects'
 constants.SAMPLES_JS = constants.JS_OBJECT + '/sample.js'
 constants.FEATURES_JS = constants.JS_OBJECT + '/features.js'
+constants.MIN_MAX_JS = constants.JS_OBJECT + '/minMax.js'
 
 if (typeof module !== 'undefined' && module.exports) {
     module.exports = constants

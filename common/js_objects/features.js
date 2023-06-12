@@ -10,8 +10,8 @@ const features = {
       "user": "Radu",
       "label": "car",
       "point": [
-        258,
-        104
+        0.25498426023084997,
+        0.20412844036697247
       ]
     },
     {
@@ -20,8 +20,8 @@ const features = {
       "user": "Radu",
       "label": "fish",
       "point": [
-        241,
-        70
+        0.23714585519412382,
+        0.12614678899082568
       ]
     },
     {
@@ -30,8 +30,8 @@ const features = {
       "user": "Radu",
       "label": "house",
       "point": [
-        174,
-        166
+        0.16684155299055614,
+        0.3463302752293578
       ]
     },
     {
@@ -40,8 +40,8 @@ const features = {
       "user": "Radu",
       "label": "tree",
       "point": [
-        163,
-        272
+        0.155299055613851,
+        0.5894495412844036
       ]
     },
     {
@@ -50,8 +50,8 @@ const features = {
       "user": "Radu",
       "label": "bicycle",
       "point": [
-        212,
-        140
+        0.20671563483735572,
+        0.286697247706422
       ]
     },
     {
@@ -60,8 +60,8 @@ const features = {
       "user": "Radu",
       "label": "guitar",
       "point": [
-        228,
-        218
+        0.22350472193074503,
+        0.46559633027522934
       ]
     },
     {
@@ -70,8 +70,8 @@ const features = {
       "user": "Radu",
       "label": "pencil",
       "point": [
-        96,
-        268
+        0.08499475341028331,
+        0.5802752293577982
       ]
     },
     {
@@ -80,8 +80,8 @@ const features = {
       "user": "Radu",
       "label": "clock",
       "point": [
-        237,
-        220
+        0.23294858342077648,
+        0.4701834862385321
       ]
     },
     {
@@ -90,8 +90,8 @@ const features = {
       "user": "Radu",
       "label": "car",
       "point": [
-        260,
-        114
+        0.2570828961175236,
+        0.22706422018348624
       ]
     },
     {
@@ -100,8 +100,8 @@ const features = {
       "user": "Radu",
       "label": "fish",
       "point": [
-        206,
-        76
+        0.20041972717733472,
+        0.13990825688073394
       ]
     },
     {
@@ -110,8 +110,8 @@ const features = {
       "user": "Radu",
       "label": "house",
       "point": [
-        195,
-        177
+        0.1888772298006296,
+        0.37155963302752293
       ]
     },
     {
@@ -120,8 +120,8 @@ const features = {
       "user": "Radu",
       "label": "tree",
       "point": [
-        234,
-        291
+        0.229800629590766,
+        0.6330275229357798
       ]
     },
     {
@@ -130,8 +130,8 @@ const features = {
       "user": "Radu",
       "label": "bicycle",
       "point": [
-        246,
-        145
+        0.24239244491080797,
+        0.2981651376146789
       ]
     },
     {
@@ -140,8 +140,8 @@ const features = {
       "user": "Radu",
       "label": "guitar",
       "point": [
-        241,
-        233
+        0.23714585519412382,
+        0.5
       ]
     },
     {
@@ -150,8 +150,8 @@ const features = {
       "user": "Radu",
       "label": "pencil",
       "point": [
-        177,
-        222
+        0.16998950682056663,
+        0.47477064220183485
       ]
     },
     {
@@ -160,8 +160,8 @@ const features = {
       "user": "Radu",
       "label": "clock",
       "point": [
-        204,
-        203
+        0.19832109129066108,
+        0.43119266055045874
       ]
     },
     {
@@ -170,8 +170,8 @@ const features = {
       "user": "Yasin",
       "label": "car",
       "point": [
-        254,
-        134
+        0.25078698845750264,
+        0.27293577981651373
       ]
     },
     {
@@ -180,8 +180,8 @@ const features = {
       "user": "Yasin",
       "label": "fish",
       "point": [
-        159,
-        78
+        0.15110178384050368,
+        0.1444954128440367
       ]
     },
     {
@@ -190,8 +190,8 @@ const features = {
       "user": "Yasin",
       "label": "house",
       "point": [
-        228,
-        186
+        0.22350472193074503,
+        0.3922018348623853
       ]
     },
     {
@@ -200,8 +200,8 @@ const features = {
       "user": "Yasin",
       "label": "tree",
       "point": [
-        320,
-        315
+        0.3200419727177335,
+        0.6880733944954128
       ]
     },
     {
@@ -210,8 +210,8 @@ const features = {
       "user": "Yasin",
       "label": "bicycle",
       "point": [
-        159,
-        139
+        0.15110178384050368,
+        0.28440366972477066
       ]
     },
     {
@@ -220,8 +220,8 @@ const features = {
       "user": "Yasin",
       "label": "guitar",
       "point": [
-        92,
-        209
+        0.080797481636936,
+        0.44495412844036697
       ]
     },
     {
@@ -230,8 +230,8 @@ const features = {
       "user": "Yasin",
       "label": "pencil",
       "point": [
-        33,
-        239
+        0.01888772298006296,
+        0.5137614678899083
       ]
     },
     {
@@ -240,8 +240,8 @@ const features = {
       "user": "Yasin",
       "label": "clock",
       "point": [
-        126,
-        129
+        0.11647429171038824,
+        0.26146788990825687
       ]
     },
     {
@@ -250,8 +250,8 @@ const features = {
       "user": "Biongar",
       "label": "car",
       "point": [
-        248,
-        145
+        0.24449108079748164,
+        0.2981651376146789
       ]
     },
     {
@@ -260,8 +260,8 @@ const features = {
       "user": "Biongar",
       "label": "fish",
       "point": [
-        237,
-        95
+        0.23294858342077648,
+        0.1834862385321101
       ]
     },
     {
@@ -270,8 +270,8 @@ const features = {
       "user": "Biongar",
       "label": "house",
       "point": [
-        257,
-        259
+        0.2539349422875131,
+        0.5596330275229358
       ]
     },
     {
@@ -280,8 +280,8 @@ const features = {
       "user": "Biongar",
       "label": "tree",
       "point": [
-        250,
-        248
+        0.2465897166841553,
+        0.5344036697247706
       ]
     },
     {
@@ -290,8 +290,8 @@ const features = {
       "user": "Biongar",
       "label": "bicycle",
       "point": [
-        234,
-        175
+        0.229800629590766,
+        0.3669724770642202
       ]
     },
     {
@@ -300,8 +300,8 @@ const features = {
       "user": "Biongar",
       "label": "guitar",
       "point": [
-        305,
-        125
+        0.304302203567681,
+        0.25229357798165136
       ]
     },
     {
@@ -310,8 +310,8 @@ const features = {
       "user": "Biongar",
       "label": "pencil",
       "point": [
-        37,
-        134
+        0.023084994753410283,
+        0.27293577981651373
       ]
     },
     {
@@ -320,8 +320,8 @@ const features = {
       "user": "Biongar",
       "label": "clock",
       "point": [
-        352,
-        345
+        0.35362014690451204,
+        0.7568807339449541
       ]
     },
     {
@@ -330,8 +330,8 @@ const features = {
       "user": "Jam Bandit",
       "label": "car",
       "point": [
-        244,
-        175
+        0.2402938090241343,
+        0.3669724770642202
       ]
     },
     {
@@ -340,8 +340,8 @@ const features = {
       "user": "Jam Bandit",
       "label": "fish",
       "point": [
-        185,
-        105
+        0.1783840503672613,
+        0.20642201834862386
       ]
     },
     {
@@ -350,8 +350,8 @@ const features = {
       "user": "Jam Bandit",
       "label": "house",
       "point": [
-        258,
-        269
+        0.25498426023084997,
+        0.5825688073394495
       ]
     },
     {
@@ -360,8 +360,8 @@ const features = {
       "user": "Jam Bandit",
       "label": "tree",
       "point": [
-        308,
-        301
+        0.3074501573976915,
+        0.6559633027522935
       ]
     },
     {
@@ -370,8 +370,8 @@ const features = {
       "user": "Jam Bandit",
       "label": "bicycle",
       "point": [
-        179,
-        120
+        0.1720881427072403,
+        0.2408256880733945
       ]
     },
     {
@@ -380,8 +380,8 @@ const features = {
       "user": "Jam Bandit",
       "label": "guitar",
       "point": [
-        117,
-        307
+        0.10703043022035677,
+        0.6697247706422018
       ]
     },
     {
@@ -390,8 +390,8 @@ const features = {
       "user": "Jam Bandit",
       "label": "pencil",
       "point": [
-        43,
-        317
+        0.02938090241343127,
+        0.6926605504587156
       ]
     },
     {
@@ -400,8 +400,8 @@ const features = {
       "user": "Jam Bandit",
       "label": "clock",
       "point": [
-        344,
-        315
+        0.34522560335781743,
+        0.6880733944954128
       ]
     },
     {
@@ -410,8 +410,8 @@ const features = {
       "user": "Jackferson",
       "label": "car",
       "point": [
-        185,
-        78
+        0.1783840503672613,
+        0.1444954128440367
       ]
     },
     {
@@ -420,8 +420,8 @@ const features = {
       "user": "Jackferson",
       "label": "fish",
       "point": [
-        221,
-        87
+        0.2161594963273872,
+        0.1651376146788991
       ]
     },
     {
@@ -430,8 +430,8 @@ const features = {
       "user": "Jackferson",
       "label": "house",
       "point": [
-        332,
-        269
+        0.33263378803777544,
+        0.5825688073394495
       ]
     },
     {
@@ -440,8 +440,8 @@ const features = {
       "user": "Jackferson",
       "label": "tree",
       "point": [
-        307,
-        348
+        0.30640083945435465,
+        0.7637614678899083
       ]
     },
     {
@@ -450,8 +450,8 @@ const features = {
       "user": "Jackferson",
       "label": "bicycle",
       "point": [
-        214,
-        146
+        0.2088142707240294,
+        0.30045871559633025
       ]
     },
     {
@@ -460,8 +460,8 @@ const features = {
       "user": "Jackferson",
       "label": "guitar",
       "point": [
-        148,
-        380
+        0.13955928646379853,
+        0.8371559633027523
       ]
     },
     {
@@ -470,8 +470,8 @@ const features = {
       "user": "Jackferson",
       "label": "pencil",
       "point": [
-        297,
-        26
+        0.29590766002098634,
+        0.02522935779816514
       ]
     },
     {
@@ -480,8 +480,8 @@ const features = {
       "user": "Jackferson",
       "label": "clock",
       "point": [
-        271,
-        267
+        0.26862539349422876,
+        0.5779816513761468
       ]
     },
     {
@@ -490,8 +490,8 @@ const features = {
       "user": "Beau",
       "label": "car",
       "point": [
-        309,
-        150
+        0.30849947534102834,
+        0.30963302752293576
       ]
     },
     {
@@ -500,8 +500,8 @@ const features = {
       "user": "Beau",
       "label": "fish",
       "point": [
-        319,
-        185
+        0.31899265477439664,
+        0.38990825688073394
       ]
     },
     {
@@ -510,8 +510,8 @@ const features = {
       "user": "Beau",
       "label": "house",
       "point": [
-        306,
-        328
+        0.30535152151101785,
+        0.7178899082568807
       ]
     },
     {
@@ -520,8 +520,8 @@ const features = {
       "user": "Beau",
       "label": "tree",
       "point": [
-        295,
-        401
+        0.2938090241343127,
+        0.8853211009174312
       ]
     },
     {
@@ -530,8 +530,8 @@ const features = {
       "user": "Beau",
       "label": "bicycle",
       "point": [
-        264,
-        224
+        0.26128016789087094,
+        0.4793577981651376
       ]
     },
     {
@@ -540,8 +540,8 @@ const features = {
       "user": "Beau",
       "label": "guitar",
       "point": [
-        319,
-        278
+        0.31899265477439664,
+        0.6032110091743119
       ]
     },
     {
@@ -550,8 +550,8 @@ const features = {
       "user": "Beau",
       "label": "pencil",
       "point": [
-        266,
-        310
+        0.2633788037775446,
+        0.676605504587156
       ]
     },
     {
@@ -560,8 +560,8 @@ const features = {
       "user": "Beau",
       "label": "clock",
       "point": [
-        229,
-        235
+        0.22455403987408185,
+        0.5045871559633027
       ]
     },
     {
@@ -570,8 +570,8 @@ const features = {
       "user": "Martin Ahumada",
       "label": "car",
       "point": [
-        325,
-        151
+        0.3252885624344176,
+        0.3119266055045872
       ]
     },
     {
@@ -580,8 +580,8 @@ const features = {
       "user": "Martin Ahumada",
       "label": "fish",
       "point": [
-        180,
-        115
+        0.1731374606505771,
+        0.22935779816513763
       ]
     },
     {
@@ -590,8 +590,8 @@ const features = {
       "user": "Martin Ahumada",
       "label": "house",
       "point": [
-        143,
-        257
+        0.13431269674711438,
+        0.555045871559633
       ]
     },
     {
@@ -600,8 +600,8 @@ const features = {
       "user": "Martin Ahumada",
       "label": "tree",
       "point": [
-        174,
-        239
+        0.16684155299055614,
+        0.5137614678899083
       ]
     },
     {
@@ -610,8 +610,8 @@ const features = {
       "user": "Martin Ahumada",
       "label": "bicycle",
       "point": [
-        166,
-        130
+        0.1584470094438615,
+        0.26376146788990823
       ]
     },
     {
@@ -620,8 +620,8 @@ const features = {
       "user": "Martin Ahumada",
       "label": "guitar",
       "point": [
-        153,
-        289
+        0.14480587618048268,
+        0.6284403669724771
       ]
     },
     {
@@ -630,8 +630,8 @@ const features = {
       "user": "Martin Ahumada",
       "label": "pencil",
       "point": [
-        133,
-        279
+        0.12381951731374606,
+        0.6055045871559633
       ]
     },
     {
@@ -640,8 +640,8 @@ const features = {
       "user": "Martin Ahumada",
       "label": "clock",
       "point": [
-        205,
-        206
+        0.1993704092339979,
+        0.4380733944954128
       ]
     },
     {
@@ -650,8 +650,8 @@ const features = {
       "user": "Dipesh ",
       "label": "car",
       "point": [
-        338,
-        206
+        0.3389296956977964,
+        0.4380733944954128
       ]
     },
     {
@@ -660,8 +660,8 @@ const features = {
       "user": "Dipesh ",
       "label": "fish",
       "point": [
-        158,
-        253
+        0.15005246589716684,
+        0.5458715596330275
       ]
     },
     {
@@ -670,8 +670,8 @@ const features = {
       "user": "Dipesh ",
       "label": "house",
       "point": [
-        187,
-        258
+        0.18048268625393493,
+        0.5573394495412844
       ]
     },
     {
@@ -680,8 +680,8 @@ const features = {
       "user": "Dipesh ",
       "label": "tree",
       "point": [
-        243,
-        284
+        0.23924449108079748,
+        0.6169724770642202
       ]
     },
     {
@@ -690,8 +690,8 @@ const features = {
       "user": "Dipesh ",
       "label": "bicycle",
       "point": [
-        223,
-        94
+        0.21825813221406087,
+        0.1811926605504587
       ]
     },
     {
@@ -700,8 +700,8 @@ const features = {
       "user": "Dipesh ",
       "label": "guitar",
       "point": [
-        163,
-        279
+        0.155299055613851,
+        0.6055045871559633
       ]
     },
     {
@@ -710,8 +710,8 @@ const features = {
       "user": "Dipesh ",
       "label": "pencil",
       "point": [
-        79,
-        260
+        0.06715634837355719,
+        0.5619266055045872
       ]
     },
     {
@@ -720,8 +720,8 @@ const features = {
       "user": "Dipesh ",
       "label": "clock",
       "point": [
-        142,
-        172
+        0.13326337880377753,
+        0.36009174311926606
       ]
     },
     {
@@ -730,8 +730,8 @@ const features = {
       "user": "Henrique Zucareli",
       "label": "car",
       "point": [
-        265,
-        96
+        0.2623294858342078,
+        0.18577981651376146
       ]
     },
     {
@@ -740,8 +740,8 @@ const features = {
       "user": "Henrique Zucareli",
       "label": "fish",
       "point": [
-        93,
-        53
+        0.08184679958027283,
+        0.0871559633027523
       ]
     },
     {
@@ -750,8 +750,8 @@ const features = {
       "user": "Henrique Zucareli",
       "label": "house",
       "point": [
-        139,
-        140
+        0.13011542497376705,
+        0.286697247706422
       ]
     },
     {
@@ -760,8 +760,8 @@ const features = {
       "user": "Henrique Zucareli",
       "label": "tree",
       "point": [
-        148,
-        164
+        0.13955928646379853,
+        0.34174311926605505
       ]
     },
     {
@@ -770,8 +770,8 @@ const features = {
       "user": "Henrique Zucareli",
       "label": "bicycle",
       "point": [
-        202,
-        138
+        0.19622245540398742,
+        0.28211009174311924
       ]
     },
     {
@@ -780,8 +780,8 @@ const features = {
       "user": "Henrique Zucareli",
       "label": "guitar",
       "point": [
-        105,
-        83
+        0.0944386149003148,
+        0.1559633027522936
       ]
     },
     {
@@ -790,8 +790,8 @@ const features = {
       "user": "Henrique Zucareli",
       "label": "pencil",
       "point": [
-        171,
-        44
+        0.16369359916054566,
+        0.06651376146788991
       ]
     },
     {
@@ -800,8 +800,8 @@ const features = {
       "user": "Henrique Zucareli",
       "label": "clock",
       "point": [
-        116,
-        128
+        0.10598111227701994,
+        0.2591743119266055
       ]
     },
     {
@@ -810,8 +810,8 @@ const features = {
       "user": "Azhar",
       "label": "car",
       "point": [
-        329,
-        217
+        0.32948583420776495,
+        0.463302752293578
       ]
     },
     {
@@ -820,8 +820,8 @@ const features = {
       "user": "Azhar",
       "label": "fish",
       "point": [
-        247,
-        230
+        0.24344176285414482,
+        0.49311926605504586
       ]
     },
     {
@@ -830,8 +830,8 @@ const features = {
       "user": "Azhar",
       "label": "house",
       "point": [
-        246,
-        276
+        0.24239244491080797,
+        0.5986238532110092
       ]
     },
     {
@@ -840,8 +840,8 @@ const features = {
       "user": "Azhar",
       "label": "tree",
       "point": [
-        273,
-        343
+        0.2707240293809024,
+        0.7522935779816514
       ]
     },
     {
@@ -850,8 +850,8 @@ const features = {
       "user": "Azhar",
       "label": "bicycle",
       "point": [
-        326,
-        240
+        0.32633788037775446,
+        0.5160550458715596
       ]
     },
     {
@@ -860,8 +860,8 @@ const features = {
       "user": "Azhar",
       "label": "guitar",
       "point": [
-        282,
-        312
+        0.2801678908709339,
+        0.6811926605504587
       ]
     },
     {
@@ -870,8 +870,8 @@ const features = {
       "user": "Azhar",
       "label": "pencil",
       "point": [
-        245,
-        284
+        0.24134312696747115,
+        0.6169724770642202
       ]
     },
     {
@@ -880,8 +880,8 @@ const features = {
       "user": "Azhar",
       "label": "clock",
       "point": [
-        182,
-        211
+        0.17523609653725078,
+        0.44954128440366975
       ]
     },
     {
@@ -890,8 +890,8 @@ const features = {
       "user": "Radu :)",
       "label": "car",
       "point": [
-        267,
-        120
+        0.2644281217208814,
+        0.2408256880733945
       ]
     },
     {
@@ -900,8 +900,8 @@ const features = {
       "user": "Radu :)",
       "label": "fish",
       "point": [
-        269,
-        63
+        0.26652675760755506,
+        0.11009174311926606
       ]
     },
     {
@@ -910,8 +910,8 @@ const features = {
       "user": "Radu :)",
       "label": "house",
       "point": [
-        298,
-        292
+        0.2969569779643232,
+        0.6353211009174312
       ]
     },
     {
@@ -920,8 +920,8 @@ const features = {
       "user": "Radu :)",
       "label": "tree",
       "point": [
-        257,
-        328
+        0.2539349422875131,
+        0.7178899082568807
       ]
     },
     {
@@ -930,8 +930,8 @@ const features = {
       "user": "Radu :)",
       "label": "bicycle",
       "point": [
-        201,
-        122
+        0.19517313746065057,
+        0.24541284403669725
       ]
     },
     {
@@ -940,8 +940,8 @@ const features = {
       "user": "Radu :)",
       "label": "guitar",
       "point": [
-        368,
-        278
+        0.3704092339979014,
+        0.6032110091743119
       ]
     },
     {
@@ -950,8 +950,8 @@ const features = {
       "user": "Radu :)",
       "label": "pencil",
       "point": [
-        196,
-        195
+        0.18992654774396642,
+        0.41284403669724773
       ]
     },
     {
@@ -960,8 +960,8 @@ const features = {
       "user": "Radu :)",
       "label": "clock",
       "point": [
-        220,
-        276
+        0.21511017838405036,
+        0.5986238532110092
       ]
     },
     {
@@ -970,8 +970,8 @@ const features = {
       "user": "mk",
       "label": "car",
       "point": [
-        338,
-        150
+        0.3389296956977964,
+        0.30963302752293576
       ]
     },
     {
@@ -980,8 +980,8 @@ const features = {
       "user": "mk",
       "label": "fish",
       "point": [
-        294,
-        151
+        0.29275970619097585,
+        0.3119266055045872
       ]
     },
     {
@@ -990,8 +990,8 @@ const features = {
       "user": "mk",
       "label": "house",
       "point": [
-        330,
-        233
+        0.3305351521511018,
+        0.5
       ]
     },
     {
@@ -1000,8 +1000,8 @@ const features = {
       "user": "mk",
       "label": "tree",
       "point": [
-        257,
-        348
+        0.2539349422875131,
+        0.7637614678899083
       ]
     },
     {
@@ -1010,8 +1010,8 @@ const features = {
       "user": "mk",
       "label": "bicycle",
       "point": [
-        298,
-        260
+        0.2969569779643232,
+        0.5619266055045872
       ]
     },
     {
@@ -1020,8 +1020,8 @@ const features = {
       "user": "mk",
       "label": "guitar",
       "point": [
-        240,
-        301
+        0.236096537250787,
+        0.6559633027522935
       ]
     },
     {
@@ -1030,8 +1030,8 @@ const features = {
       "user": "mk",
       "label": "pencil",
       "point": [
-        375,
-        358
+        0.3777544596012592,
+        0.786697247706422
       ]
     },
     {
@@ -1040,8 +1040,8 @@ const features = {
       "user": "mk",
       "label": "clock",
       "point": [
-        292,
-        356
+        0.2906610703043022,
+        0.7821100917431193
       ]
     },
     {
@@ -1050,8 +1050,8 @@ const features = {
       "user": "soul",
       "label": "car",
       "point": [
-        330,
-        110
+        0.3305351521511018,
+        0.21788990825688073
       ]
     },
     {
@@ -1060,8 +1060,8 @@ const features = {
       "user": "soul",
       "label": "fish",
       "point": [
-        243,
-        148
+        0.23924449108079748,
+        0.30504587155963303
       ]
     },
     {
@@ -1070,8 +1070,8 @@ const features = {
       "user": "soul",
       "label": "house",
       "point": [
-        265,
-        174
+        0.2623294858342078,
+        0.3646788990825688
       ]
     },
     {
@@ -1080,8 +1080,8 @@ const features = {
       "user": "soul",
       "label": "tree",
       "point": [
-        284,
-        307
+        0.28226652675760755,
+        0.6697247706422018
       ]
     },
     {
@@ -1090,8 +1090,8 @@ const features = {
       "user": "soul",
       "label": "bicycle",
       "point": [
-        287,
-        185
+        0.28541448058761804,
+        0.38990825688073394
       ]
     },
     {
@@ -1100,8 +1100,8 @@ const features = {
       "user": "soul",
       "label": "guitar",
       "point": [
-        113,
-        335
+        0.10283315844700944,
+        0.7339449541284404
       ]
     },
     {
@@ -1110,8 +1110,8 @@ const features = {
       "user": "soul",
       "label": "pencil",
       "point": [
-        23,
-        229
+        0.008394543546694649,
+        0.4908256880733945
       ]
     },
     {
@@ -1120,8 +1120,8 @@ const features = {
       "user": "soul",
       "label": "clock",
       "point": [
-        148,
-        149
+        0.13955928646379853,
+        0.3073394495412844
       ]
     },
     {
@@ -1130,8 +1130,8 @@ const features = {
       "user": "Adrian",
       "label": "car",
       "point": [
-        290,
-        112
+        0.2885624344176285,
+        0.22247706422018348
       ]
     },
     {
@@ -1140,8 +1140,8 @@ const features = {
       "user": "Adrian",
       "label": "fish",
       "point": [
-        195,
-        110
+        0.1888772298006296,
+        0.21788990825688073
       ]
     },
     {
@@ -1150,8 +1150,8 @@ const features = {
       "user": "Adrian",
       "label": "house",
       "point": [
-        169,
-        196
+        0.161594963273872,
+        0.4151376146788991
       ]
     },
     {
@@ -1160,8 +1160,8 @@ const features = {
       "user": "Adrian",
       "label": "tree",
       "point": [
-        224,
-        278
+        0.2193074501573977,
+        0.6032110091743119
       ]
     },
     {
@@ -1170,8 +1170,8 @@ const features = {
       "user": "Adrian",
       "label": "bicycle",
       "point": [
-        242,
-        129
+        0.23819517313746066,
+        0.26146788990825687
       ]
     },
     {
@@ -1180,8 +1180,8 @@ const features = {
       "user": "Adrian",
       "label": "guitar",
       "point": [
-        312,
-        263
+        0.3116474291710388,
+        0.5688073394495413
       ]
     },
     {
@@ -1190,8 +1190,8 @@ const features = {
       "user": "Adrian",
       "label": "pencil",
       "point": [
-        212,
-        164
+        0.20671563483735572,
+        0.34174311926605505
       ]
     },
     {
@@ -1200,8 +1200,8 @@ const features = {
       "user": "Adrian",
       "label": "clock",
       "point": [
-        222,
-        162
+        0.21720881427072403,
+        0.33715596330275227
       ]
     },
     {
@@ -1210,8 +1210,8 @@ const features = {
       "user": "Sanna Marin",
       "label": "car",
       "point": [
-        163,
-        73
+        0.155299055613851,
+        0.13302752293577982
       ]
     },
     {
@@ -1220,8 +1220,8 @@ const features = {
       "user": "Sanna Marin",
       "label": "fish",
       "point": [
-        158,
-        47
+        0.15005246589716684,
+        0.07339449541284404
       ]
     },
     {
@@ -1230,8 +1230,8 @@ const features = {
       "user": "Sanna Marin",
       "label": "house",
       "point": [
-        188,
-        195
+        0.18153200419727178,
+        0.41284403669724773
       ]
     },
     {
@@ -1240,8 +1240,8 @@ const features = {
       "user": "Sanna Marin",
       "label": "tree",
       "point": [
-        234,
-        251
+        0.229800629590766,
+        0.5412844036697247
       ]
     },
     {
@@ -1250,8 +1250,8 @@ const features = {
       "user": "Sanna Marin",
       "label": "bicycle",
       "point": [
-        228,
-        179
+        0.22350472193074503,
+        0.3761467889908257
       ]
     },
     {
@@ -1260,8 +1260,8 @@ const features = {
       "user": "Sanna Marin",
       "label": "guitar",
       "point": [
-        83,
-        227
+        0.07135362014690451,
+        0.48623853211009177
       ]
     },
     {
@@ -1270,8 +1270,8 @@ const features = {
       "user": "Sanna Marin",
       "label": "pencil",
       "point": [
-        102,
-        113
+        0.0912906610703043,
+        0.22477064220183487
       ]
     },
     {
@@ -1280,8 +1280,8 @@ const features = {
       "user": "Sanna Marin",
       "label": "clock",
       "point": [
-        78,
-        106
+        0.06610703043022036,
+        0.20871559633027523
       ]
     },
     {
@@ -1290,8 +1290,8 @@ const features = {
       "user": "Jayparth ",
       "label": "car",
       "point": [
-        355,
-        156
+        0.3567681007345226,
+        0.32339449541284404
       ]
     },
     {
@@ -1300,8 +1300,8 @@ const features = {
       "user": "Jayparth ",
       "label": "fish",
       "point": [
-        394,
-        384
+        0.39769150052465896,
+        0.8463302752293578
       ]
     },
     {
@@ -1310,8 +1310,8 @@ const features = {
       "user": "Jayparth ",
       "label": "house",
       "point": [
-        395,
-        235
+        0.3987408184679958,
+        0.5045871559633027
       ]
     },
     {
@@ -1320,8 +1320,8 @@ const features = {
       "user": "Jayparth ",
       "label": "tree",
       "point": [
-        347,
-        402
+        0.3483735571878279,
+        0.8876146788990825
       ]
     },
     {
@@ -1330,8 +1330,8 @@ const features = {
       "user": "Jayparth ",
       "label": "bicycle",
       "point": [
-        351,
-        258
+        0.35257082896117525,
+        0.5573394495412844
       ]
     },
     {
@@ -1340,8 +1340,8 @@ const features = {
       "user": "Jayparth ",
       "label": "guitar",
       "point": [
-        343,
-        399
+        0.3441762854144806,
+        0.8807339449541285
       ]
     },
     {
@@ -1350,8 +1350,8 @@ const features = {
       "user": "Jayparth ",
       "label": "pencil",
       "point": [
-        342,
-        323
+        0.34312696747114374,
+        0.7064220183486238
       ]
     },
     {
@@ -1360,8 +1360,8 @@ const features = {
       "user": "Jayparth ",
       "label": "clock",
       "point": [
-        153,
-        310
+        0.14480587618048268,
+        0.676605504587156
       ]
     },
     {
@@ -1370,8 +1370,8 @@ const features = {
       "user": "Sam",
       "label": "car",
       "point": [
-        256,
-        81
+        0.2528856243441763,
+        0.15137614678899083
       ]
     },
     {
@@ -1380,8 +1380,8 @@ const features = {
       "user": "Sam",
       "label": "fish",
       "point": [
-        249,
-        83
+        0.24554039874081846,
+        0.1559633027522936
       ]
     },
     {
@@ -1390,8 +1390,8 @@ const features = {
       "user": "Sam",
       "label": "house",
       "point": [
-        159,
-        262
+        0.15110178384050368,
+        0.5665137614678899
       ]
     },
     {
@@ -1400,8 +1400,8 @@ const features = {
       "user": "Sam",
       "label": "tree",
       "point": [
-        321,
-        330
+        0.3210912906610703,
+        0.7224770642201835
       ]
     },
     {
@@ -1410,8 +1410,8 @@ const features = {
       "user": "Sam",
       "label": "bicycle",
       "point": [
-        281,
-        167
+        0.27911857292759706,
+        0.3486238532110092
       ]
     },
     {
@@ -1420,8 +1420,8 @@ const features = {
       "user": "Sam",
       "label": "guitar",
       "point": [
-        231,
-        295
+        0.2266526757607555,
+        0.6422018348623854
       ]
     },
     {
@@ -1430,8 +1430,8 @@ const features = {
       "user": "Sam",
       "label": "pencil",
       "point": [
-        166,
-        186
+        0.1584470094438615,
+        0.3922018348623853
       ]
     },
     {
@@ -1440,8 +1440,8 @@ const features = {
       "user": "Sam",
       "label": "clock",
       "point": [
-        325,
-        319
+        0.3252885624344176,
+        0.6972477064220184
       ]
     },
     {
@@ -1450,8 +1450,8 @@ const features = {
       "user": "salah",
       "label": "car",
       "point": [
-        318,
-        161
+        0.3179433368310598,
+        0.3348623853211009
       ]
     },
     {
@@ -1460,8 +1460,8 @@ const features = {
       "user": "salah",
       "label": "fish",
       "point": [
-        347,
-        133
+        0.3483735571878279,
+        0.2706422018348624
       ]
     },
     {
@@ -1470,8 +1470,8 @@ const features = {
       "user": "salah",
       "label": "house",
       "point": [
-        205,
-        300
+        0.1993704092339979,
+        0.6536697247706422
       ]
     },
     {
@@ -1480,8 +1480,8 @@ const features = {
       "user": "salah",
       "label": "tree",
       "point": [
-        312,
-        379
+        0.3116474291710388,
+        0.8348623853211009
       ]
     },
     {
@@ -1490,8 +1490,8 @@ const features = {
       "user": "salah",
       "label": "bicycle",
       "point": [
-        303,
-        232
+        0.30220356768100737,
+        0.49770642201834864
       ]
     },
     {
@@ -1500,8 +1500,8 @@ const features = {
       "user": "salah",
       "label": "guitar",
       "point": [
-        326,
-        317
+        0.32633788037775446,
+        0.6926605504587156
       ]
     },
     {
@@ -1510,8 +1510,8 @@ const features = {
       "user": "salah",
       "label": "pencil",
       "point": [
-        225,
-        229
+        0.2203567681007345,
+        0.4908256880733945
       ]
     },
     {
@@ -1520,8 +1520,8 @@ const features = {
       "user": "salah",
       "label": "clock",
       "point": [
-        225,
-        210
+        0.2203567681007345,
+        0.44724770642201833
       ]
     },
     {
@@ -1530,8 +1530,8 @@ const features = {
       "user": "Shankar",
       "label": "car",
       "point": [
-        362,
-        203
+        0.3641133263378804,
+        0.43119266055045874
       ]
     },
     {
@@ -1540,8 +1540,8 @@ const features = {
       "user": "Shankar",
       "label": "fish",
       "point": [
-        212,
-        78
+        0.20671563483735572,
+        0.1444954128440367
       ]
     },
     {
@@ -1550,8 +1550,8 @@ const features = {
       "user": "Shankar",
       "label": "house",
       "point": [
-        254,
-        327
+        0.25078698845750264,
+        0.7155963302752294
       ]
     },
     {
@@ -1560,8 +1560,8 @@ const features = {
       "user": "Shankar",
       "label": "tree",
       "point": [
-        336,
-        422
+        0.33683105981112277,
+        0.9334862385321101
       ]
     },
     {
@@ -1570,8 +1570,8 @@ const features = {
       "user": "Shankar",
       "label": "bicycle",
       "point": [
-        303,
-        218
+        0.30220356768100737,
+        0.46559633027522934
       ]
     },
     {
@@ -1580,8 +1580,8 @@ const features = {
       "user": "Shankar",
       "label": "guitar",
       "point": [
-        155,
-        368
+        0.14690451206715635,
+        0.8096330275229358
       ]
     },
     {
@@ -1590,8 +1590,8 @@ const features = {
       "user": "Shankar",
       "label": "pencil",
       "point": [
-        94,
-        376
+        0.08289611752360965,
+        0.8279816513761468
       ]
     },
     {
@@ -1600,8 +1600,8 @@ const features = {
       "user": "Shankar",
       "label": "clock",
       "point": [
-        299,
-        352
+        0.29800629590766003,
+        0.7729357798165137
       ]
     },
     {
@@ -1610,8 +1610,8 @@ const features = {
       "user": "Bojana ",
       "label": "car",
       "point": [
-        329,
-        200
+        0.32948583420776495,
+        0.4243119266055046
       ]
     },
     {
@@ -1620,8 +1620,8 @@ const features = {
       "user": "Bojana ",
       "label": "fish",
       "point": [
-        288,
-        151
+        0.2864637985309549,
+        0.3119266055045872
       ]
     },
     {
@@ -1630,8 +1630,8 @@ const features = {
       "user": "Bojana ",
       "label": "house",
       "point": [
-        287,
-        245
+        0.28541448058761804,
+        0.5275229357798165
       ]
     },
     {
@@ -1640,8 +1640,8 @@ const features = {
       "user": "Bojana ",
       "label": "tree",
       "point": [
-        263,
-        368
+        0.2602308499475341,
+        0.8096330275229358
       ]
     },
     {
@@ -1650,8 +1650,8 @@ const features = {
       "user": "Bojana ",
       "label": "bicycle",
       "point": [
-        332,
-        229
+        0.33263378803777544,
+        0.4908256880733945
       ]
     },
     {
@@ -1660,8 +1660,8 @@ const features = {
       "user": "Bojana ",
       "label": "guitar",
       "point": [
-        318,
-        281
+        0.3179433368310598,
+        0.6100917431192661
       ]
     },
     {
@@ -1670,8 +1670,8 @@ const features = {
       "user": "Bojana ",
       "label": "pencil",
       "point": [
-        282,
-        260
+        0.2801678908709339,
+        0.5619266055045872
       ]
     },
     {
@@ -1680,8 +1680,8 @@ const features = {
       "user": "Bojana ",
       "label": "clock",
       "point": [
-        190,
-        215
+        0.18363064008394545,
+        0.45871559633027525
       ]
     },
     {
@@ -1690,8 +1690,8 @@ const features = {
       "user": "Santiago Ortiz",
       "label": "car",
       "point": [
-        322,
-        124
+        0.32214060860440713,
+        0.25
       ]
     },
     {
@@ -1700,8 +1700,8 @@ const features = {
       "user": "Santiago Ortiz",
       "label": "fish",
       "point": [
-        316,
-        65
+        0.31584470094438616,
+        0.11467889908256881
       ]
     },
     {
@@ -1710,8 +1710,8 @@ const features = {
       "user": "Santiago Ortiz",
       "label": "house",
       "point": [
-        248,
-        333
+        0.24449108079748164,
+        0.7293577981651376
       ]
     },
     {
@@ -1720,8 +1720,8 @@ const features = {
       "user": "Santiago Ortiz",
       "label": "tree",
       "point": [
-        349,
-        381
+        0.35047219307450156,
+        0.8394495412844036
       ]
     },
     {
@@ -1730,8 +1730,8 @@ const features = {
       "user": "Santiago Ortiz",
       "label": "bicycle",
       "point": [
-        260,
-        160
+        0.2570828961175236,
+        0.33256880733944955
       ]
     },
     {
@@ -1740,8 +1740,8 @@ const features = {
       "user": "Santiago Ortiz",
       "label": "guitar",
       "point": [
-        229,
-        211
+        0.22455403987408185,
+        0.44954128440366975
       ]
     },
     {
@@ -1750,8 +1750,8 @@ const features = {
       "user": "Santiago Ortiz",
       "label": "pencil",
       "point": [
-        143,
-        209
+        0.13431269674711438,
+        0.44495412844036697
       ]
     },
     {
@@ -1760,8 +1760,8 @@ const features = {
       "user": "Santiago Ortiz",
       "label": "clock",
       "point": [
-        195,
-        196
+        0.1888772298006296,
+        0.4151376146788991
       ]
     },
     {
@@ -1770,8 +1770,8 @@ const features = {
       "user": "Andy Beck",
       "label": "car",
       "point": [
-        315,
-        146
+        0.3147953830010493,
+        0.30045871559633025
       ]
     },
     {
@@ -1780,8 +1780,8 @@ const features = {
       "user": "Andy Beck",
       "label": "fish",
       "point": [
-        298,
-        133
+        0.2969569779643232,
+        0.2706422018348624
       ]
     },
     {
@@ -1790,8 +1790,8 @@ const features = {
       "user": "Andy Beck",
       "label": "house",
       "point": [
-        303,
-        295
+        0.30220356768100737,
+        0.6422018348623854
       ]
     },
     {
@@ -1800,8 +1800,8 @@ const features = {
       "user": "Andy Beck",
       "label": "tree",
       "point": [
-        230,
-        263
+        0.22560335781741866,
+        0.5688073394495413
       ]
     },
     {
@@ -1810,8 +1810,8 @@ const features = {
       "user": "Andy Beck",
       "label": "bicycle",
       "point": [
-        272,
-        172
+        0.2696747114375656,
+        0.36009174311926606
       ]
     },
     {
@@ -1820,8 +1820,8 @@ const features = {
       "user": "Andy Beck",
       "label": "guitar",
       "point": [
-        130,
-        261
+        0.12067156348373557,
+        0.5642201834862385
       ]
     },
     {
@@ -1830,8 +1830,8 @@ const features = {
       "user": "Andy Beck",
       "label": "pencil",
       "point": [
-        190,
-        203
+        0.18363064008394545,
+        0.43119266055045874
       ]
     },
     {
@@ -1840,8 +1840,8 @@ const features = {
       "user": "Andy Beck",
       "label": "clock",
       "point": [
-        220,
-        188
+        0.21511017838405036,
+        0.3967889908256881
       ]
     },
     {
@@ -1850,8 +1850,8 @@ const features = {
       "user": "Marc",
       "label": "car",
       "point": [
-        339,
-        146
+        0.33997901364113325,
+        0.30045871559633025
       ]
     },
     {
@@ -1860,8 +1860,8 @@ const features = {
       "user": "Marc",
       "label": "fish",
       "point": [
-        263,
-        121
+        0.2602308499475341,
+        0.24311926605504589
       ]
     },
     {
@@ -1870,8 +1870,8 @@ const features = {
       "user": "Marc",
       "label": "house",
       "point": [
-        164,
-        248
+        0.15634837355718784,
+        0.5344036697247706
       ]
     },
     {
@@ -1880,8 +1880,8 @@ const features = {
       "user": "Marc",
       "label": "tree",
       "point": [
-        180,
-        235
+        0.1731374606505771,
+        0.5045871559633027
       ]
     },
     {
@@ -1890,8 +1890,8 @@ const features = {
       "user": "Marc",
       "label": "bicycle",
       "point": [
-        166,
-        125
+        0.1584470094438615,
+        0.25229357798165136
       ]
     },
     {
@@ -1900,8 +1900,8 @@ const features = {
       "user": "Marc",
       "label": "guitar",
       "point": [
-        162,
-        319
+        0.15424973767051417,
+        0.6972477064220184
       ]
     },
     {
@@ -1910,8 +1910,8 @@ const features = {
       "user": "Marc",
       "label": "pencil",
       "point": [
-        275,
-        193
+        0.2728226652675761,
+        0.40825688073394495
       ]
     },
     {
@@ -1920,8 +1920,8 @@ const features = {
       "user": "Marc",
       "label": "clock",
       "point": [
-        323,
-        298
+        0.323189926547744,
+        0.6490825688073395
       ]
     },
     {
@@ -1930,8 +1930,8 @@ const features = {
       "user": "Daniel",
       "label": "car",
       "point": [
-        225,
-        91
+        0.2203567681007345,
+        0.1743119266055046
       ]
     },
     {
@@ -1940,8 +1940,8 @@ const features = {
       "user": "Daniel",
       "label": "fish",
       "point": [
-        245,
-        62
+        0.24134312696747115,
+        0.10779816513761468
       ]
     },
     {
@@ -1950,8 +1950,8 @@ const features = {
       "user": "Daniel",
       "label": "house",
       "point": [
-        140,
-        187
+        0.1311647429171039,
+        0.3944954128440367
       ]
     },
     {
@@ -1960,8 +1960,8 @@ const features = {
       "user": "Daniel",
       "label": "tree",
       "point": [
-        175,
-        290
+        0.16789087093389296,
+        0.6307339449541285
       ]
     },
     {
@@ -1970,8 +1970,8 @@ const features = {
       "user": "Daniel",
       "label": "bicycle",
       "point": [
-        102,
-        101
+        0.0912906610703043,
+        0.19724770642201836
       ]
     },
     {
@@ -1980,8 +1980,8 @@ const features = {
       "user": "Daniel",
       "label": "guitar",
       "point": [
-        136,
-        316
+        0.12696747114375656,
+        0.6903669724770642
       ]
     },
     {
@@ -1990,8 +1990,8 @@ const features = {
       "user": "Daniel",
       "label": "pencil",
       "point": [
-        211,
-        160
+        0.20566631689401887,
+        0.33256880733944955
       ]
     },
     {
@@ -2000,8 +2000,8 @@ const features = {
       "user": "Daniel",
       "label": "clock",
       "point": [
-        127,
-        132
+        0.11752360965372508,
+        0.268348623853211
       ]
     },
     {
@@ -2010,8 +2010,8 @@ const features = {
       "user": "Picasso 2.0",
       "label": "car",
       "point": [
-        328,
-        162
+        0.3284365162644281,
+        0.33715596330275227
       ]
     },
     {
@@ -2020,8 +2020,8 @@ const features = {
       "user": "Picasso 2.0",
       "label": "fish",
       "point": [
-        220,
-        145
+        0.21511017838405036,
+        0.2981651376146789
       ]
     },
     {
@@ -2030,8 +2030,8 @@ const features = {
       "user": "Picasso 2.0",
       "label": "house",
       "point": [
-        261,
-        290
+        0.25813221406086045,
+        0.6307339449541285
       ]
     },
     {
@@ -2040,8 +2040,8 @@ const features = {
       "user": "Picasso 2.0",
       "label": "tree",
       "point": [
-        205,
-        297
+        0.1993704092339979,
+        0.6467889908256881
       ]
     },
     {
@@ -2050,8 +2050,8 @@ const features = {
       "user": "Picasso 2.0",
       "label": "bicycle",
       "point": [
-        282,
-        179
+        0.2801678908709339,
+        0.3761467889908257
       ]
     },
     {
@@ -2060,8 +2060,8 @@ const features = {
       "user": "Picasso 2.0",
       "label": "guitar",
       "point": [
-        250,
-        358
+        0.2465897166841553,
+        0.786697247706422
       ]
     },
     {
@@ -2070,8 +2070,8 @@ const features = {
       "user": "Picasso 2.0",
       "label": "pencil",
       "point": [
-        240,
-        280
+        0.236096537250787,
+        0.6077981651376146
       ]
     },
     {
@@ -2080,8 +2080,8 @@ const features = {
       "user": "Picasso 2.0",
       "label": "clock",
       "point": [
-        301,
-        308
+        0.3001049317943337,
+        0.6720183486238532
       ]
     },
     {
@@ -2090,8 +2090,8 @@ const features = {
       "user": "Dumitru",
       "label": "car",
       "point": [
-        315,
-        90
+        0.3147953830010493,
+        0.1720183486238532
       ]
     },
     {
@@ -2100,8 +2100,8 @@ const features = {
       "user": "Dumitru",
       "label": "fish",
       "point": [
-        354,
-        133
+        0.35571878279118574,
+        0.2706422018348624
       ]
     },
     {
@@ -2110,8 +2110,8 @@ const features = {
       "user": "Dumitru",
       "label": "house",
       "point": [
-        234,
-        203
+        0.229800629590766,
+        0.43119266055045874
       ]
     },
     {
@@ -2120,8 +2120,8 @@ const features = {
       "user": "Dumitru",
       "label": "tree",
       "point": [
-        320,
-        327
+        0.3200419727177335,
+        0.7155963302752294
       ]
     },
     {
@@ -2130,8 +2130,8 @@ const features = {
       "user": "Dumitru",
       "label": "bicycle",
       "point": [
-        316,
-        148
+        0.31584470094438616,
+        0.30504587155963303
       ]
     },
     {
@@ -2140,8 +2140,8 @@ const features = {
       "user": "Dumitru",
       "label": "guitar",
       "point": [
-        334,
-        114
+        0.33473242392444913,
+        0.22706422018348624
       ]
     },
     {
@@ -2150,8 +2150,8 @@ const features = {
       "user": "Dumitru",
       "label": "pencil",
       "point": [
-        29,
-        282
+        0.014690451206715634,
+        0.6123853211009175
       ]
     },
     {
@@ -2160,8 +2160,8 @@ const features = {
       "user": "Dumitru",
       "label": "clock",
       "point": [
-        316,
-        255
+        0.31584470094438616,
+        0.5504587155963303
       ]
     },
     {
@@ -2170,8 +2170,8 @@ const features = {
       "user": "Dd",
       "label": "car",
       "point": [
-        268,
-        231
+        0.2654774396642183,
+        0.4954128440366973
       ]
     },
     {
@@ -2180,8 +2180,8 @@ const features = {
       "user": "Dd",
       "label": "fish",
       "point": [
-        276,
-        137
+        0.2738719832109129,
+        0.2798165137614679
       ]
     },
     {
@@ -2190,8 +2190,8 @@ const features = {
       "user": "Dd",
       "label": "house",
       "point": [
-        399,
-        405
+        0.40293809024134314,
+        0.8944954128440367
       ]
     },
     {
@@ -2200,8 +2200,8 @@ const features = {
       "user": "Dd",
       "label": "tree",
       "point": [
-        242,
-        350
+        0.23819517313746066,
+        0.768348623853211
       ]
     },
     {
@@ -2210,8 +2210,8 @@ const features = {
       "user": "Dd",
       "label": "bicycle",
       "point": [
-        208,
-        130
+        0.2025183630640084,
+        0.26376146788990823
       ]
     },
     {
@@ -2220,8 +2220,8 @@ const features = {
       "user": "Dd",
       "label": "guitar",
       "point": [
-        245,
-        289
+        0.24134312696747115,
+        0.6284403669724771
       ]
     },
     {
@@ -2230,8 +2230,8 @@ const features = {
       "user": "Dd",
       "label": "pencil",
       "point": [
-        347,
-        327
+        0.3483735571878279,
+        0.7155963302752294
       ]
     },
     {
@@ -2240,8 +2240,8 @@ const features = {
       "user": "Dd",
       "label": "clock",
       "point": [
-        328,
-        292
+        0.3284365162644281,
+        0.6353211009174312
       ]
     },
     {
@@ -2250,8 +2250,8 @@ const features = {
       "user": "Rahul",
       "label": "car",
       "point": [
-        290,
-        158
+        0.2885624344176285,
+        0.32798165137614677
       ]
     },
     {
@@ -2260,8 +2260,8 @@ const features = {
       "user": "Rahul",
       "label": "fish",
       "point": [
-        307,
-        192
+        0.30640083945435465,
+        0.4059633027522936
       ]
     },
     {
@@ -2270,8 +2270,8 @@ const features = {
       "user": "Rahul",
       "label": "house",
       "point": [
-        197,
-        193
+        0.19097586568730326,
+        0.40825688073394495
       ]
     },
     {
@@ -2280,8 +2280,8 @@ const features = {
       "user": "Rahul",
       "label": "tree",
       "point": [
-        260,
-        229
+        0.2570828961175236,
+        0.4908256880733945
       ]
     },
     {
@@ -2290,8 +2290,8 @@ const features = {
       "user": "Rahul",
       "label": "bicycle",
       "point": [
-        276,
-        166
+        0.2738719832109129,
+        0.3463302752293578
       ]
     },
     {
@@ -2300,8 +2300,8 @@ const features = {
       "user": "Rahul",
       "label": "guitar",
       "point": [
-        208,
-        281
+        0.2025183630640084,
+        0.6100917431192661
       ]
     },
     {
@@ -2310,8 +2310,8 @@ const features = {
       "user": "Rahul",
       "label": "pencil",
       "point": [
-        167,
-        225
+        0.15949632738719832,
+        0.481651376146789
       ]
     },
     {
@@ -2320,8 +2320,8 @@ const features = {
       "user": "Rahul",
       "label": "clock",
       "point": [
-        218,
-        237
+        0.2130115424973767,
+        0.5091743119266054
       ]
     },
     {
@@ -2330,8 +2330,8 @@ const features = {
       "user": "tetsusoiwashiro",
       "label": "car",
       "point": [
-        282,
-        125
+        0.2801678908709339,
+        0.25229357798165136
       ]
     },
     {
@@ -2340,8 +2340,8 @@ const features = {
       "user": "tetsusoiwashiro",
       "label": "fish",
       "point": [
-        240,
-        98
+        0.236096537250787,
+        0.19036697247706422
       ]
     },
     {
@@ -2350,8 +2350,8 @@ const features = {
       "user": "tetsusoiwashiro",
       "label": "house",
       "point": [
-        169,
-        203
+        0.161594963273872,
+        0.43119266055045874
       ]
     },
     {
@@ -2360,8 +2360,8 @@ const features = {
       "user": "tetsusoiwashiro",
       "label": "tree",
       "point": [
-        242,
-        347
+        0.23819517313746066,
+        0.7614678899082569
       ]
     },
     {
@@ -2370,8 +2370,8 @@ const features = {
       "user": "tetsusoiwashiro",
       "label": "bicycle",
       "point": [
-        320,
-        151
+        0.3200419727177335,
+        0.3119266055045872
       ]
     },
     {
@@ -2380,8 +2380,8 @@ const features = {
       "user": "tetsusoiwashiro",
       "label": "guitar",
       "point": [
-        205,
-        189
+        0.1993704092339979,
+        0.39908256880733944
       ]
     },
     {
@@ -2390,8 +2390,8 @@ const features = {
       "user": "tetsusoiwashiro",
       "label": "pencil",
       "point": [
-        99,
-        102
+        0.08814270724029381,
+        0.19954128440366972
       ]
     },
     {
@@ -2400,8 +2400,8 @@ const features = {
       "user": "tetsusoiwashiro",
       "label": "clock",
       "point": [
-        208,
-        204
+        0.2025183630640084,
+        0.4334862385321101
       ]
     },
     {
@@ -2410,8 +2410,8 @@ const features = {
       "user": "STEVE ALAIN",
       "label": "car",
       "point": [
-        326,
-        191
+        0.32633788037775446,
+        0.4036697247706422
       ]
     },
     {
@@ -2420,8 +2420,8 @@ const features = {
       "user": "STEVE ALAIN",
       "label": "fish",
       "point": [
-        183,
-        101
+        0.17628541448058763,
+        0.19724770642201836
       ]
     },
     {
@@ -2430,8 +2430,8 @@ const features = {
       "user": "STEVE ALAIN",
       "label": "house",
       "point": [
-        278,
-        317
+        0.2759706190975866,
+        0.6926605504587156
       ]
     },
     {
@@ -2440,8 +2440,8 @@ const features = {
       "user": "STEVE ALAIN",
       "label": "tree",
       "point": [
-        223,
-        249
+        0.21825813221406087,
+        0.536697247706422
       ]
     },
     {
@@ -2450,8 +2450,8 @@ const features = {
       "user": "STEVE ALAIN",
       "label": "bicycle",
       "point": [
-        255,
-        240
+        0.2518363064008394,
+        0.5160550458715596
       ]
     },
     {
@@ -2460,8 +2460,8 @@ const features = {
       "user": "STEVE ALAIN",
       "label": "guitar",
       "point": [
-        326,
-        121
+        0.32633788037775446,
+        0.24311926605504589
       ]
     },
     {
@@ -2470,8 +2470,8 @@ const features = {
       "user": "STEVE ALAIN",
       "label": "pencil",
       "point": [
-        28,
-        237
+        0.013641133263378805,
+        0.5091743119266054
       ]
     },
     {
@@ -2480,8 +2480,8 @@ const features = {
       "user": "STEVE ALAIN",
       "label": "clock",
       "point": [
-        194,
-        214
+        0.18782791185729275,
+        0.45642201834862384
       ]
     },
     {
@@ -2490,8 +2490,8 @@ const features = {
       "user": "Mechatronod",
       "label": "car",
       "point": [
-        256,
-        114
+        0.2528856243441763,
+        0.22706422018348624
       ]
     },
     {
@@ -2500,8 +2500,8 @@ const features = {
       "user": "Mechatronod",
       "label": "fish",
       "point": [
-        210,
-        96
+        0.20461699895068206,
+        0.18577981651376146
       ]
     },
     {
@@ -2510,8 +2510,8 @@ const features = {
       "user": "Mechatronod",
       "label": "house",
       "point": [
-        215,
-        297
+        0.2098635886673662,
+        0.6467889908256881
       ]
     },
     {
@@ -2520,8 +2520,8 @@ const features = {
       "user": "Mechatronod",
       "label": "tree",
       "point": [
-        237,
-        326
+        0.23294858342077648,
+        0.713302752293578
       ]
     },
     {
@@ -2530,8 +2530,8 @@ const features = {
       "user": "Mechatronod",
       "label": "bicycle",
       "point": [
-        204,
-        143
+        0.19832109129066108,
+        0.29357798165137616
       ]
     },
     {
@@ -2540,8 +2540,8 @@ const features = {
       "user": "Mechatronod",
       "label": "guitar",
       "point": [
-        305,
-        129
+        0.304302203567681,
+        0.26146788990825687
       ]
     },
     {
@@ -2550,8 +2550,8 @@ const features = {
       "user": "Mechatronod",
       "label": "pencil",
       "point": [
-        81,
-        249
+        0.06925498426023086,
+        0.536697247706422
       ]
     },
     {
@@ -2560,8 +2560,8 @@ const features = {
       "user": "Mechatronod",
       "label": "clock",
       "point": [
-        168,
-        166
+        0.16054564533053514,
+        0.3463302752293578
       ]
     },
     {
@@ -2570,8 +2570,8 @@ const features = {
       "user": "Allan70",
       "label": "car",
       "point": [
-        245,
-        175
+        0.24134312696747115,
+        0.3669724770642202
       ]
     },
     {
@@ -2580,8 +2580,8 @@ const features = {
       "user": "Allan70",
       "label": "fish",
       "point": [
-        247,
-        185
+        0.24344176285414482,
+        0.38990825688073394
       ]
     },
     {
@@ -2590,8 +2590,8 @@ const features = {
       "user": "Allan70",
       "label": "house",
       "point": [
-        226,
-        182
+        0.22140608604407136,
+        0.3830275229357798
       ]
     },
     {
@@ -2600,8 +2600,8 @@ const features = {
       "user": "Allan70",
       "label": "tree",
       "point": [
-        234,
-        238
+        0.229800629590766,
+        0.5114678899082569
       ]
     },
     {
@@ -2610,8 +2610,8 @@ const features = {
       "user": "Allan70",
       "label": "bicycle",
       "point": [
-        305,
-        204
+        0.304302203567681,
+        0.4334862385321101
       ]
     },
     {
@@ -2620,8 +2620,8 @@ const features = {
       "user": "Allan70",
       "label": "guitar",
       "point": [
-        127,
-        334
+        0.11752360965372508,
+        0.731651376146789
       ]
     },
     {
@@ -2630,8 +2630,8 @@ const features = {
       "user": "Allan70",
       "label": "pencil",
       "point": [
-        225,
-        307
+        0.2203567681007345,
+        0.6697247706422018
       ]
     },
     {
@@ -2640,8 +2640,8 @@ const features = {
       "user": "Allan70",
       "label": "clock",
       "point": [
-        263,
-        308
+        0.2602308499475341,
+        0.6720183486238532
       ]
     },
     {
@@ -2650,8 +2650,8 @@ const features = {
       "user": "Pipo",
       "label": "car",
       "point": [
-        241,
-        110
+        0.23714585519412382,
+        0.21788990825688073
       ]
     },
     {
@@ -2660,8 +2660,8 @@ const features = {
       "user": "Pipo",
       "label": "fish",
       "point": [
-        162,
-        114
+        0.15424973767051417,
+        0.22706422018348624
       ]
     },
     {
@@ -2670,8 +2670,8 @@ const features = {
       "user": "Pipo",
       "label": "house",
       "point": [
-        254,
-        278
+        0.25078698845750264,
+        0.6032110091743119
       ]
     },
     {
@@ -2680,8 +2680,8 @@ const features = {
       "user": "Pipo",
       "label": "tree",
       "point": [
-        314,
-        328
+        0.31374606505771246,
+        0.7178899082568807
       ]
     },
     {
@@ -2690,8 +2690,8 @@ const features = {
       "user": "Pipo",
       "label": "bicycle",
       "point": [
-        216,
-        171
+        0.21091290661070305,
+        0.3577981651376147
       ]
     },
     {
@@ -2700,8 +2700,8 @@ const features = {
       "user": "Pipo",
       "label": "guitar",
       "point": [
-        178,
-        342
+        0.17103882476390347,
+        0.75
       ]
     },
     {
@@ -2710,8 +2710,8 @@ const features = {
       "user": "Pipo",
       "label": "pencil",
       "point": [
-        49,
-        265
+        0.035676810073452254,
+        0.573394495412844
       ]
     },
     {
@@ -2720,8 +2720,8 @@ const features = {
       "user": "Pipo",
       "label": "clock",
       "point": [
-        215,
-        237
+        0.2098635886673662,
+        0.5091743119266054
       ]
     },
     {
@@ -2730,8 +2730,8 @@ const features = {
       "user": "D Connect Zone",
       "label": "car",
       "point": [
-        370,
-        131
+        0.372507869884575,
+        0.26605504587155965
       ]
     },
     {
@@ -2740,8 +2740,8 @@ const features = {
       "user": "D Connect Zone",
       "label": "fish",
       "point": [
-        339,
-        189
+        0.33997901364113325,
+        0.39908256880733944
       ]
     },
     {
@@ -2750,8 +2750,8 @@ const features = {
       "user": "D Connect Zone",
       "label": "house",
       "point": [
-        374,
-        271
+        0.37670514165792235,
+        0.5871559633027523
       ]
     },
     {
@@ -2760,8 +2760,8 @@ const features = {
       "user": "D Connect Zone",
       "label": "tree",
       "point": [
-        320,
-        369
+        0.3200419727177335,
+        0.8119266055045872
       ]
     },
     {
@@ -2770,8 +2770,8 @@ const features = {
       "user": "D Connect Zone",
       "label": "bicycle",
       "point": [
-        288,
-        203
+        0.2864637985309549,
+        0.43119266055045874
       ]
     },
     {
@@ -2780,8 +2780,8 @@ const features = {
       "user": "D Connect Zone",
       "label": "guitar",
       "point": [
-        374,
-        286
+        0.37670514165792235,
+        0.6215596330275229
       ]
     },
     {
@@ -2790,8 +2790,8 @@ const features = {
       "user": "D Connect Zone",
       "label": "pencil",
       "point": [
-        234,
-        227
+        0.229800629590766,
+        0.48623853211009177
       ]
     },
     {
@@ -2800,8 +2800,8 @@ const features = {
       "user": "D Connect Zone",
       "label": "clock",
       "point": [
-        207,
-        201
+        0.20146904512067157,
+        0.42660550458715596
       ]
     },
     {
@@ -2810,8 +2810,8 @@ const features = {
       "user": "Natesol",
       "label": "car",
       "point": [
-        305,
-        170
+        0.304302203567681,
+        0.3555045871559633
       ]
     },
     {
@@ -2820,8 +2820,8 @@ const features = {
       "user": "Natesol",
       "label": "fish",
       "point": [
-        257,
-        146
+        0.2539349422875131,
+        0.30045871559633025
       ]
     },
     {
@@ -2830,8 +2830,8 @@ const features = {
       "user": "Natesol",
       "label": "house",
       "point": [
-        205,
-        220
+        0.1993704092339979,
+        0.4701834862385321
       ]
     },
     {
@@ -2840,8 +2840,8 @@ const features = {
       "user": "Natesol",
       "label": "tree",
       "point": [
-        283,
-        288
+        0.2812172088142707,
+        0.6261467889908257
       ]
     },
     {
@@ -2850,8 +2850,8 @@ const features = {
       "user": "Natesol",
       "label": "bicycle",
       "point": [
-        273,
-        142
+        0.2707240293809024,
+        0.29128440366972475
       ]
     },
     {
@@ -2860,8 +2860,8 @@ const features = {
       "user": "Natesol",
       "label": "guitar",
       "point": [
-        264,
-        266
+        0.26128016789087094,
+        0.5756880733944955
       ]
     },
     {
@@ -2870,8 +2870,8 @@ const features = {
       "user": "Natesol",
       "label": "pencil",
       "point": [
-        298,
-        314
+        0.2969569779643232,
+        0.6857798165137615
       ]
     },
     {
@@ -2880,8 +2880,8 @@ const features = {
       "user": "Natesol",
       "label": "clock",
       "point": [
-        201,
-        195
+        0.19517313746065057,
+        0.41284403669724773
       ]
     },
     {
@@ -2890,8 +2890,8 @@ const features = {
       "user": "Archi",
       "label": "car",
       "point": [
-        310,
-        191
+        0.3095487932843652,
+        0.4036697247706422
       ]
     },
     {
@@ -2900,8 +2900,8 @@ const features = {
       "user": "Archi",
       "label": "fish",
       "point": [
-        331,
-        253
+        0.3315844700944386,
+        0.5458715596330275
       ]
     },
     {
@@ -2910,8 +2910,8 @@ const features = {
       "user": "Archi",
       "label": "house",
       "point": [
-        294,
-        237
+        0.29275970619097585,
+        0.5091743119266054
       ]
     },
     {
@@ -2920,8 +2920,8 @@ const features = {
       "user": "Archi",
       "label": "tree",
       "point": [
-        373,
-        346
+        0.3756558237145855,
+        0.7591743119266054
       ]
     },
     {
@@ -2930,8 +2930,8 @@ const features = {
       "user": "Archi",
       "label": "bicycle",
       "point": [
-        261,
-        241
+        0.25813221406086045,
+        0.518348623853211
       ]
     },
     {
@@ -2940,8 +2940,8 @@ const features = {
       "user": "Archi",
       "label": "guitar",
       "point": [
-        294,
-        332
+        0.29275970619097585,
+        0.7270642201834863
       ]
     },
     {
@@ -2950,8 +2950,8 @@ const features = {
       "user": "Archi",
       "label": "pencil",
       "point": [
-        161,
-        239
+        0.15320041972717732,
+        0.5137614678899083
       ]
     },
     {
@@ -2960,8 +2960,8 @@ const features = {
       "user": "Archi",
       "label": "clock",
       "point": [
-        236,
-        296
+        0.23189926547743966,
+        0.6444954128440367
       ]
     },
     {
@@ -2970,8 +2970,8 @@ const features = {
       "user": "Erendir",
       "label": "car",
       "point": [
-        250,
-        148
+        0.2465897166841553,
+        0.30504587155963303
       ]
     },
     {
@@ -2980,8 +2980,8 @@ const features = {
       "user": "Erendir",
       "label": "fish",
       "point": [
-        306,
-        132
+        0.30535152151101785,
+        0.268348623853211
       ]
     },
     {
@@ -2990,8 +2990,8 @@ const features = {
       "user": "Erendir",
       "label": "house",
       "point": [
-        288,
-        330
+        0.2864637985309549,
+        0.7224770642201835
       ]
     },
     {
@@ -3000,8 +3000,8 @@ const features = {
       "user": "Erendir",
       "label": "tree",
       "point": [
-        258,
-        285
+        0.25498426023084997,
+        0.6192660550458715
       ]
     },
     {
@@ -3010,8 +3010,8 @@ const features = {
       "user": "Erendir",
       "label": "bicycle",
       "point": [
-        281,
-        176
+        0.27911857292759706,
+        0.36926605504587157
       ]
     },
     {
@@ -3020,8 +3020,8 @@ const features = {
       "user": "Erendir",
       "label": "guitar",
       "point": [
-        334,
-        289
+        0.33473242392444913,
+        0.6284403669724771
       ]
     },
     {
@@ -3030,8 +3030,8 @@ const features = {
       "user": "Erendir",
       "label": "pencil",
       "point": [
-        147,
-        107
+        0.1385099685204617,
+        0.21100917431192662
       ]
     },
     {
@@ -3040,8 +3040,8 @@ const features = {
       "user": "Erendir",
       "label": "clock",
       "point": [
-        226,
-        208
+        0.22140608604407136,
+        0.4426605504587156
       ]
     },
     {
@@ -3050,8 +3050,8 @@ const features = {
       "user": "Anukrishnan",
       "label": "car",
       "point": [
-        399,
-        372
+        0.40293809024134314,
+        0.8188073394495413
       ]
     },
     {
@@ -3060,8 +3060,8 @@ const features = {
       "user": "Anukrishnan",
       "label": "fish",
       "point": [
-        300,
-        206
+        0.2990556138509968,
+        0.4380733944954128
       ]
     },
     {
@@ -3070,8 +3070,8 @@ const features = {
       "user": "Anukrishnan",
       "label": "house",
       "point": [
-        114,
-        226
+        0.10388247639034627,
+        0.48394495412844035
       ]
     },
     {
@@ -3080,8 +3080,8 @@ const features = {
       "user": "Anukrishnan",
       "label": "tree",
       "point": [
-        181,
-        269
+        0.17418677859391396,
+        0.5825688073394495
       ]
     },
     {
@@ -3090,8 +3090,8 @@ const features = {
       "user": "Anukrishnan",
       "label": "bicycle",
       "point": [
-        189,
-        110
+        0.1825813221406086,
+        0.21788990825688073
       ]
     },
     {
@@ -3100,8 +3100,8 @@ const features = {
       "user": "Anukrishnan",
       "label": "guitar",
       "point": [
-        95,
-        315
+        0.08394543546694648,
+        0.6880733944954128
       ]
     },
     {
@@ -3110,8 +3110,8 @@ const features = {
       "user": "Anukrishnan",
       "label": "pencil",
       "point": [
-        41,
-        294
+        0.02728226652675761,
+        0.6399082568807339
       ]
     },
     {
@@ -3120,8 +3120,8 @@ const features = {
       "user": "Anukrishnan",
       "label": "clock",
       "point": [
-        234,
-        268
+        0.229800629590766,
+        0.5802752293577982
       ]
     },
     {
@@ -3130,8 +3130,8 @@ const features = {
       "user": "Abhi",
       "label": "car",
       "point": [
-        335,
-        194
+        0.3357817418677859,
+        0.4105504587155963
       ]
     },
     {
@@ -3140,8 +3140,8 @@ const features = {
       "user": "Abhi",
       "label": "fish",
       "point": [
-        338,
-        147
+        0.3389296956977964,
+        0.30275229357798167
       ]
     },
     {
@@ -3150,8 +3150,8 @@ const features = {
       "user": "Abhi",
       "label": "house",
       "point": [
-        251,
-        297
+        0.24763903462749212,
+        0.6467889908256881
       ]
     },
     {
@@ -3160,8 +3160,8 @@ const features = {
       "user": "Abhi",
       "label": "tree",
       "point": [
-        267,
-        328
+        0.2644281217208814,
+        0.7178899082568807
       ]
     },
     {
@@ -3170,8 +3170,8 @@ const features = {
       "user": "Abhi",
       "label": "bicycle",
       "point": [
-        273,
-        265
+        0.2707240293809024,
+        0.573394495412844
       ]
     },
     {
@@ -3180,8 +3180,8 @@ const features = {
       "user": "Abhi",
       "label": "guitar",
       "point": [
-        284,
-        269
+        0.28226652675760755,
+        0.5825688073394495
       ]
     },
     {
@@ -3190,8 +3190,8 @@ const features = {
       "user": "Abhi",
       "label": "pencil",
       "point": [
-        298,
-        220
+        0.2969569779643232,
+        0.4701834862385321
       ]
     },
     {
@@ -3200,8 +3200,8 @@ const features = {
       "user": "Abhi",
       "label": "clock",
       "point": [
-        207,
-        244
+        0.20146904512067157,
+        0.5252293577981652
       ]
     },
     {
@@ -3210,8 +3210,8 @@ const features = {
       "user": "xjdeath",
       "label": "car",
       "point": [
-        331,
-        152
+        0.3315844700944386,
+        0.31422018348623854
       ]
     },
     {
@@ -3220,8 +3220,8 @@ const features = {
       "user": "xjdeath",
       "label": "fish",
       "point": [
-        215,
-        129
+        0.2098635886673662,
+        0.26146788990825687
       ]
     },
     {
@@ -3230,8 +3230,8 @@ const features = {
       "user": "xjdeath",
       "label": "house",
       "point": [
-        242,
-        284
+        0.23819517313746066,
+        0.6169724770642202
       ]
     },
     {
@@ -3240,8 +3240,8 @@ const features = {
       "user": "xjdeath",
       "label": "tree",
       "point": [
-        225,
-        325
+        0.2203567681007345,
+        0.7110091743119266
       ]
     },
     {
@@ -3250,8 +3250,8 @@ const features = {
       "user": "xjdeath",
       "label": "bicycle",
       "point": [
-        289,
-        216
+        0.28751311647429173,
+        0.4610091743119266
       ]
     },
     {
@@ -3260,8 +3260,8 @@ const features = {
       "user": "xjdeath",
       "label": "guitar",
       "point": [
-        362,
-        304
+        0.3641133263378804,
+        0.6628440366972477
       ]
     },
     {
@@ -3270,8 +3270,8 @@ const features = {
       "user": "xjdeath",
       "label": "pencil",
       "point": [
-        71,
-        328
+        0.05876180482686254,
+        0.7178899082568807
       ]
     },
     {
@@ -3280,8 +3280,8 @@ const features = {
       "user": "xjdeath",
       "label": "clock",
       "point": [
-        254,
-        258
+        0.25078698845750264,
+        0.5573394495412844
       ]
     },
     {
@@ -3290,8 +3290,8 @@ const features = {
       "user": "Prem",
       "label": "car",
       "point": [
-        367,
-        201
+        0.36935991605456453,
+        0.42660550458715596
       ]
     },
     {
@@ -3300,8 +3300,8 @@ const features = {
       "user": "Prem",
       "label": "fish",
       "point": [
-        298,
-        153
+        0.2969569779643232,
+        0.3165137614678899
       ]
     },
     {
@@ -3310,8 +3310,8 @@ const features = {
       "user": "Prem",
       "label": "house",
       "point": [
-        172,
-        243
+        0.16474291710388247,
+        0.5229357798165137
       ]
     },
     {
@@ -3320,8 +3320,8 @@ const features = {
       "user": "Prem",
       "label": "tree",
       "point": [
-        277,
-        351
+        0.27492130115424973,
+        0.7706422018348624
       ]
     },
     {
@@ -3330,8 +3330,8 @@ const features = {
       "user": "Prem",
       "label": "bicycle",
       "point": [
-        263,
-        251
+        0.2602308499475341,
+        0.5412844036697247
       ]
     },
     {
@@ -3340,8 +3340,8 @@ const features = {
       "user": "Prem",
       "label": "guitar",
       "point": [
-        336,
-        347
+        0.33683105981112277,
+        0.7614678899082569
       ]
     },
     {
@@ -3350,8 +3350,8 @@ const features = {
       "user": "Prem",
       "label": "pencil",
       "point": [
-        189,
-        172
+        0.1825813221406086,
+        0.36009174311926606
       ]
     },
     {
@@ -3360,8 +3360,8 @@ const features = {
       "user": "Prem",
       "label": "clock",
       "point": [
-        173,
-        184
+        0.1657922350472193,
+        0.3876146788990826
       ]
     },
     {
@@ -3370,8 +3370,8 @@ const features = {
       "user": "Duke",
       "label": "car",
       "point": [
-        356,
-        219
+        0.3578174186778594,
+        0.46788990825688076
       ]
     },
     {
@@ -3380,8 +3380,8 @@ const features = {
       "user": "Duke",
       "label": "fish",
       "point": [
-        266,
-        130
+        0.2633788037775446,
+        0.26376146788990823
       ]
     },
     {
@@ -3390,8 +3390,8 @@ const features = {
       "user": "Duke",
       "label": "house",
       "point": [
-        344,
-        307
+        0.34522560335781743,
+        0.6697247706422018
       ]
     },
     {
@@ -3400,8 +3400,8 @@ const features = {
       "user": "Duke",
       "label": "tree",
       "point": [
-        116,
-        347
+        0.10598111227701994,
+        0.7614678899082569
       ]
     },
     {
@@ -3410,8 +3410,8 @@ const features = {
       "user": "Duke",
       "label": "bicycle",
       "point": [
-        359,
-        221
+        0.36096537250786986,
+        0.4724770642201835
       ]
     },
     {
@@ -3420,8 +3420,8 @@ const features = {
       "user": "Duke",
       "label": "guitar",
       "point": [
-        306,
-        147
+        0.30535152151101785,
+        0.30275229357798167
       ]
     },
     {
@@ -3430,8 +3430,8 @@ const features = {
       "user": "Duke",
       "label": "pencil",
       "point": [
-        290,
-        306
+        0.2885624344176285,
+        0.6674311926605505
       ]
     },
     {
@@ -3440,8 +3440,8 @@ const features = {
       "user": "Duke",
       "label": "clock",
       "point": [
-        319,
-        295
+        0.31899265477439664,
+        0.6422018348623854
       ]
     },
     {
@@ -3450,8 +3450,8 @@ const features = {
       "user": "Miguel Fernandes",
       "label": "car",
       "point": [
-        277,
-        161
+        0.27492130115424973,
+        0.3348623853211009
       ]
     },
     {
@@ -3460,8 +3460,8 @@ const features = {
       "user": "Miguel Fernandes",
       "label": "fish",
       "point": [
-        218,
-        73
+        0.2130115424973767,
+        0.13302752293577982
       ]
     },
     {
@@ -3470,8 +3470,8 @@ const features = {
       "user": "Miguel Fernandes",
       "label": "house",
       "point": [
-        148,
-        174
+        0.13955928646379853,
+        0.3646788990825688
       ]
     },
     {
@@ -3480,8 +3480,8 @@ const features = {
       "user": "Miguel Fernandes",
       "label": "tree",
       "point": [
-        256,
-        364
+        0.2528856243441763,
+        0.8004587155963303
       ]
     },
     {
@@ -3490,8 +3490,8 @@ const features = {
       "user": "Miguel Fernandes",
       "label": "bicycle",
       "point": [
-        206,
-        122
+        0.20041972717733472,
+        0.24541284403669725
       ]
     },
     {
@@ -3500,8 +3500,8 @@ const features = {
       "user": "Miguel Fernandes",
       "label": "guitar",
       "point": [
-        270,
-        72
+        0.2675760755508919,
+        0.13073394495412843
       ]
     },
     {
@@ -3510,8 +3510,8 @@ const features = {
       "user": "Miguel Fernandes",
       "label": "pencil",
       "point": [
-        32,
-        210
+        0.017838405036726127,
+        0.44724770642201833
       ]
     },
     {
@@ -3520,8 +3520,8 @@ const features = {
       "user": "Miguel Fernandes",
       "label": "clock",
       "point": [
-        205,
-        206
+        0.1993704092339979,
+        0.4380733944954128
       ]
     },
     {
@@ -3530,8 +3530,8 @@ const features = {
       "user": "iron",
       "label": "car",
       "point": [
-        276,
-        119
+        0.2738719832109129,
+        0.23853211009174313
       ]
     },
     {
@@ -3540,8 +3540,8 @@ const features = {
       "user": "iron",
       "label": "fish",
       "point": [
-        71,
-        123
+        0.05876180482686254,
+        0.24770642201834864
       ]
     },
     {
@@ -3550,8 +3550,8 @@ const features = {
       "user": "iron",
       "label": "house",
       "point": [
-        286,
-        234
+        0.28436516264428124,
+        0.5022935779816514
       ]
     },
     {
@@ -3560,8 +3560,8 @@ const features = {
       "user": "iron",
       "label": "tree",
       "point": [
-        353,
-        334
+        0.3546694648478489,
+        0.731651376146789
       ]
     },
     {
@@ -3570,8 +3570,8 @@ const features = {
       "user": "iron",
       "label": "bicycle",
       "point": [
-        276,
-        184
+        0.2738719832109129,
+        0.3876146788990826
       ]
     },
     {
@@ -3580,8 +3580,8 @@ const features = {
       "user": "iron",
       "label": "guitar",
       "point": [
-        98,
-        307
+        0.08709338929695698,
+        0.6697247706422018
       ]
     },
     {
@@ -3590,8 +3590,8 @@ const features = {
       "user": "iron",
       "label": "pencil",
       "point": [
-        241,
-        237
+        0.23714585519412382,
+        0.5091743119266054
       ]
     },
     {
@@ -3600,8 +3600,8 @@ const features = {
       "user": "iron",
       "label": "clock",
       "point": [
-        125,
-        131
+        0.11542497376705142,
+        0.26605504587155965
       ]
     },
     {
@@ -3610,8 +3610,8 @@ const features = {
       "user": "Dawood",
       "label": "car",
       "point": [
-        212,
-        149
+        0.20671563483735572,
+        0.3073394495412844
       ]
     },
     {
@@ -3620,8 +3620,8 @@ const features = {
       "user": "Dawood",
       "label": "fish",
       "point": [
-        263,
-        122
+        0.2602308499475341,
+        0.24541284403669725
       ]
     },
     {
@@ -3630,8 +3630,8 @@ const features = {
       "user": "Dawood",
       "label": "house",
       "point": [
-        249,
-        248
+        0.24554039874081846,
+        0.5344036697247706
       ]
     },
     {
@@ -3640,8 +3640,8 @@ const features = {
       "user": "Dawood",
       "label": "tree",
       "point": [
-        359,
-        340
+        0.36096537250786986,
+        0.7454128440366973
       ]
     },
     {
@@ -3650,8 +3650,8 @@ const features = {
       "user": "Dawood",
       "label": "bicycle",
       "point": [
-        245,
-        158
+        0.24134312696747115,
+        0.32798165137614677
       ]
     },
     {
@@ -3660,8 +3660,8 @@ const features = {
       "user": "Dawood",
       "label": "guitar",
       "point": [
-        328,
-        153
+        0.3284365162644281,
+        0.3165137614678899
       ]
     },
     {
@@ -3670,8 +3670,8 @@ const features = {
       "user": "Dawood",
       "label": "pencil",
       "point": [
-        82,
-        289
+        0.07030430220356768,
+        0.6284403669724771
       ]
     },
     {
@@ -3680,8 +3680,8 @@ const features = {
       "user": "Dawood",
       "label": "clock",
       "point": [
-        156,
-        180
+        0.14795383001049317,
+        0.37844036697247707
       ]
     },
     {
@@ -3690,8 +3690,8 @@ const features = {
       "user": "Tharin Ransika ",
       "label": "car",
       "point": [
-        312,
-        164
+        0.3116474291710388,
+        0.34174311926605505
       ]
     },
     {
@@ -3700,8 +3700,8 @@ const features = {
       "user": "Tharin Ransika ",
       "label": "fish",
       "point": [
-        285,
-        160
+        0.2833158447009444,
+        0.33256880733944955
       ]
     },
     {
@@ -3710,8 +3710,8 @@ const features = {
       "user": "Tharin Ransika ",
       "label": "house",
       "point": [
-        304,
-        197
+        0.30325288562434416,
+        0.41743119266055045
       ]
     },
     {
@@ -3720,8 +3720,8 @@ const features = {
       "user": "Tharin Ransika ",
       "label": "tree",
       "point": [
-        322,
-        350
+        0.32214060860440713,
+        0.768348623853211
       ]
     },
     {
@@ -3730,8 +3730,8 @@ const features = {
       "user": "Tharin Ransika ",
       "label": "bicycle",
       "point": [
-        248,
-        222
+        0.24449108079748164,
+        0.47477064220183485
       ]
     },
     {
@@ -3740,8 +3740,8 @@ const features = {
       "user": "Tharin Ransika ",
       "label": "guitar",
       "point": [
-        194,
-        339
+        0.18782791185729275,
+        0.7431192660550459
       ]
     },
     {
@@ -3750,8 +3750,8 @@ const features = {
       "user": "Tharin Ransika ",
       "label": "pencil",
       "point": [
-        148,
-        307
+        0.13955928646379853,
+        0.6697247706422018
       ]
     },
     {
@@ -3760,8 +3760,8 @@ const features = {
       "user": "Tharin Ransika ",
       "label": "clock",
       "point": [
-        159,
-        172
+        0.15110178384050368,
+        0.36009174311926606
       ]
     },
     {
@@ -3770,8 +3770,8 @@ const features = {
       "user": "Gurkirat ",
       "label": "car",
       "point": [
-        158,
-        130
+        0.15005246589716684,
+        0.26376146788990823
       ]
     },
     {
@@ -3780,8 +3780,8 @@ const features = {
       "user": "Gurkirat ",
       "label": "fish",
       "point": [
-        215,
-        84
+        0.2098635886673662,
+        0.15825688073394495
       ]
     },
     {
@@ -3790,8 +3790,8 @@ const features = {
       "user": "Gurkirat ",
       "label": "house",
       "point": [
-        129,
-        159
+        0.11962224554039874,
+        0.3302752293577982
       ]
     },
     {
@@ -3800,8 +3800,8 @@ const features = {
       "user": "Gurkirat ",
       "label": "tree",
       "point": [
-        140,
-        218
+        0.1311647429171039,
+        0.46559633027522934
       ]
     },
     {
@@ -3810,8 +3810,8 @@ const features = {
       "user": "Gurkirat ",
       "label": "bicycle",
       "point": [
-        134,
-        126
+        0.1248688352570829,
+        0.2545871559633027
       ]
     },
     {
@@ -3820,8 +3820,8 @@ const features = {
       "user": "Gurkirat ",
       "label": "guitar",
       "point": [
-        167,
-        110
+        0.15949632738719832,
+        0.21788990825688073
       ]
     },
     {
@@ -3830,8 +3830,8 @@ const features = {
       "user": "Gurkirat ",
       "label": "pencil",
       "point": [
-        214,
-        151
+        0.2088142707240294,
+        0.3119266055045872
       ]
     },
     {
@@ -3840,8 +3840,8 @@ const features = {
       "user": "Gurkirat ",
       "label": "clock",
       "point": [
-        179,
-        143
+        0.1720881427072403,
+        0.29357798165137616
       ]
     },
     {
@@ -3850,8 +3850,8 @@ const features = {
       "user": "lippo",
       "label": "car",
       "point": [
-        302,
-        167
+        0.3011542497376705,
+        0.3486238532110092
       ]
     },
     {
@@ -3860,8 +3860,8 @@ const features = {
       "user": "lippo",
       "label": "fish",
       "point": [
-        228,
-        206
+        0.22350472193074503,
+        0.4380733944954128
       ]
     },
     {
@@ -3870,8 +3870,8 @@ const features = {
       "user": "lippo",
       "label": "house",
       "point": [
-        266,
-        268
+        0.2633788037775446,
+        0.5802752293577982
       ]
     },
     {
@@ -3880,8 +3880,8 @@ const features = {
       "user": "lippo",
       "label": "tree",
       "point": [
-        298,
-        322
+        0.2969569779643232,
+        0.7041284403669725
       ]
     },
     {
@@ -3890,8 +3890,8 @@ const features = {
       "user": "lippo",
       "label": "bicycle",
       "point": [
-        209,
-        177
+        0.20356768100734524,
+        0.37155963302752293
       ]
     },
     {
@@ -3900,8 +3900,8 @@ const features = {
       "user": "lippo",
       "label": "guitar",
       "point": [
-        329,
-        145
+        0.32948583420776495,
+        0.2981651376146789
       ]
     },
     {
@@ -3910,8 +3910,8 @@ const features = {
       "user": "lippo",
       "label": "pencil",
       "point": [
-        250,
-        265
+        0.2465897166841553,
+        0.573394495412844
       ]
     },
     {
@@ -3920,8 +3920,8 @@ const features = {
       "user": "lippo",
       "label": "clock",
       "point": [
-        205,
-        210
+        0.1993704092339979,
+        0.44724770642201833
       ]
     },
     {
@@ -3930,8 +3930,8 @@ const features = {
       "user": "Andreas",
       "label": "car",
       "point": [
-        322,
-        136
+        0.32214060860440713,
+        0.2775229357798165
       ]
     },
     {
@@ -3940,8 +3940,8 @@ const features = {
       "user": "Andreas",
       "label": "fish",
       "point": [
-        226,
-        117
+        0.22140608604407136,
+        0.23394495412844038
       ]
     },
     {
@@ -3950,8 +3950,8 @@ const features = {
       "user": "Andreas",
       "label": "house",
       "point": [
-        254,
-        175
+        0.25078698845750264,
+        0.3669724770642202
       ]
     },
     {
@@ -3960,8 +3960,8 @@ const features = {
       "user": "Andreas",
       "label": "tree",
       "point": [
-        213,
-        243
+        0.20776495278069254,
+        0.5229357798165137
       ]
     },
     {
@@ -3970,8 +3970,8 @@ const features = {
       "user": "Andreas",
       "label": "bicycle",
       "point": [
-        236,
-        185
+        0.23189926547743966,
+        0.38990825688073394
       ]
     },
     {
@@ -3980,8 +3980,8 @@ const features = {
       "user": "Andreas",
       "label": "guitar",
       "point": [
-        244,
-        122
+        0.2402938090241343,
+        0.24541284403669725
       ]
     },
     {
@@ -3990,8 +3990,8 @@ const features = {
       "user": "Andreas",
       "label": "pencil",
       "point": [
-        177,
-        190
+        0.16998950682056663,
+        0.4013761467889908
       ]
     },
     {
@@ -4000,8 +4000,8 @@ const features = {
       "user": "Andreas",
       "label": "clock",
       "point": [
-        164,
-        182
+        0.15634837355718784,
+        0.3830275229357798
       ]
     },
     {
@@ -4010,8 +4010,8 @@ const features = {
       "user": "Akash",
       "label": "car",
       "point": [
-        339,
-        219
+        0.33997901364113325,
+        0.46788990825688076
       ]
     },
     {
@@ -4020,8 +4020,8 @@ const features = {
       "user": "Akash",
       "label": "fish",
       "point": [
-        275,
-        159
+        0.2728226652675761,
+        0.3302752293577982
       ]
     },
     {
@@ -4030,8 +4030,8 @@ const features = {
       "user": "Akash",
       "label": "house",
       "point": [
-        299,
-        255
+        0.29800629590766003,
+        0.5504587155963303
       ]
     },
     {
@@ -4040,8 +4040,8 @@ const features = {
       "user": "Akash",
       "label": "tree",
       "point": [
-        215,
-        241
+        0.2098635886673662,
+        0.518348623853211
       ]
     },
     {
@@ -4050,8 +4050,8 @@ const features = {
       "user": "Akash",
       "label": "bicycle",
       "point": [
-        314,
-        167
+        0.31374606505771246,
+        0.3486238532110092
       ]
     },
     {
@@ -4060,8 +4060,8 @@ const features = {
       "user": "Akash",
       "label": "guitar",
       "point": [
-        240,
-        280
+        0.236096537250787,
+        0.6077981651376146
       ]
     },
     {
@@ -4070,8 +4070,8 @@ const features = {
       "user": "Akash",
       "label": "pencil",
       "point": [
-        324,
-        265
+        0.3242392444910808,
+        0.573394495412844
       ]
     },
     {
@@ -4080,8 +4080,8 @@ const features = {
       "user": "Akash",
       "label": "clock",
       "point": [
-        212,
-        172
+        0.20671563483735572,
+        0.36009174311926606
       ]
     },
     {
@@ -4090,8 +4090,8 @@ const features = {
       "user": "prince",
       "label": "car",
       "point": [
-        232,
-        150
+        0.22770199370409233,
+        0.30963302752293576
       ]
     },
     {
@@ -4100,8 +4100,8 @@ const features = {
       "user": "prince",
       "label": "fish",
       "point": [
-        233,
-        154
+        0.22875131164742918,
+        0.31880733944954126
       ]
     },
     {
@@ -4110,8 +4110,8 @@ const features = {
       "user": "prince",
       "label": "house",
       "point": [
-        287,
-        239
+        0.28541448058761804,
+        0.5137614678899083
       ]
     },
     {
@@ -4120,8 +4120,8 @@ const features = {
       "user": "prince",
       "label": "tree",
       "point": [
-        180,
-        169
+        0.1731374606505771,
+        0.3532110091743119
       ]
     },
     {
@@ -4130,8 +4130,8 @@ const features = {
       "user": "prince",
       "label": "bicycle",
       "point": [
-        227,
-        177
+        0.22245540398740818,
+        0.37155963302752293
       ]
     },
     {
@@ -4140,8 +4140,8 @@ const features = {
       "user": "prince",
       "label": "guitar",
       "point": [
-        171,
-        184
+        0.16369359916054566,
+        0.3876146788990826
       ]
     },
     {
@@ -4150,8 +4150,8 @@ const features = {
       "user": "prince",
       "label": "pencil",
       "point": [
-        65,
-        161
+        0.05246589716684155,
+        0.3348623853211009
       ]
     },
     {
@@ -4160,8 +4160,8 @@ const features = {
       "user": "prince",
       "label": "clock",
       "point": [
-        133,
-        128
+        0.12381951731374606,
+        0.2591743119266055
       ]
     },
     {
@@ -4170,8 +4170,8 @@ const features = {
       "user": "Vijay",
       "label": "car",
       "point": [
-        375,
-        180
+        0.3777544596012592,
+        0.37844036697247707
       ]
     },
     {
@@ -4180,8 +4180,8 @@ const features = {
       "user": "Vijay",
       "label": "fish",
       "point": [
-        271,
-        124
+        0.26862539349422876,
+        0.25
       ]
     },
     {
@@ -4190,8 +4190,8 @@ const features = {
       "user": "Vijay",
       "label": "house",
       "point": [
-        311,
-        211
+        0.310598111227702,
+        0.44954128440366975
       ]
     },
     {
@@ -4200,8 +4200,8 @@ const features = {
       "user": "Vijay",
       "label": "tree",
       "point": [
-        320,
-        384
+        0.3200419727177335,
+        0.8463302752293578
       ]
     },
     {
@@ -4210,8 +4210,8 @@ const features = {
       "user": "Vijay",
       "label": "bicycle",
       "point": [
-        195,
-        157
+        0.1888772298006296,
+        0.3256880733944954
       ]
     },
     {
@@ -4220,8 +4220,8 @@ const features = {
       "user": "Vijay",
       "label": "guitar",
       "point": [
-        149,
-        287
+        0.14060860440713535,
+        0.6238532110091743
       ]
     },
     {
@@ -4230,8 +4230,8 @@ const features = {
       "user": "Vijay",
       "label": "pencil",
       "point": [
-        57,
-        246
+        0.04407135362014691,
+        0.5298165137614679
       ]
     },
     {
@@ -4240,8 +4240,8 @@ const features = {
       "user": "Vijay",
       "label": "clock",
       "point": [
-        201,
-        146
+        0.19517313746065057,
+        0.30045871559633025
       ]
     },
     {
@@ -4250,8 +4250,8 @@ const features = {
       "user": "angelo_birrozza",
       "label": "car",
       "point": [
-        365,
-        170
+        0.3672612801678909,
+        0.3555045871559633
       ]
     },
     {
@@ -4260,8 +4260,8 @@ const features = {
       "user": "angelo_birrozza",
       "label": "fish",
       "point": [
-        337,
-        89
+        0.3378803777544596,
+        0.16972477064220184
       ]
     },
     {
@@ -4270,8 +4270,8 @@ const features = {
       "user": "angelo_birrozza",
       "label": "house",
       "point": [
-        342,
-        279
+        0.34312696747114374,
+        0.6055045871559633
       ]
     },
     {
@@ -4280,8 +4280,8 @@ const features = {
       "user": "angelo_birrozza",
       "label": "tree",
       "point": [
-        274,
-        319
+        0.27177334732423925,
+        0.6972477064220184
       ]
     },
     {
@@ -4290,8 +4290,8 @@ const features = {
       "user": "angelo_birrozza",
       "label": "bicycle",
       "point": [
-        286,
-        180
+        0.28436516264428124,
+        0.37844036697247707
       ]
     },
     {
@@ -4300,8 +4300,8 @@ const features = {
       "user": "angelo_birrozza",
       "label": "guitar",
       "point": [
-        154,
-        298
+        0.1458551941238195,
+        0.6490825688073395
       ]
     },
     {
@@ -4310,8 +4310,8 @@ const features = {
       "user": "angelo_birrozza",
       "label": "pencil",
       "point": [
-        223,
-        263
+        0.21825813221406087,
+        0.5688073394495413
       ]
     },
     {
@@ -4320,8 +4320,8 @@ const features = {
       "user": "angelo_birrozza",
       "label": "clock",
       "point": [
-        196,
-        165
+        0.18992654774396642,
+        0.3440366972477064
       ]
     },
     {
@@ -4330,8 +4330,8 @@ const features = {
       "user": "carnage",
       "label": "car",
       "point": [
-        180,
-        70
+        0.1731374606505771,
+        0.12614678899082568
       ]
     },
     {
@@ -4340,8 +4340,8 @@ const features = {
       "user": "carnage",
       "label": "fish",
       "point": [
-        316,
-        265
+        0.31584470094438616,
+        0.573394495412844
       ]
     },
     {
@@ -4350,8 +4350,8 @@ const features = {
       "user": "carnage",
       "label": "house",
       "point": [
-        372,
-        330
+        0.3746065057712487,
+        0.7224770642201835
       ]
     },
     {
@@ -4360,8 +4360,8 @@ const features = {
       "user": "carnage",
       "label": "tree",
       "point": [
-        330,
-        351
+        0.3305351521511018,
+        0.7706422018348624
       ]
     },
     {
@@ -4370,8 +4370,8 @@ const features = {
       "user": "carnage",
       "label": "bicycle",
       "point": [
-        284,
-        270
+        0.28226652675760755,
+        0.5848623853211009
       ]
     },
     {
@@ -4380,8 +4380,8 @@ const features = {
       "user": "carnage",
       "label": "guitar",
       "point": [
-        300,
-        346
+        0.2990556138509968,
+        0.7591743119266054
       ]
     },
     {
@@ -4390,8 +4390,8 @@ const features = {
       "user": "carnage",
       "label": "pencil",
       "point": [
-        387,
-        382
+        0.39034627492130114,
+        0.841743119266055
       ]
     },
     {
@@ -4400,8 +4400,8 @@ const features = {
       "user": "carnage",
       "label": "clock",
       "point": [
-        329,
-        368
+        0.32948583420776495,
+        0.8096330275229358
       ]
     },
     {
@@ -4410,8 +4410,8 @@ const features = {
       "user": "Souhardya Dutta",
       "label": "car",
       "point": [
-        290,
-        143
+        0.2885624344176285,
+        0.29357798165137616
       ]
     },
     {
@@ -4420,8 +4420,8 @@ const features = {
       "user": "Souhardya Dutta",
       "label": "fish",
       "point": [
-        194,
-        161
+        0.18782791185729275,
+        0.3348623853211009
       ]
     },
     {
@@ -4430,8 +4430,8 @@ const features = {
       "user": "Souhardya Dutta",
       "label": "house",
       "point": [
-        299,
-        143
+        0.29800629590766003,
+        0.29357798165137616
       ]
     },
     {
@@ -4440,8 +4440,8 @@ const features = {
       "user": "Souhardya Dutta",
       "label": "tree",
       "point": [
-        302,
-        291
+        0.3011542497376705,
+        0.6330275229357798
       ]
     },
     {
@@ -4450,8 +4450,8 @@ const features = {
       "user": "Souhardya Dutta",
       "label": "bicycle",
       "point": [
-        329,
-        188
+        0.32948583420776495,
+        0.3967889908256881
       ]
     },
     {
@@ -4460,8 +4460,8 @@ const features = {
       "user": "Souhardya Dutta",
       "label": "guitar",
       "point": [
-        271,
-        157
+        0.26862539349422876,
+        0.3256880733944954
       ]
     },
     {
@@ -4470,8 +4470,8 @@ const features = {
       "user": "Souhardya Dutta",
       "label": "pencil",
       "point": [
-        143,
-        215
+        0.13431269674711438,
+        0.45871559633027525
       ]
     },
     {
@@ -4480,8 +4480,8 @@ const features = {
       "user": "Souhardya Dutta",
       "label": "clock",
       "point": [
-        121,
-        142
+        0.11122770199370409,
+        0.29128440366972475
       ]
     },
     {
@@ -4490,8 +4490,8 @@ const features = {
       "user": "Ansh",
       "label": "car",
       "point": [
-        296,
-        141
+        0.29485834207764955,
+        0.2889908256880734
       ]
     },
     {
@@ -4500,8 +4500,8 @@ const features = {
       "user": "Ansh",
       "label": "fish",
       "point": [
-        307,
-        127
+        0.30640083945435465,
+        0.25688073394495414
       ]
     },
     {
@@ -4510,8 +4510,8 @@ const features = {
       "user": "Ansh",
       "label": "house",
       "point": [
-        314,
-        242
+        0.31374606505771246,
+        0.5206422018348624
       ]
     },
     {
@@ -4520,8 +4520,8 @@ const features = {
       "user": "Ansh",
       "label": "tree",
       "point": [
-        293,
-        300
+        0.291710388247639,
+        0.6536697247706422
       ]
     },
     {
@@ -4530,8 +4530,8 @@ const features = {
       "user": "Ansh",
       "label": "bicycle",
       "point": [
-        252,
-        149
+        0.24868835257082897,
+        0.3073394495412844
       ]
     },
     {
@@ -4540,8 +4540,8 @@ const features = {
       "user": "Ansh",
       "label": "guitar",
       "point": [
-        113,
-        292
+        0.10283315844700944,
+        0.6353211009174312
       ]
     },
     {
@@ -4550,8 +4550,8 @@ const features = {
       "user": "Ansh",
       "label": "pencil",
       "point": [
-        118,
-        252
+        0.1080797481636936,
+        0.5435779816513762
       ]
     },
     {
@@ -4560,8 +4560,8 @@ const features = {
       "user": "Ansh",
       "label": "clock",
       "point": [
-        216,
-        245
+        0.21091290661070305,
+        0.5275229357798165
       ]
     },
     {
@@ -4570,8 +4570,8 @@ const features = {
       "user": "Bartosz",
       "label": "car",
       "point": [
-        290,
-        111
+        0.2885624344176285,
+        0.22018348623853212
       ]
     },
     {
@@ -4580,8 +4580,8 @@ const features = {
       "user": "Bartosz",
       "label": "fish",
       "point": [
-        242,
-        55
+        0.23819517313746066,
+        0.09174311926605505
       ]
     },
     {
@@ -4590,8 +4590,8 @@ const features = {
       "user": "Bartosz",
       "label": "house",
       "point": [
-        288,
-        221
+        0.2864637985309549,
+        0.4724770642201835
       ]
     },
     {
@@ -4600,8 +4600,8 @@ const features = {
       "user": "Bartosz",
       "label": "tree",
       "point": [
-        231,
-        244
+        0.2266526757607555,
+        0.5252293577981652
       ]
     },
     {
@@ -4610,8 +4610,8 @@ const features = {
       "user": "Bartosz",
       "label": "bicycle",
       "point": [
-        212,
-        133
+        0.20671563483735572,
+        0.2706422018348624
       ]
     },
     {
@@ -4620,8 +4620,8 @@ const features = {
       "user": "Bartosz",
       "label": "guitar",
       "point": [
-        284,
-        385
+        0.28226652675760755,
+        0.8486238532110092
       ]
     },
     {
@@ -4630,8 +4630,8 @@ const features = {
       "user": "Bartosz",
       "label": "pencil",
       "point": [
-        376,
-        341
+        0.378803777544596,
+        0.7477064220183486
       ]
     },
     {
@@ -4640,8 +4640,8 @@ const features = {
       "user": "Bartosz",
       "label": "clock",
       "point": [
-        249,
-        228
+        0.24554039874081846,
+        0.48853211009174313
       ]
     },
     {
@@ -4650,8 +4650,8 @@ const features = {
       "user": "woikaz",
       "label": "car",
       "point": [
-        306,
-        150
+        0.30535152151101785,
+        0.30963302752293576
       ]
     },
     {
@@ -4660,8 +4660,8 @@ const features = {
       "user": "woikaz",
       "label": "fish",
       "point": [
-        285,
-        171
+        0.2833158447009444,
+        0.3577981651376147
       ]
     },
     {
@@ -4670,8 +4670,8 @@ const features = {
       "user": "woikaz",
       "label": "house",
       "point": [
-        130,
-        258
+        0.12067156348373557,
+        0.5573394495412844
       ]
     },
     {
@@ -4680,8 +4680,8 @@ const features = {
       "user": "woikaz",
       "label": "tree",
       "point": [
-        165,
-        273
+        0.15739769150052466,
+        0.591743119266055
       ]
     },
     {
@@ -4690,8 +4690,8 @@ const features = {
       "user": "woikaz",
       "label": "bicycle",
       "point": [
-        240,
-        163
+        0.236096537250787,
+        0.3394495412844037
       ]
     },
     {
@@ -4700,8 +4700,8 @@ const features = {
       "user": "woikaz",
       "label": "guitar",
       "point": [
-        311,
-        119
+        0.310598111227702,
+        0.23853211009174313
       ]
     },
     {
@@ -4710,8 +4710,8 @@ const features = {
       "user": "woikaz",
       "label": "pencil",
       "point": [
-        33,
-        185
+        0.01888772298006296,
+        0.38990825688073394
       ]
     },
     {
@@ -4720,8 +4720,8 @@ const features = {
       "user": "woikaz",
       "label": "clock",
       "point": [
-        226,
-        215
+        0.22140608604407136,
+        0.45871559633027525
       ]
     },
     {
@@ -4730,8 +4730,8 @@ const features = {
       "user": "Rupesh Patel",
       "label": "car",
       "point": [
-        358,
-        129
+        0.35991605456453307,
+        0.26146788990825687
       ]
     },
     {
@@ -4740,8 +4740,8 @@ const features = {
       "user": "Rupesh Patel",
       "label": "fish",
       "point": [
-        141,
-        47
+        0.1322140608604407,
+        0.07339449541284404
       ]
     },
     {
@@ -4750,8 +4750,8 @@ const features = {
       "user": "Rupesh Patel",
       "label": "house",
       "point": [
-        219,
-        161
+        0.21406086044071354,
+        0.3348623853211009
       ]
     },
     {
@@ -4760,8 +4760,8 @@ const features = {
       "user": "Rupesh Patel",
       "label": "tree",
       "point": [
-        199,
-        227
+        0.1930745015739769,
+        0.48623853211009177
       ]
     },
     {
@@ -4770,8 +4770,8 @@ const features = {
       "user": "Rupesh Patel",
       "label": "bicycle",
       "point": [
-        237,
-        153
+        0.23294858342077648,
+        0.3165137614678899
       ]
     },
     {
@@ -4780,8 +4780,8 @@ const features = {
       "user": "Rupesh Patel",
       "label": "guitar",
       "point": [
-        178,
-        226
+        0.17103882476390347,
+        0.48394495412844035
       ]
     },
     {
@@ -4790,8 +4790,8 @@ const features = {
       "user": "Rupesh Patel",
       "label": "pencil",
       "point": [
-        144,
-        142
+        0.1353620146904512,
+        0.29128440366972475
       ]
     },
     {
@@ -4800,8 +4800,8 @@ const features = {
       "user": "Rupesh Patel",
       "label": "clock",
       "point": [
-        168,
-        180
+        0.16054564533053514,
+        0.37844036697247707
       ]
     },
     {
@@ -4810,8 +4810,8 @@ const features = {
       "user": "Ed.",
       "label": "car",
       "point": [
-        353,
-        177
+        0.3546694648478489,
+        0.37155963302752293
       ]
     },
     {
@@ -4820,8 +4820,8 @@ const features = {
       "user": "Ed.",
       "label": "fish",
       "point": [
-        377,
-        279
+        0.37985309548793283,
+        0.6055045871559633
       ]
     },
     {
@@ -4830,8 +4830,8 @@ const features = {
       "user": "Ed.",
       "label": "house",
       "point": [
-        398,
-        335
+        0.4018887722980063,
+        0.7339449541284404
       ]
     },
     {
@@ -4840,8 +4840,8 @@ const features = {
       "user": "Ed.",
       "label": "tree",
       "point": [
-        229,
-        356
+        0.22455403987408185,
+        0.7821100917431193
       ]
     },
     {
@@ -4850,8 +4850,8 @@ const features = {
       "user": "Ed.",
       "label": "bicycle",
       "point": [
-        357,
-        218
+        0.3588667366211962,
+        0.46559633027522934
       ]
     },
     {
@@ -4860,8 +4860,8 @@ const features = {
       "user": "Ed.",
       "label": "guitar",
       "point": [
-        334,
-        363
+        0.33473242392444913,
+        0.7981651376146789
       ]
     },
     {
@@ -4870,8 +4870,8 @@ const features = {
       "user": "Ed.",
       "label": "pencil",
       "point": [
-        364,
-        299
+        0.36621196222455404,
+        0.6513761467889908
       ]
     },
     {
@@ -4880,8 +4880,8 @@ const features = {
       "user": "Ed.",
       "label": "clock",
       "point": [
-        301,
-        352
+        0.3001049317943337,
+        0.7729357798165137
       ]
     },
     {
@@ -4890,8 +4890,8 @@ const features = {
       "user": "Onur",
       "label": "car",
       "point": [
-        305,
-        132
+        0.304302203567681,
+        0.268348623853211
       ]
     },
     {
@@ -4900,8 +4900,8 @@ const features = {
       "user": "Onur",
       "label": "fish",
       "point": [
-        221,
-        89
+        0.2161594963273872,
+        0.16972477064220184
       ]
     },
     {
@@ -4910,8 +4910,8 @@ const features = {
       "user": "Onur",
       "label": "house",
       "point": [
-        160,
-        220
+        0.1521511017838405,
+        0.4701834862385321
       ]
     },
     {
@@ -4920,8 +4920,8 @@ const features = {
       "user": "Onur",
       "label": "tree",
       "point": [
-        189,
-        267
+        0.1825813221406086,
+        0.5779816513761468
       ]
     },
     {
@@ -4930,8 +4930,8 @@ const features = {
       "user": "Onur",
       "label": "bicycle",
       "point": [
-        176,
-        152
+        0.1689401888772298,
+        0.31422018348623854
       ]
     },
     {
@@ -4940,8 +4940,8 @@ const features = {
       "user": "Onur",
       "label": "guitar",
       "point": [
-        256,
-        86
+        0.2528856243441763,
+        0.1628440366972477
       ]
     },
     {
@@ -4950,8 +4950,8 @@ const features = {
       "user": "Onur",
       "label": "pencil",
       "point": [
-        162,
-        233
+        0.15424973767051417,
+        0.5
       ]
     },
     {
@@ -4960,8 +4960,8 @@ const features = {
       "user": "Onur",
       "label": "clock",
       "point": [
-        151,
-        162
+        0.14270724029380902,
+        0.33715596330275227
       ]
     },
     {
@@ -4970,8 +4970,8 @@ const features = {
       "user": "Dvrb",
       "label": "car",
       "point": [
-        222,
-        117
+        0.21720881427072403,
+        0.23394495412844038
       ]
     },
     {
@@ -4980,8 +4980,8 @@ const features = {
       "user": "Dvrb",
       "label": "fish",
       "point": [
-        249,
-        172
+        0.24554039874081846,
+        0.36009174311926606
       ]
     },
     {
@@ -4990,8 +4990,8 @@ const features = {
       "user": "Dvrb",
       "label": "house",
       "point": [
-        246,
-        223
+        0.24239244491080797,
+        0.47706422018348627
       ]
     },
     {
@@ -5000,8 +5000,8 @@ const features = {
       "user": "Dvrb",
       "label": "tree",
       "point": [
-        307,
-        265
+        0.30640083945435465,
+        0.573394495412844
       ]
     },
     {
@@ -5010,8 +5010,8 @@ const features = {
       "user": "Dvrb",
       "label": "bicycle",
       "point": [
-        234,
-        168
+        0.229800629590766,
+        0.35091743119266056
       ]
     },
     {
@@ -5020,8 +5020,8 @@ const features = {
       "user": "Dvrb",
       "label": "guitar",
       "point": [
-        310,
-        268
+        0.3095487932843652,
+        0.5802752293577982
       ]
     },
     {
@@ -5030,8 +5030,8 @@ const features = {
       "user": "Dvrb",
       "label": "pencil",
       "point": [
-        217,
-        208
+        0.21196222455403987,
+        0.4426605504587156
       ]
     },
     {
@@ -5040,8 +5040,8 @@ const features = {
       "user": "Dvrb",
       "label": "clock",
       "point": [
-        190,
-        183
+        0.18363064008394545,
+        0.3853211009174312
       ]
     },
     {
@@ -5050,8 +5050,8 @@ const features = {
       "user": "anienki",
       "label": "car",
       "point": [
-        265,
-        73
+        0.2623294858342078,
+        0.13302752293577982
       ]
     },
     {
@@ -5060,8 +5060,8 @@ const features = {
       "user": "anienki",
       "label": "fish",
       "point": [
-        222,
-        111
+        0.21720881427072403,
+        0.22018348623853212
       ]
     },
     {
@@ -5070,8 +5070,8 @@ const features = {
       "user": "anienki",
       "label": "house",
       "point": [
-        184,
-        235
+        0.17733473242392445,
+        0.5045871559633027
       ]
     },
     {
@@ -5080,8 +5080,8 @@ const features = {
       "user": "anienki",
       "label": "tree",
       "point": [
-        400,
-        374
+        0.40398740818467993,
+        0.823394495412844
       ]
     },
     {
@@ -5090,8 +5090,8 @@ const features = {
       "user": "anienki",
       "label": "bicycle",
       "point": [
-        249,
-        162
+        0.24554039874081846,
+        0.33715596330275227
       ]
     },
     {
@@ -5100,8 +5100,8 @@ const features = {
       "user": "anienki",
       "label": "guitar",
       "point": [
-        354,
-        324
+        0.35571878279118574,
+        0.7087155963302753
       ]
     },
     {
@@ -5110,8 +5110,8 @@ const features = {
       "user": "anienki",
       "label": "pencil",
       "point": [
-        147,
-        249
+        0.1385099685204617,
+        0.536697247706422
       ]
     },
     {
@@ -5120,8 +5120,8 @@ const features = {
       "user": "anienki",
       "label": "clock",
       "point": [
-        176,
-        165
+        0.1689401888772298,
+        0.3440366972477064
       ]
     },
     {
@@ -5130,8 +5130,8 @@ const features = {
       "user": "Rescian",
       "label": "car",
       "point": [
-        330,
-        224
+        0.3305351521511018,
+        0.4793577981651376
       ]
     },
     {
@@ -5140,8 +5140,8 @@ const features = {
       "user": "Rescian",
       "label": "fish",
       "point": [
-        213,
-        83
+        0.20776495278069254,
+        0.1559633027522936
       ]
     },
     {
@@ -5150,8 +5150,8 @@ const features = {
       "user": "Rescian",
       "label": "house",
       "point": [
-        223,
-        212
+        0.21825813221406087,
+        0.4518348623853211
       ]
     },
     {
@@ -5160,8 +5160,8 @@ const features = {
       "user": "Rescian",
       "label": "tree",
       "point": [
-        260,
-        226
+        0.2570828961175236,
+        0.48394495412844035
       ]
     },
     {
@@ -5170,8 +5170,8 @@ const features = {
       "user": "Rescian",
       "label": "bicycle",
       "point": [
-        347,
-        226
+        0.3483735571878279,
+        0.48394495412844035
       ]
     },
     {
@@ -5180,8 +5180,8 @@ const features = {
       "user": "Rescian",
       "label": "guitar",
       "point": [
-        333,
-        230
+        0.3336831059811123,
+        0.49311926605504586
       ]
     },
     {
@@ -5190,8 +5190,8 @@ const features = {
       "user": "Rescian",
       "label": "pencil",
       "point": [
-        180,
-        140
+        0.1731374606505771,
+        0.286697247706422
       ]
     },
     {
@@ -5200,8 +5200,8 @@ const features = {
       "user": "Rescian",
       "label": "clock",
       "point": [
-        192,
-        206
+        0.18572927597061908,
+        0.4380733944954128
       ]
     },
     {
@@ -5210,8 +5210,8 @@ const features = {
       "user": "Rishi",
       "label": "car",
       "point": [
-        342,
-        186
+        0.34312696747114374,
+        0.3922018348623853
       ]
     },
     {
@@ -5220,8 +5220,8 @@ const features = {
       "user": "Rishi",
       "label": "fish",
       "point": [
-        265,
-        170
+        0.2623294858342078,
+        0.3555045871559633
       ]
     },
     {
@@ -5230,8 +5230,8 @@ const features = {
       "user": "Rishi",
       "label": "house",
       "point": [
-        374,
-        357
+        0.37670514165792235,
+        0.7844036697247706
       ]
     },
     {
@@ -5240,8 +5240,8 @@ const features = {
       "user": "Rishi",
       "label": "tree",
       "point": [
-        368,
-        392
+        0.3704092339979014,
+        0.8646788990825688
       ]
     },
     {
@@ -5250,8 +5250,8 @@ const features = {
       "user": "Rishi",
       "label": "bicycle",
       "point": [
-        389,
-        323
+        0.39244491080797483,
+        0.7064220183486238
       ]
     },
     {
@@ -5260,8 +5260,8 @@ const features = {
       "user": "Rishi",
       "label": "guitar",
       "point": [
-        307,
-        327
+        0.30640083945435465,
+        0.7155963302752294
       ]
     },
     {
@@ -5270,8 +5270,8 @@ const features = {
       "user": "Rishi",
       "label": "pencil",
       "point": [
-        257,
-        331
+        0.2539349422875131,
+        0.7247706422018348
       ]
     },
     {
@@ -5280,8 +5280,8 @@ const features = {
       "user": "Rishi",
       "label": "clock",
       "point": [
-        268,
-        264
+        0.2654774396642183,
+        0.5711009174311926
       ]
     },
     {
@@ -5290,8 +5290,8 @@ const features = {
       "user": "arifesat",
       "label": "car",
       "point": [
-        298,
-        134
+        0.2969569779643232,
+        0.27293577981651373
       ]
     },
     {
@@ -5300,8 +5300,8 @@ const features = {
       "user": "arifesat",
       "label": "fish",
       "point": [
-        214,
-        98
+        0.2088142707240294,
+        0.19036697247706422
       ]
     },
     {
@@ -5310,8 +5310,8 @@ const features = {
       "user": "arifesat",
       "label": "house",
       "point": [
-        166,
-        270
+        0.1584470094438615,
+        0.5848623853211009
       ]
     },
     {
@@ -5320,8 +5320,8 @@ const features = {
       "user": "arifesat",
       "label": "tree",
       "point": [
-        284,
-        283
+        0.28226652675760755,
+        0.6146788990825688
       ]
     },
     {
@@ -5330,8 +5330,8 @@ const features = {
       "user": "arifesat",
       "label": "bicycle",
       "point": [
-        294,
-        200
+        0.29275970619097585,
+        0.4243119266055046
       ]
     },
     {
@@ -5340,8 +5340,8 @@ const features = {
       "user": "arifesat",
       "label": "guitar",
       "point": [
-        132,
-        304
+        0.12277019937040923,
+        0.6628440366972477
       ]
     },
     {
@@ -5350,8 +5350,8 @@ const features = {
       "user": "arifesat",
       "label": "pencil",
       "point": [
-        63,
-        255
+        0.05036726128016789,
+        0.5504587155963303
       ]
     },
     {
@@ -5360,8 +5360,8 @@ const features = {
       "user": "arifesat",
       "label": "clock",
       "point": [
-        304,
-        304
+        0.30325288562434416,
+        0.6628440366972477
       ]
     },
     {
@@ -5370,8 +5370,8 @@ const features = {
       "user": "muhib",
       "label": "car",
       "point": [
-        326,
-        157
+        0.32633788037775446,
+        0.3256880733944954
       ]
     },
     {
@@ -5380,8 +5380,8 @@ const features = {
       "user": "muhib",
       "label": "fish",
       "point": [
-        235,
-        117
+        0.23084994753410285,
+        0.23394495412844038
       ]
     },
     {
@@ -5390,8 +5390,8 @@ const features = {
       "user": "muhib",
       "label": "house",
       "point": [
-        231,
-        217
+        0.2266526757607555,
+        0.463302752293578
       ]
     },
     {
@@ -5400,8 +5400,8 @@ const features = {
       "user": "muhib",
       "label": "tree",
       "point": [
-        334,
-        343
+        0.33473242392444913,
+        0.7522935779816514
       ]
     },
     {
@@ -5410,8 +5410,8 @@ const features = {
       "user": "muhib",
       "label": "bicycle",
       "point": [
-        345,
-        189
+        0.3462749213011542,
+        0.39908256880733944
       ]
     },
     {
@@ -5420,8 +5420,8 @@ const features = {
       "user": "muhib",
       "label": "guitar",
       "point": [
-        368,
-        173
+        0.3704092339979014,
+        0.3623853211009174
       ]
     },
     {
@@ -5430,8 +5430,8 @@ const features = {
       "user": "muhib",
       "label": "pencil",
       "point": [
-        297,
-        167
+        0.29590766002098634,
+        0.3486238532110092
       ]
     },
     {
@@ -5440,8 +5440,8 @@ const features = {
       "user": "muhib",
       "label": "clock",
       "point": [
-        220,
-        224
+        0.21511017838405036,
+        0.4793577981651376
       ]
     },
     {
@@ -5450,8 +5450,8 @@ const features = {
       "user": "Draig",
       "label": "car",
       "point": [
-        284,
-        115
+        0.28226652675760755,
+        0.22935779816513763
       ]
     },
     {
@@ -5460,8 +5460,8 @@ const features = {
       "user": "Draig",
       "label": "fish",
       "point": [
-        214,
-        65
+        0.2088142707240294,
+        0.11467889908256881
       ]
     },
     {
@@ -5470,8 +5470,8 @@ const features = {
       "user": "Draig",
       "label": "house",
       "point": [
-        254,
-        313
+        0.25078698845750264,
+        0.6834862385321101
       ]
     },
     {
@@ -5480,8 +5480,8 @@ const features = {
       "user": "Draig",
       "label": "tree",
       "point": [
-        221,
-        344
+        0.2161594963273872,
+        0.7545871559633027
       ]
     },
     {
@@ -5490,8 +5490,8 @@ const features = {
       "user": "Draig",
       "label": "bicycle",
       "point": [
-        207,
-        144
+        0.20146904512067157,
+        0.2958715596330275
       ]
     },
     {
@@ -5500,8 +5500,8 @@ const features = {
       "user": "Draig",
       "label": "guitar",
       "point": [
-        364,
-        335
+        0.36621196222455404,
+        0.7339449541284404
       ]
     },
     {
@@ -5510,8 +5510,8 @@ const features = {
       "user": "Draig",
       "label": "pencil",
       "point": [
-        226,
-        256
+        0.22140608604407136,
+        0.5527522935779816
       ]
     },
     {
@@ -5520,8 +5520,8 @@ const features = {
       "user": "Draig",
       "label": "clock",
       "point": [
-        247,
-        282
+        0.24344176285414482,
+        0.6123853211009175
       ]
     },
     {
@@ -5530,8 +5530,8 @@ const features = {
       "user": "Natan",
       "label": "car",
       "point": [
-        308,
-        133
+        0.3074501573976915,
+        0.2706422018348624
       ]
     },
     {
@@ -5540,8 +5540,8 @@ const features = {
       "user": "Natan",
       "label": "fish",
       "point": [
-        275,
-        112
+        0.2728226652675761,
+        0.22247706422018348
       ]
     },
     {
@@ -5550,8 +5550,8 @@ const features = {
       "user": "Natan",
       "label": "house",
       "point": [
-        252,
-        299
+        0.24868835257082897,
+        0.6513761467889908
       ]
     },
     {
@@ -5560,8 +5560,8 @@ const features = {
       "user": "Natan",
       "label": "tree",
       "point": [
-        206,
-        347
+        0.20041972717733472,
+        0.7614678899082569
       ]
     },
     {
@@ -5570,8 +5570,8 @@ const features = {
       "user": "Natan",
       "label": "bicycle",
       "point": [
-        218,
-        156
+        0.2130115424973767,
+        0.32339449541284404
       ]
     },
     {
@@ -5580,8 +5580,8 @@ const features = {
       "user": "Natan",
       "label": "guitar",
       "point": [
-        158,
-        268
+        0.15005246589716684,
+        0.5802752293577982
       ]
     },
     {
@@ -5590,8 +5590,8 @@ const features = {
       "user": "Natan",
       "label": "pencil",
       "point": [
-        42,
-        131
+        0.02833158447009444,
+        0.26605504587155965
       ]
     },
     {
@@ -5600,8 +5600,8 @@ const features = {
       "user": "Natan",
       "label": "clock",
       "point": [
-        132,
-        162
+        0.12277019937040923,
+        0.33715596330275227
       ]
     },
     {
@@ -5610,8 +5610,8 @@ const features = {
       "user": "Random_P",
       "label": "car",
       "point": [
-        224,
-        203
+        0.2193074501573977,
+        0.43119266055045874
       ]
     },
     {
@@ -5620,8 +5620,8 @@ const features = {
       "user": "Random_P",
       "label": "fish",
       "point": [
-        284,
-        320
+        0.28226652675760755,
+        0.6995412844036697
       ]
     },
     {
@@ -5630,8 +5630,8 @@ const features = {
       "user": "Random_P",
       "label": "house",
       "point": [
-        349,
-        312
+        0.35047219307450156,
+        0.6811926605504587
       ]
     },
     {
@@ -5640,8 +5640,8 @@ const features = {
       "user": "Random_P",
       "label": "tree",
       "point": [
-        401,
-        405
+        0.4050367261280168,
+        0.8944954128440367
       ]
     },
     {
@@ -5650,8 +5650,8 @@ const features = {
       "user": "Random_P",
       "label": "bicycle",
       "point": [
-        360,
-        259
+        0.3620146904512067,
+        0.5596330275229358
       ]
     },
     {
@@ -5660,8 +5660,8 @@ const features = {
       "user": "Random_P",
       "label": "guitar",
       "point": [
-        365,
-        394
+        0.3672612801678909,
+        0.8692660550458715
       ]
     },
     {
@@ -5670,8 +5670,8 @@ const features = {
       "user": "Random_P",
       "label": "pencil",
       "point": [
-        117,
-        365
+        0.10703043022035677,
+        0.8027522935779816
       ]
     },
     {
@@ -5680,8 +5680,8 @@ const features = {
       "user": "Random_P",
       "label": "clock",
       "point": [
-        171,
-        215
+        0.16369359916054566,
+        0.45871559633027525
       ]
     },
     {
@@ -5690,8 +5690,8 @@ const features = {
       "user": "nitish",
       "label": "car",
       "point": [
-        381,
-        176
+        0.38405036726128017,
+        0.36926605504587157
       ]
     },
     {
@@ -5700,8 +5700,8 @@ const features = {
       "user": "nitish",
       "label": "fish",
       "point": [
-        303,
-        100
+        0.30220356768100737,
+        0.19495412844036697
       ]
     },
     {
@@ -5710,8 +5710,8 @@ const features = {
       "user": "nitish",
       "label": "house",
       "point": [
-        325,
-        382
+        0.3252885624344176,
+        0.841743119266055
       ]
     },
     {
@@ -5720,8 +5720,8 @@ const features = {
       "user": "nitish",
       "label": "tree",
       "point": [
-        312,
-        374
+        0.3116474291710388,
+        0.823394495412844
       ]
     },
     {
@@ -5730,8 +5730,8 @@ const features = {
       "user": "nitish",
       "label": "bicycle",
       "point": [
-        299,
-        169
+        0.29800629590766003,
+        0.3532110091743119
       ]
     },
     {
@@ -5740,8 +5740,8 @@ const features = {
       "user": "nitish",
       "label": "guitar",
       "point": [
-        265,
-        314
+        0.2623294858342078,
+        0.6857798165137615
       ]
     },
     {
@@ -5750,8 +5750,8 @@ const features = {
       "user": "nitish",
       "label": "pencil",
       "point": [
-        144,
-        135
+        0.1353620146904512,
+        0.27522935779816515
       ]
     },
     {
@@ -5760,8 +5760,8 @@ const features = {
       "user": "nitish",
       "label": "clock",
       "point": [
-        239,
-        206
+        0.23504721930745015,
+        0.4380733944954128
       ]
     },
     {
@@ -5770,8 +5770,8 @@ const features = {
       "user": "Riyan",
       "label": "car",
       "point": [
-        290,
-        163
+        0.2885624344176285,
+        0.3394495412844037
       ]
     },
     {
@@ -5780,8 +5780,8 @@ const features = {
       "user": "Riyan",
       "label": "fish",
       "point": [
-        248,
-        210
+        0.24449108079748164,
+        0.44724770642201833
       ]
     },
     {
@@ -5790,8 +5790,8 @@ const features = {
       "user": "Riyan",
       "label": "house",
       "point": [
-        239,
-        224
+        0.23504721930745015,
+        0.4793577981651376
       ]
     },
     {
@@ -5800,8 +5800,8 @@ const features = {
       "user": "Riyan",
       "label": "tree",
       "point": [
-        204,
-        270
+        0.19832109129066108,
+        0.5848623853211009
       ]
     },
     {
@@ -5810,8 +5810,8 @@ const features = {
       "user": "Riyan",
       "label": "bicycle",
       "point": [
-        229,
-        216
+        0.22455403987408185,
+        0.4610091743119266
       ]
     },
     {
@@ -5820,8 +5820,8 @@ const features = {
       "user": "Riyan",
       "label": "guitar",
       "point": [
-        260,
-        248
+        0.2570828961175236,
+        0.5344036697247706
       ]
     },
     {
@@ -5830,8 +5830,8 @@ const features = {
       "user": "Riyan",
       "label": "pencil",
       "point": [
-        134,
-        248
+        0.1248688352570829,
+        0.5344036697247706
       ]
     },
     {
@@ -5840,8 +5840,8 @@ const features = {
       "user": "Riyan",
       "label": "clock",
       "point": [
-        161,
-        159
+        0.15320041972717732,
+        0.3302752293577982
       ]
     },
     {
@@ -5850,8 +5850,8 @@ const features = {
       "user": "Macedo",
       "label": "car",
       "point": [
-        321,
-        149
+        0.3210912906610703,
+        0.3073394495412844
       ]
     },
     {
@@ -5860,8 +5860,8 @@ const features = {
       "user": "Macedo",
       "label": "fish",
       "point": [
-        257,
-        165
+        0.2539349422875131,
+        0.3440366972477064
       ]
     },
     {
@@ -5870,8 +5870,8 @@ const features = {
       "user": "Macedo",
       "label": "house",
       "point": [
-        311,
-        230
+        0.310598111227702,
+        0.49311926605504586
       ]
     },
     {
@@ -5880,8 +5880,8 @@ const features = {
       "user": "Macedo",
       "label": "tree",
       "point": [
-        390,
-        360
+        0.3934942287513116,
+        0.7912844036697247
       ]
     },
     {
@@ -5890,8 +5890,8 @@ const features = {
       "user": "Macedo",
       "label": "bicycle",
       "point": [
-        263,
-        173
+        0.2602308499475341,
+        0.3623853211009174
       ]
     },
     {
@@ -5900,8 +5900,8 @@ const features = {
       "user": "Macedo",
       "label": "guitar",
       "point": [
-        187,
-        328
+        0.18048268625393493,
+        0.7178899082568807
       ]
     },
     {
@@ -5910,8 +5910,8 @@ const features = {
       "user": "Macedo",
       "label": "pencil",
       "point": [
-        96,
-        187
+        0.08499475341028331,
+        0.3944954128440367
       ]
     },
     {
@@ -5920,8 +5920,8 @@ const features = {
       "user": "Macedo",
       "label": "clock",
       "point": [
-        244,
-        252
+        0.2402938090241343,
+        0.5435779816513762
       ]
     },
     {
@@ -5930,8 +5930,8 @@ const features = {
       "user": "Suicide",
       "label": "car",
       "point": [
-        258,
-        116
+        0.25498426023084997,
+        0.231651376146789
       ]
     },
     {
@@ -5940,8 +5940,8 @@ const features = {
       "user": "Suicide",
       "label": "fish",
       "point": [
-        270,
-        161
+        0.2675760755508919,
+        0.3348623853211009
       ]
     },
     {
@@ -5950,8 +5950,8 @@ const features = {
       "user": "Suicide",
       "label": "house",
       "point": [
-        256,
-        283
+        0.2528856243441763,
+        0.6146788990825688
       ]
     },
     {
@@ -5960,8 +5960,8 @@ const features = {
       "user": "Suicide",
       "label": "tree",
       "point": [
-        338,
-        365
+        0.3389296956977964,
+        0.8027522935779816
       ]
     },
     {
@@ -5970,8 +5970,8 @@ const features = {
       "user": "Suicide",
       "label": "bicycle",
       "point": [
-        302,
-        237
+        0.3011542497376705,
+        0.5091743119266054
       ]
     },
     {
@@ -5980,8 +5980,8 @@ const features = {
       "user": "Suicide",
       "label": "guitar",
       "point": [
-        147,
-        376
+        0.1385099685204617,
+        0.8279816513761468
       ]
     },
     {
@@ -5990,8 +5990,8 @@ const features = {
       "user": "Suicide",
       "label": "pencil",
       "point": [
-        330,
-        59
+        0.3305351521511018,
+        0.10091743119266056
       ]
     },
     {
@@ -6000,8 +6000,8 @@ const features = {
       "user": "Suicide",
       "label": "clock",
       "point": [
-        186,
-        179
+        0.1794333683105981,
+        0.3761467889908257
       ]
     },
     {
@@ -6010,8 +6010,8 @@ const features = {
       "user": "Shabir",
       "label": "car",
       "point": [
-        241,
-        132
+        0.23714585519412382,
+        0.268348623853211
       ]
     },
     {
@@ -6020,8 +6020,8 @@ const features = {
       "user": "Shabir",
       "label": "fish",
       "point": [
-        237,
-        133
+        0.23294858342077648,
+        0.2706422018348624
       ]
     },
     {
@@ -6030,8 +6030,8 @@ const features = {
       "user": "Shabir",
       "label": "house",
       "point": [
-        185,
-        185
+        0.1783840503672613,
+        0.38990825688073394
       ]
     },
     {
@@ -6040,8 +6040,8 @@ const features = {
       "user": "Shabir",
       "label": "tree",
       "point": [
-        188,
-        265
+        0.18153200419727178,
+        0.573394495412844
       ]
     },
     {
@@ -6050,8 +6050,8 @@ const features = {
       "user": "Shabir",
       "label": "bicycle",
       "point": [
-        258,
-        168
+        0.25498426023084997,
+        0.35091743119266056
       ]
     },
     {
@@ -6060,8 +6060,8 @@ const features = {
       "user": "Shabir",
       "label": "guitar",
       "point": [
-        300,
-        219
+        0.2990556138509968,
+        0.46788990825688076
       ]
     },
     {
@@ -6070,8 +6070,8 @@ const features = {
       "user": "Shabir",
       "label": "pencil",
       "point": [
-        131,
-        102
+        0.12172088142707241,
+        0.19954128440366972
       ]
     },
     {
@@ -6080,8 +6080,8 @@ const features = {
       "user": "Shabir",
       "label": "clock",
       "point": [
-        124,
-        107
+        0.11437565582371459,
+        0.21100917431192662
       ]
     },
     {
@@ -6090,8 +6090,8 @@ const features = {
       "user": "Utsav",
       "label": "car",
       "point": [
-        199,
-        76
+        0.1930745015739769,
+        0.13990825688073394
       ]
     },
     {
@@ -6100,8 +6100,8 @@ const features = {
       "user": "Utsav",
       "label": "fish",
       "point": [
-        118,
-        32
+        0.1080797481636936,
+        0.0389908256880734
       ]
     },
     {
@@ -6110,8 +6110,8 @@ const features = {
       "user": "Utsav",
       "label": "house",
       "point": [
-        182,
-        141
+        0.17523609653725078,
+        0.2889908256880734
       ]
     },
     {
@@ -6120,8 +6120,8 @@ const features = {
       "user": "Utsav",
       "label": "tree",
       "point": [
-        236,
-        239
+        0.23189926547743966,
+        0.5137614678899083
       ]
     },
     {
@@ -6130,8 +6130,8 @@ const features = {
       "user": "Utsav",
       "label": "bicycle",
       "point": [
-        251,
-        113
+        0.24763903462749212,
+        0.22477064220183487
       ]
     },
     {
@@ -6140,8 +6140,8 @@ const features = {
       "user": "Utsav",
       "label": "guitar",
       "point": [
-        272,
-        133
+        0.2696747114375656,
+        0.2706422018348624
       ]
     },
     {
@@ -6150,8 +6150,8 @@ const features = {
       "user": "Utsav",
       "label": "pencil",
       "point": [
-        218,
-        59
+        0.2130115424973767,
+        0.10091743119266056
       ]
     },
     {
@@ -6160,8 +6160,8 @@ const features = {
       "user": "Utsav",
       "label": "clock",
       "point": [
-        126,
-        127
+        0.11647429171038824,
+        0.25688073394495414
       ]
     },
     {
@@ -6170,8 +6170,8 @@ const features = {
       "user": "saurav",
       "label": "car",
       "point": [
-        238,
-        127
+        0.23399790136411333,
+        0.25688073394495414
       ]
     },
     {
@@ -6180,8 +6180,8 @@ const features = {
       "user": "saurav",
       "label": "fish",
       "point": [
-        236,
-        72
+        0.23189926547743966,
+        0.13073394495412843
       ]
     },
     {
@@ -6190,8 +6190,8 @@ const features = {
       "user": "saurav",
       "label": "house",
       "point": [
-        186,
-        151
+        0.1794333683105981,
+        0.3119266055045872
       ]
     },
     {
@@ -6200,8 +6200,8 @@ const features = {
       "user": "saurav",
       "label": "tree",
       "point": [
-        329,
-        321
+        0.32948583420776495,
+        0.7018348623853211
       ]
     },
     {
@@ -6210,8 +6210,8 @@ const features = {
       "user": "saurav",
       "label": "bicycle",
       "point": [
-        194,
-        143
+        0.18782791185729275,
+        0.29357798165137616
       ]
     },
     {
@@ -6220,8 +6220,8 @@ const features = {
       "user": "saurav",
       "label": "guitar",
       "point": [
-        120,
-        215
+        0.11017838405036726,
+        0.45871559633027525
       ]
     },
     {
@@ -6230,8 +6230,8 @@ const features = {
       "user": "saurav",
       "label": "pencil",
       "point": [
-        190,
-        49
+        0.18363064008394545,
+        0.0779816513761468
       ]
     },
     {
@@ -6240,8 +6240,8 @@ const features = {
       "user": "saurav",
       "label": "clock",
       "point": [
-        241,
-        258
+        0.23714585519412382,
+        0.5573394495412844
       ]
     },
     {
@@ -6250,8 +6250,8 @@ const features = {
       "user": "kubin",
       "label": "car",
       "point": [
-        246,
-        168
+        0.24239244491080797,
+        0.35091743119266056
       ]
     },
     {
@@ -6260,8 +6260,8 @@ const features = {
       "user": "kubin",
       "label": "fish",
       "point": [
-        194,
-        131
+        0.18782791185729275,
+        0.26605504587155965
       ]
     },
     {
@@ -6270,8 +6270,8 @@ const features = {
       "user": "kubin",
       "label": "house",
       "point": [
-        278,
-        261
+        0.2759706190975866,
+        0.5642201834862385
       ]
     },
     {
@@ -6280,8 +6280,8 @@ const features = {
       "user": "kubin",
       "label": "tree",
       "point": [
-        250,
-        333
+        0.2465897166841553,
+        0.7293577981651376
       ]
     },
     {
@@ -6290,8 +6290,8 @@ const features = {
       "user": "kubin",
       "label": "bicycle",
       "point": [
-        303,
-        181
+        0.30220356768100737,
+        0.38073394495412843
       ]
     },
     {
@@ -6300,8 +6300,8 @@ const features = {
       "user": "kubin",
       "label": "guitar",
       "point": [
-        193,
-        332
+        0.18677859391395593,
+        0.7270642201834863
       ]
     },
     {
@@ -6310,8 +6310,8 @@ const features = {
       "user": "kubin",
       "label": "pencil",
       "point": [
-        238,
-        242
+        0.23399790136411333,
+        0.5206422018348624
       ]
     },
     {
@@ -6320,8 +6320,8 @@ const features = {
       "user": "kubin",
       "label": "clock",
       "point": [
-        210,
-        220
+        0.20461699895068206,
+        0.4701834862385321
       ]
     },
     {
@@ -6330,8 +6330,8 @@ const features = {
       "user": "piet",
       "label": "car",
       "point": [
-        208,
-        97
+        0.2025183630640084,
+        0.18807339449541285
       ]
     },
     {
@@ -6340,8 +6340,8 @@ const features = {
       "user": "piet",
       "label": "fish",
       "point": [
-        203,
-        69
+        0.19727177334732424,
+        0.12385321100917432
       ]
     },
     {
@@ -6350,8 +6350,8 @@ const features = {
       "user": "piet",
       "label": "house",
       "point": [
-        223,
-        312
+        0.21825813221406087,
+        0.6811926605504587
       ]
     },
     {
@@ -6360,8 +6360,8 @@ const features = {
       "user": "piet",
       "label": "tree",
       "point": [
-        171,
-        234
+        0.16369359916054566,
+        0.5022935779816514
       ]
     },
     {
@@ -6370,8 +6370,8 @@ const features = {
       "user": "piet",
       "label": "bicycle",
       "point": [
-        248,
-        202
+        0.24449108079748164,
+        0.4288990825688073
       ]
     },
     {
@@ -6380,8 +6380,8 @@ const features = {
       "user": "piet",
       "label": "guitar",
       "point": [
-        251,
-        122
+        0.24763903462749212,
+        0.24541284403669725
       ]
     },
     {
@@ -6390,8 +6390,8 @@ const features = {
       "user": "piet",
       "label": "pencil",
       "point": [
-        214,
-        241
+        0.2088142707240294,
+        0.518348623853211
       ]
     },
     {
@@ -6400,8 +6400,8 @@ const features = {
       "user": "piet",
       "label": "clock",
       "point": [
-        207,
-        163
+        0.20146904512067157,
+        0.3394495412844037
       ]
     },
     {
@@ -6410,8 +6410,8 @@ const features = {
       "user": "RaskolnickOFF",
       "label": "car",
       "point": [
-        305,
-        193
+        0.304302203567681,
+        0.40825688073394495
       ]
     },
     {
@@ -6420,8 +6420,8 @@ const features = {
       "user": "RaskolnickOFF",
       "label": "fish",
       "point": [
-        293,
-        171
+        0.291710388247639,
+        0.3577981651376147
       ]
     },
     {
@@ -6430,8 +6430,8 @@ const features = {
       "user": "RaskolnickOFF",
       "label": "house",
       "point": [
-        204,
-        291
+        0.19832109129066108,
+        0.6330275229357798
       ]
     },
     {
@@ -6440,8 +6440,8 @@ const features = {
       "user": "RaskolnickOFF",
       "label": "tree",
       "point": [
-        329,
-        346
+        0.32948583420776495,
+        0.7591743119266054
       ]
     },
     {
@@ -6450,8 +6450,8 @@ const features = {
       "user": "RaskolnickOFF",
       "label": "bicycle",
       "point": [
-        222,
-        212
+        0.21720881427072403,
+        0.4518348623853211
       ]
     },
     {
@@ -6460,8 +6460,8 @@ const features = {
       "user": "RaskolnickOFF",
       "label": "guitar",
       "point": [
-        266,
-        145
+        0.2633788037775446,
+        0.2981651376146789
       ]
     },
     {
@@ -6470,8 +6470,8 @@ const features = {
       "user": "RaskolnickOFF",
       "label": "pencil",
       "point": [
-        249,
-        299
+        0.24554039874081846,
+        0.6513761467889908
       ]
     },
     {
@@ -6480,8 +6480,8 @@ const features = {
       "user": "RaskolnickOFF",
       "label": "clock",
       "point": [
-        209,
-        83
+        0.20356768100734524,
+        0.1559633027522936
       ]
     },
     {
@@ -6490,8 +6490,8 @@ const features = {
       "user": "Sulaiman Mustapha",
       "label": "car",
       "point": [
-        285,
-        219
+        0.2833158447009444,
+        0.46788990825688076
       ]
     },
     {
@@ -6500,8 +6500,8 @@ const features = {
       "user": "Sulaiman Mustapha",
       "label": "fish",
       "point": [
-        186,
-        100
+        0.1794333683105981,
+        0.19495412844036697
       ]
     },
     {
@@ -6510,8 +6510,8 @@ const features = {
       "user": "Sulaiman Mustapha",
       "label": "house",
       "point": [
-        215,
-        215
+        0.2098635886673662,
+        0.45871559633027525
       ]
     },
     {
@@ -6520,8 +6520,8 @@ const features = {
       "user": "Sulaiman Mustapha",
       "label": "tree",
       "point": [
-        198,
-        272
+        0.19202518363064008,
+        0.5894495412844036
       ]
     },
     {
@@ -6530,8 +6530,8 @@ const features = {
       "user": "Sulaiman Mustapha",
       "label": "bicycle",
       "point": [
-        294,
-        185
+        0.29275970619097585,
+        0.38990825688073394
       ]
     },
     {
@@ -6540,8 +6540,8 @@ const features = {
       "user": "Sulaiman Mustapha",
       "label": "guitar",
       "point": [
-        141,
-        277
+        0.1322140608604407,
+        0.6009174311926605
       ]
     },
     {
@@ -6550,8 +6550,8 @@ const features = {
       "user": "Sulaiman Mustapha",
       "label": "pencil",
       "point": [
-        250,
-        140
+        0.2465897166841553,
+        0.286697247706422
       ]
     },
     {
@@ -6560,8 +6560,8 @@ const features = {
       "user": "Sulaiman Mustapha",
       "label": "clock",
       "point": [
-        165,
-        162
+        0.15739769150052466,
+        0.33715596330275227
       ]
     },
     {
@@ -6570,8 +6570,8 @@ const features = {
       "user": "4am",
       "label": "car",
       "point": [
-        268,
-        250
+        0.2654774396642183,
+        0.5389908256880734
       ]
     },
     {
@@ -6580,8 +6580,8 @@ const features = {
       "user": "4am",
       "label": "fish",
       "point": [
-        195,
-        240
+        0.1888772298006296,
+        0.5160550458715596
       ]
     },
     {
@@ -6590,8 +6590,8 @@ const features = {
       "user": "4am",
       "label": "house",
       "point": [
-        179,
-        273
+        0.1720881427072403,
+        0.591743119266055
       ]
     },
     {
@@ -6600,8 +6600,8 @@ const features = {
       "user": "4am",
       "label": "tree",
       "point": [
-        262,
-        304
+        0.25918153200419725,
+        0.6628440366972477
       ]
     },
     {
@@ -6610,8 +6610,8 @@ const features = {
       "user": "4am",
       "label": "bicycle",
       "point": [
-        167,
-        288
+        0.15949632738719832,
+        0.6261467889908257
       ]
     },
     {
@@ -6620,8 +6620,8 @@ const features = {
       "user": "4am",
       "label": "guitar",
       "point": [
-        210,
-        265
+        0.20461699895068206,
+        0.573394495412844
       ]
     },
     {
@@ -6630,8 +6630,8 @@ const features = {
       "user": "4am",
       "label": "pencil",
       "point": [
-        146,
-        321
+        0.13746065057712487,
+        0.7018348623853211
       ]
     },
     {
@@ -6640,8 +6640,8 @@ const features = {
       "user": "4am",
       "label": "clock",
       "point": [
-        187,
-        209
+        0.18048268625393493,
+        0.44495412844036697
       ]
     },
     {
@@ -6650,8 +6650,8 @@ const features = {
       "user": "Kaz",
       "label": "car",
       "point": [
-        342,
-        164
+        0.34312696747114374,
+        0.34174311926605505
       ]
     },
     {
@@ -6660,8 +6660,8 @@ const features = {
       "user": "Kaz",
       "label": "fish",
       "point": [
-        198,
-        75
+        0.19202518363064008,
+        0.13761467889908258
       ]
     },
     {
@@ -6670,8 +6670,8 @@ const features = {
       "user": "Kaz",
       "label": "house",
       "point": [
-        190,
-        224
+        0.18363064008394545,
+        0.4793577981651376
       ]
     },
     {
@@ -6680,8 +6680,8 @@ const features = {
       "user": "Kaz",
       "label": "tree",
       "point": [
-        153,
-        296
+        0.14480587618048268,
+        0.6444954128440367
       ]
     },
     {
@@ -6690,8 +6690,8 @@ const features = {
       "user": "Kaz",
       "label": "bicycle",
       "point": [
-        296,
-        174
+        0.29485834207764955,
+        0.3646788990825688
       ]
     },
     {
@@ -6700,8 +6700,8 @@ const features = {
       "user": "Kaz",
       "label": "guitar",
       "point": [
-        172,
-        189
+        0.16474291710388247,
+        0.39908256880733944
       ]
     },
     {
@@ -6710,8 +6710,8 @@ const features = {
       "user": "Kaz",
       "label": "pencil",
       "point": [
-        98,
-        219
+        0.08709338929695698,
+        0.46788990825688076
       ]
     },
     {
@@ -6720,8 +6720,8 @@ const features = {
       "user": "Kaz",
       "label": "clock",
       "point": [
-        93,
-        144
+        0.08184679958027283,
+        0.2958715596330275
       ]
     },
     {
@@ -6730,8 +6730,8 @@ const features = {
       "user": "ivan",
       "label": "car",
       "point": [
-        334,
-        210
+        0.33473242392444913,
+        0.44724770642201833
       ]
     },
     {
@@ -6740,8 +6740,8 @@ const features = {
       "user": "ivan",
       "label": "fish",
       "point": [
-        240,
-        80
+        0.236096537250787,
+        0.14908256880733944
       ]
     },
     {
@@ -6750,8 +6750,8 @@ const features = {
       "user": "ivan",
       "label": "house",
       "point": [
-        218,
-        245
+        0.2130115424973767,
+        0.5275229357798165
       ]
     },
     {
@@ -6760,8 +6760,8 @@ const features = {
       "user": "ivan",
       "label": "tree",
       "point": [
-        273,
-        310
+        0.2707240293809024,
+        0.676605504587156
       ]
     },
     {
@@ -6770,8 +6770,8 @@ const features = {
       "user": "ivan",
       "label": "bicycle",
       "point": [
-        288,
-        228
+        0.2864637985309549,
+        0.48853211009174313
       ]
     },
     {
@@ -6780,8 +6780,8 @@ const features = {
       "user": "ivan",
       "label": "guitar",
       "point": [
-        353,
-        325
+        0.3546694648478489,
+        0.7110091743119266
       ]
     },
     {
@@ -6790,8 +6790,8 @@ const features = {
       "user": "ivan",
       "label": "pencil",
       "point": [
-        152,
-        222
+        0.14375655823714587,
+        0.47477064220183485
       ]
     },
     {
@@ -6800,8 +6800,8 @@ const features = {
       "user": "ivan",
       "label": "clock",
       "point": [
-        166,
-        189
+        0.1584470094438615,
+        0.39908256880733944
       ]
     },
     {
@@ -6810,8 +6810,8 @@ const features = {
       "user": "summer_ddot",
       "label": "car",
       "point": [
-        228,
-        116
+        0.22350472193074503,
+        0.231651376146789
       ]
     },
     {
@@ -6820,8 +6820,8 @@ const features = {
       "user": "summer_ddot",
       "label": "fish",
       "point": [
-        198,
-        88
+        0.19202518363064008,
+        0.16743119266055045
       ]
     },
     {
@@ -6830,8 +6830,8 @@ const features = {
       "user": "summer_ddot",
       "label": "house",
       "point": [
-        284,
-        131
+        0.28226652675760755,
+        0.26605504587155965
       ]
     },
     {
@@ -6840,8 +6840,8 @@ const features = {
       "user": "summer_ddot",
       "label": "tree",
       "point": [
-        217,
-        233
+        0.21196222455403987,
+        0.5
       ]
     },
     {
@@ -6850,8 +6850,8 @@ const features = {
       "user": "summer_ddot",
       "label": "bicycle",
       "point": [
-        210,
-        120
+        0.20461699895068206,
+        0.2408256880733945
       ]
     },
     {
@@ -6860,8 +6860,8 @@ const features = {
       "user": "summer_ddot",
       "label": "guitar",
       "point": [
-        344,
-        173
+        0.34522560335781743,
+        0.3623853211009174
       ]
     },
     {
@@ -6870,8 +6870,8 @@ const features = {
       "user": "summer_ddot",
       "label": "pencil",
       "point": [
-        49,
-        234
+        0.035676810073452254,
+        0.5022935779816514
       ]
     },
     {
@@ -6880,8 +6880,8 @@ const features = {
       "user": "summer_ddot",
       "label": "clock",
       "point": [
-        179,
-        158
+        0.1720881427072403,
+        0.32798165137614677
       ]
     },
     {
@@ -6890,8 +6890,8 @@ const features = {
       "user": "john",
       "label": "car",
       "point": [
-        260,
-        102
+        0.2570828961175236,
+        0.19954128440366972
       ]
     },
     {
@@ -6900,8 +6900,8 @@ const features = {
       "user": "john",
       "label": "fish",
       "point": [
-        204,
-        74
+        0.19832109129066108,
+        0.1353211009174312
       ]
     },
     {
@@ -6910,8 +6910,8 @@ const features = {
       "user": "john",
       "label": "house",
       "point": [
-        267,
-        208
+        0.2644281217208814,
+        0.4426605504587156
       ]
     },
     {
@@ -6920,8 +6920,8 @@ const features = {
       "user": "john",
       "label": "tree",
       "point": [
-        135,
-        270
+        0.1259181532004197,
+        0.5848623853211009
       ]
     },
     {
@@ -6930,8 +6930,8 @@ const features = {
       "user": "john",
       "label": "bicycle",
       "point": [
-        156,
-        96
+        0.14795383001049317,
+        0.18577981651376146
       ]
     },
     {
@@ -6940,8 +6940,8 @@ const features = {
       "user": "john",
       "label": "guitar",
       "point": [
-        291,
-        121
+        0.28961175236096537,
+        0.24311926605504589
       ]
     },
     {
@@ -6950,8 +6950,8 @@ const features = {
       "user": "john",
       "label": "pencil",
       "point": [
-        242,
-        22
+        0.23819517313746066,
+        0.016055045871559634
       ]
     },
     {
@@ -6960,8 +6960,8 @@ const features = {
       "user": "john",
       "label": "clock",
       "point": [
-        249,
-        202
+        0.24554039874081846,
+        0.4288990825688073
       ]
     },
     {
@@ -6970,8 +6970,8 @@ const features = {
       "user": "Ashutosh ",
       "label": "car",
       "point": [
-        352,
-        210
+        0.35362014690451204,
+        0.44724770642201833
       ]
     },
     {
@@ -6980,8 +6980,8 @@ const features = {
       "user": "Ashutosh ",
       "label": "fish",
       "point": [
-        337,
-        173
+        0.3378803777544596,
+        0.3623853211009174
       ]
     },
     {
@@ -6990,8 +6990,8 @@ const features = {
       "user": "Ashutosh ",
       "label": "house",
       "point": [
-        266,
-        303
+        0.2633788037775446,
+        0.6605504587155964
       ]
     },
     {
@@ -7000,8 +7000,8 @@ const features = {
       "user": "Ashutosh ",
       "label": "tree",
       "point": [
-        316,
-        328
+        0.31584470094438616,
+        0.7178899082568807
       ]
     },
     {
@@ -7010,8 +7010,8 @@ const features = {
       "user": "Ashutosh ",
       "label": "bicycle",
       "point": [
-        364,
-        228
+        0.36621196222455404,
+        0.48853211009174313
       ]
     },
     {
@@ -7020,8 +7020,8 @@ const features = {
       "user": "Ashutosh ",
       "label": "guitar",
       "point": [
-        353,
-        156
+        0.3546694648478489,
+        0.32339449541284404
       ]
     },
     {
@@ -7030,8 +7030,8 @@ const features = {
       "user": "Ashutosh ",
       "label": "pencil",
       "point": [
-        286,
-        208
+        0.28436516264428124,
+        0.4426605504587156
       ]
     },
     {
@@ -7040,8 +7040,8 @@ const features = {
       "user": "Ashutosh ",
       "label": "clock",
       "point": [
-        270,
-        257
+        0.2675760755508919,
+        0.555045871559633
       ]
     },
     {
@@ -7050,8 +7050,8 @@ const features = {
       "user": "kholid",
       "label": "car",
       "point": [
-        298,
-        342
+        0.2969569779643232,
+        0.75
       ]
     },
     {
@@ -7060,8 +7060,8 @@ const features = {
       "user": "kholid",
       "label": "fish",
       "point": [
-        259,
-        127
+        0.25603357817418676,
+        0.25688073394495414
       ]
     },
     {
@@ -7070,8 +7070,8 @@ const features = {
       "user": "kholid",
       "label": "house",
       "point": [
-        205,
-        258
+        0.1993704092339979,
+        0.5573394495412844
       ]
     },
     {
@@ -7080,8 +7080,8 @@ const features = {
       "user": "kholid",
       "label": "tree",
       "point": [
-        231,
-        296
+        0.2266526757607555,
+        0.6444954128440367
       ]
     },
     {
@@ -7090,8 +7090,8 @@ const features = {
       "user": "kholid",
       "label": "bicycle",
       "point": [
-        199,
-        139
+        0.1930745015739769,
+        0.28440366972477066
       ]
     },
     {
@@ -7100,8 +7100,8 @@ const features = {
       "user": "kholid",
       "label": "guitar",
       "point": [
-        252,
-        244
+        0.24868835257082897,
+        0.5252293577981652
       ]
     },
     {
@@ -7110,8 +7110,8 @@ const features = {
       "user": "kholid",
       "label": "pencil",
       "point": [
-        42,
-        191
+        0.02833158447009444,
+        0.4036697247706422
       ]
     },
     {
@@ -7120,8 +7120,8 @@ const features = {
       "user": "kholid",
       "label": "clock",
       "point": [
-        165,
-        198
+        0.15739769150052466,
+        0.4197247706422018
       ]
     },
     {
@@ -7130,8 +7130,8 @@ const features = {
       "user": "Ricardo ",
       "label": "car",
       "point": [
-        256,
-        242
+        0.2528856243441763,
+        0.5206422018348624
       ]
     },
     {
@@ -7140,8 +7140,8 @@ const features = {
       "user": "Ricardo ",
       "label": "fish",
       "point": [
-        258,
-        314
+        0.25498426023084997,
+        0.6857798165137615
       ]
     },
     {
@@ -7150,8 +7150,8 @@ const features = {
       "user": "Ricardo ",
       "label": "house",
       "point": [
-        266,
-        240
+        0.2633788037775446,
+        0.5160550458715596
       ]
     },
     {
@@ -7160,8 +7160,8 @@ const features = {
       "user": "Ricardo ",
       "label": "tree",
       "point": [
-        183,
-        233
+        0.17628541448058763,
+        0.5
       ]
     },
     {
@@ -7170,8 +7170,8 @@ const features = {
       "user": "Ricardo ",
       "label": "bicycle",
       "point": [
-        193,
-        142
+        0.18677859391395593,
+        0.29128440366972475
       ]
     },
     {
@@ -7180,8 +7180,8 @@ const features = {
       "user": "Ricardo ",
       "label": "guitar",
       "point": [
-        253,
-        227
+        0.2497376705141658,
+        0.48623853211009177
       ]
     },
     {
@@ -7190,8 +7190,8 @@ const features = {
       "user": "Ricardo ",
       "label": "pencil",
       "point": [
-        66,
-        247
+        0.053515215110178385,
+        0.5321100917431193
       ]
     },
     {
@@ -7200,8 +7200,8 @@ const features = {
       "user": "Ricardo ",
       "label": "clock",
       "point": [
-        154,
-        197
+        0.1458551941238195,
+        0.41743119266055045
       ]
     },
     {
@@ -7210,8 +7210,8 @@ const features = {
       "user": "Dani",
       "label": "car",
       "point": [
-        190,
-        119
+        0.18363064008394545,
+        0.23853211009174313
       ]
     },
     {
@@ -7220,8 +7220,8 @@ const features = {
       "user": "Dani",
       "label": "fish",
       "point": [
-        152,
-        115
+        0.14375655823714587,
+        0.22935779816513763
       ]
     },
     {
@@ -7230,8 +7230,8 @@ const features = {
       "user": "Dani",
       "label": "house",
       "point": [
-        228,
-        178
+        0.22350472193074503,
+        0.3738532110091743
       ]
     },
     {
@@ -7240,8 +7240,8 @@ const features = {
       "user": "Dani",
       "label": "tree",
       "point": [
-        95,
-        294
+        0.08394543546694648,
+        0.6399082568807339
       ]
     },
     {
@@ -7250,8 +7250,8 @@ const features = {
       "user": "Dani",
       "label": "bicycle",
       "point": [
-        168,
-        197
+        0.16054564533053514,
+        0.41743119266055045
       ]
     },
     {
@@ -7260,8 +7260,8 @@ const features = {
       "user": "Dani",
       "label": "guitar",
       "point": [
-        157,
-        277
+        0.14900314795383002,
+        0.6009174311926605
       ]
     },
     {
@@ -7270,8 +7270,8 @@ const features = {
       "user": "Dani",
       "label": "pencil",
       "point": [
-        165,
-        278
+        0.15739769150052466,
+        0.6032110091743119
       ]
     },
     {
@@ -7280,8 +7280,8 @@ const features = {
       "user": "Dani",
       "label": "clock",
       "point": [
-        142,
-        169
+        0.13326337880377753,
+        0.3532110091743119
       ]
     },
     {
@@ -7290,8 +7290,8 @@ const features = {
       "user": "Vaibhav Gupta",
       "label": "car",
       "point": [
-        286,
-        128
+        0.28436516264428124,
+        0.2591743119266055
       ]
     },
     {
@@ -7300,8 +7300,8 @@ const features = {
       "user": "Vaibhav Gupta",
       "label": "fish",
       "point": [
-        247,
-        134
+        0.24344176285414482,
+        0.27293577981651373
       ]
     },
     {
@@ -7310,8 +7310,8 @@ const features = {
       "user": "Vaibhav Gupta",
       "label": "house",
       "point": [
-        287,
-        255
+        0.28541448058761804,
+        0.5504587155963303
       ]
     },
     {
@@ -7320,8 +7320,8 @@ const features = {
       "user": "Vaibhav Gupta",
       "label": "tree",
       "point": [
-        288,
-        284
+        0.2864637985309549,
+        0.6169724770642202
       ]
     },
     {
@@ -7330,8 +7330,8 @@ const features = {
       "user": "Vaibhav Gupta",
       "label": "bicycle",
       "point": [
-        286,
-        229
+        0.28436516264428124,
+        0.4908256880733945
       ]
     },
     {
@@ -7340,8 +7340,8 @@ const features = {
       "user": "Vaibhav Gupta",
       "label": "guitar",
       "point": [
-        307,
-        190
+        0.30640083945435465,
+        0.4013761467889908
       ]
     },
     {
@@ -7350,8 +7350,8 @@ const features = {
       "user": "Vaibhav Gupta",
       "label": "pencil",
       "point": [
-        68,
-        247
+        0.055613850996852045,
+        0.5321100917431193
       ]
     },
     {
@@ -7360,8 +7360,8 @@ const features = {
       "user": "Vaibhav Gupta",
       "label": "clock",
       "point": [
-        293,
-        216
+        0.291710388247639,
+        0.4610091743119266
       ]
     },
     {
@@ -7370,8 +7370,8 @@ const features = {
       "user": "mayank ",
       "label": "car",
       "point": [
-        341,
-        145
+        0.34207764952780695,
+        0.2981651376146789
       ]
     },
     {
@@ -7380,8 +7380,8 @@ const features = {
       "user": "mayank ",
       "label": "fish",
       "point": [
-        270,
-        267
+        0.2675760755508919,
+        0.5779816513761468
       ]
     },
     {
@@ -7390,8 +7390,8 @@ const features = {
       "user": "mayank ",
       "label": "house",
       "point": [
-        235,
-        307
+        0.23084994753410285,
+        0.6697247706422018
       ]
     },
     {
@@ -7400,8 +7400,8 @@ const features = {
       "user": "mayank ",
       "label": "tree",
       "point": [
-        284,
-        362
+        0.28226652675760755,
+        0.7958715596330275
       ]
     },
     {
@@ -7410,8 +7410,8 @@ const features = {
       "user": "mayank ",
       "label": "bicycle",
       "point": [
-        323,
-        216
+        0.323189926547744,
+        0.4610091743119266
       ]
     },
     {
@@ -7420,8 +7420,8 @@ const features = {
       "user": "mayank ",
       "label": "guitar",
       "point": [
-        302,
-        287
+        0.3011542497376705,
+        0.6238532110091743
       ]
     },
     {
@@ -7430,8 +7430,8 @@ const features = {
       "user": "mayank ",
       "label": "pencil",
       "point": [
-        255,
-        273
+        0.2518363064008394,
+        0.591743119266055
       ]
     },
     {
@@ -7440,8 +7440,8 @@ const features = {
       "user": "mayank ",
       "label": "clock",
       "point": [
-        267,
-        252
+        0.2644281217208814,
+        0.5435779816513762
       ]
     },
     {
@@ -7450,8 +7450,8 @@ const features = {
       "user": "az",
       "label": "car",
       "point": [
-        235,
-        81
+        0.23084994753410285,
+        0.15137614678899083
       ]
     },
     {
@@ -7460,8 +7460,8 @@ const features = {
       "user": "az",
       "label": "fish",
       "point": [
-        221,
-        98
+        0.2161594963273872,
+        0.19036697247706422
       ]
     },
     {
@@ -7470,8 +7470,8 @@ const features = {
       "user": "az",
       "label": "house",
       "point": [
-        226,
-        184
+        0.22140608604407136,
+        0.3876146788990826
       ]
     },
     {
@@ -7480,8 +7480,8 @@ const features = {
       "user": "az",
       "label": "tree",
       "point": [
-        354,
-        337
+        0.35571878279118574,
+        0.7385321100917431
       ]
     },
     {
@@ -7490,8 +7490,8 @@ const features = {
       "user": "az",
       "label": "bicycle",
       "point": [
-        317,
-        158
+        0.316894018887723,
+        0.32798165137614677
       ]
     },
     {
@@ -7500,8 +7500,8 @@ const features = {
       "user": "az",
       "label": "guitar",
       "point": [
-        354,
-        117
+        0.35571878279118574,
+        0.23394495412844038
       ]
     },
     {
@@ -7510,8 +7510,8 @@ const features = {
       "user": "az",
       "label": "pencil",
       "point": [
-        162,
-        356
+        0.15424973767051417,
+        0.7821100917431193
       ]
     },
     {
@@ -7520,8 +7520,8 @@ const features = {
       "user": "az",
       "label": "clock",
       "point": [
-        97,
-        107
+        0.08604407135362015,
+        0.21100917431192662
       ]
     },
     {
@@ -7530,8 +7530,8 @@ const features = {
       "user": "Pesterenan",
       "label": "car",
       "point": [
-        305,
-        141
+        0.304302203567681,
+        0.2889908256880734
       ]
     },
     {
@@ -7540,8 +7540,8 @@ const features = {
       "user": "Pesterenan",
       "label": "fish",
       "point": [
-        247,
-        194
+        0.24344176285414482,
+        0.4105504587155963
       ]
     },
     {
@@ -7550,8 +7550,8 @@ const features = {
       "user": "Pesterenan",
       "label": "house",
       "point": [
-        257,
-        257
+        0.2539349422875131,
+        0.555045871559633
       ]
     },
     {
@@ -7560,8 +7560,8 @@ const features = {
       "user": "Pesterenan",
       "label": "tree",
       "point": [
-        282,
-        335
+        0.2801678908709339,
+        0.7339449541284404
       ]
     },
     {
@@ -7570,8 +7570,8 @@ const features = {
       "user": "Pesterenan",
       "label": "bicycle",
       "point": [
-        258,
-        158
+        0.25498426023084997,
+        0.32798165137614677
       ]
     },
     {
@@ -7580,8 +7580,8 @@ const features = {
       "user": "Pesterenan",
       "label": "guitar",
       "point": [
-        303,
-        248
+        0.30220356768100737,
+        0.5344036697247706
       ]
     },
     {
@@ -7590,8 +7590,8 @@ const features = {
       "user": "Pesterenan",
       "label": "pencil",
       "point": [
-        189,
-        285
+        0.1825813221406086,
+        0.6192660550458715
       ]
     },
     {
@@ -7600,8 +7600,8 @@ const features = {
       "user": "Pesterenan",
       "label": "clock",
       "point": [
-        109,
-        109
+        0.09863588667366212,
+        0.21559633027522937
       ]
     },
     {
@@ -7610,8 +7610,8 @@ const features = {
       "user": "alireza",
       "label": "car",
       "point": [
-        260,
-        125
+        0.2570828961175236,
+        0.25229357798165136
       ]
     },
     {
@@ -7620,8 +7620,8 @@ const features = {
       "user": "alireza",
       "label": "fish",
       "point": [
-        323,
-        211
+        0.323189926547744,
+        0.44954128440366975
       ]
     },
     {
@@ -7630,8 +7630,8 @@ const features = {
       "user": "alireza",
       "label": "house",
       "point": [
-        211,
-        250
+        0.20566631689401887,
+        0.5389908256880734
       ]
     },
     {
@@ -7640,8 +7640,8 @@ const features = {
       "user": "alireza",
       "label": "tree",
       "point": [
-        345,
-        377
+        0.3462749213011542,
+        0.8302752293577982
       ]
     },
     {
@@ -7650,8 +7650,8 @@ const features = {
       "user": "alireza",
       "label": "bicycle",
       "point": [
-        233,
-        135
+        0.22875131164742918,
+        0.27522935779816515
       ]
     },
     {
@@ -7660,8 +7660,8 @@ const features = {
       "user": "alireza",
       "label": "guitar",
       "point": [
-        254,
-        271
+        0.25078698845750264,
+        0.5871559633027523
       ]
     },
     {
@@ -7670,8 +7670,8 @@ const features = {
       "user": "alireza",
       "label": "pencil",
       "point": [
-        195,
-        204
+        0.1888772298006296,
+        0.4334862385321101
       ]
     },
     {
@@ -7680,8 +7680,8 @@ const features = {
       "user": "alireza",
       "label": "clock",
       "point": [
-        181,
-        326
+        0.17418677859391396,
+        0.713302752293578
       ]
     },
     {
@@ -7690,8 +7690,8 @@ const features = {
       "user": "John D'Oeuf",
       "label": "car",
       "point": [
-        285,
-        74
+        0.2833158447009444,
+        0.1353211009174312
       ]
     },
     {
@@ -7700,8 +7700,8 @@ const features = {
       "user": "John D'Oeuf",
       "label": "fish",
       "point": [
-        203,
-        80
+        0.19727177334732424,
+        0.14908256880733944
       ]
     },
     {
@@ -7710,8 +7710,8 @@ const features = {
       "user": "John D'Oeuf",
       "label": "house",
       "point": [
-        145,
-        233
+        0.13641133263378805,
+        0.5
       ]
     },
     {
@@ -7720,8 +7720,8 @@ const features = {
       "user": "John D'Oeuf",
       "label": "tree",
       "point": [
-        175,
-        354
+        0.16789087093389296,
+        0.7775229357798165
       ]
     },
     {
@@ -7730,8 +7730,8 @@ const features = {
       "user": "John D'Oeuf",
       "label": "bicycle",
       "point": [
-        273,
-        156
+        0.2707240293809024,
+        0.32339449541284404
       ]
     },
     {
@@ -7740,8 +7740,8 @@ const features = {
       "user": "John D'Oeuf",
       "label": "guitar",
       "point": [
-        148,
-        310
+        0.13955928646379853,
+        0.676605504587156
       ]
     },
     {
@@ -7750,8 +7750,8 @@ const features = {
       "user": "John D'Oeuf",
       "label": "pencil",
       "point": [
-        300,
-        271
+        0.2990556138509968,
+        0.5871559633027523
       ]
     },
     {
@@ -7760,8 +7760,8 @@ const features = {
       "user": "John D'Oeuf",
       "label": "clock",
       "point": [
-        270,
-        170
+        0.2675760755508919,
+        0.3555045871559633
       ]
     },
     {
@@ -7770,8 +7770,8 @@ const features = {
       "user": "Bren",
       "label": "car",
       "point": [
-        374,
-        139
+        0.37670514165792235,
+        0.28440366972477066
       ]
     },
     {
@@ -7780,8 +7780,8 @@ const features = {
       "user": "Bren",
       "label": "fish",
       "point": [
-        318,
-        204
+        0.3179433368310598,
+        0.4334862385321101
       ]
     },
     {
@@ -7790,8 +7790,8 @@ const features = {
       "user": "Bren",
       "label": "house",
       "point": [
-        397,
-        364
+        0.40083945435466944,
+        0.8004587155963303
       ]
     },
     {
@@ -7800,8 +7800,8 @@ const features = {
       "user": "Bren",
       "label": "tree",
       "point": [
-        397,
-        299
+        0.40083945435466944,
+        0.6513761467889908
       ]
     },
     {
@@ -7810,8 +7810,8 @@ const features = {
       "user": "Bren",
       "label": "bicycle",
       "point": [
-        363,
-        210
+        0.3651626442812172,
+        0.44724770642201833
       ]
     },
     {
@@ -7820,8 +7820,8 @@ const features = {
       "user": "Bren",
       "label": "guitar",
       "point": [
-        345,
-        334
+        0.3462749213011542,
+        0.731651376146789
       ]
     },
     {
@@ -7830,8 +7830,8 @@ const features = {
       "user": "Bren",
       "label": "pencil",
       "point": [
-        221,
-        305
+        0.2161594963273872,
+        0.6651376146788991
       ]
     },
     {
@@ -7840,8 +7840,8 @@ const features = {
       "user": "Bren",
       "label": "clock",
       "point": [
-        265,
-        266
+        0.2623294858342078,
+        0.5756880733944955
       ]
     },
     {
@@ -7850,8 +7850,8 @@ const features = {
       "user": "klk con klk",
       "label": "car",
       "point": [
-        183,
-        107
+        0.17628541448058763,
+        0.21100917431192662
       ]
     },
     {
@@ -7860,8 +7860,8 @@ const features = {
       "user": "klk con klk",
       "label": "fish",
       "point": [
-        227,
-        134
+        0.22245540398740818,
+        0.27293577981651373
       ]
     },
     {
@@ -7870,8 +7870,8 @@ const features = {
       "user": "klk con klk",
       "label": "house",
       "point": [
-        291,
-        346
+        0.28961175236096537,
+        0.7591743119266054
       ]
     },
     {
@@ -7880,8 +7880,8 @@ const features = {
       "user": "klk con klk",
       "label": "tree",
       "point": [
-        274,
-        317
+        0.27177334732423925,
+        0.6926605504587156
       ]
     },
     {
@@ -7890,8 +7890,8 @@ const features = {
       "user": "klk con klk",
       "label": "bicycle",
       "point": [
-        290,
-        180
+        0.2885624344176285,
+        0.37844036697247707
       ]
     },
     {
@@ -7900,8 +7900,8 @@ const features = {
       "user": "klk con klk",
       "label": "guitar",
       "point": [
-        155,
-        219
+        0.14690451206715635,
+        0.46788990825688076
       ]
     },
     {
@@ -7910,8 +7910,8 @@ const features = {
       "user": "klk con klk",
       "label": "pencil",
       "point": [
-        162,
-        231
+        0.15424973767051417,
+        0.4954128440366973
       ]
     },
     {
@@ -7920,8 +7920,8 @@ const features = {
       "user": "klk con klk",
       "label": "clock",
       "point": [
-        148,
-        179
+        0.13955928646379853,
+        0.3761467889908257
       ]
     },
     {
@@ -7930,8 +7930,8 @@ const features = {
       "user": "Volodymyr",
       "label": "car",
       "point": [
-        275,
-        90
+        0.2728226652675761,
+        0.1720183486238532
       ]
     },
     {
@@ -7940,8 +7940,8 @@ const features = {
       "user": "Volodymyr",
       "label": "fish",
       "point": [
-        266,
-        83
+        0.2633788037775446,
+        0.1559633027522936
       ]
     },
     {
@@ -7950,8 +7950,8 @@ const features = {
       "user": "Volodymyr",
       "label": "house",
       "point": [
-        332,
-        279
+        0.33263378803777544,
+        0.6055045871559633
       ]
     },
     {
@@ -7960,8 +7960,8 @@ const features = {
       "user": "Volodymyr",
       "label": "tree",
       "point": [
-        271,
-        298
+        0.26862539349422876,
+        0.6490825688073395
       ]
     },
     {
@@ -7970,8 +7970,8 @@ const features = {
       "user": "Volodymyr",
       "label": "bicycle",
       "point": [
-        236,
-        89
+        0.23189926547743966,
+        0.16972477064220184
       ]
     },
     {
@@ -7980,8 +7980,8 @@ const features = {
       "user": "Volodymyr",
       "label": "guitar",
       "point": [
-        293,
-        57
+        0.291710388247639,
+        0.0963302752293578
       ]
     },
     {
@@ -7990,8 +7990,8 @@ const features = {
       "user": "Volodymyr",
       "label": "pencil",
       "point": [
-        24,
-        211
+        0.00944386149003148,
+        0.44954128440366975
       ]
     },
     {
@@ -8000,8 +8000,8 @@ const features = {
       "user": "Volodymyr",
       "label": "clock",
       "point": [
-        195,
-        193
+        0.1888772298006296,
+        0.40825688073394495
       ]
     },
     {
@@ -8010,8 +8010,8 @@ const features = {
       "user": "Adarsh ",
       "label": "car",
       "point": [
-        208,
-        206
+        0.2025183630640084,
+        0.4380733944954128
       ]
     },
     {
@@ -8020,8 +8020,8 @@ const features = {
       "user": "Adarsh ",
       "label": "fish",
       "point": [
-        227,
-        258
+        0.22245540398740818,
+        0.5573394495412844
       ]
     },
     {
@@ -8030,8 +8030,8 @@ const features = {
       "user": "Adarsh ",
       "label": "house",
       "point": [
-        222,
-        278
+        0.21720881427072403,
+        0.6032110091743119
       ]
     },
     {
@@ -8040,8 +8040,8 @@ const features = {
       "user": "Adarsh ",
       "label": "tree",
       "point": [
-        145,
-        247
+        0.13641133263378805,
+        0.5321100917431193
       ]
     },
     {
@@ -8050,8 +8050,8 @@ const features = {
       "user": "Adarsh ",
       "label": "bicycle",
       "point": [
-        142,
-        276
+        0.13326337880377753,
+        0.5986238532110092
       ]
     },
     {
@@ -8060,8 +8060,8 @@ const features = {
       "user": "Adarsh ",
       "label": "guitar",
       "point": [
-        275,
-        318
+        0.2728226652675761,
+        0.694954128440367
       ]
     },
     {
@@ -8070,8 +8070,8 @@ const features = {
       "user": "Adarsh ",
       "label": "pencil",
       "point": [
-        254,
-        253
+        0.25078698845750264,
+        0.5458715596330275
       ]
     },
     {
@@ -8080,8 +8080,8 @@ const features = {
       "user": "Adarsh ",
       "label": "clock",
       "point": [
-        234,
-        234
+        0.229800629590766,
+        0.5022935779816514
       ]
     },
     {
@@ -8090,8 +8090,8 @@ const features = {
       "user": "‍‍‍‍‍",
       "label": "car",
       "point": [
-        350,
-        218
+        0.3515215110178384,
+        0.46559633027522934
       ]
     },
     {
@@ -8100,8 +8100,8 @@ const features = {
       "user": "‍‍‍‍‍",
       "label": "fish",
       "point": [
-        196,
-        144
+        0.18992654774396642,
+        0.2958715596330275
       ]
     },
     {
@@ -8110,8 +8110,8 @@ const features = {
       "user": "‍‍‍‍‍",
       "label": "house",
       "point": [
-        222,
-        241
+        0.21720881427072403,
+        0.518348623853211
       ]
     },
     {
@@ -8120,8 +8120,8 @@ const features = {
       "user": "‍‍‍‍‍",
       "label": "tree",
       "point": [
-        313,
-        317
+        0.3126967471143757,
+        0.6926605504587156
       ]
     },
     {
@@ -8130,8 +8130,8 @@ const features = {
       "user": "‍‍‍‍‍",
       "label": "bicycle",
       "point": [
-        288,
-        249
+        0.2864637985309549,
+        0.536697247706422
       ]
     },
     {
@@ -8140,8 +8140,8 @@ const features = {
       "user": "‍‍‍‍‍",
       "label": "guitar",
       "point": [
-        191,
-        260
+        0.18467995802728226,
+        0.5619266055045872
       ]
     },
     {
@@ -8150,8 +8150,8 @@ const features = {
       "user": "‍‍‍‍‍",
       "label": "pencil",
       "point": [
-        102,
-        173
+        0.0912906610703043,
+        0.3623853211009174
       ]
     },
     {
@@ -8160,8 +8160,8 @@ const features = {
       "user": "‍‍‍‍‍",
       "label": "clock",
       "point": [
-        289,
-        315
+        0.28751311647429173,
+        0.6880733944954128
       ]
     },
     {
@@ -8170,8 +8170,8 @@ const features = {
       "user": "Tintin",
       "label": "car",
       "point": [
-        287,
-        171
+        0.28541448058761804,
+        0.3577981651376147
       ]
     },
     {
@@ -8180,8 +8180,8 @@ const features = {
       "user": "Tintin",
       "label": "fish",
       "point": [
-        293,
-        154
+        0.291710388247639,
+        0.31880733944954126
       ]
     },
     {
@@ -8190,8 +8190,8 @@ const features = {
       "user": "Tintin",
       "label": "house",
       "point": [
-        291,
-        208
+        0.28961175236096537,
+        0.4426605504587156
       ]
     },
     {
@@ -8200,8 +8200,8 @@ const features = {
       "user": "Tintin",
       "label": "tree",
       "point": [
-        330,
-        328
+        0.3305351521511018,
+        0.7178899082568807
       ]
     },
     {
@@ -8210,8 +8210,8 @@ const features = {
       "user": "Tintin",
       "label": "bicycle",
       "point": [
-        285,
-        239
+        0.2833158447009444,
+        0.5137614678899083
       ]
     },
     {
@@ -8220,8 +8220,8 @@ const features = {
       "user": "Tintin",
       "label": "guitar",
       "point": [
-        401,
-        342
+        0.4050367261280168,
+        0.75
       ]
     },
     {
@@ -8230,8 +8230,8 @@ const features = {
       "user": "Tintin",
       "label": "pencil",
       "point": [
-        324,
-        288
+        0.3242392444910808,
+        0.6261467889908257
       ]
     },
     {
@@ -8240,8 +8240,8 @@ const features = {
       "user": "Tintin",
       "label": "clock",
       "point": [
-        258,
-        269
+        0.25498426023084997,
+        0.5825688073394495
       ]
     },
     {
@@ -8250,8 +8250,8 @@ const features = {
       "user": "dragonreaper",
       "label": "car",
       "point": [
-        232,
-        139
+        0.22770199370409233,
+        0.28440366972477066
       ]
     },
     {
@@ -8260,8 +8260,8 @@ const features = {
       "user": "dragonreaper",
       "label": "fish",
       "point": [
-        231,
-        146
+        0.2266526757607555,
+        0.30045871559633025
       ]
     },
     {
@@ -8270,8 +8270,8 @@ const features = {
       "user": "dragonreaper",
       "label": "house",
       "point": [
-        255,
-        251
+        0.2518363064008394,
+        0.5412844036697247
       ]
     },
     {
@@ -8280,8 +8280,8 @@ const features = {
       "user": "dragonreaper",
       "label": "tree",
       "point": [
-        339,
-        370
+        0.33997901364113325,
+        0.8142201834862385
       ]
     },
     {
@@ -8290,8 +8290,8 @@ const features = {
       "user": "dragonreaper",
       "label": "bicycle",
       "point": [
-        330,
-        230
+        0.3305351521511018,
+        0.49311926605504586
       ]
     },
     {
@@ -8300,8 +8300,8 @@ const features = {
       "user": "dragonreaper",
       "label": "guitar",
       "point": [
-        168,
-        381
+        0.16054564533053514,
+        0.8394495412844036
       ]
     },
     {
@@ -8310,8 +8310,8 @@ const features = {
       "user": "dragonreaper",
       "label": "pencil",
       "point": [
-        31,
-        344
+        0.016789087093389297,
+        0.7545871559633027
       ]
     },
     {
@@ -8320,8 +8320,8 @@ const features = {
       "user": "dragonreaper",
       "label": "clock",
       "point": [
-        242,
-        284
+        0.23819517313746066,
+        0.6169724770642202
       ]
     },
     {
@@ -8330,8 +8330,8 @@ const features = {
       "user": "Thomas",
       "label": "car",
       "point": [
-        298,
-        124
+        0.2969569779643232,
+        0.25
       ]
     },
     {
@@ -8340,8 +8340,8 @@ const features = {
       "user": "Thomas",
       "label": "fish",
       "point": [
-        318,
-        146
+        0.3179433368310598,
+        0.30045871559633025
       ]
     },
     {
@@ -8350,8 +8350,8 @@ const features = {
       "user": "Thomas",
       "label": "house",
       "point": [
-        319,
-        292
+        0.31899265477439664,
+        0.6353211009174312
       ]
     },
     {
@@ -8360,8 +8360,8 @@ const features = {
       "user": "Thomas",
       "label": "tree",
       "point": [
-        305,
-        374
+        0.304302203567681,
+        0.823394495412844
       ]
     },
     {
@@ -8370,8 +8370,8 @@ const features = {
       "user": "Thomas",
       "label": "bicycle",
       "point": [
-        292,
-        166
+        0.2906610703043022,
+        0.3463302752293578
       ]
     },
     {
@@ -8380,8 +8380,8 @@ const features = {
       "user": "Thomas",
       "label": "guitar",
       "point": [
-        378,
-        342
+        0.3809024134312697,
+        0.75
       ]
     },
     {
@@ -8390,8 +8390,8 @@ const features = {
       "user": "Thomas",
       "label": "pencil",
       "point": [
-        121,
-        308
+        0.11122770199370409,
+        0.6720183486238532
       ]
     },
     {
@@ -8400,8 +8400,8 @@ const features = {
       "user": "Thomas",
       "label": "clock",
       "point": [
-        268,
-        304
+        0.2654774396642183,
+        0.6628440366972477
       ]
     },
     {
@@ -8410,8 +8410,8 @@ const features = {
       "user": "Wiktor",
       "label": "car",
       "point": [
-        171,
-        98
+        0.16369359916054566,
+        0.19036697247706422
       ]
     },
     {
@@ -8420,8 +8420,8 @@ const features = {
       "user": "Wiktor",
       "label": "fish",
       "point": [
-        145,
-        97
+        0.13641133263378805,
+        0.18807339449541285
       ]
     },
     {
@@ -8430,8 +8430,8 @@ const features = {
       "user": "Wiktor",
       "label": "house",
       "point": [
-        156,
-        181
+        0.14795383001049317,
+        0.38073394495412843
       ]
     },
     {
@@ -8440,8 +8440,8 @@ const features = {
       "user": "Wiktor",
       "label": "tree",
       "point": [
-        198,
-        217
+        0.19202518363064008,
+        0.463302752293578
       ]
     },
     {
@@ -8450,8 +8450,8 @@ const features = {
       "user": "Wiktor",
       "label": "bicycle",
       "point": [
-        101,
-        76
+        0.09024134312696747,
+        0.13990825688073394
       ]
     },
     {
@@ -8460,8 +8460,8 @@ const features = {
       "user": "Wiktor",
       "label": "guitar",
       "point": [
-        272,
-        229
+        0.2696747114375656,
+        0.4908256880733945
       ]
     },
     {
@@ -8470,8 +8470,8 @@ const features = {
       "user": "Wiktor",
       "label": "pencil",
       "point": [
-        98,
-        64
+        0.08709338929695698,
+        0.11238532110091744
       ]
     },
     {
@@ -8480,8 +8480,8 @@ const features = {
       "user": "Wiktor",
       "label": "clock",
       "point": [
-        195,
-        166
+        0.1888772298006296,
+        0.3463302752293578
       ]
     },
     {
@@ -8490,8 +8490,8 @@ const features = {
       "user": "Jane",
       "label": "car",
       "point": [
-        199,
-        71
+        0.1930745015739769,
+        0.12844036697247707
       ]
     },
     {
@@ -8500,8 +8500,8 @@ const features = {
       "user": "Jane",
       "label": "fish",
       "point": [
-        244,
-        124
+        0.2402938090241343,
+        0.25
       ]
     },
     {
@@ -8510,8 +8510,8 @@ const features = {
       "user": "Jane",
       "label": "house",
       "point": [
-        190,
-        192
+        0.18363064008394545,
+        0.4059633027522936
       ]
     },
     {
@@ -8520,8 +8520,8 @@ const features = {
       "user": "Jane",
       "label": "tree",
       "point": [
-        192,
-        253
+        0.18572927597061908,
+        0.5458715596330275
       ]
     },
     {
@@ -8530,8 +8530,8 @@ const features = {
       "user": "Jane",
       "label": "bicycle",
       "point": [
-        250,
-        173
+        0.2465897166841553,
+        0.3623853211009174
       ]
     },
     {
@@ -8540,8 +8540,8 @@ const features = {
       "user": "Jane",
       "label": "guitar",
       "point": [
-        165,
-        362
+        0.15739769150052466,
+        0.7958715596330275
       ]
     },
     {
@@ -8550,8 +8550,8 @@ const features = {
       "user": "Jane",
       "label": "pencil",
       "point": [
-        50,
-        245
+        0.03672612801678909,
+        0.5275229357798165
       ]
     },
     {
@@ -8560,8 +8560,8 @@ const features = {
       "user": "Jane",
       "label": "clock",
       "point": [
-        237,
-        226
+        0.23294858342077648,
+        0.48394495412844035
       ]
     },
     {
@@ -8570,8 +8570,8 @@ const features = {
       "user": "Bibek Gyawali",
       "label": "car",
       "point": [
-        144,
-        91
+        0.1353620146904512,
+        0.1743119266055046
       ]
     },
     {
@@ -8580,8 +8580,8 @@ const features = {
       "user": "Bibek Gyawali",
       "label": "fish",
       "point": [
-        150,
-        96
+        0.1416579223504722,
+        0.18577981651376146
       ]
     },
     {
@@ -8590,8 +8590,8 @@ const features = {
       "user": "Bibek Gyawali",
       "label": "house",
       "point": [
-        135,
-        127
+        0.1259181532004197,
+        0.25688073394495414
       ]
     },
     {
@@ -8600,8 +8600,8 @@ const features = {
       "user": "Bibek Gyawali",
       "label": "tree",
       "point": [
-        107,
-        132
+        0.09653725078698845,
+        0.268348623853211
       ]
     },
     {
@@ -8610,8 +8610,8 @@ const features = {
       "user": "Bibek Gyawali",
       "label": "bicycle",
       "point": [
-        136,
-        135
+        0.12696747114375656,
+        0.27522935779816515
       ]
     },
     {
@@ -8620,8 +8620,8 @@ const features = {
       "user": "Bibek Gyawali",
       "label": "guitar",
       "point": [
-        256,
-        79
+        0.2528856243441763,
+        0.14678899082568808
       ]
     },
     {
@@ -8630,8 +8630,8 @@ const features = {
       "user": "Bibek Gyawali",
       "label": "pencil",
       "point": [
-        41,
-        164
+        0.02728226652675761,
+        0.34174311926605505
       ]
     },
     {
@@ -8640,8 +8640,8 @@ const features = {
       "user": "Bibek Gyawali",
       "label": "clock",
       "point": [
-        130,
-        120
+        0.12067156348373557,
+        0.2408256880733945
       ]
     },
     {
@@ -8650,8 +8650,8 @@ const features = {
       "user": "Mandy23",
       "label": "car",
       "point": [
-        330,
-        170
+        0.3305351521511018,
+        0.3555045871559633
       ]
     },
     {
@@ -8660,8 +8660,8 @@ const features = {
       "user": "Mandy23",
       "label": "fish",
       "point": [
-        236,
-        115
+        0.23189926547743966,
+        0.22935779816513763
       ]
     },
     {
@@ -8670,8 +8670,8 @@ const features = {
       "user": "Mandy23",
       "label": "house",
       "point": [
-        359,
-        291
+        0.36096537250786986,
+        0.6330275229357798
       ]
     },
     {
@@ -8680,8 +8680,8 @@ const features = {
       "user": "Mandy23",
       "label": "tree",
       "point": [
-        296,
-        284
+        0.29485834207764955,
+        0.6169724770642202
       ]
     },
     {
@@ -8690,8 +8690,8 @@ const features = {
       "user": "Mandy23",
       "label": "bicycle",
       "point": [
-        287,
-        174
+        0.28541448058761804,
+        0.3646788990825688
       ]
     },
     {
@@ -8700,8 +8700,8 @@ const features = {
       "user": "Mandy23",
       "label": "guitar",
       "point": [
-        360,
-        217
+        0.3620146904512067,
+        0.463302752293578
       ]
     },
     {
@@ -8710,8 +8710,8 @@ const features = {
       "user": "Mandy23",
       "label": "pencil",
       "point": [
-        169,
-        228
+        0.161594963273872,
+        0.48853211009174313
       ]
     },
     {
@@ -8720,8 +8720,8 @@ const features = {
       "user": "Mandy23",
       "label": "clock",
       "point": [
-        194,
-        318
+        0.18782791185729275,
+        0.694954128440367
       ]
     },
     {
@@ -8730,8 +8730,8 @@ const features = {
       "user": "Kirru",
       "label": "car",
       "point": [
-        260,
-        136
+        0.2570828961175236,
+        0.2775229357798165
       ]
     },
     {
@@ -8740,8 +8740,8 @@ const features = {
       "user": "Kirru",
       "label": "fish",
       "point": [
-        214,
-        132
+        0.2088142707240294,
+        0.268348623853211
       ]
     },
     {
@@ -8750,8 +8750,8 @@ const features = {
       "user": "Kirru",
       "label": "house",
       "point": [
-        385,
-        355
+        0.3882476390346275,
+        0.7798165137614679
       ]
     },
     {
@@ -8760,8 +8760,8 @@ const features = {
       "user": "Kirru",
       "label": "tree",
       "point": [
-        209,
-        278
+        0.20356768100734524,
+        0.6032110091743119
       ]
     },
     {
@@ -8770,8 +8770,8 @@ const features = {
       "user": "Kirru",
       "label": "bicycle",
       "point": [
-        352,
-        288
+        0.35362014690451204,
+        0.6261467889908257
       ]
     },
     {
@@ -8780,8 +8780,8 @@ const features = {
       "user": "Kirru",
       "label": "guitar",
       "point": [
-        234,
-        326
+        0.229800629590766,
+        0.713302752293578
       ]
     },
     {
@@ -8790,8 +8790,8 @@ const features = {
       "user": "Kirru",
       "label": "pencil",
       "point": [
-        49,
-        220
+        0.035676810073452254,
+        0.4701834862385321
       ]
     },
     {
@@ -8800,8 +8800,8 @@ const features = {
       "user": "Kirru",
       "label": "clock",
       "point": [
-        178,
-        223
+        0.17103882476390347,
+        0.47706422018348627
       ]
     },
     {
@@ -8810,8 +8810,8 @@ const features = {
       "user": "Afaque",
       "label": "car",
       "point": [
-        346,
-        300
+        0.3473242392444911,
+        0.6536697247706422
       ]
     },
     {
@@ -8820,8 +8820,8 @@ const features = {
       "user": "Afaque",
       "label": "fish",
       "point": [
-        192,
-        240
+        0.18572927597061908,
+        0.5160550458715596
       ]
     },
     {
@@ -8830,8 +8830,8 @@ const features = {
       "user": "Afaque",
       "label": "house",
       "point": [
-        181,
-        253
+        0.17418677859391396,
+        0.5458715596330275
       ]
     },
     {
@@ -8840,8 +8840,8 @@ const features = {
       "user": "Afaque",
       "label": "tree",
       "point": [
-        263,
-        338
+        0.2602308499475341,
+        0.7408256880733946
       ]
     },
     {
@@ -8850,8 +8850,8 @@ const features = {
       "user": "Afaque",
       "label": "bicycle",
       "point": [
-        299,
-        243
+        0.29800629590766003,
+        0.5229357798165137
       ]
     },
     {
@@ -8860,8 +8860,8 @@ const features = {
       "user": "Afaque",
       "label": "guitar",
       "point": [
-        293,
-        333
+        0.291710388247639,
+        0.7293577981651376
       ]
     },
     {
@@ -8870,8 +8870,8 @@ const features = {
       "user": "Afaque",
       "label": "pencil",
       "point": [
-        224,
-        332
+        0.2193074501573977,
+        0.7270642201834863
       ]
     },
     {
@@ -8880,8 +8880,8 @@ const features = {
       "user": "Afaque",
       "label": "clock",
       "point": [
-        270,
-        277
+        0.2675760755508919,
+        0.6009174311926605
       ]
     },
     {
@@ -8890,8 +8890,8 @@ const features = {
       "user": "bahadır",
       "label": "car",
       "point": [
-        293,
-        187
+        0.291710388247639,
+        0.3944954128440367
       ]
     },
     {
@@ -8900,8 +8900,8 @@ const features = {
       "user": "bahadır",
       "label": "fish",
       "point": [
-        213,
-        167
+        0.20776495278069254,
+        0.3486238532110092
       ]
     },
     {
@@ -8910,8 +8910,8 @@ const features = {
       "user": "bahadır",
       "label": "house",
       "point": [
-        320,
-        319
+        0.3200419727177335,
+        0.6972477064220184
       ]
     },
     {
@@ -8920,8 +8920,8 @@ const features = {
       "user": "bahadır",
       "label": "tree",
       "point": [
-        276,
-        338
+        0.2738719832109129,
+        0.7408256880733946
       ]
     },
     {
@@ -8930,8 +8930,8 @@ const features = {
       "user": "bahadır",
       "label": "bicycle",
       "point": [
-        164,
-        78
+        0.15634837355718784,
+        0.1444954128440367
       ]
     },
     {
@@ -8940,8 +8940,8 @@ const features = {
       "user": "bahadır",
       "label": "guitar",
       "point": [
-        290,
-        198
+        0.2885624344176285,
+        0.4197247706422018
       ]
     },
     {
@@ -8950,8 +8950,8 @@ const features = {
       "user": "bahadır",
       "label": "pencil",
       "point": [
-        18,
-        203
+        0.0031479538300104933,
+        0.43119266055045874
       ]
     },
     {
@@ -8960,8 +8960,8 @@ const features = {
       "user": "bahadır",
       "label": "clock",
       "point": [
-        139,
-        187
+        0.13011542497376705,
+        0.3944954128440367
       ]
     },
     {
@@ -8970,8 +8970,8 @@ const features = {
       "user": "datsi",
       "label": "car",
       "point": [
-        344,
-        159
+        0.34522560335781743,
+        0.3302752293577982
       ]
     },
     {
@@ -8980,8 +8980,8 @@ const features = {
       "user": "datsi",
       "label": "fish",
       "point": [
-        314,
-        119
+        0.31374606505771246,
+        0.23853211009174313
       ]
     },
     {
@@ -8990,8 +8990,8 @@ const features = {
       "user": "datsi",
       "label": "house",
       "point": [
-        187,
-        346
+        0.18048268625393493,
+        0.7591743119266054
       ]
     },
     {
@@ -9000,8 +9000,8 @@ const features = {
       "user": "datsi",
       "label": "tree",
       "point": [
-        183,
-        309
+        0.17628541448058763,
+        0.6743119266055045
       ]
     },
     {
@@ -9010,8 +9010,8 @@ const features = {
       "user": "datsi",
       "label": "bicycle",
       "point": [
-        178,
-        103
+        0.17103882476390347,
+        0.2018348623853211
       ]
     },
     {
@@ -9020,8 +9020,8 @@ const features = {
       "user": "datsi",
       "label": "guitar",
       "point": [
-        320,
-        116
+        0.3200419727177335,
+        0.231651376146789
       ]
     },
     {
@@ -9030,8 +9030,8 @@ const features = {
       "user": "datsi",
       "label": "pencil",
       "point": [
-        273,
-        108
+        0.2707240293809024,
+        0.21330275229357798
       ]
     },
     {
@@ -9040,8 +9040,8 @@ const features = {
       "user": "datsi",
       "label": "clock",
       "point": [
-        187,
-        177
+        0.18048268625393493,
+        0.37155963302752293
       ]
     },
     {
@@ -9050,8 +9050,8 @@ const features = {
       "user": "Jimmy",
       "label": "car",
       "point": [
-        166,
-        110
+        0.1584470094438615,
+        0.21788990825688073
       ]
     },
     {
@@ -9060,8 +9060,8 @@ const features = {
       "user": "Jimmy",
       "label": "fish",
       "point": [
-        127,
-        59
+        0.11752360965372508,
+        0.10091743119266056
       ]
     },
     {
@@ -9070,8 +9070,8 @@ const features = {
       "user": "Jimmy",
       "label": "house",
       "point": [
-        113,
-        169
+        0.10283315844700944,
+        0.3532110091743119
       ]
     },
     {
@@ -9080,8 +9080,8 @@ const features = {
       "user": "Jimmy",
       "label": "tree",
       "point": [
-        200,
-        213
+        0.19412381951731375,
+        0.4541284403669725
       ]
     },
     {
@@ -9090,8 +9090,8 @@ const features = {
       "user": "Jimmy",
       "label": "bicycle",
       "point": [
-        245,
-        173
+        0.24134312696747115,
+        0.3623853211009174
       ]
     },
     {
@@ -9100,8 +9100,8 @@ const features = {
       "user": "Jimmy",
       "label": "guitar",
       "point": [
-        106,
-        267
+        0.09548793284365163,
+        0.5779816513761468
       ]
     },
     {
@@ -9110,8 +9110,8 @@ const features = {
       "user": "Jimmy",
       "label": "pencil",
       "point": [
-        59,
-        230
+        0.046169989506820566,
+        0.49311926605504586
       ]
     },
     {
@@ -9120,8 +9120,8 @@ const features = {
       "user": "Jimmy",
       "label": "clock",
       "point": [
-        292,
-        297
+        0.2906610703043022,
+        0.6467889908256881
       ]
     },
     {
@@ -9130,8 +9130,8 @@ const features = {
       "user": "maraim",
       "label": "car",
       "point": [
-        359,
-        203
+        0.36096537250786986,
+        0.43119266055045874
       ]
     },
     {
@@ -9140,8 +9140,8 @@ const features = {
       "user": "maraim",
       "label": "fish",
       "point": [
-        253,
-        92
+        0.2497376705141658,
+        0.17660550458715596
       ]
     },
     {
@@ -9150,8 +9150,8 @@ const features = {
       "user": "maraim",
       "label": "house",
       "point": [
-        150,
-        239
+        0.1416579223504722,
+        0.5137614678899083
       ]
     },
     {
@@ -9160,8 +9160,8 @@ const features = {
       "user": "maraim",
       "label": "tree",
       "point": [
-        389,
-        290
+        0.39244491080797483,
+        0.6307339449541285
       ]
     },
     {
@@ -9170,8 +9170,8 @@ const features = {
       "user": "maraim",
       "label": "bicycle",
       "point": [
-        318,
-        217
+        0.3179433368310598,
+        0.463302752293578
       ]
     },
     {
@@ -9180,8 +9180,8 @@ const features = {
       "user": "maraim",
       "label": "guitar",
       "point": [
-        356,
-        131
+        0.3578174186778594,
+        0.26605504587155965
       ]
     },
     {
@@ -9190,8 +9190,8 @@ const features = {
       "user": "maraim",
       "label": "pencil",
       "point": [
-        238,
-        154
+        0.23399790136411333,
+        0.31880733944954126
       ]
     },
     {
@@ -9200,8 +9200,8 @@ const features = {
       "user": "maraim",
       "label": "clock",
       "point": [
-        200,
-        213
+        0.19412381951731375,
+        0.4541284403669725
       ]
     },
     {
@@ -9210,8 +9210,8 @@ const features = {
       "user": "Olamide",
       "label": "car",
       "point": [
-        197,
-        67
+        0.19097586568730326,
+        0.11926605504587157
       ]
     },
     {
@@ -9220,8 +9220,8 @@ const features = {
       "user": "Olamide",
       "label": "fish",
       "point": [
-        146,
-        60
+        0.13746065057712487,
+        0.10321100917431193
       ]
     },
     {
@@ -9230,8 +9230,8 @@ const features = {
       "user": "Olamide",
       "label": "house",
       "point": [
-        179,
-        169
+        0.1720881427072403,
+        0.3532110091743119
       ]
     },
     {
@@ -9240,8 +9240,8 @@ const features = {
       "user": "Olamide",
       "label": "tree",
       "point": [
-        245,
-        234
+        0.24134312696747115,
+        0.5022935779816514
       ]
     },
     {
@@ -9250,8 +9250,8 @@ const features = {
       "user": "Olamide",
       "label": "bicycle",
       "point": [
-        183,
-        99
+        0.17628541448058763,
+        0.1926605504587156
       ]
     },
     {
@@ -9260,8 +9260,8 @@ const features = {
       "user": "Olamide",
       "label": "guitar",
       "point": [
-        86,
-        250
+        0.07450157397691501,
+        0.5389908256880734
       ]
     },
     {
@@ -9270,8 +9270,8 @@ const features = {
       "user": "Olamide",
       "label": "pencil",
       "point": [
-        94,
-        76
+        0.08289611752360965,
+        0.13990825688073394
       ]
     },
     {
@@ -9280,8 +9280,8 @@ const features = {
       "user": "Olamide",
       "label": "clock",
       "point": [
-        142,
-        145
+        0.13326337880377753,
+        0.2981651376146789
       ]
     },
     {
@@ -9290,8 +9290,8 @@ const features = {
       "user": "aydin",
       "label": "car",
       "point": [
-        298,
-        118
+        0.2969569779643232,
+        0.23623853211009174
       ]
     },
     {
@@ -9300,8 +9300,8 @@ const features = {
       "user": "aydin",
       "label": "fish",
       "point": [
-        267,
-        126
+        0.2644281217208814,
+        0.2545871559633027
       ]
     },
     {
@@ -9310,8 +9310,8 @@ const features = {
       "user": "aydin",
       "label": "house",
       "point": [
-        190,
-        223
+        0.18363064008394545,
+        0.47706422018348627
       ]
     },
     {
@@ -9320,8 +9320,8 @@ const features = {
       "user": "aydin",
       "label": "tree",
       "point": [
-        170,
-        200
+        0.1626442812172088,
+        0.4243119266055046
       ]
     },
     {
@@ -9330,8 +9330,8 @@ const features = {
       "user": "aydin",
       "label": "bicycle",
       "point": [
-        183,
-        93
+        0.17628541448058763,
+        0.17889908256880735
       ]
     },
     {
@@ -9340,8 +9340,8 @@ const features = {
       "user": "aydin",
       "label": "guitar",
       "point": [
-        160,
-        74
+        0.1521511017838405,
+        0.1353211009174312
       ]
     },
     {
@@ -9350,8 +9350,8 @@ const features = {
       "user": "aydin",
       "label": "pencil",
       "point": [
-        18,
-        155
+        0.0031479538300104933,
+        0.3211009174311927
       ]
     },
     {
@@ -9360,8 +9360,8 @@ const features = {
       "user": "aydin",
       "label": "clock",
       "point": [
-        192,
-        171
+        0.18572927597061908,
+        0.3577981651376147
       ]
     },
     {
@@ -9370,8 +9370,8 @@ const features = {
       "user": "Satya",
       "label": "car",
       "point": [
-        354,
-        206
+        0.35571878279118574,
+        0.4380733944954128
       ]
     },
     {
@@ -9380,8 +9380,8 @@ const features = {
       "user": "Satya",
       "label": "fish",
       "point": [
-        276,
-        218
+        0.2738719832109129,
+        0.46559633027522934
       ]
     },
     {
@@ -9390,8 +9390,8 @@ const features = {
       "user": "Satya",
       "label": "house",
       "point": [
-        228,
-        164
+        0.22350472193074503,
+        0.34174311926605505
       ]
     },
     {
@@ -9400,8 +9400,8 @@ const features = {
       "user": "Satya",
       "label": "tree",
       "point": [
-        292,
-        332
+        0.2906610703043022,
+        0.7270642201834863
       ]
     },
     {
@@ -9410,8 +9410,8 @@ const features = {
       "user": "Satya",
       "label": "bicycle",
       "point": [
-        319,
-        195
+        0.31899265477439664,
+        0.41284403669724773
       ]
     },
     {
@@ -9420,8 +9420,8 @@ const features = {
       "user": "Satya",
       "label": "guitar",
       "point": [
-        225,
-        274
+        0.2203567681007345,
+        0.5940366972477065
       ]
     },
     {
@@ -9430,8 +9430,8 @@ const features = {
       "user": "Satya",
       "label": "pencil",
       "point": [
-        239,
-        278
+        0.23504721930745015,
+        0.6032110091743119
       ]
     },
     {
@@ -9440,8 +9440,8 @@ const features = {
       "user": "Satya",
       "label": "clock",
       "point": [
-        264,
-        290
+        0.26128016789087094,
+        0.6307339449541285
       ]
     },
     {
@@ -9450,8 +9450,8 @@ const features = {
       "user": "sudoCss",
       "label": "car",
       "point": [
-        371,
-        222
+        0.37355718782791186,
+        0.47477064220183485
       ]
     },
     {
@@ -9460,8 +9460,8 @@ const features = {
       "user": "sudoCss",
       "label": "fish",
       "point": [
-        289,
-        178
+        0.28751311647429173,
+        0.3738532110091743
       ]
     },
     {
@@ -9470,8 +9470,8 @@ const features = {
       "user": "sudoCss",
       "label": "house",
       "point": [
-        277,
-        330
+        0.27492130115424973,
+        0.7224770642201835
       ]
     },
     {
@@ -9480,8 +9480,8 @@ const features = {
       "user": "sudoCss",
       "label": "tree",
       "point": [
-        291,
-        325
+        0.28961175236096537,
+        0.7110091743119266
       ]
     },
     {
@@ -9490,8 +9490,8 @@ const features = {
       "user": "sudoCss",
       "label": "bicycle",
       "point": [
-        277,
-        244
+        0.27492130115424973,
+        0.5252293577981652
       ]
     },
     {
@@ -9500,8 +9500,8 @@ const features = {
       "user": "sudoCss",
       "label": "guitar",
       "point": [
-        316,
-        287
+        0.31584470094438616,
+        0.6238532110091743
       ]
     },
     {
@@ -9510,8 +9510,8 @@ const features = {
       "user": "sudoCss",
       "label": "pencil",
       "point": [
-        227,
-        299
+        0.22245540398740818,
+        0.6513761467889908
       ]
     },
     {
@@ -9520,8 +9520,8 @@ const features = {
       "user": "sudoCss",
       "label": "clock",
       "point": [
-        239,
-        243
+        0.23504721930745015,
+        0.5229357798165137
       ]
     },
     {
@@ -9530,8 +9530,8 @@ const features = {
       "user": "Anush",
       "label": "car",
       "point": [
-        334,
-        219
+        0.33473242392444913,
+        0.46788990825688076
       ]
     },
     {
@@ -9540,8 +9540,8 @@ const features = {
       "user": "Anush",
       "label": "fish",
       "point": [
-        289,
-        210
+        0.28751311647429173,
+        0.44724770642201833
       ]
     },
     {
@@ -9550,8 +9550,8 @@ const features = {
       "user": "Anush",
       "label": "house",
       "point": [
-        301,
-        273
+        0.3001049317943337,
+        0.591743119266055
       ]
     },
     {
@@ -9560,8 +9560,8 @@ const features = {
       "user": "Anush",
       "label": "tree",
       "point": [
-        233,
-        395
+        0.22875131164742918,
+        0.8715596330275229
       ]
     },
     {
@@ -9570,8 +9570,8 @@ const features = {
       "user": "Anush",
       "label": "bicycle",
       "point": [
-        314,
-        267
+        0.31374606505771246,
+        0.5779816513761468
       ]
     },
     {
@@ -9580,8 +9580,8 @@ const features = {
       "user": "Anush",
       "label": "guitar",
       "point": [
-        341,
-        277
+        0.34207764952780695,
+        0.6009174311926605
       ]
     },
     {
@@ -9590,8 +9590,8 @@ const features = {
       "user": "Anush",
       "label": "pencil",
       "point": [
-        280,
-        300
+        0.2780692549842602,
+        0.6536697247706422
       ]
     },
     {
@@ -9600,8 +9600,8 @@ const features = {
       "user": "Anush",
       "label": "clock",
       "point": [
-        302,
-        292
+        0.3011542497376705,
+        0.6353211009174312
       ]
     },
     {
@@ -9610,8 +9610,8 @@ const features = {
       "user": "alvesmarcio",
       "label": "car",
       "point": [
-        302,
-        140
+        0.3011542497376705,
+        0.286697247706422
       ]
     },
     {
@@ -9620,8 +9620,8 @@ const features = {
       "user": "alvesmarcio",
       "label": "fish",
       "point": [
-        263,
-        119
+        0.2602308499475341,
+        0.23853211009174313
       ]
     },
     {
@@ -9630,8 +9630,8 @@ const features = {
       "user": "alvesmarcio",
       "label": "house",
       "point": [
-        172,
-        213
+        0.16474291710388247,
+        0.4541284403669725
       ]
     },
     {
@@ -9640,8 +9640,8 @@ const features = {
       "user": "alvesmarcio",
       "label": "tree",
       "point": [
-        387,
-        311
+        0.39034627492130114,
+        0.6788990825688074
       ]
     },
     {
@@ -9650,8 +9650,8 @@ const features = {
       "user": "alvesmarcio",
       "label": "bicycle",
       "point": [
-        247,
-        135
+        0.24344176285414482,
+        0.27522935779816515
       ]
     },
     {
@@ -9660,8 +9660,8 @@ const features = {
       "user": "alvesmarcio",
       "label": "guitar",
       "point": [
-        236,
-        260
+        0.23189926547743966,
+        0.5619266055045872
       ]
     },
     {
@@ -9670,8 +9670,8 @@ const features = {
       "user": "alvesmarcio",
       "label": "pencil",
       "point": [
-        237,
-        267
+        0.23294858342077648,
+        0.5779816513761468
       ]
     },
     {
@@ -9680,8 +9680,8 @@ const features = {
       "user": "alvesmarcio",
       "label": "clock",
       "point": [
-        228,
-        243
+        0.22350472193074503,
+        0.5229357798165137
       ]
     },
     {
@@ -9690,8 +9690,8 @@ const features = {
       "user": "Youness",
       "label": "car",
       "point": [
-        318,
-        159
+        0.3179433368310598,
+        0.3302752293577982
       ]
     },
     {
@@ -9700,8 +9700,8 @@ const features = {
       "user": "Youness",
       "label": "fish",
       "point": [
-        268,
-        135
+        0.2654774396642183,
+        0.27522935779816515
       ]
     },
     {
@@ -9710,8 +9710,8 @@ const features = {
       "user": "Youness",
       "label": "house",
       "point": [
-        286,
-        202
+        0.28436516264428124,
+        0.4288990825688073
       ]
     },
     {
@@ -9720,8 +9720,8 @@ const features = {
       "user": "Youness",
       "label": "tree",
       "point": [
-        294,
-        338
+        0.29275970619097585,
+        0.7408256880733946
       ]
     },
     {
@@ -9730,8 +9730,8 @@ const features = {
       "user": "Youness",
       "label": "bicycle",
       "point": [
-        259,
-        184
+        0.25603357817418676,
+        0.3876146788990826
       ]
     },
     {
@@ -9740,8 +9740,8 @@ const features = {
       "user": "Youness",
       "label": "guitar",
       "point": [
-        237,
-        344
+        0.23294858342077648,
+        0.7545871559633027
       ]
     },
     {
@@ -9750,8 +9750,8 @@ const features = {
       "user": "Youness",
       "label": "pencil",
       "point": [
-        208,
-        275
+        0.2025183630640084,
+        0.5963302752293578
       ]
     },
     {
@@ -9760,8 +9760,8 @@ const features = {
       "user": "Youness",
       "label": "clock",
       "point": [
-        174,
-        167
+        0.16684155299055614,
+        0.3486238532110092
       ]
     },
     {
@@ -9770,8 +9770,8 @@ const features = {
       "user": "hakim",
       "label": "car",
       "point": [
-        120,
-        120
+        0.11017838405036726,
+        0.2408256880733945
       ]
     },
     {
@@ -9780,8 +9780,8 @@ const features = {
       "user": "hakim",
       "label": "fish",
       "point": [
-        91,
-        43
+        0.07974816369359916,
+        0.06422018348623854
       ]
     },
     {
@@ -9790,8 +9790,8 @@ const features = {
       "user": "hakim",
       "label": "house",
       "point": [
-        126,
-        160
+        0.11647429171038824,
+        0.33256880733944955
       ]
     },
     {
@@ -9800,8 +9800,8 @@ const features = {
       "user": "hakim",
       "label": "tree",
       "point": [
-        344,
-        264
+        0.34522560335781743,
+        0.5711009174311926
       ]
     },
     {
@@ -9810,8 +9810,8 @@ const features = {
       "user": "hakim",
       "label": "bicycle",
       "point": [
-        142,
-        125
+        0.13326337880377753,
+        0.25229357798165136
       ]
     },
     {
@@ -9820,8 +9820,8 @@ const features = {
       "user": "hakim",
       "label": "guitar",
       "point": [
-        95,
-        294
+        0.08394543546694648,
+        0.6399082568807339
       ]
     },
     {
@@ -9830,8 +9830,8 @@ const features = {
       "user": "hakim",
       "label": "pencil",
       "point": [
-        34,
-        160
+        0.01993704092339979,
+        0.33256880733944955
       ]
     },
     {
@@ -9840,8 +9840,8 @@ const features = {
       "user": "hakim",
       "label": "clock",
       "point": [
-        162,
-        184
+        0.15424973767051417,
+        0.3876146788990826
       ]
     },
     {
@@ -9850,8 +9850,8 @@ const features = {
       "user": "Miniontoby",
       "label": "car",
       "point": [
-        205,
-        158
+        0.1993704092339979,
+        0.32798165137614677
       ]
     },
     {
@@ -9860,8 +9860,8 @@ const features = {
       "user": "Miniontoby",
       "label": "fish",
       "point": [
-        182,
-        96
+        0.17523609653725078,
+        0.18577981651376146
       ]
     },
     {
@@ -9870,8 +9870,8 @@ const features = {
       "user": "Miniontoby",
       "label": "house",
       "point": [
-        163,
-        235
+        0.155299055613851,
+        0.5045871559633027
       ]
     },
     {
@@ -9880,8 +9880,8 @@ const features = {
       "user": "Miniontoby",
       "label": "tree",
       "point": [
-        263,
-        340
+        0.2602308499475341,
+        0.7454128440366973
       ]
     },
     {
@@ -9890,8 +9890,8 @@ const features = {
       "user": "Miniontoby",
       "label": "bicycle",
       "point": [
-        228,
-        179
+        0.22350472193074503,
+        0.3761467889908257
       ]
     },
     {
@@ -9900,8 +9900,8 @@ const features = {
       "user": "Miniontoby",
       "label": "guitar",
       "point": [
-        131,
-        326
+        0.12172088142707241,
+        0.713302752293578
       ]
     },
     {
@@ -9910,8 +9910,8 @@ const features = {
       "user": "Miniontoby",
       "label": "pencil",
       "point": [
-        102,
-        199
+        0.0912906610703043,
+        0.42201834862385323
       ]
     },
     {
@@ -9920,8 +9920,8 @@ const features = {
       "user": "Miniontoby",
       "label": "clock",
       "point": [
-        242,
-        255
+        0.23819517313746066,
+        0.5504587155963303
       ]
     },
     {
@@ -9930,8 +9930,8 @@ const features = {
       "user": "Ringa Tech",
       "label": "car",
       "point": [
-        227,
-        114
+        0.22245540398740818,
+        0.22706422018348624
       ]
     },
     {
@@ -9940,8 +9940,8 @@ const features = {
       "user": "Ringa Tech",
       "label": "fish",
       "point": [
-        179,
-        115
+        0.1720881427072403,
+        0.22935779816513763
       ]
     },
     {
@@ -9950,8 +9950,8 @@ const features = {
       "user": "Ringa Tech",
       "label": "house",
       "point": [
-        184,
-        158
+        0.17733473242392445,
+        0.32798165137614677
       ]
     },
     {
@@ -9960,8 +9960,8 @@ const features = {
       "user": "Ringa Tech",
       "label": "tree",
       "point": [
-        203,
-        247
+        0.19727177334732424,
+        0.5321100917431193
       ]
     },
     {
@@ -9970,8 +9970,8 @@ const features = {
       "user": "Ringa Tech",
       "label": "bicycle",
       "point": [
-        169,
-        127
+        0.161594963273872,
+        0.25688073394495414
       ]
     },
     {
@@ -9980,8 +9980,8 @@ const features = {
       "user": "Ringa Tech",
       "label": "guitar",
       "point": [
-        243,
-        302
+        0.23924449108079748,
+        0.658256880733945
       ]
     },
     {
@@ -9990,8 +9990,8 @@ const features = {
       "user": "Ringa Tech",
       "label": "pencil",
       "point": [
-        198,
-        193
+        0.19202518363064008,
+        0.40825688073394495
       ]
     },
     {
@@ -10000,8 +10000,8 @@ const features = {
       "user": "Ringa Tech",
       "label": "clock",
       "point": [
-        166,
-        159
+        0.1584470094438615,
+        0.3302752293577982
       ]
     },
     {
@@ -10010,8 +10010,8 @@ const features = {
       "user": "kernelist",
       "label": "car",
       "point": [
-        244,
-        131
+        0.2402938090241343,
+        0.26605504587155965
       ]
     },
     {
@@ -10020,8 +10020,8 @@ const features = {
       "user": "kernelist",
       "label": "fish",
       "point": [
-        159,
-        83
+        0.15110178384050368,
+        0.1559633027522936
       ]
     },
     {
@@ -10030,8 +10030,8 @@ const features = {
       "user": "kernelist",
       "label": "house",
       "point": [
-        175,
-        256
+        0.16789087093389296,
+        0.5527522935779816
       ]
     },
     {
@@ -10040,8 +10040,8 @@ const features = {
       "user": "kernelist",
       "label": "tree",
       "point": [
-        215,
-        223
+        0.2098635886673662,
+        0.47706422018348627
       ]
     },
     {
@@ -10050,8 +10050,8 @@ const features = {
       "user": "kernelist",
       "label": "bicycle",
       "point": [
-        165,
-        97
+        0.15739769150052466,
+        0.18807339449541285
       ]
     },
     {
@@ -10060,8 +10060,8 @@ const features = {
       "user": "kernelist",
       "label": "guitar",
       "point": [
-        89,
-        236
+        0.0776495278069255,
+        0.5068807339449541
       ]
     },
     {
@@ -10070,8 +10070,8 @@ const features = {
       "user": "kernelist",
       "label": "pencil",
       "point": [
-        18,
-        104
+        0.0031479538300104933,
+        0.20412844036697247
       ]
     },
     {
@@ -10080,8 +10080,8 @@ const features = {
       "user": "kernelist",
       "label": "clock",
       "point": [
-        144,
-        163
+        0.1353620146904512,
+        0.3394495412844037
       ]
     },
     {
@@ -10090,8 +10090,8 @@ const features = {
       "user": "NeonTuts",
       "label": "car",
       "point": [
-        319,
-        173
+        0.31899265477439664,
+        0.3623853211009174
       ]
     },
     {
@@ -10100,8 +10100,8 @@ const features = {
       "user": "NeonTuts",
       "label": "fish",
       "point": [
-        331,
-        118
+        0.3315844700944386,
+        0.23623853211009174
       ]
     },
     {
@@ -10110,8 +10110,8 @@ const features = {
       "user": "NeonTuts",
       "label": "house",
       "point": [
-        330,
-        230
+        0.3305351521511018,
+        0.49311926605504586
       ]
     },
     {
@@ -10120,8 +10120,8 @@ const features = {
       "user": "NeonTuts",
       "label": "tree",
       "point": [
-        284,
-        338
+        0.28226652675760755,
+        0.7408256880733946
       ]
     },
     {
@@ -10130,8 +10130,8 @@ const features = {
       "user": "NeonTuts",
       "label": "bicycle",
       "point": [
-        392,
-        268
+        0.3955928646379853,
+        0.5802752293577982
       ]
     },
     {
@@ -10140,8 +10140,8 @@ const features = {
       "user": "NeonTuts",
       "label": "guitar",
       "point": [
-        375,
-        363
+        0.3777544596012592,
+        0.7981651376146789
       ]
     },
     {
@@ -10150,8 +10150,8 @@ const features = {
       "user": "NeonTuts",
       "label": "pencil",
       "point": [
-        166,
-        211
+        0.1584470094438615,
+        0.44954128440366975
       ]
     },
     {
@@ -10160,8 +10160,8 @@ const features = {
       "user": "NeonTuts",
       "label": "clock",
       "point": [
-        188,
-        195
+        0.18153200419727178,
+        0.41284403669724773
       ]
     },
     {
@@ -10170,8 +10170,8 @@ const features = {
       "user": "EvDev",
       "label": "car",
       "point": [
-        349,
-        189
+        0.35047219307450156,
+        0.39908256880733944
       ]
     },
     {
@@ -10180,8 +10180,8 @@ const features = {
       "user": "EvDev",
       "label": "fish",
       "point": [
-        286,
-        210
+        0.28436516264428124,
+        0.44724770642201833
       ]
     },
     {
@@ -10190,8 +10190,8 @@ const features = {
       "user": "EvDev",
       "label": "house",
       "point": [
-        358,
-        352
+        0.35991605456453307,
+        0.7729357798165137
       ]
     },
     {
@@ -10200,8 +10200,8 @@ const features = {
       "user": "EvDev",
       "label": "tree",
       "point": [
-        305,
-        383
+        0.304302203567681,
+        0.8440366972477065
       ]
     },
     {
@@ -10210,8 +10210,8 @@ const features = {
       "user": "EvDev",
       "label": "bicycle",
       "point": [
-        315,
-        210
+        0.3147953830010493,
+        0.44724770642201833
       ]
     },
     {
@@ -10220,8 +10220,8 @@ const features = {
       "user": "EvDev",
       "label": "guitar",
       "point": [
-        288,
-        308
+        0.2864637985309549,
+        0.6720183486238532
       ]
     },
     {
@@ -10230,8 +10230,8 @@ const features = {
       "user": "EvDev",
       "label": "pencil",
       "point": [
-        229,
-        337
+        0.22455403987408185,
+        0.7385321100917431
       ]
     },
     {
@@ -10240,8 +10240,8 @@ const features = {
       "user": "EvDev",
       "label": "clock",
       "point": [
-        248,
-        252
+        0.24449108079748164,
+        0.5435779816513762
       ]
     },
     {
@@ -10250,8 +10250,8 @@ const features = {
       "user": "martin",
       "label": "car",
       "point": [
-        291,
-        120
+        0.28961175236096537,
+        0.2408256880733945
       ]
     },
     {
@@ -10260,8 +10260,8 @@ const features = {
       "user": "martin",
       "label": "fish",
       "point": [
-        338,
-        166
+        0.3389296956977964,
+        0.3463302752293578
       ]
     },
     {
@@ -10270,8 +10270,8 @@ const features = {
       "user": "martin",
       "label": "house",
       "point": [
-        186,
-        289
+        0.1794333683105981,
+        0.6284403669724771
       ]
     },
     {
@@ -10280,8 +10280,8 @@ const features = {
       "user": "martin",
       "label": "tree",
       "point": [
-        272,
-        345
+        0.2696747114375656,
+        0.7568807339449541
       ]
     },
     {
@@ -10290,8 +10290,8 @@ const features = {
       "user": "martin",
       "label": "bicycle",
       "point": [
-        316,
-        179
+        0.31584470094438616,
+        0.3761467889908257
       ]
     },
     {
@@ -10300,8 +10300,8 @@ const features = {
       "user": "martin",
       "label": "guitar",
       "point": [
-        357,
-        128
+        0.3588667366211962,
+        0.2591743119266055
       ]
     },
     {
@@ -10310,8 +10310,8 @@ const features = {
       "user": "martin",
       "label": "pencil",
       "point": [
-        189,
-        232
+        0.1825813221406086,
+        0.49770642201834864
       ]
     },
     {
@@ -10320,8 +10320,8 @@ const features = {
       "user": "martin",
       "label": "clock",
       "point": [
-        318,
-        293
+        0.3179433368310598,
+        0.6376146788990825
       ]
     },
     {
@@ -10330,8 +10330,8 @@ const features = {
       "user": "Mantas",
       "label": "car",
       "point": [
-        317,
-        122
+        0.316894018887723,
+        0.24541284403669725
       ]
     },
     {
@@ -10340,8 +10340,8 @@ const features = {
       "user": "Mantas",
       "label": "fish",
       "point": [
-        126,
-        182
+        0.11647429171038824,
+        0.3830275229357798
       ]
     },
     {
@@ -10350,8 +10350,8 @@ const features = {
       "user": "Mantas",
       "label": "house",
       "point": [
-        119,
-        189
+        0.10912906610703044,
+        0.39908256880733944
       ]
     },
     {
@@ -10360,8 +10360,8 @@ const features = {
       "user": "Mantas",
       "label": "tree",
       "point": [
-        163,
-        250
+        0.155299055613851,
+        0.5389908256880734
       ]
     },
     {
@@ -10370,8 +10370,8 @@ const features = {
       "user": "Mantas",
       "label": "bicycle",
       "point": [
-        171,
-        104
+        0.16369359916054566,
+        0.20412844036697247
       ]
     },
     {
@@ -10380,8 +10380,8 @@ const features = {
       "user": "Mantas",
       "label": "guitar",
       "point": [
-        271,
-        102
+        0.26862539349422876,
+        0.19954128440366972
       ]
     },
     {
@@ -10390,8 +10390,8 @@ const features = {
       "user": "Mantas",
       "label": "pencil",
       "point": [
-        30,
-        160
+        0.015739769150052464,
+        0.33256880733944955
       ]
     },
     {
@@ -10400,8 +10400,8 @@ const features = {
       "user": "Mantas",
       "label": "clock",
       "point": [
-        124,
-        117
+        0.11437565582371459,
+        0.23394495412844038
       ]
     },
     {
@@ -10410,8 +10410,8 @@ const features = {
       "user": "GuiS",
       "label": "car",
       "point": [
-        360,
-        113
+        0.3620146904512067,
+        0.22477064220183487
       ]
     },
     {
@@ -10420,8 +10420,8 @@ const features = {
       "user": "GuiS",
       "label": "fish",
       "point": [
-        303,
-        152
+        0.30220356768100737,
+        0.31422018348623854
       ]
     },
     {
@@ -10430,8 +10430,8 @@ const features = {
       "user": "GuiS",
       "label": "house",
       "point": [
-        237,
-        232
+        0.23294858342077648,
+        0.49770642201834864
       ]
     },
     {
@@ -10440,8 +10440,8 @@ const features = {
       "user": "GuiS",
       "label": "tree",
       "point": [
-        341,
-        374
+        0.34207764952780695,
+        0.823394495412844
       ]
     },
     {
@@ -10450,8 +10450,8 @@ const features = {
       "user": "GuiS",
       "label": "bicycle",
       "point": [
-        275,
-        149
+        0.2728226652675761,
+        0.3073394495412844
       ]
     },
     {
@@ -10460,8 +10460,8 @@ const features = {
       "user": "GuiS",
       "label": "guitar",
       "point": [
-        329,
-        353
+        0.32948583420776495,
+        0.7752293577981652
       ]
     },
     {
@@ -10470,8 +10470,8 @@ const features = {
       "user": "GuiS",
       "label": "pencil",
       "point": [
-        227,
-        226
+        0.22245540398740818,
+        0.48394495412844035
       ]
     },
     {
@@ -10480,8 +10480,8 @@ const features = {
       "user": "GuiS",
       "label": "clock",
       "point": [
-        178,
-        176
+        0.17103882476390347,
+        0.36926605504587157
       ]
     },
     {
@@ -10490,8 +10490,8 @@ const features = {
       "user": "Soumyadeep",
       "label": "car",
       "point": [
-        342,
-        133
+        0.34312696747114374,
+        0.2706422018348624
       ]
     },
     {
@@ -10500,8 +10500,8 @@ const features = {
       "user": "Soumyadeep",
       "label": "fish",
       "point": [
-        263,
-        120
+        0.2602308499475341,
+        0.2408256880733945
       ]
     },
     {
@@ -10510,8 +10510,8 @@ const features = {
       "user": "Soumyadeep",
       "label": "house",
       "point": [
-        285,
-        290
+        0.2833158447009444,
+        0.6307339449541285
       ]
     },
     {
@@ -10520,8 +10520,8 @@ const features = {
       "user": "Soumyadeep",
       "label": "tree",
       "point": [
-        324,
-        315
+        0.3242392444910808,
+        0.6880733944954128
       ]
     },
     {
@@ -10530,8 +10530,8 @@ const features = {
       "user": "Soumyadeep",
       "label": "bicycle",
       "point": [
-        324,
-        180
+        0.3242392444910808,
+        0.37844036697247707
       ]
     },
     {
@@ -10540,8 +10540,8 @@ const features = {
       "user": "Soumyadeep",
       "label": "guitar",
       "point": [
-        341,
-        218
+        0.34207764952780695,
+        0.46559633027522934
       ]
     },
     {
@@ -10550,8 +10550,8 @@ const features = {
       "user": "Soumyadeep",
       "label": "pencil",
       "point": [
-        301,
-        139
+        0.3001049317943337,
+        0.28440366972477066
       ]
     },
     {
@@ -10560,8 +10560,8 @@ const features = {
       "user": "Soumyadeep",
       "label": "clock",
       "point": [
-        199,
-        186
+        0.1930745015739769,
+        0.3922018348623853
       ]
     },
     {
@@ -10570,8 +10570,8 @@ const features = {
       "user": "HuldaCZ",
       "label": "car",
       "point": [
-        253,
-        109
+        0.2497376705141658,
+        0.21559633027522937
       ]
     },
     {
@@ -10580,8 +10580,8 @@ const features = {
       "user": "HuldaCZ",
       "label": "fish",
       "point": [
-        284,
-        83
+        0.28226652675760755,
+        0.1559633027522936
       ]
     },
     {
@@ -10590,8 +10590,8 @@ const features = {
       "user": "HuldaCZ",
       "label": "house",
       "point": [
-        273,
-        241
+        0.2707240293809024,
+        0.518348623853211
       ]
     },
     {
@@ -10600,8 +10600,8 @@ const features = {
       "user": "HuldaCZ",
       "label": "tree",
       "point": [
-        95,
-        151
+        0.08394543546694648,
+        0.3119266055045872
       ]
     },
     {
@@ -10610,8 +10610,8 @@ const features = {
       "user": "HuldaCZ",
       "label": "bicycle",
       "point": [
-        212,
-        94
+        0.20671563483735572,
+        0.1811926605504587
       ]
     },
     {
@@ -10620,8 +10620,8 @@ const features = {
       "user": "HuldaCZ",
       "label": "guitar",
       "point": [
-        302,
-        264
+        0.3011542497376705,
+        0.5711009174311926
       ]
     },
     {
@@ -10630,8 +10630,8 @@ const features = {
       "user": "HuldaCZ",
       "label": "pencil",
       "point": [
-        167,
-        204
+        0.15949632738719832,
+        0.4334862385321101
       ]
     },
     {
@@ -10640,8 +10640,8 @@ const features = {
       "user": "HuldaCZ",
       "label": "clock",
       "point": [
-        252,
-        232
+        0.24868835257082897,
+        0.49770642201834864
       ]
     },
     {
@@ -10650,8 +10650,8 @@ const features = {
       "user": "Sağray Lezgiyar ",
       "label": "car",
       "point": [
-        256,
-        181
+        0.2528856243441763,
+        0.38073394495412843
       ]
     },
     {
@@ -10660,8 +10660,8 @@ const features = {
       "user": "Sağray Lezgiyar ",
       "label": "fish",
       "point": [
-        263,
-        125
+        0.2602308499475341,
+        0.25229357798165136
       ]
     },
     {
@@ -10670,8 +10670,8 @@ const features = {
       "user": "Sağray Lezgiyar ",
       "label": "house",
       "point": [
-        225,
-        209
+        0.2203567681007345,
+        0.44495412844036697
       ]
     },
     {
@@ -10680,8 +10680,8 @@ const features = {
       "user": "Sağray Lezgiyar ",
       "label": "tree",
       "point": [
-        270,
-        298
+        0.2675760755508919,
+        0.6490825688073395
       ]
     },
     {
@@ -10690,8 +10690,8 @@ const features = {
       "user": "Sağray Lezgiyar ",
       "label": "bicycle",
       "point": [
-        252,
-        184
+        0.24868835257082897,
+        0.3876146788990826
       ]
     },
     {
@@ -10700,8 +10700,8 @@ const features = {
       "user": "Sağray Lezgiyar ",
       "label": "guitar",
       "point": [
-        284,
-        228
+        0.28226652675760755,
+        0.48853211009174313
       ]
     },
     {
@@ -10710,8 +10710,8 @@ const features = {
       "user": "Sağray Lezgiyar ",
       "label": "pencil",
       "point": [
-        273,
-        340
+        0.2707240293809024,
+        0.7454128440366973
       ]
     },
     {
@@ -10720,8 +10720,8 @@ const features = {
       "user": "Sağray Lezgiyar ",
       "label": "clock",
       "point": [
-        230,
-        256
+        0.22560335781741866,
+        0.5527522935779816
       ]
     },
     {
@@ -10730,8 +10730,8 @@ const features = {
       "user": "montana57",
       "label": "car",
       "point": [
-        342,
-        182
+        0.34312696747114374,
+        0.3830275229357798
       ]
     },
     {
@@ -10740,8 +10740,8 @@ const features = {
       "user": "montana57",
       "label": "fish",
       "point": [
-        206,
-        144
+        0.20041972717733472,
+        0.2958715596330275
       ]
     },
     {
@@ -10750,8 +10750,8 @@ const features = {
       "user": "montana57",
       "label": "house",
       "point": [
-        165,
-        190
+        0.15739769150052466,
+        0.4013761467889908
       ]
     },
     {
@@ -10760,8 +10760,8 @@ const features = {
       "user": "montana57",
       "label": "tree",
       "point": [
-        68,
-        348
+        0.055613850996852045,
+        0.7637614678899083
       ]
     },
     {
@@ -10770,8 +10770,8 @@ const features = {
       "user": "montana57",
       "label": "bicycle",
       "point": [
-        174,
-        110
+        0.16684155299055614,
+        0.21788990825688073
       ]
     },
     {
@@ -10780,8 +10780,8 @@ const features = {
       "user": "montana57",
       "label": "guitar",
       "point": [
-        183,
-        366
+        0.17628541448058763,
+        0.805045871559633
       ]
     },
     {
@@ -10790,8 +10790,8 @@ const features = {
       "user": "montana57",
       "label": "pencil",
       "point": [
-        64,
-        323
+        0.05141657922350472,
+        0.7064220183486238
       ]
     },
     {
@@ -10800,8 +10800,8 @@ const features = {
       "user": "montana57",
       "label": "clock",
       "point": [
-        222,
-        227
+        0.21720881427072403,
+        0.48623853211009177
       ]
     },
     {
@@ -10810,8 +10810,8 @@ const features = {
       "user": "Eugenio G",
       "label": "car",
       "point": [
-        327,
-        164
+        0.3273871983210913,
+        0.34174311926605505
       ]
     },
     {
@@ -10820,8 +10820,8 @@ const features = {
       "user": "Eugenio G",
       "label": "fish",
       "point": [
-        298,
-        223
+        0.2969569779643232,
+        0.47706422018348627
       ]
     },
     {
@@ -10830,8 +10830,8 @@ const features = {
       "user": "Eugenio G",
       "label": "house",
       "point": [
-        248,
-        247
+        0.24449108079748164,
+        0.5321100917431193
       ]
     },
     {
@@ -10840,8 +10840,8 @@ const features = {
       "user": "Eugenio G",
       "label": "tree",
       "point": [
-        209,
-        250
+        0.20356768100734524,
+        0.5389908256880734
       ]
     },
     {
@@ -10850,8 +10850,8 @@ const features = {
       "user": "Eugenio G",
       "label": "bicycle",
       "point": [
-        282,
-        150
+        0.2801678908709339,
+        0.30963302752293576
       ]
     },
     {
@@ -10860,8 +10860,8 @@ const features = {
       "user": "Eugenio G",
       "label": "guitar",
       "point": [
-        278,
-        187
+        0.2759706190975866,
+        0.3944954128440367
       ]
     },
     {
@@ -10870,8 +10870,8 @@ const features = {
       "user": "Eugenio G",
       "label": "pencil",
       "point": [
-        285,
-        181
+        0.2833158447009444,
+        0.38073394495412843
       ]
     },
     {
@@ -10880,8 +10880,8 @@ const features = {
       "user": "Eugenio G",
       "label": "clock",
       "point": [
-        197,
-        165
+        0.19097586568730326,
+        0.3440366972477064
       ]
     },
     {
@@ -10890,8 +10890,8 @@ const features = {
       "user": "Denis",
       "label": "car",
       "point": [
-        393,
-        216
+        0.39664218258132217,
+        0.4610091743119266
       ]
     },
     {
@@ -10900,8 +10900,8 @@ const features = {
       "user": "Denis",
       "label": "fish",
       "point": [
-        225,
-        84
+        0.2203567681007345,
+        0.15825688073394495
       ]
     },
     {
@@ -10910,8 +10910,8 @@ const features = {
       "user": "Denis",
       "label": "house",
       "point": [
-        326,
-        378
+        0.32633788037775446,
+        0.8325688073394495
       ]
     },
     {
@@ -10920,8 +10920,8 @@ const features = {
       "user": "Denis",
       "label": "tree",
       "point": [
-        319,
-        386
+        0.31899265477439664,
+        0.8509174311926605
       ]
     },
     {
@@ -10930,8 +10930,8 @@ const features = {
       "user": "Denis",
       "label": "bicycle",
       "point": [
-        285,
-        259
+        0.2833158447009444,
+        0.5596330275229358
       ]
     },
     {
@@ -10940,8 +10940,8 @@ const features = {
       "user": "Denis",
       "label": "guitar",
       "point": [
-        330,
-        107
+        0.3305351521511018,
+        0.21100917431192662
       ]
     },
     {
@@ -10950,8 +10950,8 @@ const features = {
       "user": "Denis",
       "label": "pencil",
       "point": [
-        166,
-        35
+        0.1584470094438615,
+        0.045871559633027525
       ]
     },
     {
@@ -10960,8 +10960,8 @@ const features = {
       "user": "Denis",
       "label": "clock",
       "point": [
-        230,
-        204
+        0.22560335781741866,
+        0.4334862385321101
       ]
     },
     {
@@ -10970,8 +10970,8 @@ const features = {
       "user": "bisht",
       "label": "car",
       "point": [
-        172,
-        85
+        0.16474291710388247,
+        0.16055045871559634
       ]
     },
     {
@@ -10980,8 +10980,8 @@ const features = {
       "user": "bisht",
       "label": "fish",
       "point": [
-        237,
-        113
+        0.23294858342077648,
+        0.22477064220183487
       ]
     },
     {
@@ -10990,8 +10990,8 @@ const features = {
       "user": "bisht",
       "label": "house",
       "point": [
-        167,
-        176
+        0.15949632738719832,
+        0.36926605504587157
       ]
     },
     {
@@ -11000,8 +11000,8 @@ const features = {
       "user": "bisht",
       "label": "tree",
       "point": [
-        273,
-        288
+        0.2707240293809024,
+        0.6261467889908257
       ]
     },
     {
@@ -11010,8 +11010,8 @@ const features = {
       "user": "bisht",
       "label": "bicycle",
       "point": [
-        200,
-        130
+        0.19412381951731375,
+        0.26376146788990823
       ]
     },
     {
@@ -11020,8 +11020,8 @@ const features = {
       "user": "bisht",
       "label": "guitar",
       "point": [
-        236,
-        255
+        0.23189926547743966,
+        0.5504587155963303
       ]
     },
     {
@@ -11030,8 +11030,8 @@ const features = {
       "user": "bisht",
       "label": "pencil",
       "point": [
-        112,
-        209
+        0.10178384050367262,
+        0.44495412844036697
       ]
     },
     {
@@ -11040,8 +11040,8 @@ const features = {
       "user": "bisht",
       "label": "clock",
       "point": [
-        171,
-        178
+        0.16369359916054566,
+        0.3738532110091743
       ]
     },
     {
@@ -11050,8 +11050,8 @@ const features = {
       "user": "jorge",
       "label": "car",
       "point": [
-        377,
-        260
+        0.37985309548793283,
+        0.5619266055045872
       ]
     },
     {
@@ -11060,8 +11060,8 @@ const features = {
       "user": "jorge",
       "label": "fish",
       "point": [
-        256,
-        112
+        0.2528856243441763,
+        0.22247706422018348
       ]
     },
     {
@@ -11070,8 +11070,8 @@ const features = {
       "user": "jorge",
       "label": "house",
       "point": [
-        239,
-        288
+        0.23504721930745015,
+        0.6261467889908257
       ]
     },
     {
@@ -11080,8 +11080,8 @@ const features = {
       "user": "jorge",
       "label": "tree",
       "point": [
-        243,
-        380
+        0.23924449108079748,
+        0.8371559633027523
       ]
     },
     {
@@ -11090,8 +11090,8 @@ const features = {
       "user": "jorge",
       "label": "bicycle",
       "point": [
-        306,
-        242
+        0.30535152151101785,
+        0.5206422018348624
       ]
     },
     {
@@ -11100,8 +11100,8 @@ const features = {
       "user": "jorge",
       "label": "guitar",
       "point": [
-        152,
-        318
+        0.14375655823714587,
+        0.694954128440367
       ]
     },
     {
@@ -11110,8 +11110,8 @@ const features = {
       "user": "jorge",
       "label": "pencil",
       "point": [
-        268,
-        274
+        0.2654774396642183,
+        0.5940366972477065
       ]
     },
     {
@@ -11120,8 +11120,8 @@ const features = {
       "user": "jorge",
       "label": "clock",
       "point": [
-        263,
-        261
+        0.2602308499475341,
+        0.5642201834862385
       ]
     },
     {
@@ -11130,8 +11130,8 @@ const features = {
       "user": "VICMAN",
       "label": "car",
       "point": [
-        319,
-        128
+        0.31899265477439664,
+        0.2591743119266055
       ]
     },
     {
@@ -11140,8 +11140,8 @@ const features = {
       "user": "VICMAN",
       "label": "fish",
       "point": [
-        195,
-        151
+        0.1888772298006296,
+        0.3119266055045872
       ]
     },
     {
@@ -11150,8 +11150,8 @@ const features = {
       "user": "VICMAN",
       "label": "house",
       "point": [
-        245,
-        218
+        0.24134312696747115,
+        0.46559633027522934
       ]
     },
     {
@@ -11160,8 +11160,8 @@ const features = {
       "user": "VICMAN",
       "label": "tree",
       "point": [
-        292,
-        294
+        0.2906610703043022,
+        0.6399082568807339
       ]
     },
     {
@@ -11170,8 +11170,8 @@ const features = {
       "user": "VICMAN",
       "label": "bicycle",
       "point": [
-        312,
-        159
+        0.3116474291710388,
+        0.3302752293577982
       ]
     },
     {
@@ -11180,8 +11180,8 @@ const features = {
       "user": "VICMAN",
       "label": "guitar",
       "point": [
-        143,
-        285
+        0.13431269674711438,
+        0.6192660550458715
       ]
     },
     {
@@ -11190,8 +11190,8 @@ const features = {
       "user": "VICMAN",
       "label": "pencil",
       "point": [
-        162,
-        243
+        0.15424973767051417,
+        0.5229357798165137
       ]
     },
     {
@@ -11200,8 +11200,8 @@ const features = {
       "user": "VICMAN",
       "label": "clock",
       "point": [
-        234,
-        206
+        0.229800629590766,
+        0.4380733944954128
       ]
     },
     {
@@ -11210,8 +11210,8 @@ const features = {
       "user": "vanne_solo",
       "label": "car",
       "point": [
-        281,
-        107
+        0.27911857292759706,
+        0.21100917431192662
       ]
     },
     {
@@ -11220,8 +11220,8 @@ const features = {
       "user": "vanne_solo",
       "label": "fish",
       "point": [
-        241,
-        117
+        0.23714585519412382,
+        0.23394495412844038
       ]
     },
     {
@@ -11230,8 +11230,8 @@ const features = {
       "user": "vanne_solo",
       "label": "house",
       "point": [
-        296,
-        136
+        0.29485834207764955,
+        0.2775229357798165
       ]
     },
     {
@@ -11240,8 +11240,8 @@ const features = {
       "user": "vanne_solo",
       "label": "tree",
       "point": [
-        254,
-        333
+        0.25078698845750264,
+        0.7293577981651376
       ]
     },
     {
@@ -11250,8 +11250,8 @@ const features = {
       "user": "vanne_solo",
       "label": "bicycle",
       "point": [
-        309,
-        196
+        0.30849947534102834,
+        0.4151376146788991
       ]
     },
     {
@@ -11260,8 +11260,8 @@ const features = {
       "user": "vanne_solo",
       "label": "guitar",
       "point": [
-        352,
-        157
+        0.35362014690451204,
+        0.3256880733944954
       ]
     },
     {
@@ -11270,8 +11270,8 @@ const features = {
       "user": "vanne_solo",
       "label": "pencil",
       "point": [
-        218,
-        203
+        0.2130115424973767,
+        0.43119266055045874
       ]
     },
     {
@@ -11280,8 +11280,8 @@ const features = {
       "user": "vanne_solo",
       "label": "clock",
       "point": [
-        228,
-        221
+        0.22350472193074503,
+        0.4724770642201835
       ]
     },
     {
@@ -11290,8 +11290,8 @@ const features = {
       "user": "Goutam ",
       "label": "car",
       "point": [
-        228,
-        140
+        0.22350472193074503,
+        0.286697247706422
       ]
     },
     {
@@ -11300,8 +11300,8 @@ const features = {
       "user": "Goutam ",
       "label": "fish",
       "point": [
-        201,
-        186
+        0.19517313746065057,
+        0.3922018348623853
       ]
     },
     {
@@ -11310,8 +11310,8 @@ const features = {
       "user": "Goutam ",
       "label": "house",
       "point": [
-        287,
-        235
+        0.28541448058761804,
+        0.5045871559633027
       ]
     },
     {
@@ -11320,8 +11320,8 @@ const features = {
       "user": "Goutam ",
       "label": "tree",
       "point": [
-        182,
-        298
+        0.17523609653725078,
+        0.6490825688073395
       ]
     },
     {
@@ -11330,8 +11330,8 @@ const features = {
       "user": "Goutam ",
       "label": "bicycle",
       "point": [
-        198,
-        170
+        0.19202518363064008,
+        0.3555045871559633
       ]
     },
     {
@@ -11340,8 +11340,8 @@ const features = {
       "user": "Goutam ",
       "label": "guitar",
       "point": [
-        241,
-        118
+        0.23714585519412382,
+        0.23623853211009174
       ]
     },
     {
@@ -11350,8 +11350,8 @@ const features = {
       "user": "Goutam ",
       "label": "pencil",
       "point": [
-        255,
-        61
+        0.2518363064008394,
+        0.10550458715596331
       ]
     },
     {
@@ -11360,8 +11360,8 @@ const features = {
       "user": "Goutam ",
       "label": "clock",
       "point": [
-        232,
-        179
+        0.22770199370409233,
+        0.3761467889908257
       ]
     },
     {
@@ -11370,8 +11370,8 @@ const features = {
       "user": "Sergey",
       "label": "car",
       "point": [
-        333,
-        161
+        0.3336831059811123,
+        0.3348623853211009
       ]
     },
     {
@@ -11380,8 +11380,8 @@ const features = {
       "user": "Sergey",
       "label": "fish",
       "point": [
-        327,
-        115
+        0.3273871983210913,
+        0.22935779816513763
       ]
     },
     {
@@ -11390,8 +11390,8 @@ const features = {
       "user": "Sergey",
       "label": "house",
       "point": [
-        228,
-        247
+        0.22350472193074503,
+        0.5321100917431193
       ]
     },
     {
@@ -11400,8 +11400,8 @@ const features = {
       "user": "Sergey",
       "label": "tree",
       "point": [
-        189,
-        283
+        0.1825813221406086,
+        0.6146788990825688
       ]
     },
     {
@@ -11410,8 +11410,8 @@ const features = {
       "user": "Sergey",
       "label": "bicycle",
       "point": [
-        281,
-        186
+        0.27911857292759706,
+        0.3922018348623853
       ]
     },
     {
@@ -11420,8 +11420,8 @@ const features = {
       "user": "Sergey",
       "label": "guitar",
       "point": [
-        324,
-        267
+        0.3242392444910808,
+        0.5779816513761468
       ]
     },
     {
@@ -11430,8 +11430,8 @@ const features = {
       "user": "Sergey",
       "label": "pencil",
       "point": [
-        276,
-        194
+        0.2738719832109129,
+        0.4105504587155963
       ]
     },
     {
@@ -11440,8 +11440,8 @@ const features = {
       "user": "Sergey",
       "label": "clock",
       "point": [
-        236,
-        236
+        0.23189926547743966,
+        0.5068807339449541
       ]
     },
     {
@@ -11450,8 +11450,8 @@ const features = {
       "user": "Kyrylych",
       "label": "car",
       "point": [
-        231,
-        103
+        0.2266526757607555,
+        0.2018348623853211
       ]
     },
     {
@@ -11460,8 +11460,8 @@ const features = {
       "user": "Kyrylych",
       "label": "fish",
       "point": [
-        187,
-        105
+        0.18048268625393493,
+        0.20642201834862386
       ]
     },
     {
@@ -11470,8 +11470,8 @@ const features = {
       "user": "Kyrylych",
       "label": "house",
       "point": [
-        189,
-        228
+        0.1825813221406086,
+        0.48853211009174313
       ]
     },
     {
@@ -11480,8 +11480,8 @@ const features = {
       "user": "Kyrylych",
       "label": "tree",
       "point": [
-        240,
-        302
+        0.236096537250787,
+        0.658256880733945
       ]
     },
     {
@@ -11490,8 +11490,8 @@ const features = {
       "user": "Kyrylych",
       "label": "bicycle",
       "point": [
-        157,
-        129
+        0.14900314795383002,
+        0.26146788990825687
       ]
     },
     {
@@ -11500,8 +11500,8 @@ const features = {
       "user": "Kyrylych",
       "label": "guitar",
       "point": [
-        310,
-        241
+        0.3095487932843652,
+        0.518348623853211
       ]
     },
     {
@@ -11510,8 +11510,8 @@ const features = {
       "user": "Kyrylych",
       "label": "pencil",
       "point": [
-        181,
-        225
+        0.17418677859391396,
+        0.481651376146789
       ]
     },
     {
@@ -11520,8 +11520,8 @@ const features = {
       "user": "Kyrylych",
       "label": "clock",
       "point": [
-        250,
-        246
+        0.2465897166841553,
+        0.5298165137614679
       ]
     },
     {
@@ -11530,8 +11530,8 @@ const features = {
       "user": "Umal Jayawardhana",
       "label": "car",
       "point": [
-        239,
-        100
+        0.23504721930745015,
+        0.19495412844036697
       ]
     },
     {
@@ -11540,8 +11540,8 @@ const features = {
       "user": "Umal Jayawardhana",
       "label": "fish",
       "point": [
-        285,
-        147
+        0.2833158447009444,
+        0.30275229357798167
       ]
     },
     {
@@ -11550,8 +11550,8 @@ const features = {
       "user": "Umal Jayawardhana",
       "label": "house",
       "point": [
-        298,
-        274
+        0.2969569779643232,
+        0.5940366972477065
       ]
     },
     {
@@ -11560,8 +11560,8 @@ const features = {
       "user": "Umal Jayawardhana",
       "label": "tree",
       "point": [
-        390,
-        355
+        0.3934942287513116,
+        0.7798165137614679
       ]
     },
     {
@@ -11570,8 +11570,8 @@ const features = {
       "user": "Umal Jayawardhana",
       "label": "bicycle",
       "point": [
-        348,
-        176
+        0.34942287513116477,
+        0.36926605504587157
       ]
     },
     {
@@ -11580,8 +11580,8 @@ const features = {
       "user": "Umal Jayawardhana",
       "label": "guitar",
       "point": [
-        386,
-        140
+        0.38929695697796435,
+        0.286697247706422
       ]
     },
     {
@@ -11590,8 +11590,8 @@ const features = {
       "user": "Umal Jayawardhana",
       "label": "pencil",
       "point": [
-        98,
-        258
+        0.08709338929695698,
+        0.5573394495412844
       ]
     },
     {
@@ -11600,8 +11600,8 @@ const features = {
       "user": "Umal Jayawardhana",
       "label": "clock",
       "point": [
-        296,
-        213
+        0.29485834207764955,
+        0.4541284403669725
       ]
     },
     {
@@ -11610,8 +11610,8 @@ const features = {
       "user": "Sebastian",
       "label": "car",
       "point": [
-        269,
-        174
+        0.26652675760755506,
+        0.3646788990825688
       ]
     },
     {
@@ -11620,8 +11620,8 @@ const features = {
       "user": "Sebastian",
       "label": "fish",
       "point": [
-        188,
-        66
+        0.18153200419727178,
+        0.11697247706422019
       ]
     },
     {
@@ -11630,8 +11630,8 @@ const features = {
       "user": "Sebastian",
       "label": "house",
       "point": [
-        252,
-        100
+        0.24868835257082897,
+        0.19495412844036697
       ]
     },
     {
@@ -11640,8 +11640,8 @@ const features = {
       "user": "Sebastian",
       "label": "tree",
       "point": [
-        171,
-        227
+        0.16369359916054566,
+        0.48623853211009177
       ]
     },
     {
@@ -11650,8 +11650,8 @@ const features = {
       "user": "Sebastian",
       "label": "bicycle",
       "point": [
-        257,
-        152
+        0.2539349422875131,
+        0.31422018348623854
       ]
     },
     {
@@ -11660,8 +11660,8 @@ const features = {
       "user": "Sebastian",
       "label": "guitar",
       "point": [
-        305,
-        192
+        0.304302203567681,
+        0.4059633027522936
       ]
     },
     {
@@ -11670,8 +11670,8 @@ const features = {
       "user": "Sebastian",
       "label": "pencil",
       "point": [
-        111,
-        166
+        0.10073452256033578,
+        0.3463302752293578
       ]
     },
     {
@@ -11680,8 +11680,8 @@ const features = {
       "user": "Sebastian",
       "label": "clock",
       "point": [
-        192,
-        170
+        0.18572927597061908,
+        0.3555045871559633
       ]
     },
     {
@@ -11690,8 +11690,8 @@ const features = {
       "user": "Mica",
       "label": "car",
       "point": [
-        324,
-        176
+        0.3242392444910808,
+        0.36926605504587157
       ]
     },
     {
@@ -11700,8 +11700,8 @@ const features = {
       "user": "Mica",
       "label": "fish",
       "point": [
-        238,
-        121
+        0.23399790136411333,
+        0.24311926605504589
       ]
     },
     {
@@ -11710,8 +11710,8 @@ const features = {
       "user": "Mica",
       "label": "house",
       "point": [
-        273,
-        319
+        0.2707240293809024,
+        0.6972477064220184
       ]
     },
     {
@@ -11720,8 +11720,8 @@ const features = {
       "user": "Mica",
       "label": "tree",
       "point": [
-        191,
-        283
+        0.18467995802728226,
+        0.6146788990825688
       ]
     },
     {
@@ -11730,8 +11730,8 @@ const features = {
       "user": "Mica",
       "label": "bicycle",
       "point": [
-        244,
-        167
+        0.2402938090241343,
+        0.3486238532110092
       ]
     },
     {
@@ -11740,8 +11740,8 @@ const features = {
       "user": "Mica",
       "label": "guitar",
       "point": [
-        276,
-        259
+        0.2738719832109129,
+        0.5596330275229358
       ]
     },
     {
@@ -11750,8 +11750,8 @@ const features = {
       "user": "Mica",
       "label": "pencil",
       "point": [
-        228,
-        100
+        0.22350472193074503,
+        0.19495412844036697
       ]
     },
     {
@@ -11760,8 +11760,8 @@ const features = {
       "user": "Mica",
       "label": "clock",
       "point": [
-        335,
-        307
+        0.3357817418677859,
+        0.6697247706422018
       ]
     },
     {
@@ -11770,8 +11770,8 @@ const features = {
       "user": "vivek",
       "label": "car",
       "point": [
-        273,
-        180
+        0.2707240293809024,
+        0.37844036697247707
       ]
     },
     {
@@ -11780,8 +11780,8 @@ const features = {
       "user": "vivek",
       "label": "fish",
       "point": [
-        209,
-        117
+        0.20356768100734524,
+        0.23394495412844038
       ]
     },
     {
@@ -11790,8 +11790,8 @@ const features = {
       "user": "vivek",
       "label": "house",
       "point": [
-        293,
-        366
+        0.291710388247639,
+        0.805045871559633
       ]
     },
     {
@@ -11800,8 +11800,8 @@ const features = {
       "user": "vivek",
       "label": "tree",
       "point": [
-        222,
-        301
+        0.21720881427072403,
+        0.6559633027522935
       ]
     },
     {
@@ -11810,8 +11810,8 @@ const features = {
       "user": "vivek",
       "label": "bicycle",
       "point": [
-        301,
-        174
+        0.3001049317943337,
+        0.3646788990825688
       ]
     },
     {
@@ -11820,8 +11820,8 @@ const features = {
       "user": "vivek",
       "label": "guitar",
       "point": [
-        299,
-        309
+        0.29800629590766003,
+        0.6743119266055045
       ]
     },
     {
@@ -11830,8 +11830,8 @@ const features = {
       "user": "vivek",
       "label": "pencil",
       "point": [
-        253,
-        280
+        0.2497376705141658,
+        0.6077981651376146
       ]
     },
     {
@@ -11840,8 +11840,8 @@ const features = {
       "user": "vivek",
       "label": "clock",
       "point": [
-        224,
-        221
+        0.2193074501573977,
+        0.4724770642201835
       ]
     },
     {
@@ -11850,8 +11850,8 @@ const features = {
       "user": "Alejandro Ferrer",
       "label": "car",
       "point": [
-        297,
-        129
+        0.29590766002098634,
+        0.26146788990825687
       ]
     },
     {
@@ -11860,8 +11860,8 @@ const features = {
       "user": "Alejandro Ferrer",
       "label": "fish",
       "point": [
-        270,
-        131
+        0.2675760755508919,
+        0.26605504587155965
       ]
     },
     {
@@ -11870,8 +11870,8 @@ const features = {
       "user": "Alejandro Ferrer",
       "label": "house",
       "point": [
-        320,
-        306
+        0.3200419727177335,
+        0.6674311926605505
       ]
     },
     {
@@ -11880,8 +11880,8 @@ const features = {
       "user": "Alejandro Ferrer",
       "label": "tree",
       "point": [
-        256,
-        295
+        0.2528856243441763,
+        0.6422018348623854
       ]
     },
     {
@@ -11890,8 +11890,8 @@ const features = {
       "user": "Alejandro Ferrer",
       "label": "bicycle",
       "point": [
-        278,
-        151
+        0.2759706190975866,
+        0.3119266055045872
       ]
     },
     {
@@ -11900,8 +11900,8 @@ const features = {
       "user": "Alejandro Ferrer",
       "label": "guitar",
       "point": [
-        285,
-        259
+        0.2833158447009444,
+        0.5596330275229358
       ]
     },
     {
@@ -11910,8 +11910,8 @@ const features = {
       "user": "Alejandro Ferrer",
       "label": "pencil",
       "point": [
-        56,
-        310
+        0.04302203567681007,
+        0.676605504587156
       ]
     },
     {
@@ -11920,8 +11920,8 @@ const features = {
       "user": "Alejandro Ferrer",
       "label": "clock",
       "point": [
-        248,
-        274
+        0.24449108079748164,
+        0.5940366972477065
       ]
     },
     {
@@ -11930,8 +11930,8 @@ const features = {
       "user": "depichess",
       "label": "car",
       "point": [
-        315,
-        221
+        0.3147953830010493,
+        0.4724770642201835
       ]
     },
     {
@@ -11940,8 +11940,8 @@ const features = {
       "user": "depichess",
       "label": "fish",
       "point": [
-        310,
-        159
+        0.3095487932843652,
+        0.3302752293577982
       ]
     },
     {
@@ -11950,8 +11950,8 @@ const features = {
       "user": "depichess",
       "label": "house",
       "point": [
-        251,
-        261
+        0.24763903462749212,
+        0.5642201834862385
       ]
     },
     {
@@ -11960,8 +11960,8 @@ const features = {
       "user": "depichess",
       "label": "tree",
       "point": [
-        337,
-        341
+        0.3378803777544596,
+        0.7477064220183486
       ]
     },
     {
@@ -11970,8 +11970,8 @@ const features = {
       "user": "depichess",
       "label": "bicycle",
       "point": [
-        192,
-        195
+        0.18572927597061908,
+        0.41284403669724773
       ]
     },
     {
@@ -11980,8 +11980,8 @@ const features = {
       "user": "depichess",
       "label": "guitar",
       "point": [
-        304,
-        160
+        0.30325288562434416,
+        0.33256880733944955
       ]
     },
     {
@@ -11990,8 +11990,8 @@ const features = {
       "user": "depichess",
       "label": "pencil",
       "point": [
-        97,
-        306
+        0.08604407135362015,
+        0.6674311926605505
       ]
     },
     {
@@ -12000,8 +12000,8 @@ const features = {
       "user": "depichess",
       "label": "clock",
       "point": [
-        376,
-        393
+        0.378803777544596,
+        0.8669724770642202
       ]
     },
     {
@@ -12010,8 +12010,8 @@ const features = {
       "user": "Josher",
       "label": "car",
       "point": [
-        243,
-        95
+        0.23924449108079748,
+        0.1834862385321101
       ]
     },
     {
@@ -12020,8 +12020,8 @@ const features = {
       "user": "Josher",
       "label": "fish",
       "point": [
-        256,
-        154
+        0.2528856243441763,
+        0.31880733944954126
       ]
     },
     {
@@ -12030,8 +12030,8 @@ const features = {
       "user": "Josher",
       "label": "house",
       "point": [
-        198,
-        222
+        0.19202518363064008,
+        0.47477064220183485
       ]
     },
     {
@@ -12040,8 +12040,8 @@ const features = {
       "user": "Josher",
       "label": "tree",
       "point": [
-        317,
-        248
+        0.316894018887723,
+        0.5344036697247706
       ]
     },
     {
@@ -12050,8 +12050,8 @@ const features = {
       "user": "Josher",
       "label": "bicycle",
       "point": [
-        226,
-        176
+        0.22140608604407136,
+        0.36926605504587157
       ]
     },
     {
@@ -12060,8 +12060,8 @@ const features = {
       "user": "Josher",
       "label": "guitar",
       "point": [
-        144,
-        313
+        0.1353620146904512,
+        0.6834862385321101
       ]
     },
     {
@@ -12070,8 +12070,8 @@ const features = {
       "user": "Josher",
       "label": "pencil",
       "point": [
-        330,
-        312
+        0.3305351521511018,
+        0.6811926605504587
       ]
     },
     {
@@ -12080,8 +12080,8 @@ const features = {
       "user": "Josher",
       "label": "clock",
       "point": [
-        235,
-        269
+        0.23084994753410285,
+        0.5825688073394495
       ]
     },
     {
@@ -12090,8 +12090,8 @@ const features = {
       "user": "Kiremode",
       "label": "car",
       "point": [
-        259,
-        131
+        0.25603357817418676,
+        0.26605504587155965
       ]
     },
     {
@@ -12100,8 +12100,8 @@ const features = {
       "user": "Kiremode",
       "label": "fish",
       "point": [
-        171,
-        142
+        0.16369359916054566,
+        0.29128440366972475
       ]
     },
     {
@@ -12110,8 +12110,8 @@ const features = {
       "user": "Kiremode",
       "label": "house",
       "point": [
-        142,
-        214
+        0.13326337880377753,
+        0.45642201834862384
       ]
     },
     {
@@ -12120,8 +12120,8 @@ const features = {
       "user": "Kiremode",
       "label": "tree",
       "point": [
-        212,
-        367
+        0.20671563483735572,
+        0.8073394495412844
       ]
     },
     {
@@ -12130,8 +12130,8 @@ const features = {
       "user": "Kiremode",
       "label": "bicycle",
       "point": [
-        286,
-        178
+        0.28436516264428124,
+        0.3738532110091743
       ]
     },
     {
@@ -12140,8 +12140,8 @@ const features = {
       "user": "Kiremode",
       "label": "guitar",
       "point": [
-        110,
-        345
+        0.09968520461699895,
+        0.7568807339449541
       ]
     },
     {
@@ -12150,8 +12150,8 @@ const features = {
       "user": "Kiremode",
       "label": "pencil",
       "point": [
-        55,
-        284
+        0.04197271773347324,
+        0.6169724770642202
       ]
     },
     {
@@ -12160,8 +12160,8 @@ const features = {
       "user": "Kiremode",
       "label": "clock",
       "point": [
-        131,
-        168
+        0.12172088142707241,
+        0.35091743119266056
       ]
     },
     {
@@ -12170,8 +12170,8 @@ const features = {
       "user": "Komanc",
       "label": "car",
       "point": [
-        286,
-        241
+        0.28436516264428124,
+        0.518348623853211
       ]
     },
     {
@@ -12180,8 +12180,8 @@ const features = {
       "user": "Komanc",
       "label": "fish",
       "point": [
-        199,
-        109
+        0.1930745015739769,
+        0.21559633027522937
       ]
     },
     {
@@ -12190,8 +12190,8 @@ const features = {
       "user": "Komanc",
       "label": "house",
       "point": [
-        129,
-        255
+        0.11962224554039874,
+        0.5504587155963303
       ]
     },
     {
@@ -12200,8 +12200,8 @@ const features = {
       "user": "Komanc",
       "label": "tree",
       "point": [
-        231,
-        263
+        0.2266526757607555,
+        0.5688073394495413
       ]
     },
     {
@@ -12210,8 +12210,8 @@ const features = {
       "user": "Komanc",
       "label": "bicycle",
       "point": [
-        290,
-        199
+        0.2885624344176285,
+        0.42201834862385323
       ]
     },
     {
@@ -12220,8 +12220,8 @@ const features = {
       "user": "Komanc",
       "label": "guitar",
       "point": [
-        276,
-        343
+        0.2738719832109129,
+        0.7522935779816514
       ]
     },
     {
@@ -12230,8 +12230,8 @@ const features = {
       "user": "Komanc",
       "label": "pencil",
       "point": [
-        90,
-        295
+        0.07869884575026233,
+        0.6422018348623854
       ]
     },
     {
@@ -12240,8 +12240,8 @@ const features = {
       "user": "Komanc",
       "label": "clock",
       "point": [
-        266,
-        242
+        0.2633788037775446,
+        0.5206422018348624
       ]
     },
     {
@@ -12250,8 +12250,8 @@ const features = {
       "user": "Yotro",
       "label": "car",
       "point": [
-        374,
-        157
+        0.37670514165792235,
+        0.3256880733944954
       ]
     },
     {
@@ -12260,8 +12260,8 @@ const features = {
       "user": "Yotro",
       "label": "fish",
       "point": [
-        343,
-        99
+        0.3441762854144806,
+        0.1926605504587156
       ]
     },
     {
@@ -12270,8 +12270,8 @@ const features = {
       "user": "Yotro",
       "label": "house",
       "point": [
-        348,
-        303
+        0.34942287513116477,
+        0.6605504587155964
       ]
     },
     {
@@ -12280,8 +12280,8 @@ const features = {
       "user": "Yotro",
       "label": "tree",
       "point": [
-        299,
-        317
+        0.29800629590766003,
+        0.6926605504587156
       ]
     },
     {
@@ -12290,8 +12290,8 @@ const features = {
       "user": "Yotro",
       "label": "bicycle",
       "point": [
-        238,
-        154
+        0.23399790136411333,
+        0.31880733944954126
       ]
     },
     {
@@ -12300,8 +12300,8 @@ const features = {
       "user": "Yotro",
       "label": "guitar",
       "point": [
-        109,
-        322
+        0.09863588667366212,
+        0.7041284403669725
       ]
     },
     {
@@ -12310,8 +12310,8 @@ const features = {
       "user": "Yotro",
       "label": "pencil",
       "point": [
-        268,
-        264
+        0.2654774396642183,
+        0.5711009174311926
       ]
     },
     {
@@ -12320,8 +12320,8 @@ const features = {
       "user": "Yotro",
       "label": "clock",
       "point": [
-        270,
-        130
+        0.2675760755508919,
+        0.26376146788990823
       ]
     },
     {
@@ -12330,8 +12330,8 @@ const features = {
       "user": "Shir Ben Yosef",
       "label": "car",
       "point": [
-        282,
-        111
+        0.2801678908709339,
+        0.22018348623853212
       ]
     },
     {
@@ -12340,8 +12340,8 @@ const features = {
       "user": "Shir Ben Yosef",
       "label": "fish",
       "point": [
-        238,
-        84
+        0.23399790136411333,
+        0.15825688073394495
       ]
     },
     {
@@ -12350,8 +12350,8 @@ const features = {
       "user": "Shir Ben Yosef",
       "label": "house",
       "point": [
-        305,
-        357
+        0.304302203567681,
+        0.7844036697247706
       ]
     },
     {
@@ -12360,8 +12360,8 @@ const features = {
       "user": "Shir Ben Yosef",
       "label": "tree",
       "point": [
-        380,
-        400
+        0.3830010493179433,
+        0.8830275229357798
       ]
     },
     {
@@ -12370,8 +12370,8 @@ const features = {
       "user": "Shir Ben Yosef",
       "label": "bicycle",
       "point": [
-        159,
-        91
+        0.15110178384050368,
+        0.1743119266055046
       ]
     },
     {
@@ -12380,8 +12380,8 @@ const features = {
       "user": "Shir Ben Yosef",
       "label": "guitar",
       "point": [
-        147,
-        364
+        0.1385099685204617,
+        0.8004587155963303
       ]
     },
     {
@@ -12390,8 +12390,8 @@ const features = {
       "user": "Shir Ben Yosef",
       "label": "pencil",
       "point": [
-        40,
-        278
+        0.026232948583420776,
+        0.6032110091743119
       ]
     },
     {
@@ -12400,8 +12400,8 @@ const features = {
       "user": "Shir Ben Yosef",
       "label": "clock",
       "point": [
-        215,
-        277
+        0.2098635886673662,
+        0.6009174311926605
       ]
     },
     {
@@ -12410,8 +12410,8 @@ const features = {
       "user": "Max",
       "label": "car",
       "point": [
-        282,
-        154
+        0.2801678908709339,
+        0.31880733944954126
       ]
     },
     {
@@ -12420,8 +12420,8 @@ const features = {
       "user": "Max",
       "label": "fish",
       "point": [
-        153,
-        64
+        0.14480587618048268,
+        0.11238532110091744
       ]
     },
     {
@@ -12430,8 +12430,8 @@ const features = {
       "user": "Max",
       "label": "house",
       "point": [
-        153,
-        134
+        0.14480587618048268,
+        0.27293577981651373
       ]
     },
     {
@@ -12440,8 +12440,8 @@ const features = {
       "user": "Max",
       "label": "tree",
       "point": [
-        188,
-        217
+        0.18153200419727178,
+        0.463302752293578
       ]
     },
     {
@@ -12450,8 +12450,8 @@ const features = {
       "user": "Max",
       "label": "bicycle",
       "point": [
-        185,
-        106
+        0.1783840503672613,
+        0.20871559633027523
       ]
     },
     {
@@ -12460,8 +12460,8 @@ const features = {
       "user": "Max",
       "label": "guitar",
       "point": [
-        260,
-        123
+        0.2570828961175236,
+        0.24770642201834864
       ]
     },
     {
@@ -12470,8 +12470,8 @@ const features = {
       "user": "Max",
       "label": "pencil",
       "point": [
-        26,
-        144
+        0.011542497376705142,
+        0.2958715596330275
       ]
     },
     {
@@ -12480,8 +12480,8 @@ const features = {
       "user": "Max",
       "label": "clock",
       "point": [
-        106,
-        68
+        0.09548793284365163,
+        0.12155963302752294
       ]
     },
     {
@@ -12490,8 +12490,8 @@ const features = {
       "user": "Alfredo Oviedo",
       "label": "car",
       "point": [
-        171,
-        80
+        0.16369359916054566,
+        0.14908256880733944
       ]
     },
     {
@@ -12500,8 +12500,8 @@ const features = {
       "user": "Alfredo Oviedo",
       "label": "fish",
       "point": [
-        234,
-        210
+        0.229800629590766,
+        0.44724770642201833
       ]
     },
     {
@@ -12510,8 +12510,8 @@ const features = {
       "user": "Alfredo Oviedo",
       "label": "house",
       "point": [
-        163,
-        206
+        0.155299055613851,
+        0.4380733944954128
       ]
     },
     {
@@ -12520,8 +12520,8 @@ const features = {
       "user": "Alfredo Oviedo",
       "label": "tree",
       "point": [
-        375,
-        342
+        0.3777544596012592,
+        0.75
       ]
     },
     {
@@ -12530,8 +12530,8 @@ const features = {
       "user": "Alfredo Oviedo",
       "label": "bicycle",
       "point": [
-        223,
-        137
+        0.21825813221406087,
+        0.2798165137614679
       ]
     },
     {
@@ -12540,8 +12540,8 @@ const features = {
       "user": "Alfredo Oviedo",
       "label": "guitar",
       "point": [
-        351,
-        238
+        0.35257082896117525,
+        0.5114678899082569
       ]
     },
     {
@@ -12550,8 +12550,8 @@ const features = {
       "user": "Alfredo Oviedo",
       "label": "pencil",
       "point": [
-        244,
-        141
+        0.2402938090241343,
+        0.2889908256880734
       ]
     },
     {
@@ -12560,8 +12560,8 @@ const features = {
       "user": "Alfredo Oviedo",
       "label": "clock",
       "point": [
-        164,
-        144
+        0.15634837355718784,
+        0.2958715596330275
       ]
     },
     {
@@ -12570,8 +12570,8 @@ const features = {
       "user": "c",
       "label": "car",
       "point": [
-        176,
-        109
+        0.1689401888772298,
+        0.21559633027522937
       ]
     },
     {
@@ -12580,8 +12580,8 @@ const features = {
       "user": "c",
       "label": "fish",
       "point": [
-        161,
-        76
+        0.15320041972717732,
+        0.13990825688073394
       ]
     },
     {
@@ -12590,8 +12590,8 @@ const features = {
       "user": "c",
       "label": "house",
       "point": [
-        255,
-        169
+        0.2518363064008394,
+        0.3532110091743119
       ]
     },
     {
@@ -12600,8 +12600,8 @@ const features = {
       "user": "c",
       "label": "tree",
       "point": [
-        324,
-        236
+        0.3242392444910808,
+        0.5068807339449541
       ]
     },
     {
@@ -12610,8 +12610,8 @@ const features = {
       "user": "c",
       "label": "bicycle",
       "point": [
-        128,
-        130
+        0.11857292759706191,
+        0.26376146788990823
       ]
     },
     {
@@ -12620,8 +12620,8 @@ const features = {
       "user": "c",
       "label": "guitar",
       "point": [
-        245,
-        278
+        0.24134312696747115,
+        0.6032110091743119
       ]
     },
     {
@@ -12630,8 +12630,8 @@ const features = {
       "user": "c",
       "label": "pencil",
       "point": [
-        58,
-        166
+        0.04512067156348373,
+        0.3463302752293578
       ]
     },
     {
@@ -12640,8 +12640,8 @@ const features = {
       "user": "c",
       "label": "clock",
       "point": [
-        156,
-        212
+        0.14795383001049317,
+        0.4518348623853211
       ]
     },
     {
@@ -12650,8 +12650,8 @@ const features = {
       "user": "Andrei",
       "label": "car",
       "point": [
-        374,
-        221
+        0.37670514165792235,
+        0.4724770642201835
       ]
     },
     {
@@ -12660,8 +12660,8 @@ const features = {
       "user": "Andrei",
       "label": "fish",
       "point": [
-        297,
-        190
+        0.29590766002098634,
+        0.4013761467889908
       ]
     },
     {
@@ -12670,8 +12670,8 @@ const features = {
       "user": "Andrei",
       "label": "house",
       "point": [
-        271,
-        222
+        0.26862539349422876,
+        0.47477064220183485
       ]
     },
     {
@@ -12680,8 +12680,8 @@ const features = {
       "user": "Andrei",
       "label": "tree",
       "point": [
-        285,
-        342
+        0.2833158447009444,
+        0.75
       ]
     },
     {
@@ -12690,8 +12690,8 @@ const features = {
       "user": "Andrei",
       "label": "bicycle",
       "point": [
-        337,
-        203
+        0.3378803777544596,
+        0.43119266055045874
       ]
     },
     {
@@ -12700,8 +12700,8 @@ const features = {
       "user": "Andrei",
       "label": "guitar",
       "point": [
-        308,
-        341
+        0.3074501573976915,
+        0.7477064220183486
       ]
     },
     {
@@ -12710,8 +12710,8 @@ const features = {
       "user": "Andrei",
       "label": "pencil",
       "point": [
-        293,
-        331
+        0.291710388247639,
+        0.7247706422018348
       ]
     },
     {
@@ -12720,8 +12720,8 @@ const features = {
       "user": "Andrei",
       "label": "clock",
       "point": [
-        282,
-        228
+        0.2801678908709339,
+        0.48853211009174313
       ]
     },
     {
@@ -12730,8 +12730,8 @@ const features = {
       "user": "Qori",
       "label": "car",
       "point": [
-        299,
-        207
+        0.29800629590766003,
+        0.44036697247706424
       ]
     },
     {
@@ -12740,8 +12740,8 @@ const features = {
       "user": "Qori",
       "label": "fish",
       "point": [
-        200,
-        208
+        0.19412381951731375,
+        0.4426605504587156
       ]
     },
     {
@@ -12750,8 +12750,8 @@ const features = {
       "user": "Qori",
       "label": "house",
       "point": [
-        208,
-        208
+        0.2025183630640084,
+        0.4426605504587156
       ]
     },
     {
@@ -12760,8 +12760,8 @@ const features = {
       "user": "Qori",
       "label": "tree",
       "point": [
-        355,
-        264
+        0.3567681007345226,
+        0.5711009174311926
       ]
     },
     {
@@ -12770,8 +12770,8 @@ const features = {
       "user": "Qori",
       "label": "bicycle",
       "point": [
-        279,
-        184
+        0.2770199370409234,
+        0.3876146788990826
       ]
     },
     {
@@ -12780,8 +12780,8 @@ const features = {
       "user": "Qori",
       "label": "guitar",
       "point": [
-        246,
-        299
+        0.24239244491080797,
+        0.6513761467889908
       ]
     },
     {
@@ -12790,8 +12790,8 @@ const features = {
       "user": "Qori",
       "label": "pencil",
       "point": [
-        158,
-        198
+        0.15005246589716684,
+        0.4197247706422018
       ]
     },
     {
@@ -12800,8 +12800,8 @@ const features = {
       "user": "Qori",
       "label": "clock",
       "point": [
-        191,
-        185
+        0.18467995802728226,
+        0.38990825688073394
       ]
     },
     {
@@ -12810,8 +12810,8 @@ const features = {
       "user": "mert",
       "label": "car",
       "point": [
-        205,
-        125
+        0.1993704092339979,
+        0.25229357798165136
       ]
     },
     {
@@ -12820,8 +12820,8 @@ const features = {
       "user": "mert",
       "label": "fish",
       "point": [
-        319,
-        289
+        0.31899265477439664,
+        0.6284403669724771
       ]
     },
     {
@@ -12830,8 +12830,8 @@ const features = {
       "user": "mert",
       "label": "house",
       "point": [
-        258,
-        325
+        0.25498426023084997,
+        0.7110091743119266
       ]
     },
     {
@@ -12840,8 +12840,8 @@ const features = {
       "user": "mert",
       "label": "tree",
       "point": [
-        304,
-        337
+        0.30325288562434416,
+        0.7385321100917431
       ]
     },
     {
@@ -12850,8 +12850,8 @@ const features = {
       "user": "mert",
       "label": "bicycle",
       "point": [
-        244,
-        222
+        0.2402938090241343,
+        0.47477064220183485
       ]
     },
     {
@@ -12860,8 +12860,8 @@ const features = {
       "user": "mert",
       "label": "guitar",
       "point": [
-        276,
-        201
+        0.2738719832109129,
+        0.42660550458715596
       ]
     },
     {
@@ -12870,8 +12870,8 @@ const features = {
       "user": "mert",
       "label": "pencil",
       "point": [
-        173,
-        226
+        0.1657922350472193,
+        0.48394495412844035
       ]
     },
     {
@@ -12880,8 +12880,8 @@ const features = {
       "user": "mert",
       "label": "clock",
       "point": [
-        223,
-        239
+        0.21825813221406087,
+        0.5137614678899083
       ]
     },
     {
@@ -12890,8 +12890,8 @@ const features = {
       "user": "Chris 👍",
       "label": "car",
       "point": [
-        244,
-        204
+        0.2402938090241343,
+        0.4334862385321101
       ]
     },
     {
@@ -12900,8 +12900,8 @@ const features = {
       "user": "Chris 👍",
       "label": "fish",
       "point": [
-        232,
-        151
+        0.22770199370409233,
+        0.3119266055045872
       ]
     },
     {
@@ -12910,8 +12910,8 @@ const features = {
       "user": "Chris 👍",
       "label": "house",
       "point": [
-        209,
-        241
+        0.20356768100734524,
+        0.518348623853211
       ]
     },
     {
@@ -12920,8 +12920,8 @@ const features = {
       "user": "Chris 👍",
       "label": "tree",
       "point": [
-        285,
-        361
+        0.2833158447009444,
+        0.7935779816513762
       ]
     },
     {
@@ -12930,8 +12930,8 @@ const features = {
       "user": "Chris 👍",
       "label": "bicycle",
       "point": [
-        250,
-        282
+        0.2465897166841553,
+        0.6123853211009175
       ]
     },
     {
@@ -12940,8 +12940,8 @@ const features = {
       "user": "Chris 👍",
       "label": "guitar",
       "point": [
-        305,
-        282
+        0.304302203567681,
+        0.6123853211009175
       ]
     },
     {
@@ -12950,8 +12950,8 @@ const features = {
       "user": "Chris 👍",
       "label": "pencil",
       "point": [
-        24,
-        220
+        0.00944386149003148,
+        0.4701834862385321
       ]
     },
     {
@@ -12960,8 +12960,8 @@ const features = {
       "user": "Chris 👍",
       "label": "clock",
       "point": [
-        72,
-        190
+        0.05981112277019937,
+        0.4013761467889908
       ]
     },
     {
@@ -12970,8 +12970,8 @@ const features = {
       "user": "Epherum",
       "label": "car",
       "point": [
-        303,
-        91
+        0.30220356768100737,
+        0.1743119266055046
       ]
     },
     {
@@ -12980,8 +12980,8 @@ const features = {
       "user": "Epherum",
       "label": "fish",
       "point": [
-        235,
-        74
+        0.23084994753410285,
+        0.1353211009174312
       ]
     },
     {
@@ -12990,8 +12990,8 @@ const features = {
       "user": "Epherum",
       "label": "house",
       "point": [
-        175,
-        213
+        0.16789087093389296,
+        0.4541284403669725
       ]
     },
     {
@@ -13000,8 +13000,8 @@ const features = {
       "user": "Epherum",
       "label": "tree",
       "point": [
-        245,
-        289
+        0.24134312696747115,
+        0.6284403669724771
       ]
     },
     {
@@ -13010,8 +13010,8 @@ const features = {
       "user": "Epherum",
       "label": "bicycle",
       "point": [
-        341,
-        225
+        0.34207764952780695,
+        0.481651376146789
       ]
     },
     {
@@ -13020,8 +13020,8 @@ const features = {
       "user": "Epherum",
       "label": "guitar",
       "point": [
-        193,
-        337
+        0.18677859391395593,
+        0.7385321100917431
       ]
     },
     {
@@ -13030,8 +13030,8 @@ const features = {
       "user": "Epherum",
       "label": "pencil",
       "point": [
-        225,
-        208
+        0.2203567681007345,
+        0.4426605504587156
       ]
     },
     {
@@ -13040,8 +13040,8 @@ const features = {
       "user": "Epherum",
       "label": "clock",
       "point": [
-        284,
-        261
+        0.28226652675760755,
+        0.5642201834862385
       ]
     },
     {
@@ -13050,8 +13050,8 @@ const features = {
       "user": "Sjaak Lauwers",
       "label": "car",
       "point": [
-        373,
-        204
+        0.3756558237145855,
+        0.4334862385321101
       ]
     },
     {
@@ -13060,8 +13060,8 @@ const features = {
       "user": "Sjaak Lauwers",
       "label": "fish",
       "point": [
-        298,
-        134
+        0.2969569779643232,
+        0.27293577981651373
       ]
     },
     {
@@ -13070,8 +13070,8 @@ const features = {
       "user": "Sjaak Lauwers",
       "label": "house",
       "point": [
-        397,
-        318
+        0.40083945435466944,
+        0.694954128440367
       ]
     },
     {
@@ -13080,8 +13080,8 @@ const features = {
       "user": "Sjaak Lauwers",
       "label": "tree",
       "point": [
-        399,
-        373
+        0.40293809024134314,
+        0.8211009174311926
       ]
     },
     {
@@ -13090,8 +13090,8 @@ const features = {
       "user": "Sjaak Lauwers",
       "label": "bicycle",
       "point": [
-        299,
-        178
+        0.29800629590766003,
+        0.3738532110091743
       ]
     },
     {
@@ -13100,8 +13100,8 @@ const features = {
       "user": "Sjaak Lauwers",
       "label": "guitar",
       "point": [
-        356,
-        116
+        0.3578174186778594,
+        0.231651376146789
       ]
     },
     {
@@ -13110,8 +13110,8 @@ const features = {
       "user": "Sjaak Lauwers",
       "label": "pencil",
       "point": [
-        202,
-        28
+        0.19622245540398742,
+        0.02981651376146789
       ]
     },
     {
@@ -13120,8 +13120,8 @@ const features = {
       "user": "Sjaak Lauwers",
       "label": "clock",
       "point": [
-        242,
-        208
+        0.23819517313746066,
+        0.4426605504587156
       ]
     },
     {
@@ -13130,8 +13130,8 @@ const features = {
       "user": "Maciek W",
       "label": "car",
       "point": [
-        302,
-        134
+        0.3011542497376705,
+        0.27293577981651373
       ]
     },
     {
@@ -13140,8 +13140,8 @@ const features = {
       "user": "Maciek W",
       "label": "fish",
       "point": [
-        220,
-        122
+        0.21511017838405036,
+        0.24541284403669725
       ]
     },
     {
@@ -13150,8 +13150,8 @@ const features = {
       "user": "Maciek W",
       "label": "house",
       "point": [
-        315,
-        211
+        0.3147953830010493,
+        0.44954128440366975
       ]
     },
     {
@@ -13160,8 +13160,8 @@ const features = {
       "user": "Maciek W",
       "label": "tree",
       "point": [
-        169,
-        215
+        0.161594963273872,
+        0.45871559633027525
       ]
     },
     {
@@ -13170,8 +13170,8 @@ const features = {
       "user": "Maciek W",
       "label": "bicycle",
       "point": [
-        186,
-        120
+        0.1794333683105981,
+        0.2408256880733945
       ]
     },
     {
@@ -13180,8 +13180,8 @@ const features = {
       "user": "Maciek W",
       "label": "guitar",
       "point": [
-        159,
-        168
+        0.15110178384050368,
+        0.35091743119266056
       ]
     },
     {
@@ -13190,8 +13190,8 @@ const features = {
       "user": "Maciek W",
       "label": "pencil",
       "point": [
-        161,
-        139
+        0.15320041972717732,
+        0.28440366972477066
       ]
     },
     {
@@ -13200,8 +13200,8 @@ const features = {
       "user": "Maciek W",
       "label": "clock",
       "point": [
-        170,
-        108
+        0.1626442812172088,
+        0.21330275229357798
       ]
     },
     {
@@ -13210,8 +13210,8 @@ const features = {
       "user": "benci",
       "label": "car",
       "point": [
-        270,
-        99
+        0.2675760755508919,
+        0.1926605504587156
       ]
     },
     {
@@ -13220,8 +13220,8 @@ const features = {
       "user": "benci",
       "label": "fish",
       "point": [
-        213,
-        70
+        0.20776495278069254,
+        0.12614678899082568
       ]
     },
     {
@@ -13230,8 +13230,8 @@ const features = {
       "user": "benci",
       "label": "house",
       "point": [
-        281,
-        160
+        0.27911857292759706,
+        0.33256880733944955
       ]
     },
     {
@@ -13240,8 +13240,8 @@ const features = {
       "user": "benci",
       "label": "tree",
       "point": [
-        154,
-        220
+        0.1458551941238195,
+        0.4701834862385321
       ]
     },
     {
@@ -13250,8 +13250,8 @@ const features = {
       "user": "benci",
       "label": "bicycle",
       "point": [
-        290,
-        145
+        0.2885624344176285,
+        0.2981651376146789
       ]
     },
     {
@@ -13260,8 +13260,8 @@ const features = {
       "user": "benci",
       "label": "guitar",
       "point": [
-        76,
-        225
+        0.06400839454354669,
+        0.481651376146789
       ]
     },
     {
@@ -13270,8 +13270,8 @@ const features = {
       "user": "benci",
       "label": "pencil",
       "point": [
-        139,
-        142
+        0.13011542497376705,
+        0.29128440366972475
       ]
     },
     {
@@ -13280,8 +13280,8 @@ const features = {
       "user": "benci",
       "label": "clock",
       "point": [
-        134,
-        136
+        0.1248688352570829,
+        0.2775229357798165
       ]
     },
     {
@@ -13290,8 +13290,8 @@ const features = {
       "user": "niconi",
       "label": "car",
       "point": [
-        214,
-        90
+        0.2088142707240294,
+        0.1720183486238532
       ]
     },
     {
@@ -13300,8 +13300,8 @@ const features = {
       "user": "niconi",
       "label": "fish",
       "point": [
-        194,
-        214
+        0.18782791185729275,
+        0.45642201834862384
       ]
     },
     {
@@ -13310,8 +13310,8 @@ const features = {
       "user": "niconi",
       "label": "house",
       "point": [
-        453,
-        435
+        0.459601259181532,
+        0.963302752293578
       ]
     },
     {
@@ -13320,8 +13320,8 @@ const features = {
       "user": "niconi",
       "label": "tree",
       "point": [
-        399,
-        435
+        0.40293809024134314,
+        0.963302752293578
       ]
     },
     {
@@ -13330,8 +13330,8 @@ const features = {
       "user": "niconi",
       "label": "bicycle",
       "point": [
-        426,
-        392
+        0.43126967471143757,
+        0.8646788990825688
       ]
     },
     {
@@ -13340,8 +13340,8 @@ const features = {
       "user": "niconi",
       "label": "guitar",
       "point": [
-        173,
-        373
+        0.1657922350472193,
+        0.8211009174311926
       ]
     },
     {
@@ -13350,8 +13350,8 @@ const features = {
       "user": "niconi",
       "label": "pencil",
       "point": [
-        129,
-        157
+        0.11962224554039874,
+        0.3256880733944954
       ]
     },
     {
@@ -13360,8 +13360,8 @@ const features = {
       "user": "niconi",
       "label": "clock",
       "point": [
-        226,
-        277
+        0.22140608604407136,
+        0.6009174311926605
       ]
     },
     {
@@ -13370,8 +13370,8 @@ const features = {
       "user": "许叶健",
       "label": "car",
       "point": [
-        309,
-        223
+        0.30849947534102834,
+        0.47706422018348627
       ]
     },
     {
@@ -13380,8 +13380,8 @@ const features = {
       "user": "许叶健",
       "label": "fish",
       "point": [
-        233,
-        127
+        0.22875131164742918,
+        0.25688073394495414
       ]
     },
     {
@@ -13390,8 +13390,8 @@ const features = {
       "user": "许叶健",
       "label": "house",
       "point": [
-        277,
-        304
+        0.27492130115424973,
+        0.6628440366972477
       ]
     },
     {
@@ -13400,8 +13400,8 @@ const features = {
       "user": "许叶健",
       "label": "tree",
       "point": [
-        185,
-        295
+        0.1783840503672613,
+        0.6422018348623854
       ]
     },
     {
@@ -13410,8 +13410,8 @@ const features = {
       "user": "许叶健",
       "label": "bicycle",
       "point": [
-        274,
-        212
+        0.27177334732423925,
+        0.4518348623853211
       ]
     },
     {
@@ -13420,8 +13420,8 @@ const features = {
       "user": "许叶健",
       "label": "guitar",
       "point": [
-        223,
-        293
+        0.21825813221406087,
+        0.6376146788990825
       ]
     },
     {
@@ -13430,8 +13430,8 @@ const features = {
       "user": "许叶健",
       "label": "pencil",
       "point": [
-        205,
-        187
+        0.1993704092339979,
+        0.3944954128440367
       ]
     },
     {
@@ -13440,8 +13440,8 @@ const features = {
       "user": "许叶健",
       "label": "clock",
       "point": [
-        250,
-        291
+        0.2465897166841553,
+        0.6330275229357798
       ]
     },
     {
@@ -13450,8 +13450,8 @@ const features = {
       "user": "thiago",
       "label": "car",
       "point": [
-        217,
-        91
+        0.21196222455403987,
+        0.1743119266055046
       ]
     },
     {
@@ -13460,8 +13460,8 @@ const features = {
       "user": "thiago",
       "label": "fish",
       "point": [
-        235,
-        100
+        0.23084994753410285,
+        0.19495412844036697
       ]
     },
     {
@@ -13470,8 +13470,8 @@ const features = {
       "user": "thiago",
       "label": "house",
       "point": [
-        238,
-        228
+        0.23399790136411333,
+        0.48853211009174313
       ]
     },
     {
@@ -13480,8 +13480,8 @@ const features = {
       "user": "thiago",
       "label": "tree",
       "point": [
-        217,
-        277
+        0.21196222455403987,
+        0.6009174311926605
       ]
     },
     {
@@ -13490,8 +13490,8 @@ const features = {
       "user": "thiago",
       "label": "bicycle",
       "point": [
-        246,
-        182
+        0.24239244491080797,
+        0.3830275229357798
       ]
     },
     {
@@ -13500,8 +13500,8 @@ const features = {
       "user": "thiago",
       "label": "guitar",
       "point": [
-        259,
-        282
+        0.25603357817418676,
+        0.6123853211009175
       ]
     },
     {
@@ -13510,8 +13510,8 @@ const features = {
       "user": "thiago",
       "label": "pencil",
       "point": [
-        170,
-        190
+        0.1626442812172088,
+        0.4013761467889908
       ]
     },
     {
@@ -13520,8 +13520,8 @@ const features = {
       "user": "thiago",
       "label": "clock",
       "point": [
-        65,
-        61
+        0.05246589716684155,
+        0.10550458715596331
       ]
     },
     {
@@ -13530,8 +13530,8 @@ const features = {
       "user": "Maria",
       "label": "car",
       "point": [
-        317,
-        230
+        0.316894018887723,
+        0.49311926605504586
       ]
     },
     {
@@ -13540,8 +13540,8 @@ const features = {
       "user": "Maria",
       "label": "fish",
       "point": [
-        261,
-        115
+        0.25813221406086045,
+        0.22935779816513763
       ]
     },
     {
@@ -13550,8 +13550,8 @@ const features = {
       "user": "Maria",
       "label": "house",
       "point": [
-        284,
-        301
+        0.28226652675760755,
+        0.6559633027522935
       ]
     },
     {
@@ -13560,8 +13560,8 @@ const features = {
       "user": "Maria",
       "label": "tree",
       "point": [
-        224,
-        317
+        0.2193074501573977,
+        0.6926605504587156
       ]
     },
     {
@@ -13570,8 +13570,8 @@ const features = {
       "user": "Maria",
       "label": "bicycle",
       "point": [
-        247,
-        228
+        0.24344176285414482,
+        0.48853211009174313
       ]
     },
     {
@@ -13580,8 +13580,8 @@ const features = {
       "user": "Maria",
       "label": "guitar",
       "point": [
-        320,
-        319
+        0.3200419727177335,
+        0.6972477064220184
       ]
     },
     {
@@ -13590,8 +13590,8 @@ const features = {
       "user": "Maria",
       "label": "pencil",
       "point": [
-        245,
-        251
+        0.24134312696747115,
+        0.5412844036697247
       ]
     },
     {
@@ -13600,8 +13600,8 @@ const features = {
       "user": "Maria",
       "label": "clock",
       "point": [
-        209,
-        205
+        0.20356768100734524,
+        0.43577981651376146
       ]
     },
     {
@@ -13610,8 +13610,8 @@ const features = {
       "user": "IdrissD",
       "label": "car",
       "point": [
-        108,
-        154
+        0.09758656873032528,
+        0.31880733944954126
       ]
     },
     {
@@ -13620,8 +13620,8 @@ const features = {
       "user": "IdrissD",
       "label": "fish",
       "point": [
-        130,
-        113
+        0.12067156348373557,
+        0.22477064220183487
       ]
     },
     {
@@ -13630,8 +13630,8 @@ const features = {
       "user": "IdrissD",
       "label": "house",
       "point": [
-        104,
-        125
+        0.09338929695697797,
+        0.25229357798165136
       ]
     },
     {
@@ -13640,8 +13640,8 @@ const features = {
       "user": "IdrissD",
       "label": "tree",
       "point": [
-        155,
-        172
+        0.14690451206715635,
+        0.36009174311926606
       ]
     },
     {
@@ -13650,8 +13650,8 @@ const features = {
       "user": "IdrissD",
       "label": "bicycle",
       "point": [
-        90,
-        112
+        0.07869884575026233,
+        0.22247706422018348
       ]
     },
     {
@@ -13660,8 +13660,8 @@ const features = {
       "user": "IdrissD",
       "label": "guitar",
       "point": [
-        224,
-        104
+        0.2193074501573977,
+        0.20412844036697247
       ]
     },
     {
@@ -13670,8 +13670,8 @@ const features = {
       "user": "IdrissD",
       "label": "pencil",
       "point": [
-        173,
-        219
+        0.1657922350472193,
+        0.46788990825688076
       ]
     },
     {
@@ -13680,8 +13680,8 @@ const features = {
       "user": "IdrissD",
       "label": "clock",
       "point": [
-        205,
-        198
+        0.1993704092339979,
+        0.4197247706422018
       ]
     },
     {
@@ -13690,8 +13690,8 @@ const features = {
       "user": "eduliqui",
       "label": "car",
       "point": [
-        247,
-        144
+        0.24344176285414482,
+        0.2958715596330275
       ]
     },
     {
@@ -13700,8 +13700,8 @@ const features = {
       "user": "eduliqui",
       "label": "fish",
       "point": [
-        259,
-        111
+        0.25603357817418676,
+        0.22018348623853212
       ]
     },
     {
@@ -13710,8 +13710,8 @@ const features = {
       "user": "eduliqui",
       "label": "house",
       "point": [
-        227,
-        260
+        0.22245540398740818,
+        0.5619266055045872
       ]
     },
     {
@@ -13720,8 +13720,8 @@ const features = {
       "user": "eduliqui",
       "label": "tree",
       "point": [
-        333,
-        327
+        0.3336831059811123,
+        0.7155963302752294
       ]
     },
     {
@@ -13730,8 +13730,8 @@ const features = {
       "user": "eduliqui",
       "label": "bicycle",
       "point": [
-        203,
-        138
+        0.19727177334732424,
+        0.28211009174311924
       ]
     },
     {
@@ -13740,8 +13740,8 @@ const features = {
       "user": "eduliqui",
       "label": "guitar",
       "point": [
-        215,
-        240
+        0.2098635886673662,
+        0.5160550458715596
       ]
     },
     {
@@ -13750,8 +13750,8 @@ const features = {
       "user": "eduliqui",
       "label": "pencil",
       "point": [
-        47,
-        277
+        0.033578174186778595,
+        0.6009174311926605
       ]
     },
     {
@@ -13760,8 +13760,8 @@ const features = {
       "user": "eduliqui",
       "label": "clock",
       "point": [
-        234,
-        242
+        0.229800629590766,
+        0.5206422018348624
       ]
     },
     {
@@ -13770,8 +13770,8 @@ const features = {
       "user": "Don juan",
       "label": "car",
       "point": [
-        264,
-        166
+        0.26128016789087094,
+        0.3463302752293578
       ]
     },
     {
@@ -13780,8 +13780,8 @@ const features = {
       "user": "Don juan",
       "label": "fish",
       "point": [
-        240,
-        114
+        0.236096537250787,
+        0.22706422018348624
       ]
     },
     {
@@ -13790,8 +13790,8 @@ const features = {
       "user": "Don juan",
       "label": "house",
       "point": [
-        229,
-        238
+        0.22455403987408185,
+        0.5114678899082569
       ]
     },
     {
@@ -13800,8 +13800,8 @@ const features = {
       "user": "Don juan",
       "label": "tree",
       "point": [
-        209,
-        257
+        0.20356768100734524,
+        0.555045871559633
       ]
     },
     {
@@ -13810,8 +13810,8 @@ const features = {
       "user": "Don juan",
       "label": "bicycle",
       "point": [
-        234,
-        147
+        0.229800629590766,
+        0.30275229357798167
       ]
     },
     {
@@ -13820,8 +13820,8 @@ const features = {
       "user": "Don juan",
       "label": "guitar",
       "point": [
-        266,
-        192
+        0.2633788037775446,
+        0.4059633027522936
       ]
     },
     {
@@ -13830,8 +13830,8 @@ const features = {
       "user": "Don juan",
       "label": "pencil",
       "point": [
-        150,
-        206
+        0.1416579223504722,
+        0.4380733944954128
       ]
     },
     {
@@ -13840,8 +13840,8 @@ const features = {
       "user": "Don juan",
       "label": "clock",
       "point": [
-        201,
-        208
+        0.19517313746065057,
+        0.4426605504587156
       ]
     },
     {
@@ -13850,8 +13850,8 @@ const features = {
       "user": "adityackr",
       "label": "car",
       "point": [
-        282,
-        188
+        0.2801678908709339,
+        0.3967889908256881
       ]
     },
     {
@@ -13860,8 +13860,8 @@ const features = {
       "user": "adityackr",
       "label": "fish",
       "point": [
-        247,
-        142
+        0.24344176285414482,
+        0.29128440366972475
       ]
     },
     {
@@ -13870,8 +13870,8 @@ const features = {
       "user": "adityackr",
       "label": "house",
       "point": [
-        192,
-        204
+        0.18572927597061908,
+        0.4334862385321101
       ]
     },
     {
@@ -13880,8 +13880,8 @@ const features = {
       "user": "adityackr",
       "label": "tree",
       "point": [
-        250,
-        290
+        0.2465897166841553,
+        0.6307339449541285
       ]
     },
     {
@@ -13890,8 +13890,8 @@ const features = {
       "user": "adityackr",
       "label": "bicycle",
       "point": [
-        296,
-        188
+        0.29485834207764955,
+        0.3967889908256881
       ]
     },
     {
@@ -13900,8 +13900,8 @@ const features = {
       "user": "adityackr",
       "label": "guitar",
       "point": [
-        262,
-        226
+        0.25918153200419725,
+        0.48394495412844035
       ]
     },
     {
@@ -13910,8 +13910,8 @@ const features = {
       "user": "adityackr",
       "label": "pencil",
       "point": [
-        90,
-        239
+        0.07869884575026233,
+        0.5137614678899083
       ]
     },
     {
@@ -13920,8 +13920,8 @@ const features = {
       "user": "adityackr",
       "label": "clock",
       "point": [
-        163,
-        193
+        0.155299055613851,
+        0.40825688073394495
       ]
     },
     {
@@ -13930,8 +13930,8 @@ const features = {
       "user": "Xounds Master",
       "label": "car",
       "point": [
-        344,
-        160
+        0.34522560335781743,
+        0.33256880733944955
       ]
     },
     {
@@ -13940,8 +13940,8 @@ const features = {
       "user": "Xounds Master",
       "label": "fish",
       "point": [
-        310,
-        309
+        0.3095487932843652,
+        0.6743119266055045
       ]
     },
     {
@@ -13950,8 +13950,8 @@ const features = {
       "user": "Xounds Master",
       "label": "house",
       "point": [
-        296,
-        274
+        0.29485834207764955,
+        0.5940366972477065
       ]
     },
     {
@@ -13960,8 +13960,8 @@ const features = {
       "user": "Xounds Master",
       "label": "tree",
       "point": [
-        222,
-        265
+        0.21720881427072403,
+        0.573394495412844
       ]
     },
     {
@@ -13970,8 +13970,8 @@ const features = {
       "user": "Xounds Master",
       "label": "bicycle",
       "point": [
-        263,
-        141
+        0.2602308499475341,
+        0.2889908256880734
       ]
     },
     {
@@ -13980,8 +13980,8 @@ const features = {
       "user": "Xounds Master",
       "label": "guitar",
       "point": [
-        341,
-        347
+        0.34207764952780695,
+        0.7614678899082569
       ]
     },
     {
@@ -13990,8 +13990,8 @@ const features = {
       "user": "Xounds Master",
       "label": "pencil",
       "point": [
-        289,
-        308
+        0.28751311647429173,
+        0.6720183486238532
       ]
     },
     {
@@ -14000,8 +14000,8 @@ const features = {
       "user": "Xounds Master",
       "label": "clock",
       "point": [
-        228,
-        237
+        0.22350472193074503,
+        0.5091743119266054
       ]
     },
     {
@@ -14010,8 +14010,8 @@ const features = {
       "user": "JohnSShepard",
       "label": "car",
       "point": [
-        265,
-        138
+        0.2623294858342078,
+        0.28211009174311924
       ]
     },
     {
@@ -14020,8 +14020,8 @@ const features = {
       "user": "JohnSShepard",
       "label": "fish",
       "point": [
-        241,
-        197
+        0.23714585519412382,
+        0.41743119266055045
       ]
     },
     {
@@ -14030,8 +14030,8 @@ const features = {
       "user": "JohnSShepard",
       "label": "house",
       "point": [
-        265,
-        256
+        0.2623294858342078,
+        0.5527522935779816
       ]
     },
     {
@@ -14040,8 +14040,8 @@ const features = {
       "user": "JohnSShepard",
       "label": "tree",
       "point": [
-        340,
-        304
+        0.3410283315844701,
+        0.6628440366972477
       ]
     },
     {
@@ -14050,8 +14050,8 @@ const features = {
       "user": "JohnSShepard",
       "label": "bicycle",
       "point": [
-        225,
-        153
+        0.2203567681007345,
+        0.3165137614678899
       ]
     },
     {
@@ -14060,8 +14060,8 @@ const features = {
       "user": "JohnSShepard",
       "label": "guitar",
       "point": [
-        225,
-        289
+        0.2203567681007345,
+        0.6284403669724771
       ]
     },
     {
@@ -14070,8 +14070,8 @@ const features = {
       "user": "JohnSShepard",
       "label": "pencil",
       "point": [
-        188,
-        226
+        0.18153200419727178,
+        0.48394495412844035
       ]
     },
     {
@@ -14080,8 +14080,8 @@ const features = {
       "user": "JohnSShepard",
       "label": "clock",
       "point": [
-        243,
-        193
+        0.23924449108079748,
+        0.40825688073394495
       ]
     },
     {
@@ -14090,8 +14090,8 @@ const features = {
       "user": "Zakaria",
       "label": "car",
       "point": [
-        365,
-        162
+        0.3672612801678909,
+        0.33715596330275227
       ]
     },
     {
@@ -14100,8 +14100,8 @@ const features = {
       "user": "Zakaria",
       "label": "fish",
       "point": [
-        305,
-        112
+        0.304302203567681,
+        0.22247706422018348
       ]
     },
     {
@@ -14110,8 +14110,8 @@ const features = {
       "user": "Zakaria",
       "label": "house",
       "point": [
-        207,
-        229
+        0.20146904512067157,
+        0.4908256880733945
       ]
     },
     {
@@ -14120,8 +14120,8 @@ const features = {
       "user": "Zakaria",
       "label": "tree",
       "point": [
-        411,
-        306
+        0.4155299055613851,
+        0.6674311926605505
       ]
     },
     {
@@ -14130,8 +14130,8 @@ const features = {
       "user": "Zakaria",
       "label": "bicycle",
       "point": [
-        251,
-        200
+        0.24763903462749212,
+        0.4243119266055046
       ]
     },
     {
@@ -14140,8 +14140,8 @@ const features = {
       "user": "Zakaria",
       "label": "guitar",
       "point": [
-        379,
-        148
+        0.38195173137460653,
+        0.30504587155963303
       ]
     },
     {
@@ -14150,8 +14150,8 @@ const features = {
       "user": "Zakaria",
       "label": "pencil",
       "point": [
-        344,
-        193
+        0.34522560335781743,
+        0.40825688073394495
       ]
     },
     {
@@ -14160,8 +14160,8 @@ const features = {
       "user": "Zakaria",
       "label": "clock",
       "point": [
-        187,
-        156
+        0.18048268625393493,
+        0.32339449541284404
       ]
     },
     {
@@ -14170,8 +14170,8 @@ const features = {
       "user": "Jaime",
       "label": "car",
       "point": [
-        222,
-        114
+        0.21720881427072403,
+        0.22706422018348624
       ]
     },
     {
@@ -14180,8 +14180,8 @@ const features = {
       "user": "Jaime",
       "label": "fish",
       "point": [
-        250,
-        94
+        0.2465897166841553,
+        0.1811926605504587
       ]
     },
     {
@@ -14190,8 +14190,8 @@ const features = {
       "user": "Jaime",
       "label": "house",
       "point": [
-        269,
-        227
+        0.26652675760755506,
+        0.48623853211009177
       ]
     },
     {
@@ -14200,8 +14200,8 @@ const features = {
       "user": "Jaime",
       "label": "tree",
       "point": [
-        256,
-        268
+        0.2528856243441763,
+        0.5802752293577982
       ]
     },
     {
@@ -14210,8 +14210,8 @@ const features = {
       "user": "Jaime",
       "label": "bicycle",
       "point": [
-        262,
-        163
+        0.25918153200419725,
+        0.3394495412844037
       ]
     },
     {
@@ -14220,8 +14220,8 @@ const features = {
       "user": "Jaime",
       "label": "guitar",
       "point": [
-        331,
-        117
+        0.3315844700944386,
+        0.23394495412844038
       ]
     },
     {
@@ -14230,8 +14230,8 @@ const features = {
       "user": "Jaime",
       "label": "pencil",
       "point": [
-        266,
-        196
+        0.2633788037775446,
+        0.4151376146788991
       ]
     },
     {
@@ -14240,8 +14240,8 @@ const features = {
       "user": "Jaime",
       "label": "clock",
       "point": [
-        172,
-        152
+        0.16474291710388247,
+        0.31422018348623854
       ]
     },
     {
@@ -14250,8 +14250,8 @@ const features = {
       "user": "Sandeep",
       "label": "car",
       "point": [
-        192,
-        114
+        0.18572927597061908,
+        0.22706422018348624
       ]
     },
     {
@@ -14260,8 +14260,8 @@ const features = {
       "user": "Sandeep",
       "label": "fish",
       "point": [
-        236,
-        128
+        0.23189926547743966,
+        0.2591743119266055
       ]
     },
     {
@@ -14270,8 +14270,8 @@ const features = {
       "user": "Sandeep",
       "label": "house",
       "point": [
-        187,
-        215
+        0.18048268625393493,
+        0.45871559633027525
       ]
     },
     {
@@ -14280,8 +14280,8 @@ const features = {
       "user": "Sandeep",
       "label": "tree",
       "point": [
-        153,
-        228
+        0.14480587618048268,
+        0.48853211009174313
       ]
     },
     {
@@ -14290,8 +14290,8 @@ const features = {
       "user": "Sandeep",
       "label": "bicycle",
       "point": [
-        236,
-        253
+        0.23189926547743966,
+        0.5458715596330275
       ]
     },
     {
@@ -14300,8 +14300,8 @@ const features = {
       "user": "Sandeep",
       "label": "guitar",
       "point": [
-        113,
-        235
+        0.10283315844700944,
+        0.5045871559633027
       ]
     },
     {
@@ -14310,8 +14310,8 @@ const features = {
       "user": "Sandeep",
       "label": "pencil",
       "point": [
-        41,
-        157
+        0.02728226652675761,
+        0.3256880733944954
       ]
     },
     {
@@ -14320,8 +14320,8 @@ const features = {
       "user": "Sandeep",
       "label": "clock",
       "point": [
-        145,
-        163
+        0.13641133263378805,
+        0.3394495412844037
       ]
     },
     {
@@ -14330,8 +14330,8 @@ const features = {
       "user": "garyTwoTimes",
       "label": "car",
       "point": [
-        329,
-        131
+        0.32948583420776495,
+        0.26605504587155965
       ]
     },
     {
@@ -14340,8 +14340,8 @@ const features = {
       "user": "garyTwoTimes",
       "label": "fish",
       "point": [
-        124,
-        86
+        0.11437565582371459,
+        0.1628440366972477
       ]
     },
     {
@@ -14350,8 +14350,8 @@ const features = {
       "user": "garyTwoTimes",
       "label": "house",
       "point": [
-        114,
-        152
+        0.10388247639034627,
+        0.31422018348623854
       ]
     },
     {
@@ -14360,8 +14360,8 @@ const features = {
       "user": "garyTwoTimes",
       "label": "tree",
       "point": [
-        328,
-        284
+        0.3284365162644281,
+        0.6169724770642202
       ]
     },
     {
@@ -14370,8 +14370,8 @@ const features = {
       "user": "garyTwoTimes",
       "label": "bicycle",
       "point": [
-        216,
-        143
+        0.21091290661070305,
+        0.29357798165137616
       ]
     },
     {
@@ -14380,8 +14380,8 @@ const features = {
       "user": "garyTwoTimes",
       "label": "guitar",
       "point": [
-        158,
-        127
+        0.15005246589716684,
+        0.25688073394495414
       ]
     },
     {
@@ -14390,8 +14390,8 @@ const features = {
       "user": "garyTwoTimes",
       "label": "pencil",
       "point": [
-        95,
-        78
+        0.08394543546694648,
+        0.1444954128440367
       ]
     },
     {
@@ -14400,8 +14400,8 @@ const features = {
       "user": "garyTwoTimes",
       "label": "clock",
       "point": [
-        152,
-        151
+        0.14375655823714587,
+        0.3119266055045872
       ]
     },
     {
@@ -14410,8 +14410,8 @@ const features = {
       "user": "arman saha",
       "label": "car",
       "point": [
-        326,
-        178
+        0.32633788037775446,
+        0.3738532110091743
       ]
     },
     {
@@ -14420,8 +14420,8 @@ const features = {
       "user": "arman saha",
       "label": "fish",
       "point": [
-        181,
-        107
+        0.17418677859391396,
+        0.21100917431192662
       ]
     },
     {
@@ -14430,8 +14430,8 @@ const features = {
       "user": "arman saha",
       "label": "house",
       "point": [
-        347,
-        301
+        0.3483735571878279,
+        0.6559633027522935
       ]
     },
     {
@@ -14440,8 +14440,8 @@ const features = {
       "user": "arman saha",
       "label": "tree",
       "point": [
-        188,
-        275
+        0.18153200419727178,
+        0.5963302752293578
       ]
     },
     {
@@ -14450,8 +14450,8 @@ const features = {
       "user": "arman saha",
       "label": "bicycle",
       "point": [
-        300,
-        169
+        0.2990556138509968,
+        0.3532110091743119
       ]
     },
     {
@@ -14460,8 +14460,8 @@ const features = {
       "user": "arman saha",
       "label": "guitar",
       "point": [
-        191,
-        226
+        0.18467995802728226,
+        0.48394495412844035
       ]
     },
     {
@@ -14470,8 +14470,8 @@ const features = {
       "user": "arman saha",
       "label": "pencil",
       "point": [
-        174,
-        192
+        0.16684155299055614,
+        0.4059633027522936
       ]
     },
     {
@@ -14480,8 +14480,8 @@ const features = {
       "user": "arman saha",
       "label": "clock",
       "point": [
-        207,
-        227
+        0.20146904512067157,
+        0.48623853211009177
       ]
     },
     {
@@ -14490,8 +14490,8 @@ const features = {
       "user": "Cris",
       "label": "car",
       "point": [
-        212,
-        119
+        0.20671563483735572,
+        0.23853211009174313
       ]
     },
     {
@@ -14500,8 +14500,8 @@ const features = {
       "user": "Cris",
       "label": "fish",
       "point": [
-        119,
-        58
+        0.10912906610703044,
+        0.09862385321100918
       ]
     },
     {
@@ -14510,8 +14510,8 @@ const features = {
       "user": "Cris",
       "label": "house",
       "point": [
-        261,
-        188
+        0.25813221406086045,
+        0.3967889908256881
       ]
     },
     {
@@ -14520,8 +14520,8 @@ const features = {
       "user": "Cris",
       "label": "tree",
       "point": [
-        230,
-        324
+        0.22560335781741866,
+        0.7087155963302753
       ]
     },
     {
@@ -14530,8 +14530,8 @@ const features = {
       "user": "Cris",
       "label": "bicycle",
       "point": [
-        178,
-        93
+        0.17103882476390347,
+        0.17889908256880735
       ]
     },
     {
@@ -14540,8 +14540,8 @@ const features = {
       "user": "Cris",
       "label": "guitar",
       "point": [
-        257,
-        93
+        0.2539349422875131,
+        0.17889908256880735
       ]
     },
     {
@@ -14550,8 +14550,8 @@ const features = {
       "user": "Cris",
       "label": "pencil",
       "point": [
-        93,
-        83
+        0.08184679958027283,
+        0.1559633027522936
       ]
     },
     {
@@ -14560,8 +14560,8 @@ const features = {
       "user": "Cris",
       "label": "clock",
       "point": [
-        197,
-        178
+        0.19097586568730326,
+        0.3738532110091743
       ]
     },
     {
@@ -14570,8 +14570,8 @@ const features = {
       "user": "Fauzan Radji",
       "label": "car",
       "point": [
-        146,
-        237
+        0.13746065057712487,
+        0.5091743119266054
       ]
     },
     {
@@ -14580,8 +14580,8 @@ const features = {
       "user": "Fauzan Radji",
       "label": "fish",
       "point": [
-        221,
-        121
+        0.2161594963273872,
+        0.24311926605504589
       ]
     },
     {
@@ -14590,8 +14590,8 @@ const features = {
       "user": "Fauzan Radji",
       "label": "house",
       "point": [
-        234,
-        146
+        0.229800629590766,
+        0.30045871559633025
       ]
     },
     {
@@ -14600,8 +14600,8 @@ const features = {
       "user": "Fauzan Radji",
       "label": "tree",
       "point": [
-        295,
-        285
+        0.2938090241343127,
+        0.6192660550458715
       ]
     },
     {
@@ -14610,8 +14610,8 @@ const features = {
       "user": "Fauzan Radji",
       "label": "bicycle",
       "point": [
-        210,
-        127
+        0.20461699895068206,
+        0.25688073394495414
       ]
     },
     {
@@ -14620,8 +14620,8 @@ const features = {
       "user": "Fauzan Radji",
       "label": "guitar",
       "point": [
-        332,
-        130
+        0.33263378803777544,
+        0.26376146788990823
       ]
     },
     {
@@ -14630,8 +14630,8 @@ const features = {
       "user": "Fauzan Radji",
       "label": "pencil",
       "point": [
-        127,
-        195
+        0.11752360965372508,
+        0.41284403669724773
       ]
     },
     {
@@ -14640,8 +14640,8 @@ const features = {
       "user": "Fauzan Radji",
       "label": "clock",
       "point": [
-        171,
-        176
+        0.16369359916054566,
+        0.36926605504587157
       ]
     },
     {
@@ -14650,8 +14650,8 @@ const features = {
       "user": "asmit",
       "label": "car",
       "point": [
-        300,
-        133
+        0.2990556138509968,
+        0.2706422018348624
       ]
     },
     {
@@ -14660,8 +14660,8 @@ const features = {
       "user": "asmit",
       "label": "fish",
       "point": [
-        244,
-        208
+        0.2402938090241343,
+        0.4426605504587156
       ]
     },
     {
@@ -14670,8 +14670,8 @@ const features = {
       "user": "asmit",
       "label": "house",
       "point": [
-        189,
-        250
+        0.1825813221406086,
+        0.5389908256880734
       ]
     },
     {
@@ -14680,8 +14680,8 @@ const features = {
       "user": "asmit",
       "label": "tree",
       "point": [
-        274,
-        364
+        0.27177334732423925,
+        0.8004587155963303
       ]
     },
     {
@@ -14690,8 +14690,8 @@ const features = {
       "user": "asmit",
       "label": "bicycle",
       "point": [
-        317,
-        224
+        0.316894018887723,
+        0.4793577981651376
       ]
     },
     {
@@ -14700,8 +14700,8 @@ const features = {
       "user": "asmit",
       "label": "guitar",
       "point": [
-        372,
-        348
+        0.3746065057712487,
+        0.7637614678899083
       ]
     },
     {
@@ -14710,8 +14710,8 @@ const features = {
       "user": "asmit",
       "label": "pencil",
       "point": [
-        213,
-        198
+        0.20776495278069254,
+        0.4197247706422018
       ]
     },
     {
@@ -14720,8 +14720,8 @@ const features = {
       "user": "asmit",
       "label": "clock",
       "point": [
-        241,
-        248
+        0.23714585519412382,
+        0.5344036697247706
       ]
     },
     {
@@ -14730,8 +14730,8 @@ const features = {
       "user": "Manish",
       "label": "car",
       "point": [
-        283,
-        124
+        0.2812172088142707,
+        0.25
       ]
     },
     {
@@ -14740,8 +14740,8 @@ const features = {
       "user": "Manish",
       "label": "fish",
       "point": [
-        281,
-        110
+        0.27911857292759706,
+        0.21788990825688073
       ]
     },
     {
@@ -14750,8 +14750,8 @@ const features = {
       "user": "Manish",
       "label": "house",
       "point": [
-        222,
-        264
+        0.21720881427072403,
+        0.5711009174311926
       ]
     },
     {
@@ -14760,8 +14760,8 @@ const features = {
       "user": "Manish",
       "label": "tree",
       "point": [
-        269,
-        313
+        0.26652675760755506,
+        0.6834862385321101
       ]
     },
     {
@@ -14770,8 +14770,8 @@ const features = {
       "user": "Manish",
       "label": "bicycle",
       "point": [
-        186,
-        162
+        0.1794333683105981,
+        0.33715596330275227
       ]
     },
     {
@@ -14780,8 +14780,8 @@ const features = {
       "user": "Manish",
       "label": "guitar",
       "point": [
-        283,
-        265
+        0.2812172088142707,
+        0.573394495412844
       ]
     },
     {
@@ -14790,8 +14790,8 @@ const features = {
       "user": "Manish",
       "label": "pencil",
       "point": [
-        274,
-        223
+        0.27177334732423925,
+        0.47706422018348627
       ]
     },
     {
@@ -14800,8 +14800,8 @@ const features = {
       "user": "Manish",
       "label": "clock",
       "point": [
-        243,
-        193
+        0.23924449108079748,
+        0.40825688073394495
       ]
     },
     {
@@ -14810,8 +14810,8 @@ const features = {
       "user": "Jacob",
       "label": "car",
       "point": [
-        243,
-        165
+        0.23924449108079748,
+        0.3440366972477064
       ]
     },
     {
@@ -14820,8 +14820,8 @@ const features = {
       "user": "Jacob",
       "label": "fish",
       "point": [
-        267,
-        299
+        0.2644281217208814,
+        0.6513761467889908
       ]
     },
     {
@@ -14830,8 +14830,8 @@ const features = {
       "user": "Jacob",
       "label": "house",
       "point": [
-        213,
-        330
+        0.20776495278069254,
+        0.7224770642201835
       ]
     },
     {
@@ -14840,8 +14840,8 @@ const features = {
       "user": "Jacob",
       "label": "tree",
       "point": [
-        250,
-        451
+        0.2465897166841553,
+        1
       ]
     },
     {
@@ -14850,8 +14850,8 @@ const features = {
       "user": "Jacob",
       "label": "bicycle",
       "point": [
-        287,
-        214
+        0.28541448058761804,
+        0.45642201834862384
       ]
     },
     {
@@ -14860,8 +14860,8 @@ const features = {
       "user": "Jacob",
       "label": "guitar",
       "point": [
-        327,
-        325
+        0.3273871983210913,
+        0.7110091743119266
       ]
     },
     {
@@ -14870,8 +14870,8 @@ const features = {
       "user": "Jacob",
       "label": "pencil",
       "point": [
-        335,
-        289
+        0.3357817418677859,
+        0.6284403669724771
       ]
     },
     {
@@ -14880,8 +14880,8 @@ const features = {
       "user": "Jacob",
       "label": "clock",
       "point": [
-        273,
-        256
+        0.2707240293809024,
+        0.5527522935779816
       ]
     },
     {
@@ -14890,8 +14890,8 @@ const features = {
       "user": "Tanz",
       "label": "car",
       "point": [
-        276,
-        110
+        0.2738719832109129,
+        0.21788990825688073
       ]
     },
     {
@@ -14900,8 +14900,8 @@ const features = {
       "user": "Tanz",
       "label": "fish",
       "point": [
-        191,
-        105
+        0.18467995802728226,
+        0.20642201834862386
       ]
     },
     {
@@ -14910,8 +14910,8 @@ const features = {
       "user": "Tanz",
       "label": "house",
       "point": [
-        161,
-        167
+        0.15320041972717732,
+        0.3486238532110092
       ]
     },
     {
@@ -14920,8 +14920,8 @@ const features = {
       "user": "Tanz",
       "label": "tree",
       "point": [
-        126,
-        223
+        0.11647429171038824,
+        0.47706422018348627
       ]
     },
     {
@@ -14930,8 +14930,8 @@ const features = {
       "user": "Tanz",
       "label": "bicycle",
       "point": [
-        205,
-        145
+        0.1993704092339979,
+        0.2981651376146789
       ]
     },
     {
@@ -14940,8 +14940,8 @@ const features = {
       "user": "Tanz",
       "label": "guitar",
       "point": [
-        227,
-        210
+        0.22245540398740818,
+        0.44724770642201833
       ]
     },
     {
@@ -14950,8 +14950,8 @@ const features = {
       "user": "Tanz",
       "label": "pencil",
       "point": [
-        219,
-        188
+        0.21406086044071354,
+        0.3967889908256881
       ]
     },
     {
@@ -14960,8 +14960,8 @@ const features = {
       "user": "Tanz",
       "label": "clock",
       "point": [
-        148,
-        151
+        0.13955928646379853,
+        0.3119266055045872
       ]
     },
     {
@@ -14970,8 +14970,8 @@ const features = {
       "user": "JamesCalvin",
       "label": "car",
       "point": [
-        244,
-        231
+        0.2402938090241343,
+        0.4954128440366973
       ]
     },
     {
@@ -14980,8 +14980,8 @@ const features = {
       "user": "JamesCalvin",
       "label": "fish",
       "point": [
-        300,
-        252
+        0.2990556138509968,
+        0.5435779816513762
       ]
     },
     {
@@ -14990,8 +14990,8 @@ const features = {
       "user": "JamesCalvin",
       "label": "house",
       "point": [
-        300,
-        336
+        0.2990556138509968,
+        0.7362385321100917
       ]
     },
     {
@@ -15000,8 +15000,8 @@ const features = {
       "user": "JamesCalvin",
       "label": "tree",
       "point": [
-        340,
-        382
+        0.3410283315844701,
+        0.841743119266055
       ]
     },
     {
@@ -15010,8 +15010,8 @@ const features = {
       "user": "JamesCalvin",
       "label": "bicycle",
       "point": [
-        329,
-        295
+        0.32948583420776495,
+        0.6422018348623854
       ]
     },
     {
@@ -15020,8 +15020,8 @@ const features = {
       "user": "JamesCalvin",
       "label": "guitar",
       "point": [
-        373,
-        390
+        0.3756558237145855,
+        0.8600917431192661
       ]
     },
     {
@@ -15030,8 +15030,8 @@ const features = {
       "user": "JamesCalvin",
       "label": "pencil",
       "point": [
-        333,
-        339
+        0.3336831059811123,
+        0.7431192660550459
       ]
     },
     {
@@ -15040,8 +15040,8 @@ const features = {
       "user": "JamesCalvin",
       "label": "clock",
       "point": [
-        315,
-        343
+        0.3147953830010493,
+        0.7522935779816514
       ]
     },
     {
@@ -15050,8 +15050,8 @@ const features = {
       "user": "lunux",
       "label": "car",
       "point": [
-        348,
-        213
+        0.34942287513116477,
+        0.4541284403669725
       ]
     },
     {
@@ -15060,8 +15060,8 @@ const features = {
       "user": "lunux",
       "label": "fish",
       "point": [
-        207,
-        125
+        0.20146904512067157,
+        0.25229357798165136
       ]
     },
     {
@@ -15070,8 +15070,8 @@ const features = {
       "user": "lunux",
       "label": "house",
       "point": [
-        282,
-        277
+        0.2801678908709339,
+        0.6009174311926605
       ]
     },
     {
@@ -15080,8 +15080,8 @@ const features = {
       "user": "lunux",
       "label": "tree",
       "point": [
-        254,
-        276
+        0.25078698845750264,
+        0.5986238532110092
       ]
     },
     {
@@ -15090,8 +15090,8 @@ const features = {
       "user": "lunux",
       "label": "bicycle",
       "point": [
-        228,
-        195
+        0.22350472193074503,
+        0.41284403669724773
       ]
     },
     {
@@ -15100,8 +15100,8 @@ const features = {
       "user": "lunux",
       "label": "guitar",
       "point": [
-        264,
-        253
+        0.26128016789087094,
+        0.5458715596330275
       ]
     },
     {
@@ -15110,8 +15110,8 @@ const features = {
       "user": "lunux",
       "label": "pencil",
       "point": [
-        264,
-        105
+        0.26128016789087094,
+        0.20642201834862386
       ]
     },
     {
@@ -15120,8 +15120,8 @@ const features = {
       "user": "lunux",
       "label": "clock",
       "point": [
-        191,
-        192
+        0.18467995802728226,
+        0.4059633027522936
       ]
     },
     {
@@ -15130,8 +15130,8 @@ const features = {
       "user": "Juanse",
       "label": "car",
       "point": [
-        260,
-        97
+        0.2570828961175236,
+        0.18807339449541285
       ]
     },
     {
@@ -15140,8 +15140,8 @@ const features = {
       "user": "Juanse",
       "label": "fish",
       "point": [
-        243,
-        86
+        0.23924449108079748,
+        0.1628440366972477
       ]
     },
     {
@@ -15150,8 +15150,8 @@ const features = {
       "user": "Juanse",
       "label": "house",
       "point": [
-        169,
-        190
+        0.161594963273872,
+        0.4013761467889908
       ]
     },
     {
@@ -15160,8 +15160,8 @@ const features = {
       "user": "Juanse",
       "label": "tree",
       "point": [
-        340,
-        285
+        0.3410283315844701,
+        0.6192660550458715
       ]
     },
     {
@@ -15170,8 +15170,8 @@ const features = {
       "user": "Juanse",
       "label": "bicycle",
       "point": [
-        197,
-        106
+        0.19097586568730326,
+        0.20871559633027523
       ]
     },
     {
@@ -15180,8 +15180,8 @@ const features = {
       "user": "Juanse",
       "label": "guitar",
       "point": [
-        76,
-        238
+        0.06400839454354669,
+        0.5114678899082569
       ]
     },
     {
@@ -15190,8 +15190,8 @@ const features = {
       "user": "Juanse",
       "label": "pencil",
       "point": [
-        37,
-        289
+        0.023084994753410283,
+        0.6284403669724771
       ]
     },
     {
@@ -15200,8 +15200,8 @@ const features = {
       "user": "Juanse",
       "label": "clock",
       "point": [
-        217,
-        209
+        0.21196222455403987,
+        0.44495412844036697
       ]
     },
     {
@@ -15210,8 +15210,8 @@ const features = {
       "user": "Adela",
       "label": "car",
       "point": [
-        376,
-        232
+        0.378803777544596,
+        0.49770642201834864
       ]
     },
     {
@@ -15220,8 +15220,8 @@ const features = {
       "user": "Adela",
       "label": "fish",
       "point": [
-        274,
-        137
+        0.27177334732423925,
+        0.2798165137614679
       ]
     },
     {
@@ -15230,8 +15230,8 @@ const features = {
       "user": "Adela",
       "label": "house",
       "point": [
-        325,
-        223
+        0.3252885624344176,
+        0.47706422018348627
       ]
     },
     {
@@ -15240,8 +15240,8 @@ const features = {
       "user": "Adela",
       "label": "tree",
       "point": [
-        174,
-        311
+        0.16684155299055614,
+        0.6788990825688074
       ]
     },
     {
@@ -15250,8 +15250,8 @@ const features = {
       "user": "Adela",
       "label": "bicycle",
       "point": [
-        353,
-        341
+        0.3546694648478489,
+        0.7477064220183486
       ]
     },
     {
@@ -15260,8 +15260,8 @@ const features = {
       "user": "Adela",
       "label": "guitar",
       "point": [
-        170,
-        232
+        0.1626442812172088,
+        0.49770642201834864
       ]
     },
     {
@@ -15270,8 +15270,8 @@ const features = {
       "user": "Adela",
       "label": "pencil",
       "point": [
-        177,
-        176
+        0.16998950682056663,
+        0.36926605504587157
       ]
     },
     {
@@ -15280,8 +15280,8 @@ const features = {
       "user": "Adela",
       "label": "clock",
       "point": [
-        264,
-        319
+        0.26128016789087094,
+        0.6972477064220184
       ]
     },
     {
@@ -15290,8 +15290,8 @@ const features = {
       "user": "Me",
       "label": "car",
       "point": [
-        188,
-        212
+        0.18153200419727178,
+        0.4518348623853211
       ]
     },
     {
@@ -15300,8 +15300,8 @@ const features = {
       "user": "Me",
       "label": "fish",
       "point": [
-        315,
-        91
+        0.3147953830010493,
+        0.1743119266055046
       ]
     },
     {
@@ -15310,8 +15310,8 @@ const features = {
       "user": "Me",
       "label": "house",
       "point": [
-        321,
-        281
+        0.3210912906610703,
+        0.6100917431192661
       ]
     },
     {
@@ -15320,8 +15320,8 @@ const features = {
       "user": "Me",
       "label": "tree",
       "point": [
-        250,
-        328
+        0.2465897166841553,
+        0.7178899082568807
       ]
     },
     {
@@ -15330,8 +15330,8 @@ const features = {
       "user": "Me",
       "label": "bicycle",
       "point": [
-        262,
-        195
+        0.25918153200419725,
+        0.41284403669724773
       ]
     },
     {
@@ -15340,8 +15340,8 @@ const features = {
       "user": "Me",
       "label": "guitar",
       "point": [
-        140,
-        361
+        0.1311647429171039,
+        0.7935779816513762
       ]
     },
     {
@@ -15350,8 +15350,8 @@ const features = {
       "user": "Me",
       "label": "pencil",
       "point": [
-        33,
-        314
+        0.01888772298006296,
+        0.6857798165137615
       ]
     },
     {
@@ -15360,8 +15360,8 @@ const features = {
       "user": "Me",
       "label": "clock",
       "point": [
-        265,
-        269
+        0.2623294858342078,
+        0.5825688073394495
       ]
     },
     {
@@ -15370,8 +15370,8 @@ const features = {
       "user": "DevElbowgrease",
       "label": "car",
       "point": [
-        378,
-        187
+        0.3809024134312697,
+        0.3944954128440367
       ]
     },
     {
@@ -15380,8 +15380,8 @@ const features = {
       "user": "DevElbowgrease",
       "label": "fish",
       "point": [
-        204,
-        155
+        0.19832109129066108,
+        0.3211009174311927
       ]
     },
     {
@@ -15390,8 +15390,8 @@ const features = {
       "user": "DevElbowgrease",
       "label": "house",
       "point": [
-        286,
-        263
+        0.28436516264428124,
+        0.5688073394495413
       ]
     },
     {
@@ -15400,8 +15400,8 @@ const features = {
       "user": "DevElbowgrease",
       "label": "tree",
       "point": [
-        222,
-        287
+        0.21720881427072403,
+        0.6238532110091743
       ]
     },
     {
@@ -15410,8 +15410,8 @@ const features = {
       "user": "DevElbowgrease",
       "label": "bicycle",
       "point": [
-        167,
-        148
+        0.15949632738719832,
+        0.30504587155963303
       ]
     },
     {
@@ -15420,8 +15420,8 @@ const features = {
       "user": "DevElbowgrease",
       "label": "guitar",
       "point": [
-        145,
-        315
+        0.13641133263378805,
+        0.6880733944954128
       ]
     },
     {
@@ -15430,8 +15430,8 @@ const features = {
       "user": "DevElbowgrease",
       "label": "pencil",
       "point": [
-        49,
-        201
+        0.035676810073452254,
+        0.42660550458715596
       ]
     },
     {
@@ -15440,8 +15440,8 @@ const features = {
       "user": "DevElbowgrease",
       "label": "clock",
       "point": [
-        218,
-        251
+        0.2130115424973767,
+        0.5412844036697247
       ]
     },
     {
@@ -15450,8 +15450,8 @@ const features = {
       "user": "Ron",
       "label": "car",
       "point": [
-        361,
-        238
+        0.36306400839454356,
+        0.5114678899082569
       ]
     },
     {
@@ -15460,8 +15460,8 @@ const features = {
       "user": "Ron",
       "label": "fish",
       "point": [
-        337,
-        158
+        0.3378803777544596,
+        0.32798165137614677
       ]
     },
     {
@@ -15470,8 +15470,8 @@ const features = {
       "user": "Ron",
       "label": "house",
       "point": [
-        261,
-        222
+        0.25813221406086045,
+        0.47477064220183485
       ]
     },
     {
@@ -15480,8 +15480,8 @@ const features = {
       "user": "Ron",
       "label": "tree",
       "point": [
-        347,
-        295
+        0.3483735571878279,
+        0.6422018348623854
       ]
     },
     {
@@ -15490,8 +15490,8 @@ const features = {
       "user": "Ron",
       "label": "bicycle",
       "point": [
-        262,
-        161
+        0.25918153200419725,
+        0.3348623853211009
       ]
     },
     {
@@ -15500,8 +15500,8 @@ const features = {
       "user": "Ron",
       "label": "guitar",
       "point": [
-        286,
-        312
+        0.28436516264428124,
+        0.6811926605504587
       ]
     },
     {
@@ -15510,8 +15510,8 @@ const features = {
       "user": "Ron",
       "label": "pencil",
       "point": [
-        211,
-        197
+        0.20566631689401887,
+        0.41743119266055045
       ]
     },
     {
@@ -15520,8 +15520,8 @@ const features = {
       "user": "Ron",
       "label": "clock",
       "point": [
-        146,
-        125
+        0.13746065057712487,
+        0.25229357798165136
       ]
     },
     {
@@ -15530,8 +15530,8 @@ const features = {
       "user": "taylor",
       "label": "car",
       "point": [
-        349,
-        110
+        0.35047219307450156,
+        0.21788990825688073
       ]
     },
     {
@@ -15540,8 +15540,8 @@ const features = {
       "user": "taylor",
       "label": "fish",
       "point": [
-        281,
-        156
+        0.27911857292759706,
+        0.32339449541284404
       ]
     },
     {
@@ -15550,8 +15550,8 @@ const features = {
       "user": "taylor",
       "label": "house",
       "point": [
-        385,
-        162
+        0.3882476390346275,
+        0.33715596330275227
       ]
     },
     {
@@ -15560,8 +15560,8 @@ const features = {
       "user": "taylor",
       "label": "tree",
       "point": [
-        338,
-        231
+        0.3389296956977964,
+        0.4954128440366973
       ]
     },
     {
@@ -15570,8 +15570,8 @@ const features = {
       "user": "taylor",
       "label": "bicycle",
       "point": [
-        310,
-        227
+        0.3095487932843652,
+        0.48623853211009177
       ]
     },
     {
@@ -15580,8 +15580,8 @@ const features = {
       "user": "taylor",
       "label": "guitar",
       "point": [
-        157,
-        367
+        0.14900314795383002,
+        0.8073394495412844
       ]
     },
     {
@@ -15590,8 +15590,8 @@ const features = {
       "user": "taylor",
       "label": "pencil",
       "point": [
-        318,
-        329
+        0.3179433368310598,
+        0.7201834862385321
       ]
     },
     {
@@ -15600,8 +15600,8 @@ const features = {
       "user": "taylor",
       "label": "clock",
       "point": [
-        282,
-        257
+        0.2801678908709339,
+        0.555045871559633
       ]
     },
     {
@@ -15610,8 +15610,8 @@ const features = {
       "user": "x",
       "label": "car",
       "point": [
-        212,
-        136
+        0.20671563483735572,
+        0.2775229357798165
       ]
     },
     {
@@ -15620,8 +15620,8 @@ const features = {
       "user": "x",
       "label": "fish",
       "point": [
-        272,
-        198
+        0.2696747114375656,
+        0.4197247706422018
       ]
     },
     {
@@ -15630,8 +15630,8 @@ const features = {
       "user": "x",
       "label": "house",
       "point": [
-        200,
-        244
+        0.19412381951731375,
+        0.5252293577981652
       ]
     },
     {
@@ -15640,8 +15640,8 @@ const features = {
       "user": "x",
       "label": "tree",
       "point": [
-        205,
-        262
+        0.1993704092339979,
+        0.5665137614678899
       ]
     },
     {
@@ -15650,8 +15650,8 @@ const features = {
       "user": "x",
       "label": "bicycle",
       "point": [
-        225,
-        146
+        0.2203567681007345,
+        0.30045871559633025
       ]
     },
     {
@@ -15660,8 +15660,8 @@ const features = {
       "user": "x",
       "label": "guitar",
       "point": [
-        316,
-        226
+        0.31584470094438616,
+        0.48394495412844035
       ]
     },
     {
@@ -15670,8 +15670,8 @@ const features = {
       "user": "x",
       "label": "pencil",
       "point": [
-        192,
-        253
+        0.18572927597061908,
+        0.5458715596330275
       ]
     },
     {
@@ -15680,8 +15680,8 @@ const features = {
       "user": "x",
       "label": "clock",
       "point": [
-        203,
-        226
+        0.19727177334732424,
+        0.48394495412844035
       ]
     },
     {
@@ -15690,8 +15690,8 @@ const features = {
       "user": "himanshu",
       "label": "car",
       "point": [
-        242,
-        83
+        0.23819517313746066,
+        0.1559633027522936
       ]
     },
     {
@@ -15700,8 +15700,8 @@ const features = {
       "user": "himanshu",
       "label": "fish",
       "point": [
-        195,
-        142
+        0.1888772298006296,
+        0.29128440366972475
       ]
     },
     {
@@ -15710,8 +15710,8 @@ const features = {
       "user": "himanshu",
       "label": "house",
       "point": [
-        297,
-        246
+        0.29590766002098634,
+        0.5298165137614679
       ]
     },
     {
@@ -15720,8 +15720,8 @@ const features = {
       "user": "himanshu",
       "label": "tree",
       "point": [
-        120,
-        225
+        0.11017838405036726,
+        0.481651376146789
       ]
     },
     {
@@ -15730,8 +15730,8 @@ const features = {
       "user": "himanshu",
       "label": "bicycle",
       "point": [
-        260,
-        155
+        0.2570828961175236,
+        0.3211009174311927
       ]
     },
     {
@@ -15740,8 +15740,8 @@ const features = {
       "user": "himanshu",
       "label": "guitar",
       "point": [
-        272,
-        286
+        0.2696747114375656,
+        0.6215596330275229
       ]
     },
     {
@@ -15750,8 +15750,8 @@ const features = {
       "user": "himanshu",
       "label": "pencil",
       "point": [
-        302,
-        80
+        0.3011542497376705,
+        0.14908256880733944
       ]
     },
     {
@@ -15760,8 +15760,8 @@ const features = {
       "user": "himanshu",
       "label": "clock",
       "point": [
-        173,
-        192
+        0.1657922350472193,
+        0.4059633027522936
       ]
     },
     {
@@ -15770,8 +15770,8 @@ const features = {
       "user": "baburao",
       "label": "car",
       "point": [
-        271,
-        176
+        0.26862539349422876,
+        0.36926605504587157
       ]
     },
     {
@@ -15780,8 +15780,8 @@ const features = {
       "user": "baburao",
       "label": "fish",
       "point": [
-        210,
-        110
+        0.20461699895068206,
+        0.21788990825688073
       ]
     },
     {
@@ -15790,8 +15790,8 @@ const features = {
       "user": "baburao",
       "label": "house",
       "point": [
-        201,
-        152
+        0.19517313746065057,
+        0.31422018348623854
       ]
     },
     {
@@ -15800,8 +15800,8 @@ const features = {
       "user": "baburao",
       "label": "tree",
       "point": [
-        209,
-        299
+        0.20356768100734524,
+        0.6513761467889908
       ]
     },
     {
@@ -15810,8 +15810,8 @@ const features = {
       "user": "baburao",
       "label": "bicycle",
       "point": [
-        139,
-        131
+        0.13011542497376705,
+        0.26605504587155965
       ]
     },
     {
@@ -15820,8 +15820,8 @@ const features = {
       "user": "baburao",
       "label": "guitar",
       "point": [
-        284,
-        269
+        0.28226652675760755,
+        0.5825688073394495
       ]
     },
     {
@@ -15830,8 +15830,8 @@ const features = {
       "user": "baburao",
       "label": "pencil",
       "point": [
-        50,
-        273
+        0.03672612801678909,
+        0.591743119266055
       ]
     },
     {
@@ -15840,8 +15840,8 @@ const features = {
       "user": "baburao",
       "label": "clock",
       "point": [
-        254,
-        236
+        0.25078698845750264,
+        0.5068807339449541
       ]
     },
     {
@@ -15850,8 +15850,8 @@ const features = {
       "user": "Mrinmoy Mondal",
       "label": "car",
       "point": [
-        313,
-        175
+        0.3126967471143757,
+        0.3669724770642202
       ]
     },
     {
@@ -15860,8 +15860,8 @@ const features = {
       "user": "Mrinmoy Mondal",
       "label": "fish",
       "point": [
-        296,
-        136
+        0.29485834207764955,
+        0.2775229357798165
       ]
     },
     {
@@ -15870,8 +15870,8 @@ const features = {
       "user": "Mrinmoy Mondal",
       "label": "house",
       "point": [
-        316,
-        230
+        0.31584470094438616,
+        0.49311926605504586
       ]
     },
     {
@@ -15880,8 +15880,8 @@ const features = {
       "user": "Mrinmoy Mondal",
       "label": "tree",
       "point": [
-        232,
-        300
+        0.22770199370409233,
+        0.6536697247706422
       ]
     },
     {
@@ -15890,8 +15890,8 @@ const features = {
       "user": "Mrinmoy Mondal",
       "label": "bicycle",
       "point": [
-        243,
-        198
+        0.23924449108079748,
+        0.4197247706422018
       ]
     },
     {
@@ -15900,8 +15900,8 @@ const features = {
       "user": "Mrinmoy Mondal",
       "label": "guitar",
       "point": [
-        285,
-        334
+        0.2833158447009444,
+        0.731651376146789
       ]
     },
     {
@@ -15910,8 +15910,8 @@ const features = {
       "user": "Mrinmoy Mondal",
       "label": "pencil",
       "point": [
-        215,
-        244
+        0.2098635886673662,
+        0.5252293577981652
       ]
     },
     {
@@ -15920,8 +15920,8 @@ const features = {
       "user": "Mrinmoy Mondal",
       "label": "clock",
       "point": [
-        249,
-        278
+        0.24554039874081846,
+        0.6032110091743119
       ]
     },
     {
@@ -15930,8 +15930,8 @@ const features = {
       "user": "ansero",
       "label": "car",
       "point": [
-        289,
-        102
+        0.28751311647429173,
+        0.19954128440366972
       ]
     },
     {
@@ -15940,8 +15940,8 @@ const features = {
       "user": "ansero",
       "label": "fish",
       "point": [
-        294,
-        156
+        0.29275970619097585,
+        0.32339449541284404
       ]
     },
     {
@@ -15950,8 +15950,8 @@ const features = {
       "user": "ansero",
       "label": "house",
       "point": [
-        228,
-        207
+        0.22350472193074503,
+        0.44036697247706424
       ]
     },
     {
@@ -15960,8 +15960,8 @@ const features = {
       "user": "ansero",
       "label": "tree",
       "point": [
-        309,
-        321
+        0.30849947534102834,
+        0.7018348623853211
       ]
     },
     {
@@ -15970,8 +15970,8 @@ const features = {
       "user": "ansero",
       "label": "bicycle",
       "point": [
-        302,
-        184
+        0.3011542497376705,
+        0.3876146788990826
       ]
     },
     {
@@ -15980,8 +15980,8 @@ const features = {
       "user": "ansero",
       "label": "guitar",
       "point": [
-        385,
-        150
+        0.3882476390346275,
+        0.30963302752293576
       ]
     },
     {
@@ -15990,8 +15990,8 @@ const features = {
       "user": "ansero",
       "label": "pencil",
       "point": [
-        231,
-        213
+        0.2266526757607555,
+        0.4541284403669725
       ]
     },
     {
@@ -16000,8 +16000,8 @@ const features = {
       "user": "ansero",
       "label": "clock",
       "point": [
-        150,
-        153
+        0.1416579223504722,
+        0.3165137614678899
       ]
     },
     {
@@ -16010,8 +16010,8 @@ const features = {
       "user": "Walkexperience",
       "label": "car",
       "point": [
-        280,
-        203
+        0.2780692549842602,
+        0.43119266055045874
       ]
     },
     {
@@ -16020,8 +16020,8 @@ const features = {
       "user": "Walkexperience",
       "label": "fish",
       "point": [
-        277,
-        193
+        0.27492130115424973,
+        0.40825688073394495
       ]
     },
     {
@@ -16030,8 +16030,8 @@ const features = {
       "user": "Walkexperience",
       "label": "house",
       "point": [
-        222,
-        267
+        0.21720881427072403,
+        0.5779816513761468
       ]
     },
     {
@@ -16040,8 +16040,8 @@ const features = {
       "user": "Walkexperience",
       "label": "tree",
       "point": [
-        209,
-        280
+        0.20356768100734524,
+        0.6077981651376146
       ]
     },
     {
@@ -16050,8 +16050,8 @@ const features = {
       "user": "Walkexperience",
       "label": "bicycle",
       "point": [
-        279,
-        282
+        0.2770199370409234,
+        0.6123853211009175
       ]
     },
     {
@@ -16060,8 +16060,8 @@ const features = {
       "user": "Walkexperience",
       "label": "guitar",
       "point": [
-        230,
-        299
+        0.22560335781741866,
+        0.6513761467889908
       ]
     },
     {
@@ -16070,8 +16070,8 @@ const features = {
       "user": "Walkexperience",
       "label": "pencil",
       "point": [
-        194,
-        214
+        0.18782791185729275,
+        0.45642201834862384
       ]
     },
     {
@@ -16080,8 +16080,8 @@ const features = {
       "user": "Walkexperience",
       "label": "clock",
       "point": [
-        176,
-        185
+        0.1689401888772298,
+        0.38990825688073394
       ]
     },
     {
@@ -16090,8 +16090,8 @@ const features = {
       "user": "rubin",
       "label": "car",
       "point": [
-        135,
-        203
+        0.1259181532004197,
+        0.43119266055045874
       ]
     },
     {
@@ -16100,8 +16100,8 @@ const features = {
       "user": "rubin",
       "label": "fish",
       "point": [
-        192,
-        256
+        0.18572927597061908,
+        0.5527522935779816
       ]
     },
     {
@@ -16110,8 +16110,8 @@ const features = {
       "user": "rubin",
       "label": "house",
       "point": [
-        134,
-        161
+        0.1248688352570829,
+        0.3348623853211009
       ]
     },
     {
@@ -16120,8 +16120,8 @@ const features = {
       "user": "rubin",
       "label": "tree",
       "point": [
-        256,
-        239
+        0.2528856243441763,
+        0.5137614678899083
       ]
     },
     {
@@ -16130,8 +16130,8 @@ const features = {
       "user": "rubin",
       "label": "bicycle",
       "point": [
-        270,
-        168
+        0.2675760755508919,
+        0.35091743119266056
       ]
     },
     {
@@ -16140,8 +16140,8 @@ const features = {
       "user": "rubin",
       "label": "guitar",
       "point": [
-        189,
-        240
+        0.1825813221406086,
+        0.5160550458715596
       ]
     },
     {
@@ -16150,8 +16150,8 @@ const features = {
       "user": "rubin",
       "label": "pencil",
       "point": [
-        49,
-        199
+        0.035676810073452254,
+        0.42201834862385323
       ]
     },
     {
@@ -16160,8 +16160,8 @@ const features = {
       "user": "rubin",
       "label": "clock",
       "point": [
-        183,
-        188
+        0.17628541448058763,
+        0.3967889908256881
       ]
     },
     {
@@ -16170,8 +16170,8 @@ const features = {
       "user": "Rahul",
       "label": "car",
       "point": [
-        226,
-        132
+        0.22140608604407136,
+        0.268348623853211
       ]
     },
     {
@@ -16180,8 +16180,8 @@ const features = {
       "user": "Rahul",
       "label": "fish",
       "point": [
-        264,
-        154
+        0.26128016789087094,
+        0.31880733944954126
       ]
     },
     {
@@ -16190,8 +16190,8 @@ const features = {
       "user": "Rahul",
       "label": "house",
       "point": [
-        286,
-        321
+        0.28436516264428124,
+        0.7018348623853211
       ]
     },
     {
@@ -16200,8 +16200,8 @@ const features = {
       "user": "Rahul",
       "label": "tree",
       "point": [
-        266,
-        318
+        0.2633788037775446,
+        0.694954128440367
       ]
     },
     {
@@ -16210,8 +16210,8 @@ const features = {
       "user": "Rahul",
       "label": "bicycle",
       "point": [
-        195,
-        138
+        0.1888772298006296,
+        0.28211009174311924
       ]
     },
     {
@@ -16220,8 +16220,8 @@ const features = {
       "user": "Rahul",
       "label": "guitar",
       "point": [
-        274,
-        267
+        0.27177334732423925,
+        0.5779816513761468
       ]
     },
     {
@@ -16230,8 +16230,8 @@ const features = {
       "user": "Rahul",
       "label": "pencil",
       "point": [
-        257,
-        309
+        0.2539349422875131,
+        0.6743119266055045
       ]
     },
     {
@@ -16240,8 +16240,8 @@ const features = {
       "user": "Rahul",
       "label": "clock",
       "point": [
-        260,
-        262
+        0.2570828961175236,
+        0.5665137614678899
       ]
     },
     {
@@ -16250,8 +16250,8 @@ const features = {
       "user": "Abderahman.ht",
       "label": "car",
       "point": [
-        348,
-        152
+        0.34942287513116477,
+        0.31422018348623854
       ]
     },
     {
@@ -16260,8 +16260,8 @@ const features = {
       "user": "Abderahman.ht",
       "label": "fish",
       "point": [
-        184,
-        152
+        0.17733473242392445,
+        0.31422018348623854
       ]
     },
     {
@@ -16270,8 +16270,8 @@ const features = {
       "user": "Abderahman.ht",
       "label": "house",
       "point": [
-        250,
-        246
+        0.2465897166841553,
+        0.5298165137614679
       ]
     },
     {
@@ -16280,8 +16280,8 @@ const features = {
       "user": "Abderahman.ht",
       "label": "tree",
       "point": [
-        260,
-        316
+        0.2570828961175236,
+        0.6903669724770642
       ]
     },
     {
@@ -16290,8 +16290,8 @@ const features = {
       "user": "Abderahman.ht",
       "label": "bicycle",
       "point": [
-        236,
-        248
+        0.23189926547743966,
+        0.5344036697247706
       ]
     },
     {
@@ -16300,8 +16300,8 @@ const features = {
       "user": "Abderahman.ht",
       "label": "guitar",
       "point": [
-        284,
-        272
+        0.28226652675760755,
+        0.5894495412844036
       ]
     },
     {
@@ -16310,8 +16310,8 @@ const features = {
       "user": "Abderahman.ht",
       "label": "pencil",
       "point": [
-        108,
-        152
+        0.09758656873032528,
+        0.31422018348623854
       ]
     },
     {
@@ -16320,8 +16320,8 @@ const features = {
       "user": "Abderahman.ht",
       "label": "clock",
       "point": [
-        224,
-        144
+        0.2193074501573977,
+        0.2958715596330275
       ]
     },
     {
@@ -16330,8 +16330,8 @@ const features = {
       "user": "tung",
       "label": "car",
       "point": [
-        341,
-        156
+        0.34207764952780695,
+        0.32339449541284404
       ]
     },
     {
@@ -16340,8 +16340,8 @@ const features = {
       "user": "tung",
       "label": "fish",
       "point": [
-        326,
-        184
+        0.32633788037775446,
+        0.3876146788990826
       ]
     },
     {
@@ -16350,8 +16350,8 @@ const features = {
       "user": "tung",
       "label": "house",
       "point": [
-        260,
-        287
+        0.2570828961175236,
+        0.6238532110091743
       ]
     },
     {
@@ -16360,8 +16360,8 @@ const features = {
       "user": "tung",
       "label": "tree",
       "point": [
-        306,
-        338
+        0.30535152151101785,
+        0.7408256880733946
       ]
     },
     {
@@ -16370,8 +16370,8 @@ const features = {
       "user": "tung",
       "label": "bicycle",
       "point": [
-        276,
-        164
+        0.2738719832109129,
+        0.34174311926605505
       ]
     },
     {
@@ -16380,8 +16380,8 @@ const features = {
       "user": "tung",
       "label": "guitar",
       "point": [
-        241,
-        343
+        0.23714585519412382,
+        0.7522935779816514
       ]
     },
     {
@@ -16390,8 +16390,8 @@ const features = {
       "user": "tung",
       "label": "pencil",
       "point": [
-        168,
-        211
+        0.16054564533053514,
+        0.44954128440366975
       ]
     },
     {
@@ -16400,8 +16400,8 @@ const features = {
       "user": "tung",
       "label": "clock",
       "point": [
-        187,
-        183
+        0.18048268625393493,
+        0.3853211009174312
       ]
     },
     {
@@ -16410,8 +16410,8 @@ const features = {
       "user": "Daniel J",
       "label": "car",
       "point": [
-        136,
-        93
+        0.12696747114375656,
+        0.17889908256880735
       ]
     },
     {
@@ -16420,8 +16420,8 @@ const features = {
       "user": "Daniel J",
       "label": "fish",
       "point": [
-        188,
-        110
+        0.18153200419727178,
+        0.21788990825688073
       ]
     },
     {
@@ -16430,8 +16430,8 @@ const features = {
       "user": "Daniel J",
       "label": "house",
       "point": [
-        280,
-        292
+        0.2780692549842602,
+        0.6353211009174312
       ]
     },
     {
@@ -16440,8 +16440,8 @@ const features = {
       "user": "Daniel J",
       "label": "tree",
       "point": [
-        339,
-        342
+        0.33997901364113325,
+        0.75
       ]
     },
     {
@@ -16450,8 +16450,8 @@ const features = {
       "user": "Daniel J",
       "label": "bicycle",
       "point": [
-        238,
-        152
+        0.23399790136411333,
+        0.31422018348623854
       ]
     },
     {
@@ -16460,8 +16460,8 @@ const features = {
       "user": "Daniel J",
       "label": "guitar",
       "point": [
-        260,
-        201
+        0.2570828961175236,
+        0.42660550458715596
       ]
     },
     {
@@ -16470,8 +16470,8 @@ const features = {
       "user": "Daniel J",
       "label": "pencil",
       "point": [
-        230,
-        245
+        0.22560335781741866,
+        0.5275229357798165
       ]
     },
     {
@@ -16480,8 +16480,8 @@ const features = {
       "user": "Daniel J",
       "label": "clock",
       "point": [
-        183,
-        171
+        0.17628541448058763,
+        0.3577981651376147
       ]
     },
     {
@@ -16490,8 +16490,8 @@ const features = {
       "user": "doum",
       "label": "car",
       "point": [
-        378,
-        130
+        0.3809024134312697,
+        0.26376146788990823
       ]
     },
     {
@@ -16500,8 +16500,8 @@ const features = {
       "user": "doum",
       "label": "fish",
       "point": [
-        303,
-        119
+        0.30220356768100737,
+        0.23853211009174313
       ]
     },
     {
@@ -16510,8 +16510,8 @@ const features = {
       "user": "doum",
       "label": "house",
       "point": [
-        221,
-        355
+        0.2161594963273872,
+        0.7798165137614679
       ]
     },
     {
@@ -16520,8 +16520,8 @@ const features = {
       "user": "doum",
       "label": "tree",
       "point": [
-        273,
-        351
+        0.2707240293809024,
+        0.7706422018348624
       ]
     },
     {
@@ -16530,8 +16530,8 @@ const features = {
       "user": "doum",
       "label": "bicycle",
       "point": [
-        314,
-        206
+        0.31374606505771246,
+        0.4380733944954128
       ]
     },
     {
@@ -16540,8 +16540,8 @@ const features = {
       "user": "doum",
       "label": "guitar",
       "point": [
-        287,
-        91
+        0.28541448058761804,
+        0.1743119266055046
       ]
     },
     {
@@ -16550,8 +16550,8 @@ const features = {
       "user": "doum",
       "label": "pencil",
       "point": [
-        90,
-        316
+        0.07869884575026233,
+        0.6903669724770642
       ]
     },
     {
@@ -16560,8 +16560,8 @@ const features = {
       "user": "doum",
       "label": "clock",
       "point": [
-        246,
-        201
+        0.24239244491080797,
+        0.42660550458715596
       ]
     },
     {
@@ -16570,8 +16570,8 @@ const features = {
       "user": "Sayani",
       "label": "car",
       "point": [
-        220,
-        270
+        0.21511017838405036,
+        0.5848623853211009
       ]
     },
     {
@@ -16580,8 +16580,8 @@ const features = {
       "user": "Sayani",
       "label": "fish",
       "point": [
-        302,
-        291
+        0.3011542497376705,
+        0.6330275229357798
       ]
     },
     {
@@ -16590,8 +16590,8 @@ const features = {
       "user": "Sayani",
       "label": "house",
       "point": [
-        223,
-        268
+        0.21825813221406087,
+        0.5802752293577982
       ]
     },
     {
@@ -16600,8 +16600,8 @@ const features = {
       "user": "Sayani",
       "label": "tree",
       "point": [
-        298,
-        292
+        0.2969569779643232,
+        0.6353211009174312
       ]
     },
     {
@@ -16610,8 +16610,8 @@ const features = {
       "user": "Sayani",
       "label": "bicycle",
       "point": [
-        253,
-        155
+        0.2497376705141658,
+        0.3211009174311927
       ]
     },
     {
@@ -16620,8 +16620,8 @@ const features = {
       "user": "Sayani",
       "label": "guitar",
       "point": [
-        192,
-        106
+        0.18572927597061908,
+        0.20871559633027523
       ]
     },
     {
@@ -16630,8 +16630,8 @@ const features = {
       "user": "Sayani",
       "label": "pencil",
       "point": [
-        240,
-        170
+        0.236096537250787,
+        0.3555045871559633
       ]
     },
     {
@@ -16640,8 +16640,8 @@ const features = {
       "user": "Sayani",
       "label": "clock",
       "point": [
-        184,
-        228
+        0.17733473242392445,
+        0.48853211009174313
       ]
     },
     {
@@ -16650,8 +16650,8 @@ const features = {
       "user": "Liu Yang",
       "label": "car",
       "point": [
-        230,
-        94
+        0.22560335781741866,
+        0.1811926605504587
       ]
     },
     {
@@ -16660,8 +16660,8 @@ const features = {
       "user": "Liu Yang",
       "label": "fish",
       "point": [
-        309,
-        76
+        0.30849947534102834,
+        0.13990825688073394
       ]
     },
     {
@@ -16670,8 +16670,8 @@ const features = {
       "user": "Liu Yang",
       "label": "house",
       "point": [
-        263,
-        300
+        0.2602308499475341,
+        0.6536697247706422
       ]
     },
     {
@@ -16680,8 +16680,8 @@ const features = {
       "user": "Liu Yang",
       "label": "tree",
       "point": [
-        256,
-        297
+        0.2528856243441763,
+        0.6467889908256881
       ]
     },
     {
@@ -16690,8 +16690,8 @@ const features = {
       "user": "Liu Yang",
       "label": "bicycle",
       "point": [
-        277,
-        213
+        0.27492130115424973,
+        0.4541284403669725
       ]
     },
     {
@@ -16700,8 +16700,8 @@ const features = {
       "user": "Liu Yang",
       "label": "guitar",
       "point": [
-        175,
-        283
+        0.16789087093389296,
+        0.6146788990825688
       ]
     },
     {
@@ -16710,8 +16710,8 @@ const features = {
       "user": "Liu Yang",
       "label": "pencil",
       "point": [
-        44,
-        336
+        0.030430220356768102,
+        0.7362385321100917
       ]
     },
     {
@@ -16720,8 +16720,8 @@ const features = {
       "user": "Liu Yang",
       "label": "clock",
       "point": [
-        222,
-        225
+        0.21720881427072403,
+        0.481651376146789
       ]
     },
     {
@@ -16730,8 +16730,8 @@ const features = {
       "user": "dsf",
       "label": "car",
       "point": [
-        314,
-        135
+        0.31374606505771246,
+        0.27522935779816515
       ]
     },
     {
@@ -16740,8 +16740,8 @@ const features = {
       "user": "dsf",
       "label": "fish",
       "point": [
-        165,
-        66
+        0.15739769150052466,
+        0.11697247706422019
       ]
     },
     {
@@ -16750,8 +16750,8 @@ const features = {
       "user": "dsf",
       "label": "house",
       "point": [
-        369,
-        380
+        0.37145855194123817,
+        0.8371559633027523
       ]
     },
     {
@@ -16760,8 +16760,8 @@ const features = {
       "user": "dsf",
       "label": "tree",
       "point": [
-        356,
-        348
+        0.3578174186778594,
+        0.7637614678899083
       ]
     },
     {
@@ -16770,8 +16770,8 @@ const features = {
       "user": "dsf",
       "label": "bicycle",
       "point": [
-        220,
-        171
+        0.21511017838405036,
+        0.3577981651376147
       ]
     },
     {
@@ -16780,8 +16780,8 @@ const features = {
       "user": "dsf",
       "label": "guitar",
       "point": [
-        158,
-        269
+        0.15005246589716684,
+        0.5825688073394495
       ]
     },
     {
@@ -16790,8 +16790,8 @@ const features = {
       "user": "dsf",
       "label": "pencil",
       "point": [
-        213,
-        258
+        0.20776495278069254,
+        0.5573394495412844
       ]
     },
     {
@@ -16800,8 +16800,8 @@ const features = {
       "user": "dsf",
       "label": "clock",
       "point": [
-        209,
-        184
+        0.20356768100734524,
+        0.3876146788990826
       ]
     },
     {
@@ -16810,8 +16810,8 @@ const features = {
       "user": "Scott O'Nanski",
       "label": "car",
       "point": [
-        349,
-        110
+        0.35047219307450156,
+        0.21788990825688073
       ]
     },
     {
@@ -16820,8 +16820,8 @@ const features = {
       "user": "Scott O'Nanski",
       "label": "fish",
       "point": [
-        278,
-        117
+        0.2759706190975866,
+        0.23394495412844038
       ]
     },
     {
@@ -16830,8 +16830,8 @@ const features = {
       "user": "Scott O'Nanski",
       "label": "house",
       "point": [
-        259,
-        286
+        0.25603357817418676,
+        0.6215596330275229
       ]
     },
     {
@@ -16840,8 +16840,8 @@ const features = {
       "user": "Scott O'Nanski",
       "label": "tree",
       "point": [
-        232,
-        270
+        0.22770199370409233,
+        0.5848623853211009
       ]
     },
     {
@@ -16850,8 +16850,8 @@ const features = {
       "user": "Scott O'Nanski",
       "label": "bicycle",
       "point": [
-        277,
-        219
+        0.27492130115424973,
+        0.46788990825688076
       ]
     },
     {
@@ -16860,8 +16860,8 @@ const features = {
       "user": "Scott O'Nanski",
       "label": "guitar",
       "point": [
-        154,
-        274
+        0.1458551941238195,
+        0.5940366972477065
       ]
     },
     {
@@ -16870,8 +16870,8 @@ const features = {
       "user": "Scott O'Nanski",
       "label": "pencil",
       "point": [
-        113,
-        267
+        0.10283315844700944,
+        0.5779816513761468
       ]
     },
     {
@@ -16880,8 +16880,8 @@ const features = {
       "user": "Scott O'Nanski",
       "label": "clock",
       "point": [
-        302,
-        313
+        0.3011542497376705,
+        0.6834862385321101
       ]
     },
     {
@@ -16890,8 +16890,8 @@ const features = {
       "user": "Pepíček",
       "label": "car",
       "point": [
-        201,
-        142
+        0.19517313746065057,
+        0.29128440366972475
       ]
     },
     {
@@ -16900,8 +16900,8 @@ const features = {
       "user": "Pepíček",
       "label": "fish",
       "point": [
-        159,
-        57
+        0.15110178384050368,
+        0.0963302752293578
       ]
     },
     {
@@ -16910,8 +16910,8 @@ const features = {
       "user": "Pepíček",
       "label": "house",
       "point": [
-        108,
-        145
+        0.09758656873032528,
+        0.2981651376146789
       ]
     },
     {
@@ -16920,8 +16920,8 @@ const features = {
       "user": "Pepíček",
       "label": "tree",
       "point": [
-        393,
-        213
+        0.39664218258132217,
+        0.4541284403669725
       ]
     },
     {
@@ -16930,8 +16930,8 @@ const features = {
       "user": "Pepíček",
       "label": "bicycle",
       "point": [
-        214,
-        179
+        0.2088142707240294,
+        0.3761467889908257
       ]
     },
     {
@@ -16940,8 +16940,8 @@ const features = {
       "user": "Pepíček",
       "label": "guitar",
       "point": [
-        100,
-        240
+        0.08919202518363065,
+        0.5160550458715596
       ]
     },
     {
@@ -16950,8 +16950,8 @@ const features = {
       "user": "Pepíček",
       "label": "pencil",
       "point": [
-        61,
-        175
+        0.048268625393494226,
+        0.3669724770642202
       ]
     },
     {
@@ -16960,8 +16960,8 @@ const features = {
       "user": "Pepíček",
       "label": "clock",
       "point": [
-        122,
-        121
+        0.11227701993704092,
+        0.24311926605504589
       ]
     },
     {
@@ -16970,8 +16970,8 @@ const features = {
       "user": "g",
       "label": "car",
       "point": [
-        146,
-        117
+        0.13746065057712487,
+        0.23394495412844038
       ]
     },
     {
@@ -16980,8 +16980,8 @@ const features = {
       "user": "g",
       "label": "fish",
       "point": [
-        172,
-        54
+        0.16474291710388247,
+        0.08944954128440367
       ]
     },
     {
@@ -16990,8 +16990,8 @@ const features = {
       "user": "g",
       "label": "house",
       "point": [
-        218,
-        177
+        0.2130115424973767,
+        0.37155963302752293
       ]
     },
     {
@@ -17000,8 +17000,8 @@ const features = {
       "user": "g",
       "label": "tree",
       "point": [
-        128,
-        164
+        0.11857292759706191,
+        0.34174311926605505
       ]
     },
     {
@@ -17010,8 +17010,8 @@ const features = {
       "user": "g",
       "label": "bicycle",
       "point": [
-        160,
-        113
+        0.1521511017838405,
+        0.22477064220183487
       ]
     },
     {
@@ -17020,8 +17020,8 @@ const features = {
       "user": "g",
       "label": "guitar",
       "point": [
-        221,
-        75
+        0.2161594963273872,
+        0.13761467889908258
       ]
     },
     {
@@ -17030,8 +17030,8 @@ const features = {
       "user": "g",
       "label": "pencil",
       "point": [
-        83,
-        155
+        0.07135362014690451,
+        0.3211009174311927
       ]
     },
     {
@@ -17040,8 +17040,8 @@ const features = {
       "user": "g",
       "label": "clock",
       "point": [
-        164,
-        143
+        0.15634837355718784,
+        0.29357798165137616
       ]
     },
     {
@@ -17050,8 +17050,8 @@ const features = {
       "user": "Gagan Rastogi",
       "label": "car",
       "point": [
-        343,
-        142
+        0.3441762854144806,
+        0.29128440366972475
       ]
     },
     {
@@ -17060,8 +17060,8 @@ const features = {
       "user": "Gagan Rastogi",
       "label": "fish",
       "point": [
-        301,
-        201
+        0.3001049317943337,
+        0.42660550458715596
       ]
     },
     {
@@ -17070,8 +17070,8 @@ const features = {
       "user": "Gagan Rastogi",
       "label": "house",
       "point": [
-        324,
-        273
+        0.3242392444910808,
+        0.591743119266055
       ]
     },
     {
@@ -17080,8 +17080,8 @@ const features = {
       "user": "Gagan Rastogi",
       "label": "tree",
       "point": [
-        293,
-        326
+        0.291710388247639,
+        0.713302752293578
       ]
     },
     {
@@ -17090,8 +17090,8 @@ const features = {
       "user": "Gagan Rastogi",
       "label": "bicycle",
       "point": [
-        333,
-        224
+        0.3336831059811123,
+        0.4793577981651376
       ]
     },
     {
@@ -17100,8 +17100,8 @@ const features = {
       "user": "Gagan Rastogi",
       "label": "guitar",
       "point": [
-        245,
-        250
+        0.24134312696747115,
+        0.5389908256880734
       ]
     },
     {
@@ -17110,8 +17110,8 @@ const features = {
       "user": "Gagan Rastogi",
       "label": "pencil",
       "point": [
-        219,
-        231
+        0.21406086044071354,
+        0.4954128440366973
       ]
     },
     {
@@ -17120,8 +17120,8 @@ const features = {
       "user": "Gagan Rastogi",
       "label": "clock",
       "point": [
-        252,
-        206
+        0.24868835257082897,
+        0.4380733944954128
       ]
     },
     {
@@ -17130,8 +17130,8 @@ const features = {
       "user": "david",
       "label": "car",
       "point": [
-        261,
-        126
+        0.25813221406086045,
+        0.2545871559633027
       ]
     },
     {
@@ -17140,8 +17140,8 @@ const features = {
       "user": "david",
       "label": "fish",
       "point": [
-        236,
-        93
+        0.23189926547743966,
+        0.17889908256880735
       ]
     },
     {
@@ -17150,8 +17150,8 @@ const features = {
       "user": "david",
       "label": "house",
       "point": [
-        351,
-        357
+        0.35257082896117525,
+        0.7844036697247706
       ]
     },
     {
@@ -17160,8 +17160,8 @@ const features = {
       "user": "david",
       "label": "tree",
       "point": [
-        193,
-        184
+        0.18677859391395593,
+        0.3876146788990826
       ]
     },
     {
@@ -17170,8 +17170,8 @@ const features = {
       "user": "david",
       "label": "bicycle",
       "point": [
-        252,
-        178
+        0.24868835257082897,
+        0.3738532110091743
       ]
     },
     {
@@ -17180,8 +17180,8 @@ const features = {
       "user": "david",
       "label": "guitar",
       "point": [
-        191,
-        298
+        0.18467995802728226,
+        0.6490825688073395
       ]
     },
     {
@@ -17190,8 +17190,8 @@ const features = {
       "user": "david",
       "label": "pencil",
       "point": [
-        65,
-        240
+        0.05246589716684155,
+        0.5160550458715596
       ]
     },
     {
@@ -17200,8 +17200,8 @@ const features = {
       "user": "david",
       "label": "clock",
       "point": [
-        159,
-        138
+        0.15110178384050368,
+        0.28211009174311924
       ]
     },
     {
@@ -17210,8 +17210,8 @@ const features = {
       "user": "Rajat Kumar",
       "label": "car",
       "point": [
-        175,
-        94
+        0.16789087093389296,
+        0.1811926605504587
       ]
     },
     {
@@ -17220,8 +17220,8 @@ const features = {
       "user": "Rajat Kumar",
       "label": "fish",
       "point": [
-        317,
-        285
+        0.316894018887723,
+        0.6192660550458715
       ]
     },
     {
@@ -17230,8 +17230,8 @@ const features = {
       "user": "Rajat Kumar",
       "label": "house",
       "point": [
-        327,
-        149
+        0.3273871983210913,
+        0.3073394495412844
       ]
     },
     {
@@ -17240,8 +17240,8 @@ const features = {
       "user": "Rajat Kumar",
       "label": "tree",
       "point": [
-        351,
-        343
+        0.35257082896117525,
+        0.7522935779816514
       ]
     },
     {
@@ -17250,8 +17250,8 @@ const features = {
       "user": "Rajat Kumar",
       "label": "bicycle",
       "point": [
-        270,
-        218
+        0.2675760755508919,
+        0.46559633027522934
       ]
     },
     {
@@ -17260,8 +17260,8 @@ const features = {
       "user": "Rajat Kumar",
       "label": "guitar",
       "point": [
-        358,
-        346
+        0.35991605456453307,
+        0.7591743119266054
       ]
     },
     {
@@ -17270,8 +17270,8 @@ const features = {
       "user": "Rajat Kumar",
       "label": "pencil",
       "point": [
-        298,
-        334
+        0.2969569779643232,
+        0.731651376146789
       ]
     },
     {
@@ -17280,8 +17280,8 @@ const features = {
       "user": "Rajat Kumar",
       "label": "clock",
       "point": [
-        254,
-        253
+        0.25078698845750264,
+        0.5458715596330275
       ]
     },
     {
@@ -17290,8 +17290,8 @@ const features = {
       "user": "mohammed_rasheed ",
       "label": "car",
       "point": [
-        322,
-        175
+        0.32214060860440713,
+        0.3669724770642202
       ]
     },
     {
@@ -17300,8 +17300,8 @@ const features = {
       "user": "mohammed_rasheed ",
       "label": "fish",
       "point": [
-        237,
-        109
+        0.23294858342077648,
+        0.21559633027522937
       ]
     },
     {
@@ -17310,8 +17310,8 @@ const features = {
       "user": "mohammed_rasheed ",
       "label": "house",
       "point": [
-        186,
-        184
+        0.1794333683105981,
+        0.3876146788990826
       ]
     },
     {
@@ -17320,8 +17320,8 @@ const features = {
       "user": "mohammed_rasheed ",
       "label": "tree",
       "point": [
-        259,
-        316
+        0.25603357817418676,
+        0.6903669724770642
       ]
     },
     {
@@ -17330,8 +17330,8 @@ const features = {
       "user": "mohammed_rasheed ",
       "label": "bicycle",
       "point": [
-        307,
-        163
+        0.30640083945435465,
+        0.3394495412844037
       ]
     },
     {
@@ -17340,8 +17340,8 @@ const features = {
       "user": "mohammed_rasheed ",
       "label": "guitar",
       "point": [
-        308,
-        264
+        0.3074501573976915,
+        0.5711009174311926
       ]
     },
     {
@@ -17350,8 +17350,8 @@ const features = {
       "user": "mohammed_rasheed ",
       "label": "pencil",
       "point": [
-        92,
-        138
+        0.080797481636936,
+        0.28211009174311924
       ]
     },
     {
@@ -17360,8 +17360,8 @@ const features = {
       "user": "mohammed_rasheed ",
       "label": "clock",
       "point": [
-        345,
-        357
+        0.3462749213011542,
+        0.7844036697247706
       ]
     },
     {
@@ -17370,8 +17370,8 @@ const features = {
       "user": "drtyrtuyr6",
       "label": "car",
       "point": [
-        329,
-        119
+        0.32948583420776495,
+        0.23853211009174313
       ]
     },
     {
@@ -17380,8 +17380,8 @@ const features = {
       "user": "drtyrtuyr6",
       "label": "fish",
       "point": [
-        134,
-        73
+        0.1248688352570829,
+        0.13302752293577982
       ]
     },
     {
@@ -17390,8 +17390,8 @@ const features = {
       "user": "drtyrtuyr6",
       "label": "house",
       "point": [
-        84,
-        161
+        0.07240293809024134,
+        0.3348623853211009
       ]
     },
     {
@@ -17400,8 +17400,8 @@ const features = {
       "user": "drtyrtuyr6",
       "label": "tree",
       "point": [
-        198,
-        207
+        0.19202518363064008,
+        0.44036697247706424
       ]
     },
     {
@@ -17410,8 +17410,8 @@ const features = {
       "user": "drtyrtuyr6",
       "label": "bicycle",
       "point": [
-        170,
-        129
+        0.1626442812172088,
+        0.26146788990825687
       ]
     },
     {
@@ -17420,8 +17420,8 @@ const features = {
       "user": "drtyrtuyr6",
       "label": "guitar",
       "point": [
-        230,
-        109
+        0.22560335781741866,
+        0.21559633027522937
       ]
     },
     {
@@ -17430,8 +17430,8 @@ const features = {
       "user": "drtyrtuyr6",
       "label": "pencil",
       "point": [
-        239,
-        103
+        0.23504721930745015,
+        0.2018348623853211
       ]
     },
     {
@@ -17440,8 +17440,8 @@ const features = {
       "user": "drtyrtuyr6",
       "label": "clock",
       "point": [
-        267,
-        326
+        0.2644281217208814,
+        0.713302752293578
       ]
     },
     {
@@ -17450,8 +17450,8 @@ const features = {
       "user": "Raghavan",
       "label": "car",
       "point": [
-        363,
-        105
+        0.3651626442812172,
+        0.20642201834862386
       ]
     },
     {
@@ -17460,8 +17460,8 @@ const features = {
       "user": "Raghavan",
       "label": "fish",
       "point": [
-        226,
-        114
+        0.22140608604407136,
+        0.22706422018348624
       ]
     },
     {
@@ -17470,8 +17470,8 @@ const features = {
       "user": "Raghavan",
       "label": "house",
       "point": [
-        326,
-        246
+        0.32633788037775446,
+        0.5298165137614679
       ]
     },
     {
@@ -17480,8 +17480,8 @@ const features = {
       "user": "Raghavan",
       "label": "tree",
       "point": [
-        308,
-        372
+        0.3074501573976915,
+        0.8188073394495413
       ]
     },
     {
@@ -17490,8 +17490,8 @@ const features = {
       "user": "Raghavan",
       "label": "bicycle",
       "point": [
-        333,
-        206
+        0.3336831059811123,
+        0.4380733944954128
       ]
     },
     {
@@ -17500,8 +17500,8 @@ const features = {
       "user": "Raghavan",
       "label": "guitar",
       "point": [
-        373,
-        161
+        0.3756558237145855,
+        0.3348623853211009
       ]
     },
     {
@@ -17510,8 +17510,8 @@ const features = {
       "user": "Raghavan",
       "label": "pencil",
       "point": [
-        42,
-        165
+        0.02833158447009444,
+        0.3440366972477064
       ]
     },
     {
@@ -17520,8 +17520,8 @@ const features = {
       "user": "Raghavan",
       "label": "clock",
       "point": [
-        238,
-        284
+        0.23399790136411333,
+        0.6169724770642202
       ]
     },
     {
@@ -17530,8 +17530,8 @@ const features = {
       "user": "chaki",
       "label": "car",
       "point": [
-        340,
-        171
+        0.3410283315844701,
+        0.3577981651376147
       ]
     },
     {
@@ -17540,8 +17540,8 @@ const features = {
       "user": "chaki",
       "label": "fish",
       "point": [
-        269,
-        125
+        0.26652675760755506,
+        0.25229357798165136
       ]
     },
     {
@@ -17550,8 +17550,8 @@ const features = {
       "user": "chaki",
       "label": "house",
       "point": [
-        310,
-        270
+        0.3095487932843652,
+        0.5848623853211009
       ]
     },
     {
@@ -17560,8 +17560,8 @@ const features = {
       "user": "chaki",
       "label": "tree",
       "point": [
-        283,
-        323
+        0.2812172088142707,
+        0.7064220183486238
       ]
     },
     {
@@ -17570,8 +17570,8 @@ const features = {
       "user": "chaki",
       "label": "bicycle",
       "point": [
-        320,
-        222
+        0.3200419727177335,
+        0.47477064220183485
       ]
     },
     {
@@ -17580,8 +17580,8 @@ const features = {
       "user": "chaki",
       "label": "guitar",
       "point": [
-        320,
-        163
+        0.3200419727177335,
+        0.3394495412844037
       ]
     },
     {
@@ -17590,8 +17590,8 @@ const features = {
       "user": "chaki",
       "label": "pencil",
       "point": [
-        233,
-        196
+        0.22875131164742918,
+        0.4151376146788991
       ]
     },
     {
@@ -17600,8 +17600,8 @@ const features = {
       "user": "chaki",
       "label": "clock",
       "point": [
-        321,
-        276
+        0.3210912906610703,
+        0.5986238532110092
       ]
     },
     {
@@ -17610,8 +17610,8 @@ const features = {
       "user": "Shubham panchal",
       "label": "car",
       "point": [
-        311,
-        210
+        0.310598111227702,
+        0.44724770642201833
       ]
     },
     {
@@ -17620,8 +17620,8 @@ const features = {
       "user": "Shubham panchal",
       "label": "fish",
       "point": [
-        247,
-        82
+        0.24344176285414482,
+        0.1536697247706422
       ]
     },
     {
@@ -17630,8 +17630,8 @@ const features = {
       "user": "Shubham panchal",
       "label": "house",
       "point": [
-        310,
-        226
+        0.3095487932843652,
+        0.48394495412844035
       ]
     },
     {
@@ -17640,8 +17640,8 @@ const features = {
       "user": "Shubham panchal",
       "label": "tree",
       "point": [
-        184,
-        270
+        0.17733473242392445,
+        0.5848623853211009
       ]
     },
     {
@@ -17650,8 +17650,8 @@ const features = {
       "user": "Shubham panchal",
       "label": "bicycle",
       "point": [
-        248,
-        127
+        0.24449108079748164,
+        0.25688073394495414
       ]
     },
     {
@@ -17660,8 +17660,8 @@ const features = {
       "user": "Shubham panchal",
       "label": "guitar",
       "point": [
-        275,
-        248
+        0.2728226652675761,
+        0.5344036697247706
       ]
     },
     {
@@ -17670,8 +17670,8 @@ const features = {
       "user": "Shubham panchal",
       "label": "pencil",
       "point": [
-        84,
-        261
+        0.07240293809024134,
+        0.5642201834862385
       ]
     },
     {
@@ -17680,8 +17680,8 @@ const features = {
       "user": "Shubham panchal",
       "label": "clock",
       "point": [
-        177,
-        157
+        0.16998950682056663,
+        0.3256880733944954
       ]
     },
     {
@@ -17690,8 +17690,8 @@ const features = {
       "user": "Malioukis",
       "label": "car",
       "point": [
-        345,
-        113
+        0.3462749213011542,
+        0.22477064220183487
       ]
     },
     {
@@ -17700,8 +17700,8 @@ const features = {
       "user": "Malioukis",
       "label": "fish",
       "point": [
-        258,
-        63
+        0.25498426023084997,
+        0.11009174311926606
       ]
     },
     {
@@ -17710,8 +17710,8 @@ const features = {
       "user": "Malioukis",
       "label": "house",
       "point": [
-        267,
-        279
+        0.2644281217208814,
+        0.6055045871559633
       ]
     },
     {
@@ -17720,8 +17720,8 @@ const features = {
       "user": "Malioukis",
       "label": "tree",
       "point": [
-        153,
-        233
+        0.14480587618048268,
+        0.5
       ]
     },
     {
@@ -17730,8 +17730,8 @@ const features = {
       "user": "Malioukis",
       "label": "bicycle",
       "point": [
-        222,
-        156
+        0.21720881427072403,
+        0.32339449541284404
       ]
     },
     {
@@ -17740,8 +17740,8 @@ const features = {
       "user": "Malioukis",
       "label": "guitar",
       "point": [
-        348,
-        97
+        0.34942287513116477,
+        0.18807339449541285
       ]
     },
     {
@@ -17750,8 +17750,8 @@ const features = {
       "user": "Malioukis",
       "label": "pencil",
       "point": [
-        32,
-        264
+        0.017838405036726127,
+        0.5711009174311926
       ]
     },
     {
@@ -17760,8 +17760,8 @@ const features = {
       "user": "Malioukis",
       "label": "clock",
       "point": [
-        241,
-        253
+        0.23714585519412382,
+        0.5458715596330275
       ]
     },
     {
@@ -17770,8 +17770,8 @@ const features = {
       "user": "Tomato",
       "label": "car",
       "point": [
-        337,
-        103
+        0.3378803777544596,
+        0.2018348623853211
       ]
     },
     {
@@ -17780,8 +17780,8 @@ const features = {
       "user": "Tomato",
       "label": "fish",
       "point": [
-        310,
-        192
+        0.3095487932843652,
+        0.4059633027522936
       ]
     },
     {
@@ -17790,8 +17790,8 @@ const features = {
       "user": "Tomato",
       "label": "house",
       "point": [
-        359,
-        257
+        0.36096537250786986,
+        0.555045871559633
       ]
     },
     {
@@ -17800,8 +17800,8 @@ const features = {
       "user": "Tomato",
       "label": "tree",
       "point": [
-        287,
-        334
+        0.28541448058761804,
+        0.731651376146789
       ]
     },
     {
@@ -17810,8 +17810,8 @@ const features = {
       "user": "Tomato",
       "label": "bicycle",
       "point": [
-        296,
-        199
+        0.29485834207764955,
+        0.42201834862385323
       ]
     },
     {
@@ -17820,8 +17820,8 @@ const features = {
       "user": "Tomato",
       "label": "guitar",
       "point": [
-        366,
-        110
+        0.3683105981112277,
+        0.21788990825688073
       ]
     },
     {
@@ -17830,8 +17830,8 @@ const features = {
       "user": "Tomato",
       "label": "pencil",
       "point": [
-        124,
-        308
+        0.11437565582371459,
+        0.6720183486238532
       ]
     },
     {
@@ -17840,8 +17840,8 @@ const features = {
       "user": "Tomato",
       "label": "clock",
       "point": [
-        304,
-        300
+        0.30325288562434416,
+        0.6536697247706422
       ]
     },
     {
@@ -17850,8 +17850,8 @@ const features = {
       "user": "David Murphy",
       "label": "car",
       "point": [
-        237,
-        98
+        0.23294858342077648,
+        0.19036697247706422
       ]
     },
     {
@@ -17860,8 +17860,8 @@ const features = {
       "user": "David Murphy",
       "label": "fish",
       "point": [
-        255,
-        116
+        0.2518363064008394,
+        0.231651376146789
       ]
     },
     {
@@ -17870,8 +17870,8 @@ const features = {
       "user": "David Murphy",
       "label": "house",
       "point": [
-        190,
-        233
+        0.18363064008394545,
+        0.5
       ]
     },
     {
@@ -17880,8 +17880,8 @@ const features = {
       "user": "David Murphy",
       "label": "tree",
       "point": [
-        168,
-        229
+        0.16054564533053514,
+        0.4908256880733945
       ]
     },
     {
@@ -17890,8 +17890,8 @@ const features = {
       "user": "David Murphy",
       "label": "bicycle",
       "point": [
-        168,
-        126
+        0.16054564533053514,
+        0.2545871559633027
       ]
     },
     {
@@ -17900,8 +17900,8 @@ const features = {
       "user": "David Murphy",
       "label": "guitar",
       "point": [
-        225,
-        260
+        0.2203567681007345,
+        0.5619266055045872
       ]
     },
     {
@@ -17910,8 +17910,8 @@ const features = {
       "user": "David Murphy",
       "label": "pencil",
       "point": [
-        156,
-        214
+        0.14795383001049317,
+        0.45642201834862384
       ]
     },
     {
@@ -17920,8 +17920,8 @@ const features = {
       "user": "David Murphy",
       "label": "clock",
       "point": [
-        184,
-        184
+        0.17733473242392445,
+        0.3876146788990826
       ]
     },
     {
@@ -17930,8 +17930,8 @@ const features = {
       "user": "TMMplay",
       "label": "car",
       "point": [
-        181,
-        114
+        0.17418677859391396,
+        0.22706422018348624
       ]
     },
     {
@@ -17940,8 +17940,8 @@ const features = {
       "user": "TMMplay",
       "label": "fish",
       "point": [
-        165,
-        91
+        0.15739769150052466,
+        0.1743119266055046
       ]
     },
     {
@@ -17950,8 +17950,8 @@ const features = {
       "user": "TMMplay",
       "label": "house",
       "point": [
-        249,
-        306
+        0.24554039874081846,
+        0.6674311926605505
       ]
     },
     {
@@ -17960,8 +17960,8 @@ const features = {
       "user": "TMMplay",
       "label": "tree",
       "point": [
-        276,
-        318
+        0.2738719832109129,
+        0.694954128440367
       ]
     },
     {
@@ -17970,8 +17970,8 @@ const features = {
       "user": "TMMplay",
       "label": "bicycle",
       "point": [
-        151,
-        124
+        0.14270724029380902,
+        0.25
       ]
     },
     {
@@ -17980,8 +17980,8 @@ const features = {
       "user": "TMMplay",
       "label": "guitar",
       "point": [
-        250,
-        272
+        0.2465897166841553,
+        0.5894495412844036
       ]
     },
     {
@@ -17990,8 +17990,8 @@ const features = {
       "user": "TMMplay",
       "label": "pencil",
       "point": [
-        233,
-        233
+        0.22875131164742918,
+        0.5
       ]
     },
     {
@@ -18000,8 +18000,8 @@ const features = {
       "user": "TMMplay",
       "label": "clock",
       "point": [
-        336,
-        136
+        0.33683105981112277,
+        0.2775229357798165
       ]
     },
     {
@@ -18010,8 +18010,8 @@ const features = {
       "user": "vijay",
       "label": "car",
       "point": [
-        216,
-        160
+        0.21091290661070305,
+        0.33256880733944955
       ]
     },
     {
@@ -18020,8 +18020,8 @@ const features = {
       "user": "vijay",
       "label": "fish",
       "point": [
-        324,
-        79
+        0.3242392444910808,
+        0.14678899082568808
       ]
     },
     {
@@ -18030,8 +18030,8 @@ const features = {
       "user": "vijay",
       "label": "house",
       "point": [
-        338,
-        250
+        0.3389296956977964,
+        0.5389908256880734
       ]
     },
     {
@@ -18040,8 +18040,8 @@ const features = {
       "user": "vijay",
       "label": "tree",
       "point": [
-        187,
-        208
+        0.18048268625393493,
+        0.4426605504587156
       ]
     },
     {
@@ -18050,8 +18050,8 @@ const features = {
       "user": "vijay",
       "label": "bicycle",
       "point": [
-        119,
-        55
+        0.10912906610703044,
+        0.09174311926605505
       ]
     },
     {
@@ -18060,8 +18060,8 @@ const features = {
       "user": "vijay",
       "label": "guitar",
       "point": [
-        287,
-        253
+        0.28541448058761804,
+        0.5458715596330275
       ]
     },
     {
@@ -18070,8 +18070,8 @@ const features = {
       "user": "vijay",
       "label": "pencil",
       "point": [
-        31,
-        207
+        0.016789087093389297,
+        0.44036697247706424
       ]
     },
     {
@@ -18080,8 +18080,8 @@ const features = {
       "user": "vijay",
       "label": "clock",
       "point": [
-        182,
-        155
+        0.17523609653725078,
+        0.3211009174311927
       ]
     },
     {
@@ -18090,8 +18090,8 @@ const features = {
       "user": "Anthony B",
       "label": "car",
       "point": [
-        301,
-        206
+        0.3001049317943337,
+        0.4380733944954128
       ]
     },
     {
@@ -18100,8 +18100,8 @@ const features = {
       "user": "Anthony B",
       "label": "fish",
       "point": [
-        242,
-        156
+        0.23819517313746066,
+        0.32339449541284404
       ]
     },
     {
@@ -18110,8 +18110,8 @@ const features = {
       "user": "Anthony B",
       "label": "house",
       "point": [
-        180,
-        226
+        0.1731374606505771,
+        0.48394495412844035
       ]
     },
     {
@@ -18120,8 +18120,8 @@ const features = {
       "user": "Anthony B",
       "label": "tree",
       "point": [
-        305,
-        290
+        0.304302203567681,
+        0.6307339449541285
       ]
     },
     {
@@ -18130,8 +18130,8 @@ const features = {
       "user": "Anthony B",
       "label": "bicycle",
       "point": [
-        285,
-        191
+        0.2833158447009444,
+        0.4036697247706422
       ]
     },
     {
@@ -18140,8 +18140,8 @@ const features = {
       "user": "Anthony B",
       "label": "guitar",
       "point": [
-        161,
-        291
+        0.15320041972717732,
+        0.6330275229357798
       ]
     },
     {
@@ -18150,8 +18150,8 @@ const features = {
       "user": "Anthony B",
       "label": "pencil",
       "point": [
-        254,
-        171
+        0.25078698845750264,
+        0.3577981651376147
       ]
     },
     {
@@ -18160,8 +18160,8 @@ const features = {
       "user": "Anthony B",
       "label": "clock",
       "point": [
-        251,
-        217
+        0.24763903462749212,
+        0.463302752293578
       ]
     },
     {
@@ -18170,8 +18170,8 @@ const features = {
       "user": "Loronde",
       "label": "car",
       "point": [
-        310,
-        145
+        0.3095487932843652,
+        0.2981651376146789
       ]
     },
     {
@@ -18180,8 +18180,8 @@ const features = {
       "user": "Loronde",
       "label": "fish",
       "point": [
-        116,
-        70
+        0.10598111227701994,
+        0.12614678899082568
       ]
     },
     {
@@ -18190,8 +18190,8 @@ const features = {
       "user": "Loronde",
       "label": "house",
       "point": [
-        255,
-        175
+        0.2518363064008394,
+        0.3669724770642202
       ]
     },
     {
@@ -18200,8 +18200,8 @@ const features = {
       "user": "Loronde",
       "label": "tree",
       "point": [
-        263,
-        264
+        0.2602308499475341,
+        0.5711009174311926
       ]
     },
     {
@@ -18210,8 +18210,8 @@ const features = {
       "user": "Loronde",
       "label": "bicycle",
       "point": [
-        293,
-        179
+        0.291710388247639,
+        0.3761467889908257
       ]
     },
     {
@@ -18220,8 +18220,8 @@ const features = {
       "user": "Loronde",
       "label": "guitar",
       "point": [
-        331,
-        344
+        0.3315844700944386,
+        0.7545871559633027
       ]
     },
     {
@@ -18230,8 +18230,8 @@ const features = {
       "user": "Loronde",
       "label": "pencil",
       "point": [
-        127,
-        142
+        0.11752360965372508,
+        0.29128440366972475
       ]
     },
     {
@@ -18240,8 +18240,8 @@ const features = {
       "user": "Loronde",
       "label": "clock",
       "point": [
-        182,
-        199
+        0.17523609653725078,
+        0.42201834862385323
       ]
     },
     {
@@ -18250,8 +18250,8 @@ const features = {
       "user": "Alin B",
       "label": "car",
       "point": [
-        313,
-        111
+        0.3126967471143757,
+        0.22018348623853212
       ]
     },
     {
@@ -18260,8 +18260,8 @@ const features = {
       "user": "Alin B",
       "label": "fish",
       "point": [
-        238,
-        103
+        0.23399790136411333,
+        0.2018348623853211
       ]
     },
     {
@@ -18270,8 +18270,8 @@ const features = {
       "user": "Alin B",
       "label": "house",
       "point": [
-        305,
-        186
+        0.304302203567681,
+        0.3922018348623853
       ]
     },
     {
@@ -18280,8 +18280,8 @@ const features = {
       "user": "Alin B",
       "label": "tree",
       "point": [
-        238,
-        328
+        0.23399790136411333,
+        0.7178899082568807
       ]
     },
     {
@@ -18290,8 +18290,8 @@ const features = {
       "user": "Alin B",
       "label": "bicycle",
       "point": [
-        263,
-        160
+        0.2602308499475341,
+        0.33256880733944955
       ]
     },
     {
@@ -18300,8 +18300,8 @@ const features = {
       "user": "Alin B",
       "label": "guitar",
       "point": [
-        182,
-        242
+        0.17523609653725078,
+        0.5206422018348624
       ]
     },
     {
@@ -18310,8 +18310,8 @@ const features = {
       "user": "Alin B",
       "label": "pencil",
       "point": [
-        145,
-        133
+        0.13641133263378805,
+        0.2706422018348624
       ]
     },
     {
@@ -18320,8 +18320,8 @@ const features = {
       "user": "Alin B",
       "label": "clock",
       "point": [
-        181,
-        295
+        0.17418677859391396,
+        0.6422018348623854
       ]
     },
     {
@@ -18330,8 +18330,8 @@ const features = {
       "user": "Julen",
       "label": "car",
       "point": [
-        260,
-        106
+        0.2570828961175236,
+        0.20871559633027523
       ]
     },
     {
@@ -18340,8 +18340,8 @@ const features = {
       "user": "Julen",
       "label": "fish",
       "point": [
-        179,
-        99
+        0.1720881427072403,
+        0.1926605504587156
       ]
     },
     {
@@ -18350,8 +18350,8 @@ const features = {
       "user": "Julen",
       "label": "house",
       "point": [
-        153,
-        172
+        0.14480587618048268,
+        0.36009174311926606
       ]
     },
     {
@@ -18360,8 +18360,8 @@ const features = {
       "user": "Julen",
       "label": "tree",
       "point": [
-        202,
-        269
+        0.19622245540398742,
+        0.5825688073394495
       ]
     },
     {
@@ -18370,8 +18370,8 @@ const features = {
       "user": "Julen",
       "label": "bicycle",
       "point": [
-        153,
-        133
+        0.14480587618048268,
+        0.2706422018348624
       ]
     },
     {
@@ -18380,8 +18380,8 @@ const features = {
       "user": "Julen",
       "label": "guitar",
       "point": [
-        258,
-        151
+        0.25498426023084997,
+        0.3119266055045872
       ]
     },
     {
@@ -18390,8 +18390,8 @@ const features = {
       "user": "Julen",
       "label": "pencil",
       "point": [
-        147,
-        134
+        0.1385099685204617,
+        0.27293577981651373
       ]
     },
     {
@@ -18400,8 +18400,8 @@ const features = {
       "user": "Julen",
       "label": "clock",
       "point": [
-        191,
-        195
+        0.18467995802728226,
+        0.41284403669724773
       ]
     },
     {
@@ -18410,8 +18410,8 @@ const features = {
       "user": "oldbea",
       "label": "car",
       "point": [
-        322,
-        152
+        0.32214060860440713,
+        0.31422018348623854
       ]
     },
     {
@@ -18420,8 +18420,8 @@ const features = {
       "user": "oldbea",
       "label": "fish",
       "point": [
-        306,
-        142
+        0.30535152151101785,
+        0.29128440366972475
       ]
     },
     {
@@ -18430,8 +18430,8 @@ const features = {
       "user": "oldbea",
       "label": "house",
       "point": [
-        246,
-        264
+        0.24239244491080797,
+        0.5711009174311926
       ]
     },
     {
@@ -18440,8 +18440,8 @@ const features = {
       "user": "oldbea",
       "label": "tree",
       "point": [
-        282,
-        337
+        0.2801678908709339,
+        0.7385321100917431
       ]
     },
     {
@@ -18450,8 +18450,8 @@ const features = {
       "user": "oldbea",
       "label": "bicycle",
       "point": [
-        340,
-        194
+        0.3410283315844701,
+        0.4105504587155963
       ]
     },
     {
@@ -18460,8 +18460,8 @@ const features = {
       "user": "oldbea",
       "label": "guitar",
       "point": [
-        167,
-        345
+        0.15949632738719832,
+        0.7568807339449541
       ]
     },
     {
@@ -18470,8 +18470,8 @@ const features = {
       "user": "oldbea",
       "label": "pencil",
       "point": [
-        211,
-        49
+        0.20566631689401887,
+        0.0779816513761468
       ]
     },
     {
@@ -18480,8 +18480,8 @@ const features = {
       "user": "oldbea",
       "label": "clock",
       "point": [
-        329,
-        229
+        0.32948583420776495,
+        0.4908256880733945
       ]
     },
     {
@@ -18490,8 +18490,8 @@ const features = {
       "user": "thlias",
       "label": "car",
       "point": [
-        278,
-        103
+        0.2759706190975866,
+        0.2018348623853211
       ]
     },
     {
@@ -18500,8 +18500,8 @@ const features = {
       "user": "thlias",
       "label": "fish",
       "point": [
-        165,
-        110
+        0.15739769150052466,
+        0.21788990825688073
       ]
     },
     {
@@ -18510,8 +18510,8 @@ const features = {
       "user": "thlias",
       "label": "house",
       "point": [
-        307,
-        186
+        0.30640083945435465,
+        0.3922018348623853
       ]
     },
     {
@@ -18520,8 +18520,8 @@ const features = {
       "user": "thlias",
       "label": "tree",
       "point": [
-        275,
-        254
+        0.2728226652675761,
+        0.5481651376146789
       ]
     },
     {
@@ -18530,8 +18530,8 @@ const features = {
       "user": "thlias",
       "label": "bicycle",
       "point": [
-        208,
-        163
+        0.2025183630640084,
+        0.3394495412844037
       ]
     },
     {
@@ -18540,8 +18540,8 @@ const features = {
       "user": "thlias",
       "label": "guitar",
       "point": [
-        178,
-        259
+        0.17103882476390347,
+        0.5596330275229358
       ]
     },
     {
@@ -18550,8 +18550,8 @@ const features = {
       "user": "thlias",
       "label": "pencil",
       "point": [
-        325,
-        247
+        0.3252885624344176,
+        0.5321100917431193
       ]
     },
     {
@@ -18560,8 +18560,8 @@ const features = {
       "user": "thlias",
       "label": "clock",
       "point": [
-        218,
-        205
+        0.2130115424973767,
+        0.43577981651376146
       ]
     },
     {
@@ -18570,8 +18570,8 @@ const features = {
       "user": "naked",
       "label": "car",
       "point": [
-        261,
-        119
+        0.25813221406086045,
+        0.23853211009174313
       ]
     },
     {
@@ -18580,8 +18580,8 @@ const features = {
       "user": "naked",
       "label": "fish",
       "point": [
-        136,
-        52
+        0.12696747114375656,
+        0.08486238532110092
       ]
     },
     {
@@ -18590,8 +18590,8 @@ const features = {
       "user": "naked",
       "label": "house",
       "point": [
-        161,
-        162
+        0.15320041972717732,
+        0.33715596330275227
       ]
     },
     {
@@ -18600,8 +18600,8 @@ const features = {
       "user": "naked",
       "label": "tree",
       "point": [
-        129,
-        228
+        0.11962224554039874,
+        0.48853211009174313
       ]
     },
     {
@@ -18610,8 +18610,8 @@ const features = {
       "user": "naked",
       "label": "bicycle",
       "point": [
-        231,
-        129
+        0.2266526757607555,
+        0.26146788990825687
       ]
     },
     {
@@ -18620,8 +18620,8 @@ const features = {
       "user": "naked",
       "label": "guitar",
       "point": [
-        95,
-        251
+        0.08394543546694648,
+        0.5412844036697247
       ]
     },
     {
@@ -18630,8 +18630,8 @@ const features = {
       "user": "naked",
       "label": "pencil",
       "point": [
-        15,
-        172
+        0,
+        0.36009174311926606
       ]
     },
     {
@@ -18640,8 +18640,8 @@ const features = {
       "user": "naked",
       "label": "clock",
       "point": [
-        154,
-        143
+        0.1458551941238195,
+        0.29357798165137616
       ]
     },
     {
@@ -18650,8 +18650,8 @@ const features = {
       "user": "Hasan",
       "label": "car",
       "point": [
-        301,
-        108
+        0.3001049317943337,
+        0.21330275229357798
       ]
     },
     {
@@ -18660,8 +18660,8 @@ const features = {
       "user": "Hasan",
       "label": "fish",
       "point": [
-        294,
-        164
+        0.29275970619097585,
+        0.34174311926605505
       ]
     },
     {
@@ -18670,8 +18670,8 @@ const features = {
       "user": "Hasan",
       "label": "house",
       "point": [
-        261,
-        238
+        0.25813221406086045,
+        0.5114678899082569
       ]
     },
     {
@@ -18680,8 +18680,8 @@ const features = {
       "user": "Hasan",
       "label": "tree",
       "point": [
-        241,
-        343
+        0.23714585519412382,
+        0.7522935779816514
       ]
     },
     {
@@ -18690,8 +18690,8 @@ const features = {
       "user": "Hasan",
       "label": "bicycle",
       "point": [
-        342,
-        208
+        0.34312696747114374,
+        0.4426605504587156
       ]
     },
     {
@@ -18700,8 +18700,8 @@ const features = {
       "user": "Hasan",
       "label": "guitar",
       "point": [
-        169,
-        354
+        0.161594963273872,
+        0.7775229357798165
       ]
     },
     {
@@ -18710,8 +18710,8 @@ const features = {
       "user": "Hasan",
       "label": "pencil",
       "point": [
-        103,
-        126
+        0.09233997901364113,
+        0.2545871559633027
       ]
     },
     {
@@ -18720,8 +18720,8 @@ const features = {
       "user": "Hasan",
       "label": "clock",
       "point": [
-        270,
-        172
+        0.2675760755508919,
+        0.36009174311926606
       ]
     },
     {
@@ -18730,8 +18730,8 @@ const features = {
       "user": "Sayeed",
       "label": "car",
       "point": [
-        347,
-        221
+        0.3483735571878279,
+        0.4724770642201835
       ]
     },
     {
@@ -18740,8 +18740,8 @@ const features = {
       "user": "Sayeed",
       "label": "fish",
       "point": [
-        264,
-        165
+        0.26128016789087094,
+        0.3440366972477064
       ]
     },
     {
@@ -18750,8 +18750,8 @@ const features = {
       "user": "Sayeed",
       "label": "house",
       "point": [
-        274,
-        214
+        0.27177334732423925,
+        0.45642201834862384
       ]
     },
     {
@@ -18760,8 +18760,8 @@ const features = {
       "user": "Sayeed",
       "label": "tree",
       "point": [
-        302,
-        328
+        0.3011542497376705,
+        0.7178899082568807
       ]
     },
     {
@@ -18770,8 +18770,8 @@ const features = {
       "user": "Sayeed",
       "label": "bicycle",
       "point": [
-        291,
-        239
+        0.28961175236096537,
+        0.5137614678899083
       ]
     },
     {
@@ -18780,8 +18780,8 @@ const features = {
       "user": "Sayeed",
       "label": "guitar",
       "point": [
-        298,
-        316
+        0.2969569779643232,
+        0.6903669724770642
       ]
     },
     {
@@ -18790,8 +18790,8 @@ const features = {
       "user": "Sayeed",
       "label": "pencil",
       "point": [
-        291,
-        311
+        0.28961175236096537,
+        0.6788990825688074
       ]
     },
     {
@@ -18800,8 +18800,8 @@ const features = {
       "user": "Sayeed",
       "label": "clock",
       "point": [
-        230,
-        225
+        0.22560335781741866,
+        0.481651376146789
       ]
     },
     {
@@ -18810,8 +18810,8 @@ const features = {
       "user": "Yaroslav",
       "label": "car",
       "point": [
-        217,
-        75
+        0.21196222455403987,
+        0.13761467889908258
       ]
     },
     {
@@ -18820,8 +18820,8 @@ const features = {
       "user": "Yaroslav",
       "label": "fish",
       "point": [
-        332,
-        129
+        0.33263378803777544,
+        0.26146788990825687
       ]
     },
     {
@@ -18830,8 +18830,8 @@ const features = {
       "user": "Yaroslav",
       "label": "house",
       "point": [
-        302,
-        190
+        0.3011542497376705,
+        0.4013761467889908
       ]
     },
     {
@@ -18840,8 +18840,8 @@ const features = {
       "user": "Yaroslav",
       "label": "tree",
       "point": [
-        247,
-        320
+        0.24344176285414482,
+        0.6995412844036697
       ]
     },
     {
@@ -18850,8 +18850,8 @@ const features = {
       "user": "Yaroslav",
       "label": "bicycle",
       "point": [
-        221,
-        102
+        0.2161594963273872,
+        0.19954128440366972
       ]
     },
     {
@@ -18860,8 +18860,8 @@ const features = {
       "user": "Yaroslav",
       "label": "guitar",
       "point": [
-        360,
-        131
+        0.3620146904512067,
+        0.26605504587155965
       ]
     },
     {
@@ -18870,8 +18870,8 @@ const features = {
       "user": "Yaroslav",
       "label": "pencil",
       "point": [
-        141,
-        121
+        0.1322140608604407,
+        0.24311926605504589
       ]
     },
     {
@@ -18880,8 +18880,8 @@ const features = {
       "user": "Yaroslav",
       "label": "clock",
       "point": [
-        208,
-        190
+        0.2025183630640084,
+        0.4013761467889908
       ]
     },
     {
@@ -18890,8 +18890,8 @@ const features = {
       "user": "Ved",
       "label": "car",
       "point": [
-        225,
-        198
+        0.2203567681007345,
+        0.4197247706422018
       ]
     },
     {
@@ -18900,8 +18900,8 @@ const features = {
       "user": "Ved",
       "label": "fish",
       "point": [
-        333,
-        151
+        0.3336831059811123,
+        0.3119266055045872
       ]
     },
     {
@@ -18910,8 +18910,8 @@ const features = {
       "user": "Ved",
       "label": "house",
       "point": [
-        297,
-        324
+        0.29590766002098634,
+        0.7087155963302753
       ]
     },
     {
@@ -18920,8 +18920,8 @@ const features = {
       "user": "Ved",
       "label": "tree",
       "point": [
-        241,
-        347
+        0.23714585519412382,
+        0.7614678899082569
       ]
     },
     {
@@ -18930,8 +18930,8 @@ const features = {
       "user": "Ved",
       "label": "bicycle",
       "point": [
-        300,
-        198
+        0.2990556138509968,
+        0.4197247706422018
       ]
     },
     {
@@ -18940,8 +18940,8 @@ const features = {
       "user": "Ved",
       "label": "guitar",
       "point": [
-        252,
-        201
+        0.24868835257082897,
+        0.42660550458715596
       ]
     },
     {
@@ -18950,8 +18950,8 @@ const features = {
       "user": "Ved",
       "label": "pencil",
       "point": [
-        218,
-        199
+        0.2130115424973767,
+        0.42201834862385323
       ]
     },
     {
@@ -18960,8 +18960,8 @@ const features = {
       "user": "Ved",
       "label": "clock",
       "point": [
-        204,
-        170
+        0.19832109129066108,
+        0.3555045871559633
       ]
     },
     {
@@ -18970,8 +18970,8 @@ const features = {
       "user": "Xounds Master1",
       "label": "car",
       "point": [
-        340,
-        316
+        0.3410283315844701,
+        0.6903669724770642
       ]
     },
     {
@@ -18980,8 +18980,8 @@ const features = {
       "user": "Xounds Master1",
       "label": "fish",
       "point": [
-        325,
-        353
+        0.3252885624344176,
+        0.7752293577981652
       ]
     },
     {
@@ -18990,8 +18990,8 @@ const features = {
       "user": "Xounds Master1",
       "label": "house",
       "point": [
-        347,
-        364
+        0.3483735571878279,
+        0.8004587155963303
       ]
     },
     {
@@ -19000,8 +19000,8 @@ const features = {
       "user": "Xounds Master1",
       "label": "tree",
       "point": [
-        326,
-        363
+        0.32633788037775446,
+        0.7981651376146789
       ]
     },
     {
@@ -19010,8 +19010,8 @@ const features = {
       "user": "Xounds Master1",
       "label": "bicycle",
       "point": [
-        281,
-        327
+        0.27911857292759706,
+        0.7155963302752294
       ]
     },
     {
@@ -19020,8 +19020,8 @@ const features = {
       "user": "Xounds Master1",
       "label": "guitar",
       "point": [
-        347,
-        386
+        0.3483735571878279,
+        0.8509174311926605
       ]
     },
     {
@@ -19030,8 +19030,8 @@ const features = {
       "user": "Xounds Master1",
       "label": "pencil",
       "point": [
-        341,
-        376
+        0.34207764952780695,
+        0.8279816513761468
       ]
     },
     {
@@ -19040,8 +19040,8 @@ const features = {
       "user": "Xounds Master1",
       "label": "clock",
       "point": [
-        347,
-        366
+        0.3483735571878279,
+        0.805045871559633
       ]
     },
     {
@@ -19050,8 +19050,8 @@ const features = {
       "user": "bvbsis",
       "label": "car",
       "point": [
-        357,
-        240
+        0.3588667366211962,
+        0.5160550458715596
       ]
     },
     {
@@ -19060,8 +19060,8 @@ const features = {
       "user": "bvbsis",
       "label": "fish",
       "point": [
-        346,
-        197
+        0.3473242392444911,
+        0.41743119266055045
       ]
     },
     {
@@ -19070,8 +19070,8 @@ const features = {
       "user": "bvbsis",
       "label": "house",
       "point": [
-        379,
-        240
+        0.38195173137460653,
+        0.5160550458715596
       ]
     },
     {
@@ -19080,8 +19080,8 @@ const features = {
       "user": "bvbsis",
       "label": "tree",
       "point": [
-        285,
-        317
+        0.2833158447009444,
+        0.6926605504587156
       ]
     },
     {
@@ -19090,8 +19090,8 @@ const features = {
       "user": "bvbsis",
       "label": "bicycle",
       "point": [
-        272,
-        125
+        0.2696747114375656,
+        0.25229357798165136
       ]
     },
     {
@@ -19100,8 +19100,8 @@ const features = {
       "user": "bvbsis",
       "label": "guitar",
       "point": [
-        361,
-        177
+        0.36306400839454356,
+        0.37155963302752293
       ]
     },
     {
@@ -19110,8 +19110,8 @@ const features = {
       "user": "bvbsis",
       "label": "pencil",
       "point": [
-        277,
-        184
+        0.27492130115424973,
+        0.3876146788990826
       ]
     },
     {
@@ -19120,8 +19120,8 @@ const features = {
       "user": "bvbsis",
       "label": "clock",
       "point": [
-        329,
-        258
+        0.32948583420776495,
+        0.5573394495412844
       ]
     },
     {
@@ -19130,8 +19130,8 @@ const features = {
       "user": "Em",
       "label": "car",
       "point": [
-        338,
-        334
+        0.3389296956977964,
+        0.731651376146789
       ]
     },
     {
@@ -19140,8 +19140,8 @@ const features = {
       "user": "Em",
       "label": "fish",
       "point": [
-        174,
-        327
+        0.16684155299055614,
+        0.7155963302752294
       ]
     },
     {
@@ -19150,8 +19150,8 @@ const features = {
       "user": "Em",
       "label": "house",
       "point": [
-        392,
-        384
+        0.3955928646379853,
+        0.8463302752293578
       ]
     },
     {
@@ -19160,8 +19160,8 @@ const features = {
       "user": "Em",
       "label": "tree",
       "point": [
-        383,
-        353
+        0.3861490031479538,
+        0.7752293577981652
       ]
     },
     {
@@ -19170,8 +19170,8 @@ const features = {
       "user": "Em",
       "label": "bicycle",
       "point": [
-        317,
-        208
+        0.316894018887723,
+        0.4426605504587156
       ]
     },
     {
@@ -19180,8 +19180,8 @@ const features = {
       "user": "Em",
       "label": "guitar",
       "point": [
-        306,
-        367
+        0.30535152151101785,
+        0.8073394495412844
       ]
     },
     {
@@ -19190,8 +19190,8 @@ const features = {
       "user": "Em",
       "label": "pencil",
       "point": [
-        292,
-        277
+        0.2906610703043022,
+        0.6009174311926605
       ]
     },
     {
@@ -19200,8 +19200,8 @@ const features = {
       "user": "Em",
       "label": "clock",
       "point": [
-        228,
-        242
+        0.22350472193074503,
+        0.5206422018348624
       ]
     },
     {
@@ -19210,8 +19210,8 @@ const features = {
       "user": "Kishor Paudel",
       "label": "car",
       "point": [
-        307,
-        136
+        0.30640083945435465,
+        0.2775229357798165
       ]
     },
     {
@@ -19220,8 +19220,8 @@ const features = {
       "user": "Kishor Paudel",
       "label": "fish",
       "point": [
-        265,
-        104
+        0.2623294858342078,
+        0.20412844036697247
       ]
     },
     {
@@ -19230,8 +19230,8 @@ const features = {
       "user": "Kishor Paudel",
       "label": "house",
       "point": [
-        251,
-        260
+        0.24763903462749212,
+        0.5619266055045872
       ]
     },
     {
@@ -19240,8 +19240,8 @@ const features = {
       "user": "Kishor Paudel",
       "label": "tree",
       "point": [
-        303,
-        342
+        0.30220356768100737,
+        0.75
       ]
     },
     {
@@ -19250,8 +19250,8 @@ const features = {
       "user": "Kishor Paudel",
       "label": "bicycle",
       "point": [
-        320,
-        181
+        0.3200419727177335,
+        0.38073394495412843
       ]
     },
     {
@@ -19260,8 +19260,8 @@ const features = {
       "user": "Kishor Paudel",
       "label": "guitar",
       "point": [
-        342,
-        321
+        0.34312696747114374,
+        0.7018348623853211
       ]
     },
     {
@@ -19270,8 +19270,8 @@ const features = {
       "user": "Kishor Paudel",
       "label": "pencil",
       "point": [
-        120,
-        259
+        0.11017838405036726,
+        0.5596330275229358
       ]
     },
     {
@@ -19280,8 +19280,8 @@ const features = {
       "user": "Kishor Paudel",
       "label": "clock",
       "point": [
-        258,
-        230
+        0.25498426023084997,
+        0.49311926605504586
       ]
     },
     {
@@ -19290,8 +19290,8 @@ const features = {
       "user": "Domique 623",
       "label": "car",
       "point": [
-        248,
-        163
+        0.24449108079748164,
+        0.3394495412844037
       ]
     },
     {
@@ -19300,8 +19300,8 @@ const features = {
       "user": "Domique 623",
       "label": "fish",
       "point": [
-        134,
-        82
+        0.1248688352570829,
+        0.1536697247706422
       ]
     },
     {
@@ -19310,8 +19310,8 @@ const features = {
       "user": "Domique 623",
       "label": "house",
       "point": [
-        146,
-        211
+        0.13746065057712487,
+        0.44954128440366975
       ]
     },
     {
@@ -19320,8 +19320,8 @@ const features = {
       "user": "Domique 623",
       "label": "tree",
       "point": [
-        138,
-        260
+        0.12906610703043023,
+        0.5619266055045872
       ]
     },
     {
@@ -19330,8 +19330,8 @@ const features = {
       "user": "Domique 623",
       "label": "bicycle",
       "point": [
-        173,
-        108
+        0.1657922350472193,
+        0.21330275229357798
       ]
     },
     {
@@ -19340,8 +19340,8 @@ const features = {
       "user": "Domique 623",
       "label": "guitar",
       "point": [
-        95,
-        226
+        0.08394543546694648,
+        0.48394495412844035
       ]
     },
     {
@@ -19350,8 +19350,8 @@ const features = {
       "user": "Domique 623",
       "label": "pencil",
       "point": [
-        33,
-        250
+        0.01888772298006296,
+        0.5389908256880734
       ]
     },
     {
@@ -19360,8 +19360,8 @@ const features = {
       "user": "Domique 623",
       "label": "clock",
       "point": [
-        160,
-        221
+        0.1521511017838405,
+        0.4724770642201835
       ]
     },
     {
@@ -19370,8 +19370,8 @@ const features = {
       "user": "Ikkismith",
       "label": "car",
       "point": [
-        212,
-        192
+        0.20671563483735572,
+        0.4059633027522936
       ]
     },
     {
@@ -19380,8 +19380,8 @@ const features = {
       "user": "Ikkismith",
       "label": "fish",
       "point": [
-        266,
-        174
+        0.2633788037775446,
+        0.3646788990825688
       ]
     },
     {
@@ -19390,8 +19390,8 @@ const features = {
       "user": "Ikkismith",
       "label": "house",
       "point": [
-        294,
-        257
+        0.29275970619097585,
+        0.555045871559633
       ]
     },
     {
@@ -19400,8 +19400,8 @@ const features = {
       "user": "Ikkismith",
       "label": "tree",
       "point": [
-        365,
-        377
+        0.3672612801678909,
+        0.8302752293577982
       ]
     },
     {
@@ -19410,8 +19410,8 @@ const features = {
       "user": "Ikkismith",
       "label": "bicycle",
       "point": [
-        298,
-        221
+        0.2969569779643232,
+        0.4724770642201835
       ]
     },
     {
@@ -19420,8 +19420,8 @@ const features = {
       "user": "Ikkismith",
       "label": "guitar",
       "point": [
-        200,
-        357
+        0.19412381951731375,
+        0.7844036697247706
       ]
     },
     {
@@ -19430,8 +19430,8 @@ const features = {
       "user": "Ikkismith",
       "label": "pencil",
       "point": [
-        255,
-        195
+        0.2518363064008394,
+        0.41284403669724773
       ]
     },
     {
@@ -19440,8 +19440,8 @@ const features = {
       "user": "Ikkismith",
       "label": "clock",
       "point": [
-        238,
-        237
+        0.23399790136411333,
+        0.5091743119266054
       ]
     },
     {
@@ -19450,8 +19450,8 @@ const features = {
       "user": "kubis",
       "label": "car",
       "point": [
-        257,
-        132
+        0.2539349422875131,
+        0.268348623853211
       ]
     },
     {
@@ -19460,8 +19460,8 @@ const features = {
       "user": "kubis",
       "label": "fish",
       "point": [
-        291,
-        159
+        0.28961175236096537,
+        0.3302752293577982
       ]
     },
     {
@@ -19470,8 +19470,8 @@ const features = {
       "user": "kubis",
       "label": "house",
       "point": [
-        333,
-        188
+        0.3336831059811123,
+        0.3967889908256881
       ]
     },
     {
@@ -19480,8 +19480,8 @@ const features = {
       "user": "kubis",
       "label": "tree",
       "point": [
-        319,
-        280
+        0.31899265477439664,
+        0.6077981651376146
       ]
     },
     {
@@ -19490,8 +19490,8 @@ const features = {
       "user": "kubis",
       "label": "bicycle",
       "point": [
-        335,
-        188
+        0.3357817418677859,
+        0.3967889908256881
       ]
     },
     {
@@ -19500,8 +19500,8 @@ const features = {
       "user": "kubis",
       "label": "guitar",
       "point": [
-        247,
-        355
+        0.24344176285414482,
+        0.7798165137614679
       ]
     },
     {
@@ -19510,8 +19510,8 @@ const features = {
       "user": "kubis",
       "label": "pencil",
       "point": [
-        233,
-        301
+        0.22875131164742918,
+        0.6559633027522935
       ]
     },
     {
@@ -19520,8 +19520,8 @@ const features = {
       "user": "kubis",
       "label": "clock",
       "point": [
-        112,
-        243
+        0.10178384050367262,
+        0.5229357798165137
       ]
     },
     {
@@ -19530,8 +19530,8 @@ const features = {
       "user": "olcay",
       "label": "car",
       "point": [
-        189,
-        135
+        0.1825813221406086,
+        0.27522935779816515
       ]
     },
     {
@@ -19540,8 +19540,8 @@ const features = {
       "user": "olcay",
       "label": "fish",
       "point": [
-        206,
-        104
+        0.20041972717733472,
+        0.20412844036697247
       ]
     },
     {
@@ -19550,8 +19550,8 @@ const features = {
       "user": "olcay",
       "label": "house",
       "point": [
-        89,
-        209
+        0.0776495278069255,
+        0.44495412844036697
       ]
     },
     {
@@ -19560,8 +19560,8 @@ const features = {
       "user": "olcay",
       "label": "tree",
       "point": [
-        179,
-        285
+        0.1720881427072403,
+        0.6192660550458715
       ]
     },
     {
@@ -19570,8 +19570,8 @@ const features = {
       "user": "olcay",
       "label": "bicycle",
       "point": [
-        224,
-        163
+        0.2193074501573977,
+        0.3394495412844037
       ]
     },
     {
@@ -19580,8 +19580,8 @@ const features = {
       "user": "olcay",
       "label": "guitar",
       "point": [
-        317,
-        140
+        0.316894018887723,
+        0.286697247706422
       ]
     },
     {
@@ -19590,8 +19590,8 @@ const features = {
       "user": "olcay",
       "label": "pencil",
       "point": [
-        51,
-        205
+        0.03777544596012592,
+        0.43577981651376146
       ]
     },
     {
@@ -19600,8 +19600,8 @@ const features = {
       "user": "olcay",
       "label": "clock",
       "point": [
-        133,
-        124
+        0.12381951731374606,
+        0.25
       ]
     },
     {
@@ -19610,8 +19610,8 @@ const features = {
       "user": "farid",
       "label": "car",
       "point": [
-        237,
-        133
+        0.23294858342077648,
+        0.2706422018348624
       ]
     },
     {
@@ -19620,8 +19620,8 @@ const features = {
       "user": "farid",
       "label": "fish",
       "point": [
-        293,
-        88
+        0.291710388247639,
+        0.16743119266055045
       ]
     },
     {
@@ -19630,8 +19630,8 @@ const features = {
       "user": "farid",
       "label": "house",
       "point": [
-        181,
-        283
+        0.17418677859391396,
+        0.6146788990825688
       ]
     },
     {
@@ -19640,8 +19640,8 @@ const features = {
       "user": "farid",
       "label": "tree",
       "point": [
-        225,
-        294
+        0.2203567681007345,
+        0.6399082568807339
       ]
     },
     {
@@ -19650,8 +19650,8 @@ const features = {
       "user": "farid",
       "label": "bicycle",
       "point": [
-        234,
-        109
+        0.229800629590766,
+        0.21559633027522937
       ]
     },
     {
@@ -19660,8 +19660,8 @@ const features = {
       "user": "farid",
       "label": "guitar",
       "point": [
-        120,
-        111
+        0.11017838405036726,
+        0.22018348623853212
       ]
     },
     {
@@ -19670,8 +19670,8 @@ const features = {
       "user": "farid",
       "label": "pencil",
       "point": [
-        50,
-        194
+        0.03672612801678909,
+        0.4105504587155963
       ]
     },
     {
@@ -19680,8 +19680,8 @@ const features = {
       "user": "farid",
       "label": "clock",
       "point": [
-        189,
-        155
+        0.1825813221406086,
+        0.3211009174311927
       ]
     },
     {
@@ -19690,8 +19690,8 @@ const features = {
       "user": "meshack",
       "label": "car",
       "point": [
-        176,
-        86
+        0.1689401888772298,
+        0.1628440366972477
       ]
     },
     {
@@ -19700,8 +19700,8 @@ const features = {
       "user": "meshack",
       "label": "fish",
       "point": [
-        117,
-        74
+        0.10703043022035677,
+        0.1353211009174312
       ]
     },
     {
@@ -19710,8 +19710,8 @@ const features = {
       "user": "meshack",
       "label": "house",
       "point": [
-        317,
-        212
+        0.316894018887723,
+        0.4518348623853211
       ]
     },
     {
@@ -19720,8 +19720,8 @@ const features = {
       "user": "meshack",
       "label": "tree",
       "point": [
-        178,
-        300
+        0.17103882476390347,
+        0.6536697247706422
       ]
     },
     {
@@ -19730,8 +19730,8 @@ const features = {
       "user": "meshack",
       "label": "bicycle",
       "point": [
-        247,
-        169
+        0.24344176285414482,
+        0.3532110091743119
       ]
     },
     {
@@ -19740,8 +19740,8 @@ const features = {
       "user": "meshack",
       "label": "guitar",
       "point": [
-        70,
-        173
+        0.05771248688352571,
+        0.3623853211009174
       ]
     },
     {
@@ -19750,8 +19750,8 @@ const features = {
       "user": "meshack",
       "label": "pencil",
       "point": [
-        36,
-        184
+        0.022035676810073453,
+        0.3876146788990826
       ]
     },
     {
@@ -19760,8 +19760,8 @@ const features = {
       "user": "meshack",
       "label": "clock",
       "point": [
-        152,
-        150
+        0.14375655823714587,
+        0.30963302752293576
       ]
     },
     {
@@ -19770,8 +19770,8 @@ const features = {
       "user": "MK",
       "label": "car",
       "point": [
-        341,
-        169
+        0.34207764952780695,
+        0.3532110091743119
       ]
     },
     {
@@ -19780,8 +19780,8 @@ const features = {
       "user": "MK",
       "label": "fish",
       "point": [
-        234,
-        129
+        0.229800629590766,
+        0.26146788990825687
       ]
     },
     {
@@ -19790,8 +19790,8 @@ const features = {
       "user": "MK",
       "label": "house",
       "point": [
-        295,
-        281
+        0.2938090241343127,
+        0.6100917431192661
       ]
     },
     {
@@ -19800,8 +19800,8 @@ const features = {
       "user": "MK",
       "label": "tree",
       "point": [
-        283,
-        349
+        0.2812172088142707,
+        0.7660550458715596
       ]
     },
     {
@@ -19810,8 +19810,8 @@ const features = {
       "user": "MK",
       "label": "bicycle",
       "point": [
-        335,
-        231
+        0.3357817418677859,
+        0.4954128440366973
       ]
     },
     {
@@ -19820,8 +19820,8 @@ const features = {
       "user": "MK",
       "label": "guitar",
       "point": [
-        305,
-        272
+        0.304302203567681,
+        0.5894495412844036
       ]
     },
     {
@@ -19830,8 +19830,8 @@ const features = {
       "user": "MK",
       "label": "pencil",
       "point": [
-        253,
-        218
+        0.2497376705141658,
+        0.46559633027522934
       ]
     },
     {
@@ -19840,8 +19840,8 @@ const features = {
       "user": "MK",
       "label": "clock",
       "point": [
-        203,
-        146
+        0.19727177334732424,
+        0.30045871559633025
       ]
     },
     {
@@ -19850,8 +19850,8 @@ const features = {
       "user": "Jagadeesh kumar",
       "label": "car",
       "point": [
-        338,
-        172
+        0.3389296956977964,
+        0.36009174311926606
       ]
     },
     {
@@ -19860,8 +19860,8 @@ const features = {
       "user": "Jagadeesh kumar",
       "label": "fish",
       "point": [
-        317,
-        189
+        0.316894018887723,
+        0.39908256880733944
       ]
     },
     {
@@ -19870,8 +19870,8 @@ const features = {
       "user": "Jagadeesh kumar",
       "label": "house",
       "point": [
-        275,
-        351
+        0.2728226652675761,
+        0.7706422018348624
       ]
     },
     {
@@ -19880,8 +19880,8 @@ const features = {
       "user": "Jagadeesh kumar",
       "label": "tree",
       "point": [
-        346,
-        334
+        0.3473242392444911,
+        0.731651376146789
       ]
     },
     {
@@ -19890,8 +19890,8 @@ const features = {
       "user": "Jagadeesh kumar",
       "label": "bicycle",
       "point": [
-        296,
-        273
+        0.29485834207764955,
+        0.591743119266055
       ]
     },
     {
@@ -19900,8 +19900,8 @@ const features = {
       "user": "Jagadeesh kumar",
       "label": "guitar",
       "point": [
-        266,
-        248
+        0.2633788037775446,
+        0.5344036697247706
       ]
     },
     {
@@ -19910,8 +19910,8 @@ const features = {
       "user": "Jagadeesh kumar",
       "label": "pencil",
       "point": [
-        314,
-        248
+        0.31374606505771246,
+        0.5344036697247706
       ]
     },
     {
@@ -19920,8 +19920,8 @@ const features = {
       "user": "Jagadeesh kumar",
       "label": "clock",
       "point": [
-        277,
-        281
+        0.27492130115424973,
+        0.6100917431192661
       ]
     },
     {
@@ -19930,8 +19930,8 @@ const features = {
       "user": "ahmed",
       "label": "car",
       "point": [
-        276,
-        105
+        0.2738719832109129,
+        0.20642201834862386
       ]
     },
     {
@@ -19940,8 +19940,8 @@ const features = {
       "user": "ahmed",
       "label": "fish",
       "point": [
-        250,
-        107
+        0.2465897166841553,
+        0.21100917431192662
       ]
     },
     {
@@ -19950,8 +19950,8 @@ const features = {
       "user": "ahmed",
       "label": "house",
       "point": [
-        136,
-        156
+        0.12696747114375656,
+        0.32339449541284404
       ]
     },
     {
@@ -19960,8 +19960,8 @@ const features = {
       "user": "ahmed",
       "label": "tree",
       "point": [
-        155,
-        207
+        0.14690451206715635,
+        0.44036697247706424
       ]
     },
     {
@@ -19970,8 +19970,8 @@ const features = {
       "user": "ahmed",
       "label": "bicycle",
       "point": [
-        160,
-        123
+        0.1521511017838405,
+        0.24770642201834864
       ]
     },
     {
@@ -19980,8 +19980,8 @@ const features = {
       "user": "ahmed",
       "label": "guitar",
       "point": [
-        231,
-        123
+        0.2266526757607555,
+        0.24770642201834864
       ]
     },
     {
@@ -19990,8 +19990,8 @@ const features = {
       "user": "ahmed",
       "label": "pencil",
       "point": [
-        256,
-        81
+        0.2528856243441763,
+        0.15137614678899083
       ]
     },
     {
@@ -20000,8 +20000,8 @@ const features = {
       "user": "ahmed",
       "label": "clock",
       "point": [
-        242,
-        165
+        0.23819517313746066,
+        0.3440366972477064
       ]
     },
     {
@@ -20010,8 +20010,8 @@ const features = {
       "user": "airbass",
       "label": "car",
       "point": [
-        357,
-        167
+        0.3588667366211962,
+        0.3486238532110092
       ]
     },
     {
@@ -20020,8 +20020,8 @@ const features = {
       "user": "airbass",
       "label": "fish",
       "point": [
-        298,
-        118
+        0.2969569779643232,
+        0.23623853211009174
       ]
     },
     {
@@ -20030,8 +20030,8 @@ const features = {
       "user": "airbass",
       "label": "house",
       "point": [
-        280,
-        390
+        0.2780692549842602,
+        0.8600917431192661
       ]
     },
     {
@@ -20040,8 +20040,8 @@ const features = {
       "user": "airbass",
       "label": "tree",
       "point": [
-        327,
-        388
+        0.3273871983210913,
+        0.8555045871559633
       ]
     },
     {
@@ -20050,8 +20050,8 @@ const features = {
       "user": "airbass",
       "label": "bicycle",
       "point": [
-        280,
-        171
+        0.2780692549842602,
+        0.3577981651376147
       ]
     },
     {
@@ -20060,8 +20060,8 @@ const features = {
       "user": "airbass",
       "label": "guitar",
       "point": [
-        324,
-        116
+        0.3242392444910808,
+        0.231651376146789
       ]
     },
     {
@@ -20070,8 +20070,8 @@ const features = {
       "user": "airbass",
       "label": "pencil",
       "point": [
-        84,
-        326
+        0.07240293809024134,
+        0.713302752293578
       ]
     },
     {
@@ -20080,8 +20080,8 @@ const features = {
       "user": "airbass",
       "label": "clock",
       "point": [
-        222,
-        187
+        0.21720881427072403,
+        0.3944954128440367
       ]
     },
     {
@@ -20090,8 +20090,8 @@ const features = {
       "user": "Ruzgar",
       "label": "car",
       "point": [
-        301,
-        247
+        0.3001049317943337,
+        0.5321100917431193
       ]
     },
     {
@@ -20100,8 +20100,8 @@ const features = {
       "user": "Ruzgar",
       "label": "fish",
       "point": [
-        228,
-        123
+        0.22350472193074503,
+        0.24770642201834864
       ]
     },
     {
@@ -20110,8 +20110,8 @@ const features = {
       "user": "Ruzgar",
       "label": "house",
       "point": [
-        239,
-        289
+        0.23504721930745015,
+        0.6284403669724771
       ]
     },
     {
@@ -20120,8 +20120,8 @@ const features = {
       "user": "Ruzgar",
       "label": "tree",
       "point": [
-        183,
-        349
+        0.17628541448058763,
+        0.7660550458715596
       ]
     },
     {
@@ -20130,8 +20130,8 @@ const features = {
       "user": "Ruzgar",
       "label": "bicycle",
       "point": [
-        272,
-        149
+        0.2696747114375656,
+        0.3073394495412844
       ]
     },
     {
@@ -20140,8 +20140,8 @@ const features = {
       "user": "Ruzgar",
       "label": "guitar",
       "point": [
-        187,
-        228
+        0.18048268625393493,
+        0.48853211009174313
       ]
     },
     {
@@ -20150,8 +20150,8 @@ const features = {
       "user": "Ruzgar",
       "label": "pencil",
       "point": [
-        168,
-        145
+        0.16054564533053514,
+        0.2981651376146789
       ]
     },
     {
@@ -20160,8 +20160,8 @@ const features = {
       "user": "Ruzgar",
       "label": "clock",
       "point": [
-        202,
-        195
+        0.19622245540398742,
+        0.41284403669724773
       ]
     },
     {
@@ -20170,8 +20170,8 @@ const features = {
       "user": "Erick",
       "label": "car",
       "point": [
-        225,
-        232
+        0.2203567681007345,
+        0.49770642201834864
       ]
     },
     {
@@ -20180,8 +20180,8 @@ const features = {
       "user": "Erick",
       "label": "fish",
       "point": [
-        135,
-        102
+        0.1259181532004197,
+        0.19954128440366972
       ]
     },
     {
@@ -20190,8 +20190,8 @@ const features = {
       "user": "Erick",
       "label": "house",
       "point": [
-        219,
-        257
+        0.21406086044071354,
+        0.555045871559633
       ]
     },
     {
@@ -20200,8 +20200,8 @@ const features = {
       "user": "Erick",
       "label": "tree",
       "point": [
-        324,
-        205
+        0.3242392444910808,
+        0.43577981651376146
       ]
     },
     {
@@ -20210,8 +20210,8 @@ const features = {
       "user": "Erick",
       "label": "bicycle",
       "point": [
-        174,
-        173
+        0.16684155299055614,
+        0.3623853211009174
       ]
     },
     {
@@ -20220,8 +20220,8 @@ const features = {
       "user": "Erick",
       "label": "guitar",
       "point": [
-        280,
-        391
+        0.2780692549842602,
+        0.8623853211009175
       ]
     },
     {
@@ -20230,8 +20230,8 @@ const features = {
       "user": "Erick",
       "label": "pencil",
       "point": [
-        276,
-        302
+        0.2738719832109129,
+        0.658256880733945
       ]
     },
     {
@@ -20240,8 +20240,8 @@ const features = {
       "user": "Erick",
       "label": "clock",
       "point": [
-        249,
-        305
+        0.24554039874081846,
+        0.6651376146788991
       ]
     },
     {
@@ -20250,8 +20250,8 @@ const features = {
       "user": "Ketan",
       "label": "car",
       "point": [
-        370,
-        209
+        0.372507869884575,
+        0.44495412844036697
       ]
     },
     {
@@ -20260,8 +20260,8 @@ const features = {
       "user": "Ketan",
       "label": "fish",
       "point": [
-        293,
-        131
+        0.291710388247639,
+        0.26605504587155965
       ]
     },
     {
@@ -20270,8 +20270,8 @@ const features = {
       "user": "Ketan",
       "label": "house",
       "point": [
-        300,
-        245
+        0.2990556138509968,
+        0.5275229357798165
       ]
     },
     {
@@ -20280,8 +20280,8 @@ const features = {
       "user": "Ketan",
       "label": "tree",
       "point": [
-        225,
-        262
+        0.2203567681007345,
+        0.5665137614678899
       ]
     },
     {
@@ -20290,8 +20290,8 @@ const features = {
       "user": "Ketan",
       "label": "bicycle",
       "point": [
-        308,
-        191
+        0.3074501573976915,
+        0.4036697247706422
       ]
     },
     {
@@ -20300,8 +20300,8 @@ const features = {
       "user": "Ketan",
       "label": "guitar",
       "point": [
-        295,
-        197
+        0.2938090241343127,
+        0.41743119266055045
       ]
     },
     {
@@ -20310,8 +20310,8 @@ const features = {
       "user": "Ketan",
       "label": "pencil",
       "point": [
-        43,
-        59
+        0.02938090241343127,
+        0.10091743119266056
       ]
     },
     {
@@ -20320,8 +20320,8 @@ const features = {
       "user": "Ketan",
       "label": "clock",
       "point": [
-        174,
-        191
+        0.16684155299055614,
+        0.4036697247706422
       ]
     },
     {
@@ -20330,8 +20330,8 @@ const features = {
       "user": "Radu",
       "label": "car",
       "point": [
-        317,
-        154
+        0.316894018887723,
+        0.31880733944954126
       ]
     },
     {
@@ -20340,8 +20340,8 @@ const features = {
       "user": "Radu",
       "label": "fish",
       "point": [
-        258,
-        106
+        0.25498426023084997,
+        0.20871559633027523
       ]
     },
     {
@@ -20350,8 +20350,8 @@ const features = {
       "user": "Radu",
       "label": "house",
       "point": [
-        263,
-        243
+        0.2602308499475341,
+        0.5229357798165137
       ]
     },
     {
@@ -20360,8 +20360,8 @@ const features = {
       "user": "Radu",
       "label": "tree",
       "point": [
-        224,
-        276
+        0.2193074501573977,
+        0.5986238532110092
       ]
     },
     {
@@ -20370,8 +20370,8 @@ const features = {
       "user": "Radu",
       "label": "bicycle",
       "point": [
-        195,
-        184
+        0.1888772298006296,
+        0.3876146788990826
       ]
     },
     {
@@ -20380,8 +20380,8 @@ const features = {
       "user": "Radu",
       "label": "guitar",
       "point": [
-        327,
-        264
+        0.3273871983210913,
+        0.5711009174311926
       ]
     },
     {
@@ -20390,8 +20390,8 @@ const features = {
       "user": "Radu",
       "label": "pencil",
       "point": [
-        314,
-        225
+        0.31374606505771246,
+        0.481651376146789
       ]
     },
     {
@@ -20400,8 +20400,8 @@ const features = {
       "user": "Radu",
       "label": "clock",
       "point": [
-        165,
-        149
+        0.15739769150052466,
+        0.3073394495412844
       ]
     },
     {
@@ -20410,8 +20410,8 @@ const features = {
       "user": "rh",
       "label": "car",
       "point": [
-        248,
-        110
+        0.24449108079748164,
+        0.21788990825688073
       ]
     },
     {
@@ -20420,8 +20420,8 @@ const features = {
       "user": "rh",
       "label": "fish",
       "point": [
-        173,
-        89
+        0.1657922350472193,
+        0.16972477064220184
       ]
     },
     {
@@ -20430,8 +20430,8 @@ const features = {
       "user": "rh",
       "label": "house",
       "point": [
-        170,
-        206
+        0.1626442812172088,
+        0.4380733944954128
       ]
     },
     {
@@ -20440,8 +20440,8 @@ const features = {
       "user": "rh",
       "label": "tree",
       "point": [
-        216,
-        252
+        0.21091290661070305,
+        0.5435779816513762
       ]
     },
     {
@@ -20450,8 +20450,8 @@ const features = {
       "user": "rh",
       "label": "bicycle",
       "point": [
-        216,
-        127
+        0.21091290661070305,
+        0.25688073394495414
       ]
     },
     {
@@ -20460,8 +20460,8 @@ const features = {
       "user": "rh",
       "label": "guitar",
       "point": [
-        186,
-        66
+        0.1794333683105981,
+        0.11697247706422019
       ]
     },
     {
@@ -20470,8 +20470,8 @@ const features = {
       "user": "rh",
       "label": "pencil",
       "point": [
-        121,
-        158
+        0.11122770199370409,
+        0.32798165137614677
       ]
     },
     {
@@ -20480,8 +20480,8 @@ const features = {
       "user": "rh",
       "label": "clock",
       "point": [
-        142,
-        157
+        0.13326337880377753,
+        0.3256880733944954
       ]
     },
     {
@@ -20490,8 +20490,8 @@ const features = {
       "user": "NtotheG",
       "label": "car",
       "point": [
-        274,
-        117
+        0.27177334732423925,
+        0.23394495412844038
       ]
     },
     {
@@ -20500,8 +20500,8 @@ const features = {
       "user": "NtotheG",
       "label": "fish",
       "point": [
-        171,
-        94
+        0.16369359916054566,
+        0.1811926605504587
       ]
     },
     {
@@ -20510,8 +20510,8 @@ const features = {
       "user": "NtotheG",
       "label": "house",
       "point": [
-        221,
-        257
+        0.2161594963273872,
+        0.555045871559633
       ]
     },
     {
@@ -20520,8 +20520,8 @@ const features = {
       "user": "NtotheG",
       "label": "tree",
       "point": [
-        212,
-        279
+        0.20671563483735572,
+        0.6055045871559633
       ]
     },
     {
@@ -20530,8 +20530,8 @@ const features = {
       "user": "NtotheG",
       "label": "bicycle",
       "point": [
-        283,
-        166
+        0.2812172088142707,
+        0.3463302752293578
       ]
     },
     {
@@ -20540,8 +20540,8 @@ const features = {
       "user": "NtotheG",
       "label": "guitar",
       "point": [
-        130,
-        291
+        0.12067156348373557,
+        0.6330275229357798
       ]
     },
     {
@@ -20550,8 +20550,8 @@ const features = {
       "user": "NtotheG",
       "label": "pencil",
       "point": [
-        211,
-        245
+        0.20566631689401887,
+        0.5275229357798165
       ]
     },
     {
@@ -20560,8 +20560,8 @@ const features = {
       "user": "NtotheG",
       "label": "clock",
       "point": [
-        83,
-        301
+        0.07135362014690451,
+        0.6559633027522935
       ]
     },
     {
@@ -20570,8 +20570,8 @@ const features = {
       "user": "NathanBenelli",
       "label": "car",
       "point": [
-        245,
-        136
+        0.24134312696747115,
+        0.2775229357798165
       ]
     },
     {
@@ -20580,8 +20580,8 @@ const features = {
       "user": "NathanBenelli",
       "label": "fish",
       "point": [
-        222,
-        138
+        0.21720881427072403,
+        0.28211009174311924
       ]
     },
     {
@@ -20590,8 +20590,8 @@ const features = {
       "user": "NathanBenelli",
       "label": "house",
       "point": [
-        267,
-        277
+        0.2644281217208814,
+        0.6009174311926605
       ]
     },
     {
@@ -20600,8 +20600,8 @@ const features = {
       "user": "NathanBenelli",
       "label": "tree",
       "point": [
-        208,
-        276
+        0.2025183630640084,
+        0.5986238532110092
       ]
     },
     {
@@ -20610,8 +20610,8 @@ const features = {
       "user": "NathanBenelli",
       "label": "bicycle",
       "point": [
-        210,
-        161
+        0.20461699895068206,
+        0.3348623853211009
       ]
     },
     {
@@ -20620,8 +20620,8 @@ const features = {
       "user": "NathanBenelli",
       "label": "guitar",
       "point": [
-        299,
-        149
+        0.29800629590766003,
+        0.3073394495412844
       ]
     },
     {
@@ -20630,8 +20630,8 @@ const features = {
       "user": "NathanBenelli",
       "label": "pencil",
       "point": [
-        37,
-        275
+        0.023084994753410283,
+        0.5963302752293578
       ]
     },
     {
@@ -20640,8 +20640,8 @@ const features = {
       "user": "NathanBenelli",
       "label": "clock",
       "point": [
-        176,
-        201
+        0.1689401888772298,
+        0.42660550458715596
       ]
     },
     {
@@ -20650,8 +20650,8 @@ const features = {
       "user": "alireza hekmati 2 💥",
       "label": "car",
       "point": [
-        177,
-        148
+        0.16998950682056663,
+        0.30504587155963303
       ]
     },
     {
@@ -20660,8 +20660,8 @@ const features = {
       "user": "alireza hekmati 2 💥",
       "label": "fish",
       "point": [
-        232,
-        165
+        0.22770199370409233,
+        0.3440366972477064
       ]
     },
     {
@@ -20670,8 +20670,8 @@ const features = {
       "user": "alireza hekmati 2 💥",
       "label": "house",
       "point": [
-        84,
-        138
+        0.07240293809024134,
+        0.28211009174311924
       ]
     },
     {
@@ -20680,8 +20680,8 @@ const features = {
       "user": "alireza hekmati 2 💥",
       "label": "tree",
       "point": [
-        159,
-        212
+        0.15110178384050368,
+        0.4518348623853211
       ]
     },
     {
@@ -20690,8 +20690,8 @@ const features = {
       "user": "alireza hekmati 2 💥",
       "label": "bicycle",
       "point": [
-        106,
-        162
+        0.09548793284365163,
+        0.33715596330275227
       ]
     },
     {
@@ -20700,8 +20700,8 @@ const features = {
       "user": "alireza hekmati 2 💥",
       "label": "guitar",
       "point": [
-        246,
-        264
+        0.24239244491080797,
+        0.5711009174311926
       ]
     },
     {
@@ -20710,8 +20710,8 @@ const features = {
       "user": "alireza hekmati 2 💥",
       "label": "pencil",
       "point": [
-        200,
-        32
+        0.19412381951731375,
+        0.0389908256880734
       ]
     },
     {
@@ -20720,8 +20720,8 @@ const features = {
       "user": "alireza hekmati 2 💥",
       "label": "clock",
       "point": [
-        78,
-        199
+        0.06610703043022036,
+        0.42201834862385323
       ]
     },
     {
@@ -20730,8 +20730,8 @@ const features = {
       "user": "Akshay ",
       "label": "car",
       "point": [
-        334,
-        255
+        0.33473242392444913,
+        0.5504587155963303
       ]
     },
     {
@@ -20740,8 +20740,8 @@ const features = {
       "user": "Akshay ",
       "label": "fish",
       "point": [
-        351,
-        246
+        0.35257082896117525,
+        0.5298165137614679
       ]
     },
     {
@@ -20750,8 +20750,8 @@ const features = {
       "user": "Akshay ",
       "label": "house",
       "point": [
-        391,
-        259
+        0.3945435466946485,
+        0.5596330275229358
       ]
     },
     {
@@ -20760,8 +20760,8 @@ const features = {
       "user": "Akshay ",
       "label": "tree",
       "point": [
-        399,
-        330
+        0.40293809024134314,
+        0.7224770642201835
       ]
     },
     {
@@ -20770,8 +20770,8 @@ const features = {
       "user": "Akshay ",
       "label": "bicycle",
       "point": [
-        355,
-        244
+        0.3567681007345226,
+        0.5252293577981652
       ]
     },
     {
@@ -20780,8 +20780,8 @@ const features = {
       "user": "Akshay ",
       "label": "guitar",
       "point": [
-        370,
-        351
+        0.372507869884575,
+        0.7706422018348624
       ]
     },
     {
@@ -20790,8 +20790,8 @@ const features = {
       "user": "Akshay ",
       "label": "pencil",
       "point": [
-        128,
-        325
+        0.11857292759706191,
+        0.7110091743119266
       ]
     },
     {
@@ -20800,8 +20800,8 @@ const features = {
       "user": "Akshay ",
       "label": "clock",
       "point": [
-        258,
-        277
+        0.25498426023084997,
+        0.6009174311926605
       ]
     },
     {
@@ -20810,8 +20810,8 @@ const features = {
       "user": "Armando",
       "label": "car",
       "point": [
-        168,
-        105
+        0.16054564533053514,
+        0.20642201834862386
       ]
     },
     {
@@ -20820,8 +20820,8 @@ const features = {
       "user": "Armando",
       "label": "fish",
       "point": [
-        257,
-        177
+        0.2539349422875131,
+        0.37155963302752293
       ]
     },
     {
@@ -20830,8 +20830,8 @@ const features = {
       "user": "Armando",
       "label": "house",
       "point": [
-        248,
-        276
+        0.24449108079748164,
+        0.5986238532110092
       ]
     },
     {
@@ -20840,8 +20840,8 @@ const features = {
       "user": "Armando",
       "label": "tree",
       "point": [
-        233,
-        299
+        0.22875131164742918,
+        0.6513761467889908
       ]
     },
     {
@@ -20850,8 +20850,8 @@ const features = {
       "user": "Armando",
       "label": "bicycle",
       "point": [
-        248,
-        200
+        0.24449108079748164,
+        0.4243119266055046
       ]
     },
     {
@@ -20860,8 +20860,8 @@ const features = {
       "user": "Armando",
       "label": "guitar",
       "point": [
-        304,
-        336
+        0.30325288562434416,
+        0.7362385321100917
       ]
     },
     {
@@ -20870,8 +20870,8 @@ const features = {
       "user": "Armando",
       "label": "pencil",
       "point": [
-        247,
-        239
+        0.24344176285414482,
+        0.5137614678899083
       ]
     },
     {
@@ -20880,8 +20880,8 @@ const features = {
       "user": "Armando",
       "label": "clock",
       "point": [
-        234,
-        214
+        0.229800629590766,
+        0.45642201834862384
       ]
     },
     {
@@ -20890,8 +20890,8 @@ const features = {
       "user": "Trubu",
       "label": "car",
       "point": [
-        382,
-        169
+        0.385099685204617,
+        0.3532110091743119
       ]
     },
     {
@@ -20900,8 +20900,8 @@ const features = {
       "user": "Trubu",
       "label": "fish",
       "point": [
-        312,
-        143
+        0.3116474291710388,
+        0.29357798165137616
       ]
     },
     {
@@ -20910,8 +20910,8 @@ const features = {
       "user": "Trubu",
       "label": "house",
       "point": [
-        310,
-        318
+        0.3095487932843652,
+        0.694954128440367
       ]
     },
     {
@@ -20920,8 +20920,8 @@ const features = {
       "user": "Trubu",
       "label": "tree",
       "point": [
-        304,
-        350
+        0.30325288562434416,
+        0.768348623853211
       ]
     },
     {
@@ -20930,8 +20930,8 @@ const features = {
       "user": "Trubu",
       "label": "bicycle",
       "point": [
-        329,
-        206
+        0.32948583420776495,
+        0.4380733944954128
       ]
     },
     {
@@ -20940,8 +20940,8 @@ const features = {
       "user": "Trubu",
       "label": "guitar",
       "point": [
-        288,
-        288
+        0.2864637985309549,
+        0.6261467889908257
       ]
     },
     {
@@ -20950,8 +20950,8 @@ const features = {
       "user": "Trubu",
       "label": "pencil",
       "point": [
-        50,
-        339
+        0.03672612801678909,
+        0.7431192660550459
       ]
     },
     {
@@ -20960,8 +20960,8 @@ const features = {
       "user": "Trubu",
       "label": "clock",
       "point": [
-        335,
-        333
+        0.3357817418677859,
+        0.7293577981651376
       ]
     },
     {
@@ -20970,8 +20970,8 @@ const features = {
       "user": "basic coder",
       "label": "car",
       "point": [
-        261,
-        134
+        0.25813221406086045,
+        0.27293577981651373
       ]
     },
     {
@@ -20980,8 +20980,8 @@ const features = {
       "user": "basic coder",
       "label": "fish",
       "point": [
-        326,
-        264
+        0.32633788037775446,
+        0.5711009174311926
       ]
     },
     {
@@ -20990,8 +20990,8 @@ const features = {
       "user": "basic coder",
       "label": "house",
       "point": [
-        300,
-        216
+        0.2990556138509968,
+        0.4610091743119266
       ]
     },
     {
@@ -21000,8 +21000,8 @@ const features = {
       "user": "basic coder",
       "label": "tree",
       "point": [
-        342,
-        366
+        0.34312696747114374,
+        0.805045871559633
       ]
     },
     {
@@ -21010,8 +21010,8 @@ const features = {
       "user": "basic coder",
       "label": "bicycle",
       "point": [
-        245,
-        172
+        0.24134312696747115,
+        0.36009174311926606
       ]
     },
     {
@@ -21020,8 +21020,8 @@ const features = {
       "user": "basic coder",
       "label": "guitar",
       "point": [
-        305,
-        290
+        0.304302203567681,
+        0.6307339449541285
       ]
     },
     {
@@ -21030,8 +21030,8 @@ const features = {
       "user": "basic coder",
       "label": "pencil",
       "point": [
-        32,
-        230
+        0.017838405036726127,
+        0.49311926605504586
       ]
     },
     {
@@ -21040,8 +21040,8 @@ const features = {
       "user": "basic coder",
       "label": "clock",
       "point": [
-        301,
-        282
+        0.3001049317943337,
+        0.6123853211009175
       ]
     },
     {
@@ -21050,8 +21050,8 @@ const features = {
       "user": "Jay",
       "label": "car",
       "point": [
-        322,
-        125
+        0.32214060860440713,
+        0.25229357798165136
       ]
     },
     {
@@ -21060,8 +21060,8 @@ const features = {
       "user": "Jay",
       "label": "fish",
       "point": [
-        272,
-        144
+        0.2696747114375656,
+        0.2958715596330275
       ]
     },
     {
@@ -21070,8 +21070,8 @@ const features = {
       "user": "Jay",
       "label": "house",
       "point": [
-        242,
-        143
+        0.23819517313746066,
+        0.29357798165137616
       ]
     },
     {
@@ -21080,8 +21080,8 @@ const features = {
       "user": "Jay",
       "label": "tree",
       "point": [
-        194,
-        267
+        0.18782791185729275,
+        0.5779816513761468
       ]
     },
     {
@@ -21090,8 +21090,8 @@ const features = {
       "user": "Jay",
       "label": "bicycle",
       "point": [
-        258,
-        163
+        0.25498426023084997,
+        0.3394495412844037
       ]
     },
     {
@@ -21100,8 +21100,8 @@ const features = {
       "user": "Jay",
       "label": "guitar",
       "point": [
-        294,
-        183
+        0.29275970619097585,
+        0.3853211009174312
       ]
     },
     {
@@ -21110,8 +21110,8 @@ const features = {
       "user": "Jay",
       "label": "pencil",
       "point": [
-        265,
-        168
+        0.2623294858342078,
+        0.35091743119266056
       ]
     },
     {
@@ -21120,8 +21120,8 @@ const features = {
       "user": "Jay",
       "label": "clock",
       "point": [
-        173,
-        147
+        0.1657922350472193,
+        0.30275229357798167
       ]
     },
     {
@@ -21130,8 +21130,8 @@ const features = {
       "user": "Bilguun",
       "label": "car",
       "point": [
-        277,
-        148
+        0.27492130115424973,
+        0.30504587155963303
       ]
     },
     {
@@ -21140,8 +21140,8 @@ const features = {
       "user": "Bilguun",
       "label": "fish",
       "point": [
-        170,
-        134
+        0.1626442812172088,
+        0.27293577981651373
       ]
     },
     {
@@ -21150,8 +21150,8 @@ const features = {
       "user": "Bilguun",
       "label": "house",
       "point": [
-        133,
-        161
+        0.12381951731374606,
+        0.3348623853211009
       ]
     },
     {
@@ -21160,8 +21160,8 @@ const features = {
       "user": "Bilguun",
       "label": "tree",
       "point": [
-        145,
-        186
+        0.13641133263378805,
+        0.3922018348623853
       ]
     },
     {
@@ -21170,8 +21170,8 @@ const features = {
       "user": "Bilguun",
       "label": "bicycle",
       "point": [
-        230,
-        162
+        0.22560335781741866,
+        0.33715596330275227
       ]
     },
     {
@@ -21180,8 +21180,8 @@ const features = {
       "user": "Bilguun",
       "label": "guitar",
       "point": [
-        285,
-        151
+        0.2833158447009444,
+        0.3119266055045872
       ]
     },
     {
@@ -21190,8 +21190,8 @@ const features = {
       "user": "Bilguun",
       "label": "pencil",
       "point": [
-        207,
-        132
+        0.20146904512067157,
+        0.268348623853211
       ]
     },
     {
@@ -21200,8 +21200,8 @@ const features = {
       "user": "Bilguun",
       "label": "clock",
       "point": [
-        177,
-        185
+        0.16998950682056663,
+        0.38990825688073394
       ]
     },
     {
@@ -21210,8 +21210,8 @@ const features = {
       "user": "Mukul",
       "label": "car",
       "point": [
-        357,
-        207
+        0.3588667366211962,
+        0.44036697247706424
       ]
     },
     {
@@ -21220,8 +21220,8 @@ const features = {
       "user": "Mukul",
       "label": "fish",
       "point": [
-        194,
-        123
+        0.18782791185729275,
+        0.24770642201834864
       ]
     },
     {
@@ -21230,8 +21230,8 @@ const features = {
       "user": "Mukul",
       "label": "house",
       "point": [
-        238,
-        184
+        0.23399790136411333,
+        0.3876146788990826
       ]
     },
     {
@@ -21240,8 +21240,8 @@ const features = {
       "user": "Mukul",
       "label": "tree",
       "point": [
-        245,
-        247
+        0.24134312696747115,
+        0.5321100917431193
       ]
     },
     {
@@ -21250,8 +21250,8 @@ const features = {
       "user": "Mukul",
       "label": "bicycle",
       "point": [
-        199,
-        127
+        0.1930745015739769,
+        0.25688073394495414
       ]
     },
     {
@@ -21260,8 +21260,8 @@ const features = {
       "user": "Mukul",
       "label": "guitar",
       "point": [
-        324,
-        279
+        0.3242392444910808,
+        0.6055045871559633
       ]
     },
     {
@@ -21270,8 +21270,8 @@ const features = {
       "user": "Mukul",
       "label": "pencil",
       "point": [
-        146,
-        167
+        0.13746065057712487,
+        0.3486238532110092
       ]
     },
     {
@@ -21280,8 +21280,8 @@ const features = {
       "user": "Mukul",
       "label": "clock",
       "point": [
-        220,
-        198
+        0.21511017838405036,
+        0.4197247706422018
       ]
     },
     {
@@ -21290,8 +21290,8 @@ const features = {
       "user": "Ryan",
       "label": "car",
       "point": [
-        391,
-        175
+        0.3945435466946485,
+        0.3669724770642202
       ]
     },
     {
@@ -21300,8 +21300,8 @@ const features = {
       "user": "Ryan",
       "label": "fish",
       "point": [
-        251,
-        149
+        0.24763903462749212,
+        0.3073394495412844
       ]
     },
     {
@@ -21310,8 +21310,8 @@ const features = {
       "user": "Ryan",
       "label": "house",
       "point": [
-        370,
-        324
+        0.372507869884575,
+        0.7087155963302753
       ]
     },
     {
@@ -21320,8 +21320,8 @@ const features = {
       "user": "Ryan",
       "label": "tree",
       "point": [
-        370,
-        379
+        0.372507869884575,
+        0.8348623853211009
       ]
     },
     {
@@ -21330,8 +21330,8 @@ const features = {
       "user": "Ryan",
       "label": "bicycle",
       "point": [
-        289,
-        158
+        0.28751311647429173,
+        0.32798165137614677
       ]
     },
     {
@@ -21340,8 +21340,8 @@ const features = {
       "user": "Ryan",
       "label": "guitar",
       "point": [
-        358,
-        362
+        0.35991605456453307,
+        0.7958715596330275
       ]
     },
     {
@@ -21350,8 +21350,8 @@ const features = {
       "user": "Ryan",
       "label": "pencil",
       "point": [
-        42,
-        340
+        0.02833158447009444,
+        0.7454128440366973
       ]
     },
     {
@@ -21360,8 +21360,8 @@ const features = {
       "user": "Ryan",
       "label": "clock",
       "point": [
-        347,
-        373
+        0.3483735571878279,
+        0.8211009174311926
       ]
     },
     {
@@ -21370,8 +21370,8 @@ const features = {
       "user": "Larry",
       "label": "car",
       "point": [
-        359,
-        125
+        0.36096537250786986,
+        0.25229357798165136
       ]
     },
     {
@@ -21380,8 +21380,8 @@ const features = {
       "user": "Larry",
       "label": "fish",
       "point": [
-        358,
-        155
+        0.35991605456453307,
+        0.3211009174311927
       ]
     },
     {
@@ -21390,8 +21390,8 @@ const features = {
       "user": "Larry",
       "label": "house",
       "point": [
-        178,
-        315
+        0.17103882476390347,
+        0.6880733944954128
       ]
     },
     {
@@ -21400,8 +21400,8 @@ const features = {
       "user": "Larry",
       "label": "tree",
       "point": [
-        387,
-        399
+        0.39034627492130114,
+        0.8807339449541285
       ]
     },
     {
@@ -21410,8 +21410,8 @@ const features = {
       "user": "Larry",
       "label": "bicycle",
       "point": [
-        234,
-        224
+        0.229800629590766,
+        0.4793577981651376
       ]
     },
     {
@@ -21420,8 +21420,8 @@ const features = {
       "user": "Larry",
       "label": "guitar",
       "point": [
-        374,
-        118
+        0.37670514165792235,
+        0.23623853211009174
       ]
     },
     {
@@ -21430,8 +21430,8 @@ const features = {
       "user": "Larry",
       "label": "pencil",
       "point": [
-        274,
-        316
+        0.27177334732423925,
+        0.6903669724770642
       ]
     },
     {
@@ -21440,8 +21440,8 @@ const features = {
       "user": "Larry",
       "label": "clock",
       "point": [
-        179,
-        165
+        0.1720881427072403,
+        0.3440366972477064
       ]
     },
     {
@@ -21450,8 +21450,8 @@ const features = {
       "user": "Samer",
       "label": "car",
       "point": [
-        320,
-        123
+        0.3200419727177335,
+        0.24770642201834864
       ]
     },
     {
@@ -21460,8 +21460,8 @@ const features = {
       "user": "Samer",
       "label": "fish",
       "point": [
-        253,
-        100
+        0.2497376705141658,
+        0.19495412844036697
       ]
     },
     {
@@ -21470,8 +21470,8 @@ const features = {
       "user": "Samer",
       "label": "house",
       "point": [
-        279,
-        308
+        0.2770199370409234,
+        0.6720183486238532
       ]
     },
     {
@@ -21480,8 +21480,8 @@ const features = {
       "user": "Samer",
       "label": "tree",
       "point": [
-        233,
-        281
+        0.22875131164742918,
+        0.6100917431192661
       ]
     },
     {
@@ -21490,8 +21490,8 @@ const features = {
       "user": "Samer",
       "label": "bicycle",
       "point": [
-        238,
-        176
+        0.23399790136411333,
+        0.36926605504587157
       ]
     },
     {
@@ -21500,8 +21500,8 @@ const features = {
       "user": "Samer",
       "label": "guitar",
       "point": [
-        144,
-        287
+        0.1353620146904512,
+        0.6238532110091743
       ]
     },
     {
@@ -21510,8 +21510,8 @@ const features = {
       "user": "Samer",
       "label": "pencil",
       "point": [
-        27,
-        245
+        0.012591815320041973,
+        0.5275229357798165
       ]
     },
     {
@@ -21520,8 +21520,8 @@ const features = {
       "user": "Samer",
       "label": "clock",
       "point": [
-        129,
-        131
+        0.11962224554039874,
+        0.26605504587155965
       ]
     },
     {
@@ -21530,8 +21530,8 @@ const features = {
       "user": "Harald",
       "label": "car",
       "point": [
-        249,
-        231
+        0.24554039874081846,
+        0.4954128440366973
       ]
     },
     {
@@ -21540,8 +21540,8 @@ const features = {
       "user": "Harald",
       "label": "fish",
       "point": [
-        178,
-        238
+        0.17103882476390347,
+        0.5114678899082569
       ]
     },
     {
@@ -21550,8 +21550,8 @@ const features = {
       "user": "Harald",
       "label": "house",
       "point": [
-        246,
-        260
+        0.24239244491080797,
+        0.5619266055045872
       ]
     },
     {
@@ -21560,8 +21560,8 @@ const features = {
       "user": "Harald",
       "label": "tree",
       "point": [
-        317,
-        321
+        0.316894018887723,
+        0.7018348623853211
       ]
     },
     {
@@ -21570,8 +21570,8 @@ const features = {
       "user": "Harald",
       "label": "bicycle",
       "point": [
-        272,
-        191
+        0.2696747114375656,
+        0.4036697247706422
       ]
     },
     {
@@ -21580,8 +21580,8 @@ const features = {
       "user": "Harald",
       "label": "guitar",
       "point": [
-        113,
-        238
+        0.10283315844700944,
+        0.5114678899082569
       ]
     },
     {
@@ -21590,8 +21590,8 @@ const features = {
       "user": "Harald",
       "label": "pencil",
       "point": [
-        198,
-        208
+        0.19202518363064008,
+        0.4426605504587156
       ]
     },
     {
@@ -21600,8 +21600,8 @@ const features = {
       "user": "Harald",
       "label": "clock",
       "point": [
-        152,
-        285
+        0.14375655823714587,
+        0.6192660550458715
       ]
     },
     {
@@ -21610,8 +21610,8 @@ const features = {
       "user": "Kaan",
       "label": "car",
       "point": [
-        364,
-        183
+        0.36621196222455404,
+        0.3853211009174312
       ]
     },
     {
@@ -21620,8 +21620,8 @@ const features = {
       "user": "Kaan",
       "label": "fish",
       "point": [
-        252,
-        193
+        0.24868835257082897,
+        0.40825688073394495
       ]
     },
     {
@@ -21630,8 +21630,8 @@ const features = {
       "user": "Kaan",
       "label": "house",
       "point": [
-        239,
-        241
+        0.23504721930745015,
+        0.518348623853211
       ]
     },
     {
@@ -21640,8 +21640,8 @@ const features = {
       "user": "Kaan",
       "label": "tree",
       "point": [
-        290,
-        344
+        0.2885624344176285,
+        0.7545871559633027
       ]
     },
     {
@@ -21650,8 +21650,8 @@ const features = {
       "user": "Kaan",
       "label": "bicycle",
       "point": [
-        247,
-        171
+        0.24344176285414482,
+        0.3577981651376147
       ]
     },
     {
@@ -21660,8 +21660,8 @@ const features = {
       "user": "Kaan",
       "label": "guitar",
       "point": [
-        256,
-        283
+        0.2528856243441763,
+        0.6146788990825688
       ]
     },
     {
@@ -21670,8 +21670,8 @@ const features = {
       "user": "Kaan",
       "label": "pencil",
       "point": [
-        176,
-        265
+        0.1689401888772298,
+        0.573394495412844
       ]
     },
     {
@@ -21680,8 +21680,8 @@ const features = {
       "user": "Kaan",
       "label": "clock",
       "point": [
-        266,
-        268
+        0.2633788037775446,
+        0.5802752293577982
       ]
     },
     {
@@ -21690,8 +21690,8 @@ const features = {
       "user": "Ritesh",
       "label": "car",
       "point": [
-        332,
-        245
+        0.33263378803777544,
+        0.5275229357798165
       ]
     },
     {
@@ -21700,8 +21700,8 @@ const features = {
       "user": "Ritesh",
       "label": "fish",
       "point": [
-        168,
-        53
+        0.16054564533053514,
+        0.0871559633027523
       ]
     },
     {
@@ -21710,8 +21710,8 @@ const features = {
       "user": "Ritesh",
       "label": "house",
       "point": [
-        185,
-        106
+        0.1783840503672613,
+        0.20871559633027523
       ]
     },
     {
@@ -21720,8 +21720,8 @@ const features = {
       "user": "Ritesh",
       "label": "tree",
       "point": [
-        160,
-        122
+        0.1521511017838405,
+        0.24541284403669725
       ]
     },
     {
@@ -21730,8 +21730,8 @@ const features = {
       "user": "Ritesh",
       "label": "bicycle",
       "point": [
-        211,
-        112
+        0.20566631689401887,
+        0.22247706422018348
       ]
     },
     {
@@ -21740,8 +21740,8 @@ const features = {
       "user": "Ritesh",
       "label": "guitar",
       "point": [
-        161,
-        305
+        0.15320041972717732,
+        0.6651376146788991
       ]
     },
     {
@@ -21750,8 +21750,8 @@ const features = {
       "user": "Ritesh",
       "label": "pencil",
       "point": [
-        226,
-        32
+        0.22140608604407136,
+        0.0389908256880734
       ]
     },
     {
@@ -21760,8 +21760,8 @@ const features = {
       "user": "Ritesh",
       "label": "clock",
       "point": [
-        173,
-        150
+        0.1657922350472193,
+        0.30963302752293576
       ]
     },
     {
@@ -21770,8 +21770,8 @@ const features = {
       "user": "Ruthvik ",
       "label": "car",
       "point": [
-        224,
-        141
+        0.2193074501573977,
+        0.2889908256880734
       ]
     },
     {
@@ -21780,8 +21780,8 @@ const features = {
       "user": "Ruthvik ",
       "label": "fish",
       "point": [
-        211,
-        95
+        0.20566631689401887,
+        0.1834862385321101
       ]
     },
     {
@@ -21790,8 +21790,8 @@ const features = {
       "user": "Ruthvik ",
       "label": "house",
       "point": [
-        204,
-        308
+        0.19832109129066108,
+        0.6720183486238532
       ]
     },
     {
@@ -21800,8 +21800,8 @@ const features = {
       "user": "Ruthvik ",
       "label": "tree",
       "point": [
-        268,
-        355
+        0.2654774396642183,
+        0.7798165137614679
       ]
     },
     {
@@ -21810,8 +21810,8 @@ const features = {
       "user": "Ruthvik ",
       "label": "bicycle",
       "point": [
-        261,
-        233
+        0.25813221406086045,
+        0.5
       ]
     },
     {
@@ -21820,8 +21820,8 @@ const features = {
       "user": "Ruthvik ",
       "label": "guitar",
       "point": [
-        301,
-        222
+        0.3001049317943337,
+        0.47477064220183485
       ]
     },
     {
@@ -21830,8 +21830,8 @@ const features = {
       "user": "Ruthvik ",
       "label": "pencil",
       "point": [
-        292,
-        219
+        0.2906610703043022,
+        0.46788990825688076
       ]
     },
     {
@@ -21840,8 +21840,8 @@ const features = {
       "user": "Ruthvik ",
       "label": "clock",
       "point": [
-        237,
-        250
+        0.23294858342077648,
+        0.5389908256880734
       ]
     },
     {
@@ -21850,8 +21850,8 @@ const features = {
       "user": "Roberto",
       "label": "car",
       "point": [
-        262,
-        120
+        0.25918153200419725,
+        0.2408256880733945
       ]
     },
     {
@@ -21860,8 +21860,8 @@ const features = {
       "user": "Roberto",
       "label": "fish",
       "point": [
-        185,
-        84
+        0.1783840503672613,
+        0.15825688073394495
       ]
     },
     {
@@ -21870,8 +21870,8 @@ const features = {
       "user": "Roberto",
       "label": "house",
       "point": [
-        220,
-        183
+        0.21511017838405036,
+        0.3853211009174312
       ]
     },
     {
@@ -21880,8 +21880,8 @@ const features = {
       "user": "Roberto",
       "label": "tree",
       "point": [
-        199,
-        254
+        0.1930745015739769,
+        0.5481651376146789
       ]
     },
     {
@@ -21890,8 +21890,8 @@ const features = {
       "user": "Roberto",
       "label": "bicycle",
       "point": [
-        274,
-        125
+        0.27177334732423925,
+        0.25229357798165136
       ]
     },
     {
@@ -21900,8 +21900,8 @@ const features = {
       "user": "Roberto",
       "label": "guitar",
       "point": [
-        354,
-        328
+        0.35571878279118574,
+        0.7178899082568807
       ]
     },
     {
@@ -21910,8 +21910,8 @@ const features = {
       "user": "Roberto",
       "label": "pencil",
       "point": [
-        148,
-        129
+        0.13955928646379853,
+        0.26146788990825687
       ]
     },
     {
@@ -21920,8 +21920,8 @@ const features = {
       "user": "Roberto",
       "label": "clock",
       "point": [
-        181,
-        144
+        0.17418677859391396,
+        0.2958715596330275
       ]
     },
     {
@@ -21930,8 +21930,8 @@ const features = {
       "user": "Mateus Rossi",
       "label": "car",
       "point": [
-        307,
-        100
+        0.30640083945435465,
+        0.19495412844036697
       ]
     },
     {
@@ -21940,8 +21940,8 @@ const features = {
       "user": "Mateus Rossi",
       "label": "fish",
       "point": [
-        323,
-        223
+        0.323189926547744,
+        0.47706422018348627
       ]
     },
     {
@@ -21950,8 +21950,8 @@ const features = {
       "user": "Mateus Rossi",
       "label": "house",
       "point": [
-        306,
-        315
+        0.30535152151101785,
+        0.6880733944954128
       ]
     },
     {
@@ -21960,8 +21960,8 @@ const features = {
       "user": "Mateus Rossi",
       "label": "tree",
       "point": [
-        311,
-        370
+        0.310598111227702,
+        0.8142201834862385
       ]
     },
     {
@@ -21970,8 +21970,8 @@ const features = {
       "user": "Mateus Rossi",
       "label": "bicycle",
       "point": [
-        254,
-        230
+        0.25078698845750264,
+        0.49311926605504586
       ]
     },
     {
@@ -21980,8 +21980,8 @@ const features = {
       "user": "Mateus Rossi",
       "label": "guitar",
       "point": [
-        269,
-        337
+        0.26652675760755506,
+        0.7385321100917431
       ]
     },
     {
@@ -21990,8 +21990,8 @@ const features = {
       "user": "Mateus Rossi",
       "label": "pencil",
       "point": [
-        157,
-        249
+        0.14900314795383002,
+        0.536697247706422
       ]
     },
     {
@@ -22000,8 +22000,8 @@ const features = {
       "user": "Mateus Rossi",
       "label": "clock",
       "point": [
-        168,
-        152
+        0.16054564533053514,
+        0.31422018348623854
       ]
     },
     {
@@ -22010,8 +22010,8 @@ const features = {
       "user": "Robert romanu",
       "label": "car",
       "point": [
-        300,
-        97
+        0.2990556138509968,
+        0.18807339449541285
       ]
     },
     {
@@ -22020,8 +22020,8 @@ const features = {
       "user": "Robert romanu",
       "label": "fish",
       "point": [
-        268,
-        167
+        0.2654774396642183,
+        0.3486238532110092
       ]
     },
     {
@@ -22030,8 +22030,8 @@ const features = {
       "user": "Robert romanu",
       "label": "house",
       "point": [
-        256,
-        212
+        0.2528856243441763,
+        0.4518348623853211
       ]
     },
     {
@@ -22040,8 +22040,8 @@ const features = {
       "user": "Robert romanu",
       "label": "tree",
       "point": [
-        356,
-        338
+        0.3578174186778594,
+        0.7408256880733946
       ]
     },
     {
@@ -22050,8 +22050,8 @@ const features = {
       "user": "Robert romanu",
       "label": "bicycle",
       "point": [
-        199,
-        143
+        0.1930745015739769,
+        0.29357798165137616
       ]
     },
     {
@@ -22060,8 +22060,8 @@ const features = {
       "user": "Robert romanu",
       "label": "guitar",
       "point": [
-        272,
-        285
+        0.2696747114375656,
+        0.6192660550458715
       ]
     },
     {
@@ -22070,8 +22070,8 @@ const features = {
       "user": "Robert romanu",
       "label": "pencil",
       "point": [
-        21,
-        231
+        0.0062959076600209865,
+        0.4954128440366973
       ]
     },
     {
@@ -22080,8 +22080,8 @@ const features = {
       "user": "Robert romanu",
       "label": "clock",
       "point": [
-        187,
-        179
+        0.18048268625393493,
+        0.3761467889908257
       ]
     },
     {
@@ -22090,8 +22090,8 @@ const features = {
       "user": "Ledkoca",
       "label": "car",
       "point": [
-        361,
-        222
+        0.36306400839454356,
+        0.47477064220183485
       ]
     },
     {
@@ -22100,8 +22100,8 @@ const features = {
       "user": "Ledkoca",
       "label": "fish",
       "point": [
-        265,
-        194
+        0.2623294858342078,
+        0.4105504587155963
       ]
     },
     {
@@ -22110,8 +22110,8 @@ const features = {
       "user": "Ledkoca",
       "label": "house",
       "point": [
-        310,
-        296
+        0.3095487932843652,
+        0.6444954128440367
       ]
     },
     {
@@ -22120,8 +22120,8 @@ const features = {
       "user": "Ledkoca",
       "label": "tree",
       "point": [
-        278,
-        347
+        0.2759706190975866,
+        0.7614678899082569
       ]
     },
     {
@@ -22130,8 +22130,8 @@ const features = {
       "user": "Ledkoca",
       "label": "bicycle",
       "point": [
-        288,
-        191
+        0.2864637985309549,
+        0.4036697247706422
       ]
     },
     {
@@ -22140,8 +22140,8 @@ const features = {
       "user": "Ledkoca",
       "label": "guitar",
       "point": [
-        316,
-        298
+        0.31584470094438616,
+        0.6490825688073395
       ]
     },
     {
@@ -22150,8 +22150,8 @@ const features = {
       "user": "Ledkoca",
       "label": "pencil",
       "point": [
-        310,
-        336
+        0.3095487932843652,
+        0.7362385321100917
       ]
     },
     {
@@ -22160,8 +22160,8 @@ const features = {
       "user": "Ledkoca",
       "label": "clock",
       "point": [
-        278,
-        257
+        0.2759706190975866,
+        0.555045871559633
       ]
     },
     {
@@ -22170,8 +22170,8 @@ const features = {
       "user": "Gorav",
       "label": "car",
       "point": [
-        297,
-        170
+        0.29590766002098634,
+        0.3555045871559633
       ]
     },
     {
@@ -22180,8 +22180,8 @@ const features = {
       "user": "Gorav",
       "label": "fish",
       "point": [
-        229,
-        113
+        0.22455403987408185,
+        0.22477064220183487
       ]
     },
     {
@@ -22190,8 +22190,8 @@ const features = {
       "user": "Gorav",
       "label": "house",
       "point": [
-        253,
-        235
+        0.2497376705141658,
+        0.5045871559633027
       ]
     },
     {
@@ -22200,8 +22200,8 @@ const features = {
       "user": "Gorav",
       "label": "tree",
       "point": [
-        296,
-        352
+        0.29485834207764955,
+        0.7729357798165137
       ]
     },
     {
@@ -22210,8 +22210,8 @@ const features = {
       "user": "Gorav",
       "label": "bicycle",
       "point": [
-        254,
-        154
+        0.25078698845750264,
+        0.31880733944954126
       ]
     },
     {
@@ -22220,8 +22220,8 @@ const features = {
       "user": "Gorav",
       "label": "guitar",
       "point": [
-        305,
-        271
+        0.304302203567681,
+        0.5871559633027523
       ]
     },
     {
@@ -22230,8 +22230,8 @@ const features = {
       "user": "Gorav",
       "label": "pencil",
       "point": [
-        237,
-        185
+        0.23294858342077648,
+        0.38990825688073394
       ]
     },
     {
@@ -22240,8 +22240,8 @@ const features = {
       "user": "Gorav",
       "label": "clock",
       "point": [
-        260,
-        330
+        0.2570828961175236,
+        0.7224770642201835
       ]
     },
     {
@@ -22250,8 +22250,8 @@ const features = {
       "user": "Hocine",
       "label": "car",
       "point": [
-        106,
-        58
+        0.09548793284365163,
+        0.09862385321100918
       ]
     },
     {
@@ -22260,8 +22260,8 @@ const features = {
       "user": "Hocine",
       "label": "fish",
       "point": [
-        255,
-        110
+        0.2518363064008394,
+        0.21788990825688073
       ]
     },
     {
@@ -22270,8 +22270,8 @@ const features = {
       "user": "Hocine",
       "label": "house",
       "point": [
-        120,
-        162
+        0.11017838405036726,
+        0.33715596330275227
       ]
     },
     {
@@ -22280,8 +22280,8 @@ const features = {
       "user": "Hocine",
       "label": "tree",
       "point": [
-        302,
-        251
+        0.3011542497376705,
+        0.5412844036697247
       ]
     },
     {
@@ -22290,8 +22290,8 @@ const features = {
       "user": "Hocine",
       "label": "bicycle",
       "point": [
-        234,
-        111
+        0.229800629590766,
+        0.22018348623853212
       ]
     },
     {
@@ -22300,8 +22300,8 @@ const features = {
       "user": "Hocine",
       "label": "guitar",
       "point": [
-        274,
-        99
+        0.27177334732423925,
+        0.1926605504587156
       ]
     },
     {
@@ -22310,8 +22310,8 @@ const features = {
       "user": "Hocine",
       "label": "pencil",
       "point": [
-        20,
-        109
+        0.005246589716684155,
+        0.21559633027522937
       ]
     },
     {
@@ -22320,8 +22320,8 @@ const features = {
       "user": "Hocine",
       "label": "clock",
       "point": [
-        162,
-        149
+        0.15424973767051417,
+        0.3073394495412844
       ]
     },
     {
@@ -22330,8 +22330,8 @@ const features = {
       "user": "Vlad Cimpean",
       "label": "car",
       "point": [
-        241,
-        185
+        0.23714585519412382,
+        0.38990825688073394
       ]
     },
     {
@@ -22340,8 +22340,8 @@ const features = {
       "user": "Vlad Cimpean",
       "label": "fish",
       "point": [
-        140,
-        98
+        0.1311647429171039,
+        0.19036697247706422
       ]
     },
     {
@@ -22350,8 +22350,8 @@ const features = {
       "user": "Vlad Cimpean",
       "label": "house",
       "point": [
-        291,
-        254
+        0.28961175236096537,
+        0.5481651376146789
       ]
     },
     {
@@ -22360,8 +22360,8 @@ const features = {
       "user": "Vlad Cimpean",
       "label": "tree",
       "point": [
-        326,
-        374
+        0.32633788037775446,
+        0.823394495412844
       ]
     },
     {
@@ -22370,8 +22370,8 @@ const features = {
       "user": "Vlad Cimpean",
       "label": "bicycle",
       "point": [
-        275,
-        183
+        0.2728226652675761,
+        0.3853211009174312
       ]
     },
     {
@@ -22380,8 +22380,8 @@ const features = {
       "user": "Vlad Cimpean",
       "label": "guitar",
       "point": [
-        279,
-        288
+        0.2770199370409234,
+        0.6261467889908257
       ]
     },
     {
@@ -22390,8 +22390,8 @@ const features = {
       "user": "Vlad Cimpean",
       "label": "pencil",
       "point": [
-        190,
-        165
+        0.18363064008394545,
+        0.3440366972477064
       ]
     },
     {
@@ -22400,8 +22400,8 @@ const features = {
       "user": "Vlad Cimpean",
       "label": "clock",
       "point": [
-        243,
-        244
+        0.23924449108079748,
+        0.5252293577981652
       ]
     },
     {
@@ -22410,8 +22410,8 @@ const features = {
       "user": "ekmbcd",
       "label": "car",
       "point": [
-        289,
-        155
+        0.28751311647429173,
+        0.3211009174311927
       ]
     },
     {
@@ -22420,8 +22420,8 @@ const features = {
       "user": "ekmbcd",
       "label": "fish",
       "point": [
-        271,
-        151
+        0.26862539349422876,
+        0.3119266055045872
       ]
     },
     {
@@ -22430,8 +22430,8 @@ const features = {
       "user": "ekmbcd",
       "label": "house",
       "point": [
-        364,
-        278
+        0.36621196222455404,
+        0.6032110091743119
       ]
     },
     {
@@ -22440,8 +22440,8 @@ const features = {
       "user": "ekmbcd",
       "label": "tree",
       "point": [
-        237,
-        307
+        0.23294858342077648,
+        0.6697247706422018
       ]
     },
     {
@@ -22450,8 +22450,8 @@ const features = {
       "user": "ekmbcd",
       "label": "bicycle",
       "point": [
-        271,
-        207
+        0.26862539349422876,
+        0.44036697247706424
       ]
     },
     {
@@ -22460,8 +22460,8 @@ const features = {
       "user": "ekmbcd",
       "label": "guitar",
       "point": [
-        260,
-        297
+        0.2570828961175236,
+        0.6467889908256881
       ]
     },
     {
@@ -22470,8 +22470,8 @@ const features = {
       "user": "ekmbcd",
       "label": "pencil",
       "point": [
-        236,
-        297
+        0.23189926547743966,
+        0.6467889908256881
       ]
     },
     {
@@ -22480,8 +22480,8 @@ const features = {
       "user": "ekmbcd",
       "label": "clock",
       "point": [
-        225,
-        206
+        0.2203567681007345,
+        0.4380733944954128
       ]
     },
     {
@@ -22490,8 +22490,8 @@ const features = {
       "user": "Android_17",
       "label": "car",
       "point": [
-        342,
-        218
+        0.34312696747114374,
+        0.46559633027522934
       ]
     },
     {
@@ -22500,8 +22500,8 @@ const features = {
       "user": "Android_17",
       "label": "fish",
       "point": [
-        376,
-        193
+        0.378803777544596,
+        0.40825688073394495
       ]
     },
     {
@@ -22510,8 +22510,8 @@ const features = {
       "user": "Android_17",
       "label": "house",
       "point": [
-        398,
-        270
+        0.4018887722980063,
+        0.5848623853211009
       ]
     },
     {
@@ -22520,8 +22520,8 @@ const features = {
       "user": "Android_17",
       "label": "tree",
       "point": [
-        383,
-        353
+        0.3861490031479538,
+        0.7752293577981652
       ]
     },
     {
@@ -22530,8 +22530,8 @@ const features = {
       "user": "Android_17",
       "label": "bicycle",
       "point": [
-        385,
-        247
+        0.3882476390346275,
+        0.5321100917431193
       ]
     },
     {
@@ -22540,8 +22540,8 @@ const features = {
       "user": "Android_17",
       "label": "guitar",
       "point": [
-        385,
-        346
+        0.3882476390346275,
+        0.7591743119266054
       ]
     },
     {
@@ -22550,8 +22550,8 @@ const features = {
       "user": "Android_17",
       "label": "pencil",
       "point": [
-        239,
-        355
+        0.23504721930745015,
+        0.7798165137614679
       ]
     },
     {
@@ -22560,8 +22560,8 @@ const features = {
       "user": "Android_17",
       "label": "clock",
       "point": [
-        254,
-        250
+        0.25078698845750264,
+        0.5389908256880734
       ]
     },
     {
@@ -22570,8 +22570,8 @@ const features = {
       "user": "sayanii",
       "label": "car",
       "point": [
-        263,
-        156
+        0.2602308499475341,
+        0.32339449541284404
       ]
     },
     {
@@ -22580,8 +22580,8 @@ const features = {
       "user": "sayanii",
       "label": "fish",
       "point": [
-        280,
-        179
+        0.2780692549842602,
+        0.3761467889908257
       ]
     },
     {
@@ -22590,8 +22590,8 @@ const features = {
       "user": "sayanii",
       "label": "house",
       "point": [
-        303,
-        191
+        0.30220356768100737,
+        0.4036697247706422
       ]
     },
     {
@@ -22600,8 +22600,8 @@ const features = {
       "user": "sayanii",
       "label": "tree",
       "point": [
-        246,
-        282
+        0.24239244491080797,
+        0.6123853211009175
       ]
     },
     {
@@ -22610,8 +22610,8 @@ const features = {
       "user": "sayanii",
       "label": "bicycle",
       "point": [
-        232,
-        147
+        0.22770199370409233,
+        0.30275229357798167
       ]
     },
     {
@@ -22620,8 +22620,8 @@ const features = {
       "user": "sayanii",
       "label": "guitar",
       "point": [
-        222,
-        94
+        0.21720881427072403,
+        0.1811926605504587
       ]
     },
     {
@@ -22630,8 +22630,8 @@ const features = {
       "user": "sayanii",
       "label": "pencil",
       "point": [
-        178,
-        169
+        0.17103882476390347,
+        0.3532110091743119
       ]
     },
     {
@@ -22640,8 +22640,8 @@ const features = {
       "user": "sayanii",
       "label": "clock",
       "point": [
-        255,
-        270
+        0.2518363064008394,
+        0.5848623853211009
       ]
     },
     {
@@ -22650,8 +22650,8 @@ const features = {
       "user": "MZK",
       "label": "car",
       "point": [
-        214,
-        114
+        0.2088142707240294,
+        0.22706422018348624
       ]
     },
     {
@@ -22660,8 +22660,8 @@ const features = {
       "user": "MZK",
       "label": "fish",
       "point": [
-        136,
-        103
+        0.12696747114375656,
+        0.2018348623853211
       ]
     },
     {
@@ -22670,8 +22670,8 @@ const features = {
       "user": "MZK",
       "label": "house",
       "point": [
-        195,
-        269
+        0.1888772298006296,
+        0.5825688073394495
       ]
     },
     {
@@ -22680,8 +22680,8 @@ const features = {
       "user": "MZK",
       "label": "tree",
       "point": [
-        398,
-        261
+        0.4018887722980063,
+        0.5642201834862385
       ]
     },
     {
@@ -22690,8 +22690,8 @@ const features = {
       "user": "MZK",
       "label": "bicycle",
       "point": [
-        262,
-        200
+        0.25918153200419725,
+        0.4243119266055046
       ]
     },
     {
@@ -22700,8 +22700,8 @@ const features = {
       "user": "MZK",
       "label": "guitar",
       "point": [
-        257,
-        143
+        0.2539349422875131,
+        0.29357798165137616
       ]
     },
     {
@@ -22710,8 +22710,8 @@ const features = {
       "user": "MZK",
       "label": "pencil",
       "point": [
-        31,
-        216
+        0.016789087093389297,
+        0.4610091743119266
       ]
     },
     {
@@ -22720,8 +22720,8 @@ const features = {
       "user": "MZK",
       "label": "clock",
       "point": [
-        187,
-        191
+        0.18048268625393493,
+        0.4036697247706422
       ]
     },
     {
@@ -22730,8 +22730,8 @@ const features = {
       "user": "rcx",
       "label": "car",
       "point": [
-        382,
-        154
+        0.385099685204617,
+        0.31880733944954126
       ]
     },
     {
@@ -22740,8 +22740,8 @@ const features = {
       "user": "rcx",
       "label": "fish",
       "point": [
-        295,
-        243
+        0.2938090241343127,
+        0.5229357798165137
       ]
     },
     {
@@ -22750,8 +22750,8 @@ const features = {
       "user": "rcx",
       "label": "house",
       "point": [
-        254,
-        251
+        0.25078698845750264,
+        0.5412844036697247
       ]
     },
     {
@@ -22760,8 +22760,8 @@ const features = {
       "user": "rcx",
       "label": "tree",
       "point": [
-        261,
-        291
+        0.25813221406086045,
+        0.6330275229357798
       ]
     },
     {
@@ -22770,8 +22770,8 @@ const features = {
       "user": "rcx",
       "label": "bicycle",
       "point": [
-        305,
-        204
+        0.304302203567681,
+        0.4334862385321101
       ]
     },
     {
@@ -22780,8 +22780,8 @@ const features = {
       "user": "rcx",
       "label": "guitar",
       "point": [
-        311,
-        362
+        0.310598111227702,
+        0.7958715596330275
       ]
     },
     {
@@ -22790,8 +22790,8 @@ const features = {
       "user": "rcx",
       "label": "pencil",
       "point": [
-        176,
-        334
+        0.1689401888772298,
+        0.731651376146789
       ]
     },
     {
@@ -22800,8 +22800,8 @@ const features = {
       "user": "rcx",
       "label": "clock",
       "point": [
-        292,
-        260
+        0.2906610703043022,
+        0.5619266055045872
       ]
     },
     {
@@ -22810,8 +22810,8 @@ const features = {
       "user": "bpilakkat",
       "label": "car",
       "point": [
-        263,
-        96
+        0.2602308499475341,
+        0.18577981651376146
       ]
     },
     {
@@ -22820,8 +22820,8 @@ const features = {
       "user": "bpilakkat",
       "label": "fish",
       "point": [
-        262,
-        116
+        0.25918153200419725,
+        0.231651376146789
       ]
     },
     {
@@ -22830,8 +22830,8 @@ const features = {
       "user": "bpilakkat",
       "label": "house",
       "point": [
-        251,
-        219
+        0.24763903462749212,
+        0.46788990825688076
       ]
     },
     {
@@ -22840,8 +22840,8 @@ const features = {
       "user": "bpilakkat",
       "label": "tree",
       "point": [
-        231,
-        263
+        0.2266526757607555,
+        0.5688073394495413
       ]
     },
     {
@@ -22850,8 +22850,8 @@ const features = {
       "user": "bpilakkat",
       "label": "bicycle",
       "point": [
-        248,
-        171
+        0.24449108079748164,
+        0.3577981651376147
       ]
     },
     {
@@ -22860,8 +22860,8 @@ const features = {
       "user": "bpilakkat",
       "label": "guitar",
       "point": [
-        258,
-        195
+        0.25498426023084997,
+        0.41284403669724773
       ]
     },
     {
@@ -22870,8 +22870,8 @@ const features = {
       "user": "bpilakkat",
       "label": "pencil",
       "point": [
-        25,
-        194
+        0.01049317943336831,
+        0.4105504587155963
       ]
     },
     {
@@ -22880,8 +22880,8 @@ const features = {
       "user": "bpilakkat",
       "label": "clock",
       "point": [
-        164,
-        160
+        0.15634837355718784,
+        0.33256880733944955
       ]
     },
     {
@@ -22890,8 +22890,8 @@ const features = {
       "user": "Vishal Kumar",
       "label": "car",
       "point": [
-        291,
-        140
+        0.28961175236096537,
+        0.286697247706422
       ]
     },
     {
@@ -22900,8 +22900,8 @@ const features = {
       "user": "Vishal Kumar",
       "label": "fish",
       "point": [
-        326,
-        224
+        0.32633788037775446,
+        0.4793577981651376
       ]
     },
     {
@@ -22910,8 +22910,8 @@ const features = {
       "user": "Vishal Kumar",
       "label": "house",
       "point": [
-        299,
-        307
+        0.29800629590766003,
+        0.6697247706422018
       ]
     },
     {
@@ -22920,8 +22920,8 @@ const features = {
       "user": "Vishal Kumar",
       "label": "tree",
       "point": [
-        330,
-        381
+        0.3305351521511018,
+        0.8394495412844036
       ]
     },
     {
@@ -22930,8 +22930,8 @@ const features = {
       "user": "Vishal Kumar",
       "label": "bicycle",
       "point": [
-        332,
-        244
+        0.33263378803777544,
+        0.5252293577981652
       ]
     },
     {
@@ -22940,8 +22940,8 @@ const features = {
       "user": "Vishal Kumar",
       "label": "guitar",
       "point": [
-        336,
-        246
+        0.33683105981112277,
+        0.5298165137614679
       ]
     },
     {
@@ -22950,8 +22950,8 @@ const features = {
       "user": "Vishal Kumar",
       "label": "pencil",
       "point": [
-        230,
-        238
+        0.22560335781741866,
+        0.5114678899082569
       ]
     },
     {
@@ -22960,8 +22960,8 @@ const features = {
       "user": "Vishal Kumar",
       "label": "clock",
       "point": [
-        192,
-        186
+        0.18572927597061908,
+        0.3922018348623853
       ]
     },
     {
@@ -22970,8 +22970,8 @@ const features = {
       "user": "Avinash",
       "label": "car",
       "point": [
-        243,
-        82
+        0.23924449108079748,
+        0.1536697247706422
       ]
     },
     {
@@ -22980,8 +22980,8 @@ const features = {
       "user": "Avinash",
       "label": "fish",
       "point": [
-        146,
-        90
+        0.13746065057712487,
+        0.1720183486238532
       ]
     },
     {
@@ -22990,8 +22990,8 @@ const features = {
       "user": "Avinash",
       "label": "house",
       "point": [
-        306,
-        171
+        0.30535152151101785,
+        0.3577981651376147
       ]
     },
     {
@@ -23000,8 +23000,8 @@ const features = {
       "user": "Avinash",
       "label": "tree",
       "point": [
-        276,
-        317
+        0.2738719832109129,
+        0.6926605504587156
       ]
     },
     {
@@ -23010,8 +23010,8 @@ const features = {
       "user": "Avinash",
       "label": "bicycle",
       "point": [
-        265,
-        175
+        0.2623294858342078,
+        0.3669724770642202
       ]
     },
     {
@@ -23020,8 +23020,8 @@ const features = {
       "user": "Avinash",
       "label": "guitar",
       "point": [
-        266,
-        214
+        0.2633788037775446,
+        0.45642201834862384
       ]
     },
     {
@@ -23030,8 +23030,8 @@ const features = {
       "user": "Avinash",
       "label": "pencil",
       "point": [
-        272,
-        120
+        0.2696747114375656,
+        0.2408256880733945
       ]
     },
     {
@@ -23040,8 +23040,8 @@ const features = {
       "user": "Avinash",
       "label": "clock",
       "point": [
-        181,
-        167
+        0.17418677859391396,
+        0.3486238532110092
       ]
     },
     {
@@ -23050,8 +23050,8 @@ const features = {
       "user": "Jules",
       "label": "car",
       "point": [
-        208,
-        112
+        0.2025183630640084,
+        0.22247706422018348
       ]
     },
     {
@@ -23060,8 +23060,8 @@ const features = {
       "user": "Jules",
       "label": "fish",
       "point": [
-        187,
-        120
+        0.18048268625393493,
+        0.2408256880733945
       ]
     },
     {
@@ -23070,8 +23070,8 @@ const features = {
       "user": "Jules",
       "label": "house",
       "point": [
-        162,
-        236
+        0.15424973767051417,
+        0.5068807339449541
       ]
     },
     {
@@ -23080,8 +23080,8 @@ const features = {
       "user": "Jules",
       "label": "tree",
       "point": [
-        213,
-        281
+        0.20776495278069254,
+        0.6100917431192661
       ]
     },
     {
@@ -23090,8 +23090,8 @@ const features = {
       "user": "Jules",
       "label": "bicycle",
       "point": [
-        188,
-        134
+        0.18153200419727178,
+        0.27293577981651373
       ]
     },
     {
@@ -23100,8 +23100,8 @@ const features = {
       "user": "Jules",
       "label": "guitar",
       "point": [
-        235,
-        70
+        0.23084994753410285,
+        0.12614678899082568
       ]
     },
     {
@@ -23110,8 +23110,8 @@ const features = {
       "user": "Jules",
       "label": "pencil",
       "point": [
-        41,
-        215
+        0.02728226652675761,
+        0.45871559633027525
       ]
     },
     {
@@ -23120,8 +23120,8 @@ const features = {
       "user": "Jules",
       "label": "clock",
       "point": [
-        112,
-        163
+        0.10178384050367262,
+        0.3394495412844037
       ]
     },
     {
@@ -23130,8 +23130,8 @@ const features = {
       "user": "Alex Mercer",
       "label": "car",
       "point": [
-        325,
-        146
+        0.3252885624344176,
+        0.30045871559633025
       ]
     },
     {
@@ -23140,8 +23140,8 @@ const features = {
       "user": "Alex Mercer",
       "label": "fish",
       "point": [
-        343,
-        292
+        0.3441762854144806,
+        0.6353211009174312
       ]
     },
     {
@@ -23150,8 +23150,8 @@ const features = {
       "user": "Alex Mercer",
       "label": "house",
       "point": [
-        399,
-        342
+        0.40293809024134314,
+        0.75
       ]
     },
     {
@@ -23160,8 +23160,8 @@ const features = {
       "user": "Alex Mercer",
       "label": "tree",
       "point": [
-        366,
-        398
+        0.3683105981112277,
+        0.8784403669724771
       ]
     },
     {
@@ -23170,8 +23170,8 @@ const features = {
       "user": "Alex Mercer",
       "label": "bicycle",
       "point": [
-        357,
-        266
+        0.3588667366211962,
+        0.5756880733944955
       ]
     },
     {
@@ -23180,8 +23180,8 @@ const features = {
       "user": "Alex Mercer",
       "label": "guitar",
       "point": [
-        368,
-        341
+        0.3704092339979014,
+        0.7477064220183486
       ]
     },
     {
@@ -23190,8 +23190,8 @@ const features = {
       "user": "Alex Mercer",
       "label": "pencil",
       "point": [
-        32,
-        234
+        0.017838405036726127,
+        0.5022935779816514
       ]
     },
     {
@@ -23200,8 +23200,8 @@ const features = {
       "user": "Alex Mercer",
       "label": "clock",
       "point": [
-        203,
-        93
+        0.19727177334732424,
+        0.17889908256880735
       ]
     },
     {
@@ -23210,8 +23210,8 @@ const features = {
       "user": "arj",
       "label": "car",
       "point": [
-        361,
-        141
+        0.36306400839454356,
+        0.2889908256880734
       ]
     },
     {
@@ -23220,8 +23220,8 @@ const features = {
       "user": "arj",
       "label": "fish",
       "point": [
-        262,
-        152
+        0.25918153200419725,
+        0.31422018348623854
       ]
     },
     {
@@ -23230,8 +23230,8 @@ const features = {
       "user": "arj",
       "label": "house",
       "point": [
-        285,
-        236
+        0.2833158447009444,
+        0.5068807339449541
       ]
     },
     {
@@ -23240,8 +23240,8 @@ const features = {
       "user": "arj",
       "label": "tree",
       "point": [
-        323,
-        298
+        0.323189926547744,
+        0.6490825688073395
       ]
     },
     {
@@ -23250,8 +23250,8 @@ const features = {
       "user": "arj",
       "label": "bicycle",
       "point": [
-        334,
-        221
+        0.33473242392444913,
+        0.4724770642201835
       ]
     },
     {
@@ -23260,8 +23260,8 @@ const features = {
       "user": "arj",
       "label": "guitar",
       "point": [
-        258,
-        297
+        0.25498426023084997,
+        0.6467889908256881
       ]
     },
     {
@@ -23270,8 +23270,8 @@ const features = {
       "user": "arj",
       "label": "pencil",
       "point": [
-        227,
-        287
+        0.22245540398740818,
+        0.6238532110091743
       ]
     },
     {
@@ -23280,8 +23280,8 @@ const features = {
       "user": "arj",
       "label": "clock",
       "point": [
-        178,
-        209
+        0.17103882476390347,
+        0.44495412844036697
       ]
     },
     {
@@ -23290,8 +23290,8 @@ const features = {
       "user": "Adi",
       "label": "car",
       "point": [
-        354,
-        138
+        0.35571878279118574,
+        0.28211009174311924
       ]
     },
     {
@@ -23300,8 +23300,8 @@ const features = {
       "user": "Adi",
       "label": "fish",
       "point": [
-        297,
-        162
+        0.29590766002098634,
+        0.33715596330275227
       ]
     },
     {
@@ -23310,8 +23310,8 @@ const features = {
       "user": "Adi",
       "label": "house",
       "point": [
-        253,
-        188
+        0.2497376705141658,
+        0.3967889908256881
       ]
     },
     {
@@ -23320,8 +23320,8 @@ const features = {
       "user": "Adi",
       "label": "tree",
       "point": [
-        269,
-        284
+        0.26652675760755506,
+        0.6169724770642202
       ]
     },
     {
@@ -23330,8 +23330,8 @@ const features = {
       "user": "Adi",
       "label": "bicycle",
       "point": [
-        283,
-        164
+        0.2812172088142707,
+        0.34174311926605505
       ]
     },
     {
@@ -23340,8 +23340,8 @@ const features = {
       "user": "Adi",
       "label": "guitar",
       "point": [
-        264,
-        318
+        0.26128016789087094,
+        0.694954128440367
       ]
     },
     {
@@ -23350,8 +23350,8 @@ const features = {
       "user": "Adi",
       "label": "pencil",
       "point": [
-        155,
-        173
+        0.14690451206715635,
+        0.3623853211009174
       ]
     },
     {
@@ -23360,8 +23360,8 @@ const features = {
       "user": "Adi",
       "label": "clock",
       "point": [
-        182,
-        152
+        0.17523609653725078,
+        0.31422018348623854
       ]
     },
     {
@@ -23370,8 +23370,8 @@ const features = {
       "user": "kasim",
       "label": "car",
       "point": [
-        299,
-        99
+        0.29800629590766003,
+        0.1926605504587156
       ]
     },
     {
@@ -23380,8 +23380,8 @@ const features = {
       "user": "kasim",
       "label": "fish",
       "point": [
-        203,
-        102
+        0.19727177334732424,
+        0.19954128440366972
       ]
     },
     {
@@ -23390,8 +23390,8 @@ const features = {
       "user": "kasim",
       "label": "house",
       "point": [
-        253,
-        221
+        0.2497376705141658,
+        0.4724770642201835
       ]
     },
     {
@@ -23400,8 +23400,8 @@ const features = {
       "user": "kasim",
       "label": "tree",
       "point": [
-        273,
-        260
+        0.2707240293809024,
+        0.5619266055045872
       ]
     },
     {
@@ -23410,8 +23410,8 @@ const features = {
       "user": "kasim",
       "label": "bicycle",
       "point": [
-        327,
-        207
+        0.3273871983210913,
+        0.44036697247706424
       ]
     },
     {
@@ -23420,8 +23420,8 @@ const features = {
       "user": "kasim",
       "label": "guitar",
       "point": [
-        307,
-        268
+        0.30640083945435465,
+        0.5802752293577982
       ]
     },
     {
@@ -23430,8 +23430,8 @@ const features = {
       "user": "kasim",
       "label": "pencil",
       "point": [
-        260,
-        84
+        0.2570828961175236,
+        0.15825688073394495
       ]
     },
     {
@@ -23440,8 +23440,8 @@ const features = {
       "user": "kasim",
       "label": "clock",
       "point": [
-        174,
-        147
+        0.16684155299055614,
+        0.30275229357798167
       ]
     },
     {
@@ -23450,8 +23450,8 @@ const features = {
       "user": "mazlum",
       "label": "car",
       "point": [
-        192,
-        103
+        0.18572927597061908,
+        0.2018348623853211
       ]
     },
     {
@@ -23460,8 +23460,8 @@ const features = {
       "user": "mazlum",
       "label": "fish",
       "point": [
-        244,
-        116
+        0.2402938090241343,
+        0.231651376146789
       ]
     },
     {
@@ -23470,8 +23470,8 @@ const features = {
       "user": "mazlum",
       "label": "house",
       "point": [
-        131,
-        245
+        0.12172088142707241,
+        0.5275229357798165
       ]
     },
     {
@@ -23480,8 +23480,8 @@ const features = {
       "user": "mazlum",
       "label": "tree",
       "point": [
-        222,
-        252
+        0.21720881427072403,
+        0.5435779816513762
       ]
     },
     {
@@ -23490,8 +23490,8 @@ const features = {
       "user": "mazlum",
       "label": "bicycle",
       "point": [
-        262,
-        174
+        0.25918153200419725,
+        0.3646788990825688
       ]
     },
     {
@@ -23500,8 +23500,8 @@ const features = {
       "user": "mazlum",
       "label": "guitar",
       "point": [
-        353,
-        147
+        0.3546694648478489,
+        0.30275229357798167
       ]
     },
     {
@@ -23510,8 +23510,8 @@ const features = {
       "user": "mazlum",
       "label": "pencil",
       "point": [
-        337,
-        68
+        0.3378803777544596,
+        0.12155963302752294
       ]
     },
     {
@@ -23520,8 +23520,8 @@ const features = {
       "user": "mazlum",
       "label": "clock",
       "point": [
-        231,
-        200
+        0.2266526757607555,
+        0.4243119266055046
       ]
     },
     {
@@ -23530,8 +23530,8 @@ const features = {
       "user": "someguy",
       "label": "car",
       "point": [
-        308,
-        125
+        0.3074501573976915,
+        0.25229357798165136
       ]
     },
     {
@@ -23540,8 +23540,8 @@ const features = {
       "user": "someguy",
       "label": "fish",
       "point": [
-        190,
-        76
+        0.18363064008394545,
+        0.13990825688073394
       ]
     },
     {
@@ -23550,8 +23550,8 @@ const features = {
       "user": "someguy",
       "label": "house",
       "point": [
-        122,
-        224
+        0.11227701993704092,
+        0.4793577981651376
       ]
     },
     {
@@ -23560,8 +23560,8 @@ const features = {
       "user": "someguy",
       "label": "tree",
       "point": [
-        203,
-        291
+        0.19727177334732424,
+        0.6330275229357798
       ]
     },
     {
@@ -23570,8 +23570,8 @@ const features = {
       "user": "someguy",
       "label": "bicycle",
       "point": [
-        132,
-        119
+        0.12277019937040923,
+        0.23853211009174313
       ]
     },
     {
@@ -23580,8 +23580,8 @@ const features = {
       "user": "someguy",
       "label": "guitar",
       "point": [
-        211,
-        158
+        0.20566631689401887,
+        0.32798165137614677
       ]
     },
     {
@@ -23590,8 +23590,8 @@ const features = {
       "user": "someguy",
       "label": "pencil",
       "point": [
-        268,
-        56
+        0.2654774396642183,
+        0.09403669724770643
       ]
     },
     {
@@ -23600,8 +23600,8 @@ const features = {
       "user": "someguy",
       "label": "clock",
       "point": [
-        216,
-        228
+        0.21091290661070305,
+        0.48853211009174313
       ]
     },
     {
@@ -23610,8 +23610,8 @@ const features = {
       "user": "nigger",
       "label": "car",
       "point": [
-        311,
-        137
+        0.310598111227702,
+        0.2798165137614679
       ]
     },
     {
@@ -23620,8 +23620,8 @@ const features = {
       "user": "nigger",
       "label": "fish",
       "point": [
-        217,
-        102
+        0.21196222455403987,
+        0.19954128440366972
       ]
     },
     {
@@ -23630,8 +23630,8 @@ const features = {
       "user": "nigger",
       "label": "house",
       "point": [
-        163,
-        284
+        0.155299055613851,
+        0.6169724770642202
       ]
     },
     {
@@ -23640,8 +23640,8 @@ const features = {
       "user": "nigger",
       "label": "tree",
       "point": [
-        192,
-        276
+        0.18572927597061908,
+        0.5986238532110092
       ]
     },
     {
@@ -23650,8 +23650,8 @@ const features = {
       "user": "nigger",
       "label": "bicycle",
       "point": [
-        349,
-        302
+        0.35047219307450156,
+        0.658256880733945
       ]
     },
     {
@@ -23660,8 +23660,8 @@ const features = {
       "user": "nigger",
       "label": "guitar",
       "point": [
-        126,
-        248
+        0.11647429171038824,
+        0.5344036697247706
       ]
     },
     {
@@ -23670,8 +23670,8 @@ const features = {
       "user": "nigger",
       "label": "pencil",
       "point": [
-        53,
-        251
+        0.03987408184679958,
+        0.5412844036697247
       ]
     },
     {
@@ -23680,8 +23680,8 @@ const features = {
       "user": "nigger",
       "label": "clock",
       "point": [
-        178,
-        168
+        0.17103882476390347,
+        0.35091743119266056
       ]
     },
     {
@@ -23690,8 +23690,8 @@ const features = {
       "user": "Albin",
       "label": "car",
       "point": [
-        314,
-        161
+        0.31374606505771246,
+        0.3348623853211009
       ]
     },
     {
@@ -23700,8 +23700,8 @@ const features = {
       "user": "Albin",
       "label": "fish",
       "point": [
-        240,
-        104
+        0.236096537250787,
+        0.20412844036697247
       ]
     },
     {
@@ -23710,8 +23710,8 @@ const features = {
       "user": "Albin",
       "label": "house",
       "point": [
-        183,
-        125
+        0.17628541448058763,
+        0.25229357798165136
       ]
     },
     {
@@ -23720,8 +23720,8 @@ const features = {
       "user": "Albin",
       "label": "tree",
       "point": [
-        216,
-        183
+        0.21091290661070305,
+        0.3853211009174312
       ]
     },
     {
@@ -23730,8 +23730,8 @@ const features = {
       "user": "Albin",
       "label": "bicycle",
       "point": [
-        226,
-        121
+        0.22140608604407136,
+        0.24311926605504589
       ]
     },
     {
@@ -23740,8 +23740,8 @@ const features = {
       "user": "Albin",
       "label": "guitar",
       "point": [
-        131,
-        285
+        0.12172088142707241,
+        0.6192660550458715
       ]
     },
     {
@@ -23750,8 +23750,8 @@ const features = {
       "user": "Albin",
       "label": "pencil",
       "point": [
-        281,
-        58
+        0.27911857292759706,
+        0.09862385321100918
       ]
     },
     {
@@ -23760,8 +23760,8 @@ const features = {
       "user": "Albin",
       "label": "clock",
       "point": [
-        285,
-        229
+        0.2833158447009444,
+        0.4908256880733945
       ]
     },
     {
@@ -23770,8 +23770,8 @@ const features = {
       "user": "brasil",
       "label": "car",
       "point": [
-        360,
-        153
+        0.3620146904512067,
+        0.3165137614678899
       ]
     },
     {
@@ -23780,8 +23780,8 @@ const features = {
       "user": "brasil",
       "label": "fish",
       "point": [
-        233,
-        120
+        0.22875131164742918,
+        0.2408256880733945
       ]
     },
     {
@@ -23790,8 +23790,8 @@ const features = {
       "user": "brasil",
       "label": "house",
       "point": [
-        276,
-        231
+        0.2738719832109129,
+        0.4954128440366973
       ]
     },
     {
@@ -23800,8 +23800,8 @@ const features = {
       "user": "brasil",
       "label": "tree",
       "point": [
-        281,
-        239
+        0.27911857292759706,
+        0.5137614678899083
       ]
     },
     {
@@ -23810,8 +23810,8 @@ const features = {
       "user": "brasil",
       "label": "bicycle",
       "point": [
-        262,
-        156
+        0.25918153200419725,
+        0.32339449541284404
       ]
     },
     {
@@ -23820,8 +23820,8 @@ const features = {
       "user": "brasil",
       "label": "guitar",
       "point": [
-        274,
-        206
+        0.27177334732423925,
+        0.4380733944954128
       ]
     },
     {
@@ -23830,8 +23830,8 @@ const features = {
       "user": "brasil",
       "label": "pencil",
       "point": [
-        225,
-        214
+        0.2203567681007345,
+        0.45642201834862384
       ]
     },
     {
@@ -23840,8 +23840,8 @@ const features = {
       "user": "brasil",
       "label": "clock",
       "point": [
-        223,
-        204
+        0.21825813221406087,
+        0.4334862385321101
       ]
     },
     {
@@ -23850,8 +23850,8 @@ const features = {
       "user": "Alexander",
       "label": "car",
       "point": [
-        231,
-        170
+        0.2266526757607555,
+        0.3555045871559633
       ]
     },
     {
@@ -23860,8 +23860,8 @@ const features = {
       "user": "Alexander",
       "label": "fish",
       "point": [
-        254,
-        113
+        0.25078698845750264,
+        0.22477064220183487
       ]
     },
     {
@@ -23870,8 +23870,8 @@ const features = {
       "user": "Alexander",
       "label": "house",
       "point": [
-        235,
-        339
+        0.23084994753410285,
+        0.7431192660550459
       ]
     },
     {
@@ -23880,8 +23880,8 @@ const features = {
       "user": "Alexander",
       "label": "tree",
       "point": [
-        320,
-        328
+        0.3200419727177335,
+        0.7178899082568807
       ]
     },
     {
@@ -23890,8 +23890,8 @@ const features = {
       "user": "Alexander",
       "label": "bicycle",
       "point": [
-        287,
-        168
+        0.28541448058761804,
+        0.35091743119266056
       ]
     },
     {
@@ -23900,8 +23900,8 @@ const features = {
       "user": "Alexander",
       "label": "guitar",
       "point": [
-        293,
-        199
+        0.291710388247639,
+        0.42201834862385323
       ]
     },
     {
@@ -23910,8 +23910,8 @@ const features = {
       "user": "Alexander",
       "label": "pencil",
       "point": [
-        47,
-        251
+        0.033578174186778595,
+        0.5412844036697247
       ]
     },
     {
@@ -23920,8 +23920,8 @@ const features = {
       "user": "Alexander",
       "label": "clock",
       "point": [
-        161,
-        162
+        0.15320041972717732,
+        0.33715596330275227
       ]
     },
     {
@@ -23930,8 +23930,8 @@ const features = {
       "user": "Shahadh",
       "label": "car",
       "point": [
-        263,
-        114
+        0.2602308499475341,
+        0.22706422018348624
       ]
     },
     {
@@ -23940,8 +23940,8 @@ const features = {
       "user": "Shahadh",
       "label": "fish",
       "point": [
-        212,
-        117
+        0.20671563483735572,
+        0.23394495412844038
       ]
     },
     {
@@ -23950,8 +23950,8 @@ const features = {
       "user": "Shahadh",
       "label": "house",
       "point": [
-        249,
-        191
+        0.24554039874081846,
+        0.4036697247706422
       ]
     },
     {
@@ -23960,8 +23960,8 @@ const features = {
       "user": "Shahadh",
       "label": "tree",
       "point": [
-        254,
-        333
+        0.25078698845750264,
+        0.7293577981651376
       ]
     },
     {
@@ -23970,8 +23970,8 @@ const features = {
       "user": "Shahadh",
       "label": "bicycle",
       "point": [
-        215,
-        197
+        0.2098635886673662,
+        0.41743119266055045
       ]
     },
     {
@@ -23980,8 +23980,8 @@ const features = {
       "user": "Shahadh",
       "label": "guitar",
       "point": [
-        141,
-        329
+        0.1322140608604407,
+        0.7201834862385321
       ]
     },
     {
@@ -23990,8 +23990,8 @@ const features = {
       "user": "Shahadh",
       "label": "pencil",
       "point": [
-        208,
-        202
+        0.2025183630640084,
+        0.4288990825688073
       ]
     },
     {
@@ -24000,8 +24000,8 @@ const features = {
       "user": "Shahadh",
       "label": "clock",
       "point": [
-        181,
-        172
+        0.17418677859391396,
+        0.36009174311926606
       ]
     },
     {
@@ -24010,8 +24010,8 @@ const features = {
       "user": "Ricardo Aleixo",
       "label": "car",
       "point": [
-        287,
-        116
+        0.28541448058761804,
+        0.231651376146789
       ]
     },
     {
@@ -24020,8 +24020,8 @@ const features = {
       "user": "Ricardo Aleixo",
       "label": "fish",
       "point": [
-        330,
-        160
+        0.3305351521511018,
+        0.33256880733944955
       ]
     },
     {
@@ -24030,8 +24030,8 @@ const features = {
       "user": "Ricardo Aleixo",
       "label": "house",
       "point": [
-        322,
-        342
+        0.32214060860440713,
+        0.75
       ]
     },
     {
@@ -24040,8 +24040,8 @@ const features = {
       "user": "Ricardo Aleixo",
       "label": "tree",
       "point": [
-        253,
-        331
+        0.2497376705141658,
+        0.7247706422018348
       ]
     },
     {
@@ -24050,8 +24050,8 @@ const features = {
       "user": "Ricardo Aleixo",
       "label": "bicycle",
       "point": [
-        318,
-        223
+        0.3179433368310598,
+        0.47706422018348627
       ]
     },
     {
@@ -24060,8 +24060,8 @@ const features = {
       "user": "Ricardo Aleixo",
       "label": "guitar",
       "point": [
-        296,
-        266
+        0.29485834207764955,
+        0.5756880733944955
       ]
     },
     {
@@ -24070,8 +24070,8 @@ const features = {
       "user": "Ricardo Aleixo",
       "label": "pencil",
       "point": [
-        192,
-        272
+        0.18572927597061908,
+        0.5894495412844036
       ]
     },
     {
@@ -24080,8 +24080,8 @@ const features = {
       "user": "Ricardo Aleixo",
       "label": "clock",
       "point": [
-        234,
-        380
+        0.229800629590766,
+        0.8371559633027523
       ]
     },
     {
@@ -24090,8 +24090,8 @@ const features = {
       "user": "Tiina",
       "label": "car",
       "point": [
-        389,
-        195
+        0.39244491080797483,
+        0.41284403669724773
       ]
     },
     {
@@ -24100,8 +24100,8 @@ const features = {
       "user": "Tiina",
       "label": "fish",
       "point": [
-        285,
-        87
+        0.2833158447009444,
+        0.1651376146788991
       ]
     },
     {
@@ -24110,8 +24110,8 @@ const features = {
       "user": "Tiina",
       "label": "house",
       "point": [
-        332,
-        244
+        0.33263378803777544,
+        0.5252293577981652
       ]
     },
     {
@@ -24120,8 +24120,8 @@ const features = {
       "user": "Tiina",
       "label": "tree",
       "point": [
-        236,
-        288
+        0.23189926547743966,
+        0.6261467889908257
       ]
     },
     {
@@ -24130,8 +24130,8 @@ const features = {
       "user": "Tiina",
       "label": "bicycle",
       "point": [
-        291,
-        185
+        0.28961175236096537,
+        0.38990825688073394
       ]
     },
     {
@@ -24140,8 +24140,8 @@ const features = {
       "user": "Tiina",
       "label": "guitar",
       "point": [
-        294,
-        99
+        0.29275970619097585,
+        0.1926605504587156
       ]
     },
     {
@@ -24150,8 +24150,8 @@ const features = {
       "user": "Tiina",
       "label": "pencil",
       "point": [
-        34,
-        245
+        0.01993704092339979,
+        0.5275229357798165
       ]
     },
     {
@@ -24160,8 +24160,8 @@ const features = {
       "user": "Tiina",
       "label": "clock",
       "point": [
-        189,
-        184
+        0.1825813221406086,
+        0.3876146788990826
       ]
     },
     {
@@ -24170,8 +24170,8 @@ const features = {
       "user": "Ragg",
       "label": "car",
       "point": [
-        300,
-        160
+        0.2990556138509968,
+        0.33256880733944955
       ]
     },
     {
@@ -24180,8 +24180,8 @@ const features = {
       "user": "Ragg",
       "label": "fish",
       "point": [
-        185,
-        125
+        0.1783840503672613,
+        0.25229357798165136
       ]
     },
     {
@@ -24190,8 +24190,8 @@ const features = {
       "user": "Ragg",
       "label": "house",
       "point": [
-        271,
-        328
+        0.26862539349422876,
+        0.7178899082568807
       ]
     },
     {
@@ -24200,8 +24200,8 @@ const features = {
       "user": "Ragg",
       "label": "tree",
       "point": [
-        265,
-        291
+        0.2623294858342078,
+        0.6330275229357798
       ]
     },
     {
@@ -24210,8 +24210,8 @@ const features = {
       "user": "Ragg",
       "label": "bicycle",
       "point": [
-        269,
-        270
+        0.26652675760755506,
+        0.5848623853211009
       ]
     },
     {
@@ -24220,8 +24220,8 @@ const features = {
       "user": "Ragg",
       "label": "guitar",
       "point": [
-        176,
-        387
+        0.1689401888772298,
+        0.8532110091743119
       ]
     },
     {
@@ -24230,8 +24230,8 @@ const features = {
       "user": "Ragg",
       "label": "pencil",
       "point": [
-        112,
-        347
+        0.10178384050367262,
+        0.7614678899082569
       ]
     },
     {
@@ -24240,8 +24240,8 @@ const features = {
       "user": "Ragg",
       "label": "clock",
       "point": [
-        273,
-        246
+        0.2707240293809024,
+        0.5298165137614679
       ]
     },
     {
@@ -24250,8 +24250,8 @@ const features = {
       "user": "Aime",
       "label": "car",
       "point": [
-        339,
-        282
+        0.33997901364113325,
+        0.6123853211009175
       ]
     },
     {
@@ -24260,8 +24260,8 @@ const features = {
       "user": "Aime",
       "label": "fish",
       "point": [
-        328,
-        275
+        0.3284365162644281,
+        0.5963302752293578
       ]
     },
     {
@@ -24270,8 +24270,8 @@ const features = {
       "user": "Aime",
       "label": "house",
       "point": [
-        399,
-        349
+        0.40293809024134314,
+        0.7660550458715596
       ]
     },
     {
@@ -24280,8 +24280,8 @@ const features = {
       "user": "Aime",
       "label": "tree",
       "point": [
-        399,
-        310
+        0.40293809024134314,
+        0.676605504587156
       ]
     },
     {
@@ -24290,8 +24290,8 @@ const features = {
       "user": "Aime",
       "label": "bicycle",
       "point": [
-        348,
-        254
+        0.34942287513116477,
+        0.5481651376146789
       ]
     },
     {
@@ -24300,8 +24300,8 @@ const features = {
       "user": "Aime",
       "label": "guitar",
       "point": [
-        265,
-        282
+        0.2623294858342078,
+        0.6123853211009175
       ]
     },
     {
@@ -24310,8 +24310,8 @@ const features = {
       "user": "Aime",
       "label": "pencil",
       "point": [
-        44,
-        343
+        0.030430220356768102,
+        0.7522935779816514
       ]
     },
     {
@@ -24320,8 +24320,8 @@ const features = {
       "user": "Aime",
       "label": "clock",
       "point": [
-        279,
-        249
+        0.2770199370409234,
+        0.536697247706422
       ]
     },
     {
@@ -24330,8 +24330,8 @@ const features = {
       "user": "Kuba",
       "label": "car",
       "point": [
-        310,
-        130
+        0.3095487932843652,
+        0.26376146788990823
       ]
     },
     {
@@ -24340,8 +24340,8 @@ const features = {
       "user": "Kuba",
       "label": "fish",
       "point": [
-        281,
-        193
+        0.27911857292759706,
+        0.40825688073394495
       ]
     },
     {
@@ -24350,8 +24350,8 @@ const features = {
       "user": "Kuba",
       "label": "house",
       "point": [
-        372,
-        229
+        0.3746065057712487,
+        0.4908256880733945
       ]
     },
     {
@@ -24360,8 +24360,8 @@ const features = {
       "user": "Kuba",
       "label": "tree",
       "point": [
-        289,
-        366
+        0.28751311647429173,
+        0.805045871559633
       ]
     },
     {
@@ -24370,8 +24370,8 @@ const features = {
       "user": "Kuba",
       "label": "bicycle",
       "point": [
-        385,
-        227
+        0.3882476390346275,
+        0.48623853211009177
       ]
     },
     {
@@ -24380,8 +24380,8 @@ const features = {
       "user": "Kuba",
       "label": "guitar",
       "point": [
-        299,
-        383
+        0.29800629590766003,
+        0.8440366972477065
       ]
     },
     {
@@ -24390,8 +24390,8 @@ const features = {
       "user": "Kuba",
       "label": "pencil",
       "point": [
-        241,
-        379
+        0.23714585519412382,
+        0.8348623853211009
       ]
     },
     {
@@ -24400,8 +24400,8 @@ const features = {
       "user": "Kuba",
       "label": "clock",
       "point": [
-        323,
-        301
+        0.323189926547744,
+        0.6559633027522935
       ]
     },
     {
@@ -24410,8 +24410,8 @@ const features = {
       "user": "Carlos",
       "label": "car",
       "point": [
-        168,
-        89
+        0.16054564533053514,
+        0.16972477064220184
       ]
     },
     {
@@ -24420,8 +24420,8 @@ const features = {
       "user": "Carlos",
       "label": "fish",
       "point": [
-        155,
-        95
+        0.14690451206715635,
+        0.1834862385321101
       ]
     },
     {
@@ -24430,8 +24430,8 @@ const features = {
       "user": "Carlos",
       "label": "house",
       "point": [
-        336,
-        209
+        0.33683105981112277,
+        0.44495412844036697
       ]
     },
     {
@@ -24440,8 +24440,8 @@ const features = {
       "user": "Carlos",
       "label": "tree",
       "point": [
-        307,
-        333
+        0.30640083945435465,
+        0.7293577981651376
       ]
     },
     {
@@ -24450,8 +24450,8 @@ const features = {
       "user": "Carlos",
       "label": "bicycle",
       "point": [
-        303,
-        213
+        0.30220356768100737,
+        0.4541284403669725
       ]
     },
     {
@@ -24460,8 +24460,8 @@ const features = {
       "user": "Carlos",
       "label": "guitar",
       "point": [
-        312,
-        174
+        0.3116474291710388,
+        0.3646788990825688
       ]
     },
     {
@@ -24470,8 +24470,8 @@ const features = {
       "user": "Carlos",
       "label": "pencil",
       "point": [
-        279,
-        171
+        0.2770199370409234,
+        0.3577981651376147
       ]
     },
     {
@@ -24480,8 +24480,8 @@ const features = {
       "user": "Carlos",
       "label": "clock",
       "point": [
-        178,
-        163
+        0.17103882476390347,
+        0.3394495412844037
       ]
     },
     {
@@ -24490,8 +24490,8 @@ const features = {
       "user": "sakthi",
       "label": "car",
       "point": [
-        215,
-        111
+        0.2098635886673662,
+        0.22018348623853212
       ]
     },
     {
@@ -24500,8 +24500,8 @@ const features = {
       "user": "sakthi",
       "label": "fish",
       "point": [
-        155,
-        111
+        0.14690451206715635,
+        0.22018348623853212
       ]
     },
     {
@@ -24510,8 +24510,8 @@ const features = {
       "user": "sakthi",
       "label": "house",
       "point": [
-        134,
-        94
+        0.1248688352570829,
+        0.1811926605504587
       ]
     },
     {
@@ -24520,8 +24520,8 @@ const features = {
       "user": "sakthi",
       "label": "tree",
       "point": [
-        221,
-        275
+        0.2161594963273872,
+        0.5963302752293578
       ]
     },
     {
@@ -24530,8 +24530,8 @@ const features = {
       "user": "sakthi",
       "label": "bicycle",
       "point": [
-        224,
-        188
+        0.2193074501573977,
+        0.3967889908256881
       ]
     },
     {
@@ -24540,8 +24540,8 @@ const features = {
       "user": "sakthi",
       "label": "guitar",
       "point": [
-        205,
-        142
+        0.1993704092339979,
+        0.29128440366972475
       ]
     },
     {
@@ -24550,8 +24550,8 @@ const features = {
       "user": "sakthi",
       "label": "pencil",
       "point": [
-        86,
-        130
+        0.07450157397691501,
+        0.26376146788990823
       ]
     },
     {
@@ -24560,8 +24560,8 @@ const features = {
       "user": "sakthi",
       "label": "clock",
       "point": [
-        109,
-        145
+        0.09863588667366212,
+        0.2981651376146789
       ]
     },
     {
@@ -24570,8 +24570,8 @@ const features = {
       "user": "mcaamano",
       "label": "car",
       "point": [
-        306,
-        91
+        0.30535152151101785,
+        0.1743119266055046
       ]
     },
     {
@@ -24580,8 +24580,8 @@ const features = {
       "user": "mcaamano",
       "label": "fish",
       "point": [
-        300,
-        133
+        0.2990556138509968,
+        0.2706422018348624
       ]
     },
     {
@@ -24590,8 +24590,8 @@ const features = {
       "user": "mcaamano",
       "label": "house",
       "point": [
-        240,
-        217
+        0.236096537250787,
+        0.463302752293578
       ]
     },
     {
@@ -24600,8 +24600,8 @@ const features = {
       "user": "mcaamano",
       "label": "tree",
       "point": [
-        194,
-        281
+        0.18782791185729275,
+        0.6100917431192661
       ]
     },
     {
@@ -24610,8 +24610,8 @@ const features = {
       "user": "mcaamano",
       "label": "bicycle",
       "point": [
-        201,
-        118
+        0.19517313746065057,
+        0.23623853211009174
       ]
     },
     {
@@ -24620,8 +24620,8 @@ const features = {
       "user": "mcaamano",
       "label": "guitar",
       "point": [
-        356,
-        295
+        0.3578174186778594,
+        0.6422018348623854
       ]
     },
     {
@@ -24630,8 +24630,8 @@ const features = {
       "user": "mcaamano",
       "label": "pencil",
       "point": [
-        297,
-        240
+        0.29590766002098634,
+        0.5160550458715596
       ]
     },
     {
@@ -24640,8 +24640,8 @@ const features = {
       "user": "mcaamano",
       "label": "clock",
       "point": [
-        283,
-        283
+        0.2812172088142707,
+        0.6146788990825688
       ]
     },
     {
@@ -24650,8 +24650,8 @@ const features = {
       "user": "Jani",
       "label": "car",
       "point": [
-        331,
-        290
+        0.3315844700944386,
+        0.6307339449541285
       ]
     },
     {
@@ -24660,8 +24660,8 @@ const features = {
       "user": "Jani",
       "label": "fish",
       "point": [
-        308,
-        181
+        0.3074501573976915,
+        0.38073394495412843
       ]
     },
     {
@@ -24670,8 +24670,8 @@ const features = {
       "user": "Jani",
       "label": "house",
       "point": [
-        334,
-        306
+        0.33473242392444913,
+        0.6674311926605505
       ]
     },
     {
@@ -24680,8 +24680,8 @@ const features = {
       "user": "Jani",
       "label": "tree",
       "point": [
-        320,
-        383
+        0.3200419727177335,
+        0.8440366972477065
       ]
     },
     {
@@ -24690,8 +24690,8 @@ const features = {
       "user": "Jani",
       "label": "bicycle",
       "point": [
-        267,
-        198
+        0.2644281217208814,
+        0.4197247706422018
       ]
     },
     {
@@ -24700,8 +24700,8 @@ const features = {
       "user": "Jani",
       "label": "guitar",
       "point": [
-        274,
-        333
+        0.27177334732423925,
+        0.7293577981651376
       ]
     },
     {
@@ -24710,8 +24710,8 @@ const features = {
       "user": "Jani",
       "label": "pencil",
       "point": [
-        78,
-        314
+        0.06610703043022036,
+        0.6857798165137615
       ]
     },
     {
@@ -24720,8 +24720,8 @@ const features = {
       "user": "Jani",
       "label": "clock",
       "point": [
-        189,
-        233
+        0.1825813221406086,
+        0.5
       ]
     },
     {
@@ -24730,8 +24730,8 @@ const features = {
       "user": "Daban",
       "label": "car",
       "point": [
-        295,
-        189
+        0.2938090241343127,
+        0.39908256880733944
       ]
     },
     {
@@ -24740,8 +24740,8 @@ const features = {
       "user": "Daban",
       "label": "fish",
       "point": [
-        275,
-        102
+        0.2728226652675761,
+        0.19954128440366972
       ]
     },
     {
@@ -24750,8 +24750,8 @@ const features = {
       "user": "Daban",
       "label": "house",
       "point": [
-        262,
-        204
+        0.25918153200419725,
+        0.4334862385321101
       ]
     },
     {
@@ -24760,8 +24760,8 @@ const features = {
       "user": "Daban",
       "label": "tree",
       "point": [
-        221,
-        392
+        0.2161594963273872,
+        0.8646788990825688
       ]
     },
     {
@@ -24770,8 +24770,8 @@ const features = {
       "user": "Daban",
       "label": "bicycle",
       "point": [
-        290,
-        239
+        0.2885624344176285,
+        0.5137614678899083
       ]
     },
     {
@@ -24780,8 +24780,8 @@ const features = {
       "user": "Daban",
       "label": "guitar",
       "point": [
-        289,
-        143
+        0.28751311647429173,
+        0.29357798165137616
       ]
     },
     {
@@ -24790,8 +24790,8 @@ const features = {
       "user": "Daban",
       "label": "pencil",
       "point": [
-        302,
-        74
+        0.3011542497376705,
+        0.1353211009174312
       ]
     },
     {
@@ -24800,8 +24800,8 @@ const features = {
       "user": "Daban",
       "label": "clock",
       "point": [
-        403,
-        146
+        0.40713536201469047,
+        0.30045871559633025
       ]
     },
     {
@@ -24810,8 +24810,8 @@ const features = {
       "user": "hayes",
       "label": "car",
       "point": [
-        377,
-        214
+        0.37985309548793283,
+        0.45642201834862384
       ]
     },
     {
@@ -24820,8 +24820,8 @@ const features = {
       "user": "hayes",
       "label": "fish",
       "point": [
-        317,
-        193
+        0.316894018887723,
+        0.40825688073394495
       ]
     },
     {
@@ -24830,8 +24830,8 @@ const features = {
       "user": "hayes",
       "label": "house",
       "point": [
-        206,
-        293
+        0.20041972717733472,
+        0.6376146788990825
       ]
     },
     {
@@ -24840,8 +24840,8 @@ const features = {
       "user": "hayes",
       "label": "tree",
       "point": [
-        334,
-        322
+        0.33473242392444913,
+        0.7041284403669725
       ]
     },
     {
@@ -24850,8 +24850,8 @@ const features = {
       "user": "hayes",
       "label": "bicycle",
       "point": [
-        282,
-        190
+        0.2801678908709339,
+        0.4013761467889908
       ]
     },
     {
@@ -24860,8 +24860,8 @@ const features = {
       "user": "hayes",
       "label": "guitar",
       "point": [
-        326,
-        88
+        0.32633788037775446,
+        0.16743119266055045
       ]
     },
     {
@@ -24870,8 +24870,8 @@ const features = {
       "user": "hayes",
       "label": "pencil",
       "point": [
-        62,
-        334
+        0.04931794333683106,
+        0.731651376146789
       ]
     },
     {
@@ -24880,8 +24880,8 @@ const features = {
       "user": "hayes",
       "label": "clock",
       "point": [
-        382,
-        352
+        0.385099685204617,
+        0.7729357798165137
       ]
     },
     {
@@ -24890,8 +24890,8 @@ const features = {
       "user": "mta",
       "label": "car",
       "point": [
-        238,
-        108
+        0.23399790136411333,
+        0.21330275229357798
       ]
     },
     {
@@ -24900,8 +24900,8 @@ const features = {
       "user": "mta",
       "label": "fish",
       "point": [
-        108,
-        92
+        0.09758656873032528,
+        0.17660550458715596
       ]
     },
     {
@@ -24910,8 +24910,8 @@ const features = {
       "user": "mta",
       "label": "house",
       "point": [
-        170,
-        241
+        0.1626442812172088,
+        0.518348623853211
       ]
     },
     {
@@ -24920,8 +24920,8 @@ const features = {
       "user": "mta",
       "label": "tree",
       "point": [
-        213,
-        291
+        0.20776495278069254,
+        0.6330275229357798
       ]
     },
     {
@@ -24930,8 +24930,8 @@ const features = {
       "user": "mta",
       "label": "bicycle",
       "point": [
-        141,
-        92
+        0.1322140608604407,
+        0.17660550458715596
       ]
     },
     {
@@ -24940,8 +24940,8 @@ const features = {
       "user": "mta",
       "label": "guitar",
       "point": [
-        123,
-        324
+        0.11332633788037776,
+        0.7087155963302753
       ]
     },
     {
@@ -24950,8 +24950,8 @@ const features = {
       "user": "mta",
       "label": "pencil",
       "point": [
-        160,
-        147
+        0.1521511017838405,
+        0.30275229357798167
       ]
     },
     {
@@ -24960,8 +24960,8 @@ const features = {
       "user": "mta",
       "label": "clock",
       "point": [
-        159,
-        232
+        0.15110178384050368,
+        0.49770642201834864
       ]
     },
     {
@@ -24970,8 +24970,8 @@ const features = {
       "user": "aitor",
       "label": "car",
       "point": [
-        220,
-        139
+        0.21511017838405036,
+        0.28440366972477066
       ]
     },
     {
@@ -24980,8 +24980,8 @@ const features = {
       "user": "aitor",
       "label": "fish",
       "point": [
-        238,
-        53
+        0.23399790136411333,
+        0.0871559633027523
       ]
     },
     {
@@ -24990,8 +24990,8 @@ const features = {
       "user": "aitor",
       "label": "house",
       "point": [
-        237,
-        209
+        0.23294858342077648,
+        0.44495412844036697
       ]
     },
     {
@@ -25000,8 +25000,8 @@ const features = {
       "user": "aitor",
       "label": "tree",
       "point": [
-        165,
-        242
+        0.15739769150052466,
+        0.5206422018348624
       ]
     },
     {
@@ -25010,8 +25010,8 @@ const features = {
       "user": "aitor",
       "label": "bicycle",
       "point": [
-        233,
-        91
+        0.22875131164742918,
+        0.1743119266055046
       ]
     },
     {
@@ -25020,8 +25020,8 @@ const features = {
       "user": "aitor",
       "label": "guitar",
       "point": [
-        377,
-        141
+        0.37985309548793283,
+        0.2889908256880734
       ]
     },
     {
@@ -25030,8 +25030,8 @@ const features = {
       "user": "aitor",
       "label": "pencil",
       "point": [
-        272,
-        262
+        0.2696747114375656,
+        0.5665137614678899
       ]
     },
     {
@@ -25040,8 +25040,8 @@ const features = {
       "user": "aitor",
       "label": "clock",
       "point": [
-        130,
-        150
+        0.12067156348373557,
+        0.30963302752293576
       ]
     },
     {
@@ -25050,8 +25050,8 @@ const features = {
       "user": "nanda",
       "label": "car",
       "point": [
-        328,
-        155
+        0.3284365162644281,
+        0.3211009174311927
       ]
     },
     {
@@ -25060,8 +25060,8 @@ const features = {
       "user": "nanda",
       "label": "fish",
       "point": [
-        195,
-        80
+        0.1888772298006296,
+        0.14908256880733944
       ]
     },
     {
@@ -25070,8 +25070,8 @@ const features = {
       "user": "nanda",
       "label": "house",
       "point": [
-        252,
-        185
+        0.24868835257082897,
+        0.38990825688073394
       ]
     },
     {
@@ -25080,8 +25080,8 @@ const features = {
       "user": "nanda",
       "label": "tree",
       "point": [
-        301,
-        361
+        0.3001049317943337,
+        0.7935779816513762
       ]
     },
     {
@@ -25090,8 +25090,8 @@ const features = {
       "user": "nanda",
       "label": "bicycle",
       "point": [
-        222,
-        180
+        0.21720881427072403,
+        0.37844036697247707
       ]
     },
     {
@@ -25100,8 +25100,8 @@ const features = {
       "user": "nanda",
       "label": "guitar",
       "point": [
-        276,
-        275
+        0.2738719832109129,
+        0.5963302752293578
       ]
     },
     {
@@ -25110,8 +25110,8 @@ const features = {
       "user": "nanda",
       "label": "pencil",
       "point": [
-        149,
-        44
+        0.14060860440713535,
+        0.06651376146788991
       ]
     },
     {
@@ -25120,8 +25120,8 @@ const features = {
       "user": "nanda",
       "label": "clock",
       "point": [
-        195,
-        185
+        0.1888772298006296,
+        0.38990825688073394
       ]
     },
     {
@@ -25130,8 +25130,8 @@ const features = {
       "user": "taner",
       "label": "car",
       "point": [
-        342,
-        116
+        0.34312696747114374,
+        0.231651376146789
       ]
     },
     {
@@ -25140,8 +25140,8 @@ const features = {
       "user": "taner",
       "label": "fish",
       "point": [
-        308,
-        118
+        0.3074501573976915,
+        0.23623853211009174
       ]
     },
     {
@@ -25150,8 +25150,8 @@ const features = {
       "user": "taner",
       "label": "house",
       "point": [
-        292,
-        205
+        0.2906610703043022,
+        0.43577981651376146
       ]
     },
     {
@@ -25160,8 +25160,8 @@ const features = {
       "user": "taner",
       "label": "tree",
       "point": [
-        253,
-        353
+        0.2497376705141658,
+        0.7752293577981652
       ]
     },
     {
@@ -25170,8 +25170,8 @@ const features = {
       "user": "taner",
       "label": "bicycle",
       "point": [
-        267,
-        189
+        0.2644281217208814,
+        0.39908256880733944
       ]
     },
     {
@@ -25180,8 +25180,8 @@ const features = {
       "user": "taner",
       "label": "guitar",
       "point": [
-        276,
-        95
+        0.2738719832109129,
+        0.1834862385321101
       ]
     },
     {
@@ -25190,8 +25190,8 @@ const features = {
       "user": "taner",
       "label": "pencil",
       "point": [
-        161,
-        210
+        0.15320041972717732,
+        0.44724770642201833
       ]
     },
     {
@@ -25200,8 +25200,8 @@ const features = {
       "user": "taner",
       "label": "clock",
       "point": [
-        210,
-        154
+        0.20461699895068206,
+        0.31880733944954126
       ]
     },
     {
@@ -25210,8 +25210,8 @@ const features = {
       "user": "Lukson",
       "label": "car",
       "point": [
-        289,
-        165
+        0.28751311647429173,
+        0.3440366972477064
       ]
     },
     {
@@ -25220,8 +25220,8 @@ const features = {
       "user": "Lukson",
       "label": "fish",
       "point": [
-        126,
-        72
+        0.11647429171038824,
+        0.13073394495412843
       ]
     },
     {
@@ -25230,8 +25230,8 @@ const features = {
       "user": "Lukson",
       "label": "house",
       "point": [
-        279,
-        279
+        0.2770199370409234,
+        0.6055045871559633
       ]
     },
     {
@@ -25240,8 +25240,8 @@ const features = {
       "user": "Lukson",
       "label": "tree",
       "point": [
-        256,
-        306
+        0.2528856243441763,
+        0.6674311926605505
       ]
     },
     {
@@ -25250,8 +25250,8 @@ const features = {
       "user": "Lukson",
       "label": "bicycle",
       "point": [
-        222,
-        163
+        0.21720881427072403,
+        0.3394495412844037
       ]
     },
     {
@@ -25260,8 +25260,8 @@ const features = {
       "user": "Lukson",
       "label": "guitar",
       "point": [
-        289,
-        136
+        0.28751311647429173,
+        0.2775229357798165
       ]
     },
     {
@@ -25270,8 +25270,8 @@ const features = {
       "user": "Lukson",
       "label": "pencil",
       "point": [
-        25,
-        248
+        0.01049317943336831,
+        0.5344036697247706
       ]
     },
     {
@@ -25280,8 +25280,8 @@ const features = {
       "user": "Lukson",
       "label": "clock",
       "point": [
-        155,
-        174
+        0.14690451206715635,
+        0.3646788990825688
       ]
     },
     {
@@ -25290,8 +25290,8 @@ const features = {
       "user": "Meruem",
       "label": "car",
       "point": [
-        284,
-        102
+        0.28226652675760755,
+        0.19954128440366972
       ]
     },
     {
@@ -25300,8 +25300,8 @@ const features = {
       "user": "Meruem",
       "label": "fish",
       "point": [
-        297,
-        127
+        0.29590766002098634,
+        0.25688073394495414
       ]
     },
     {
@@ -25310,8 +25310,8 @@ const features = {
       "user": "Meruem",
       "label": "house",
       "point": [
-        269,
-        323
+        0.26652675760755506,
+        0.7064220183486238
       ]
     },
     {
@@ -25320,8 +25320,8 @@ const features = {
       "user": "Meruem",
       "label": "tree",
       "point": [
-        183,
-        398
+        0.17628541448058763,
+        0.8784403669724771
       ]
     },
     {
@@ -25330,8 +25330,8 @@ const features = {
       "user": "Meruem",
       "label": "bicycle",
       "point": [
-        263,
-        139
+        0.2602308499475341,
+        0.28440366972477066
       ]
     },
     {
@@ -25340,8 +25340,8 @@ const features = {
       "user": "Meruem",
       "label": "guitar",
       "point": [
-        257,
-        184
+        0.2539349422875131,
+        0.3876146788990826
       ]
     },
     {
@@ -25350,8 +25350,8 @@ const features = {
       "user": "Meruem",
       "label": "pencil",
       "point": [
-        258,
-        181
+        0.25498426023084997,
+        0.38073394495412843
       ]
     },
     {
@@ -25360,8 +25360,8 @@ const features = {
       "user": "Meruem",
       "label": "clock",
       "point": [
-        232,
-        214
+        0.22770199370409233,
+        0.45642201834862384
       ]
     },
     {
@@ -25370,8 +25370,8 @@ const features = {
       "user": "DracoWhitefire",
       "label": "car",
       "point": [
-        357,
-        177
+        0.3588667366211962,
+        0.37155963302752293
       ]
     },
     {
@@ -25380,8 +25380,8 @@ const features = {
       "user": "DracoWhitefire",
       "label": "fish",
       "point": [
-        367,
-        305
+        0.36935991605456453,
+        0.6651376146788991
       ]
     },
     {
@@ -25390,8 +25390,8 @@ const features = {
       "user": "DracoWhitefire",
       "label": "house",
       "point": [
-        340,
-        256
+        0.3410283315844701,
+        0.5527522935779816
       ]
     },
     {
@@ -25400,8 +25400,8 @@ const features = {
       "user": "DracoWhitefire",
       "label": "tree",
       "point": [
-        280,
-        376
+        0.2780692549842602,
+        0.8279816513761468
       ]
     },
     {
@@ -25410,8 +25410,8 @@ const features = {
       "user": "DracoWhitefire",
       "label": "bicycle",
       "point": [
-        290,
-        202
+        0.2885624344176285,
+        0.4288990825688073
       ]
     },
     {
@@ -25420,8 +25420,8 @@ const features = {
       "user": "DracoWhitefire",
       "label": "guitar",
       "point": [
-        345,
-        361
+        0.3462749213011542,
+        0.7935779816513762
       ]
     },
     {
@@ -25430,8 +25430,8 @@ const features = {
       "user": "DracoWhitefire",
       "label": "pencil",
       "point": [
-        291,
-        350
+        0.28961175236096537,
+        0.768348623853211
       ]
     },
     {
@@ -25440,8 +25440,8 @@ const features = {
       "user": "DracoWhitefire",
       "label": "clock",
       "point": [
-        199,
-        384
+        0.1930745015739769,
+        0.8463302752293578
       ]
     },
     {
@@ -25450,8 +25450,8 @@ const features = {
       "user": "Yuvraj",
       "label": "car",
       "point": [
-        214,
-        186
+        0.2088142707240294,
+        0.3922018348623853
       ]
     },
     {
@@ -25460,8 +25460,8 @@ const features = {
       "user": "Yuvraj",
       "label": "fish",
       "point": [
-        217,
-        78
+        0.21196222455403987,
+        0.1444954128440367
       ]
     },
     {
@@ -25470,8 +25470,8 @@ const features = {
       "user": "Yuvraj",
       "label": "house",
       "point": [
-        239,
-        223
+        0.23504721930745015,
+        0.47706422018348627
       ]
     },
     {
@@ -25480,8 +25480,8 @@ const features = {
       "user": "Yuvraj",
       "label": "tree",
       "point": [
-        131,
-        210
+        0.12172088142707241,
+        0.44724770642201833
       ]
     },
     {
@@ -25490,8 +25490,8 @@ const features = {
       "user": "Yuvraj",
       "label": "bicycle",
       "point": [
-        164,
-        132
+        0.15634837355718784,
+        0.268348623853211
       ]
     },
     {
@@ -25500,8 +25500,8 @@ const features = {
       "user": "Yuvraj",
       "label": "guitar",
       "point": [
-        280,
-        264
+        0.2780692549842602,
+        0.5711009174311926
       ]
     },
     {
@@ -25510,8 +25510,8 @@ const features = {
       "user": "Yuvraj",
       "label": "pencil",
       "point": [
-        187,
-        184
+        0.18048268625393493,
+        0.3876146788990826
       ]
     },
     {
@@ -25520,8 +25520,8 @@ const features = {
       "user": "Yuvraj",
       "label": "clock",
       "point": [
-        153,
-        167
+        0.14480587618048268,
+        0.3486238532110092
       ]
     },
     {
@@ -25530,8 +25530,8 @@ const features = {
       "user": "sekaiNoTameni",
       "label": "car",
       "point": [
-        279,
-        182
+        0.2770199370409234,
+        0.3830275229357798
       ]
     },
     {
@@ -25540,8 +25540,8 @@ const features = {
       "user": "sekaiNoTameni",
       "label": "fish",
       "point": [
-        232,
-        224
+        0.22770199370409233,
+        0.4793577981651376
       ]
     },
     {
@@ -25550,8 +25550,8 @@ const features = {
       "user": "sekaiNoTameni",
       "label": "house",
       "point": [
-        337,
-        279
+        0.3378803777544596,
+        0.6055045871559633
       ]
     },
     {
@@ -25560,8 +25560,8 @@ const features = {
       "user": "sekaiNoTameni",
       "label": "tree",
       "point": [
-        214,
-        245
+        0.2088142707240294,
+        0.5275229357798165
       ]
     },
     {
@@ -25570,8 +25570,8 @@ const features = {
       "user": "sekaiNoTameni",
       "label": "bicycle",
       "point": [
-        197,
-        113
+        0.19097586568730326,
+        0.22477064220183487
       ]
     },
     {
@@ -25580,8 +25580,8 @@ const features = {
       "user": "sekaiNoTameni",
       "label": "guitar",
       "point": [
-        236,
-        205
+        0.23189926547743966,
+        0.43577981651376146
       ]
     },
     {
@@ -25590,8 +25590,8 @@ const features = {
       "user": "sekaiNoTameni",
       "label": "pencil",
       "point": [
-        161,
-        282
+        0.15320041972717732,
+        0.6123853211009175
       ]
     },
     {
@@ -25600,8 +25600,8 @@ const features = {
       "user": "sekaiNoTameni",
       "label": "clock",
       "point": [
-        233,
-        237
+        0.22875131164742918,
+        0.5091743119266054
       ]
     },
     {
@@ -25610,8 +25610,8 @@ const features = {
       "user": "KoderKookie",
       "label": "car",
       "point": [
-        307,
-        106
+        0.30640083945435465,
+        0.20871559633027523
       ]
     },
     {
@@ -25620,8 +25620,8 @@ const features = {
       "user": "KoderKookie",
       "label": "fish",
       "point": [
-        236,
-        87
+        0.23189926547743966,
+        0.1651376146788991
       ]
     },
     {
@@ -25630,8 +25630,8 @@ const features = {
       "user": "KoderKookie",
       "label": "house",
       "point": [
-        220,
-        125
+        0.21511017838405036,
+        0.25229357798165136
       ]
     },
     {
@@ -25640,8 +25640,8 @@ const features = {
       "user": "KoderKookie",
       "label": "tree",
       "point": [
-        340,
-        350
+        0.3410283315844701,
+        0.768348623853211
       ]
     },
     {
@@ -25650,8 +25650,8 @@ const features = {
       "user": "KoderKookie",
       "label": "bicycle",
       "point": [
-        287,
-        133
+        0.28541448058761804,
+        0.2706422018348624
       ]
     },
     {
@@ -25660,8 +25660,8 @@ const features = {
       "user": "KoderKookie",
       "label": "guitar",
       "point": [
-        250,
-        202
+        0.2465897166841553,
+        0.4288990825688073
       ]
     },
     {
@@ -25670,8 +25670,8 @@ const features = {
       "user": "KoderKookie",
       "label": "pencil",
       "point": [
-        38,
-        213
+        0.024134312696747113,
+        0.4541284403669725
       ]
     },
     {
@@ -25680,8 +25680,8 @@ const features = {
       "user": "KoderKookie",
       "label": "clock",
       "point": [
-        146,
-        126
+        0.13746065057712487,
+        0.2545871559633027
       ]
     },
     {
@@ -25690,8 +25690,8 @@ const features = {
       "user": "Faizan Ahmed",
       "label": "car",
       "point": [
-        366,
-        218
+        0.3683105981112277,
+        0.46559633027522934
       ]
     },
     {
@@ -25700,8 +25700,8 @@ const features = {
       "user": "Faizan Ahmed",
       "label": "fish",
       "point": [
-        281,
-        243
+        0.27911857292759706,
+        0.5229357798165137
       ]
     },
     {
@@ -25710,8 +25710,8 @@ const features = {
       "user": "Faizan Ahmed",
       "label": "house",
       "point": [
-        207,
-        292
+        0.20146904512067157,
+        0.6353211009174312
       ]
     },
     {
@@ -25720,8 +25720,8 @@ const features = {
       "user": "Faizan Ahmed",
       "label": "tree",
       "point": [
-        276,
-        338
+        0.2738719832109129,
+        0.7408256880733946
       ]
     },
     {
@@ -25730,8 +25730,8 @@ const features = {
       "user": "Faizan Ahmed",
       "label": "bicycle",
       "point": [
-        309,
-        312
+        0.30849947534102834,
+        0.6811926605504587
       ]
     },
     {
@@ -25740,8 +25740,8 @@ const features = {
       "user": "Faizan Ahmed",
       "label": "guitar",
       "point": [
-        213,
-        347
+        0.20776495278069254,
+        0.7614678899082569
       ]
     },
     {
@@ -25750,8 +25750,8 @@ const features = {
       "user": "Faizan Ahmed",
       "label": "pencil",
       "point": [
-        267,
-        223
+        0.2644281217208814,
+        0.47706422018348627
       ]
     },
     {
@@ -25760,8 +25760,8 @@ const features = {
       "user": "Faizan Ahmed",
       "label": "clock",
       "point": [
-        269,
-        287
+        0.26652675760755506,
+        0.6238532110091743
       ]
     },
     {
@@ -25770,8 +25770,8 @@ const features = {
       "user": "Andrei C",
       "label": "car",
       "point": [
-        373,
-        85
+        0.3756558237145855,
+        0.16055045871559634
       ]
     },
     {
@@ -25780,8 +25780,8 @@ const features = {
       "user": "Andrei C",
       "label": "fish",
       "point": [
-        170,
-        63
+        0.1626442812172088,
+        0.11009174311926606
       ]
     },
     {
@@ -25790,8 +25790,8 @@ const features = {
       "user": "Andrei C",
       "label": "house",
       "point": [
-        184,
-        225
+        0.17733473242392445,
+        0.481651376146789
       ]
     },
     {
@@ -25800,8 +25800,8 @@ const features = {
       "user": "Andrei C",
       "label": "tree",
       "point": [
-        149,
-        311
+        0.14060860440713535,
+        0.6788990825688074
       ]
     },
     {
@@ -25810,8 +25810,8 @@ const features = {
       "user": "Andrei C",
       "label": "bicycle",
       "point": [
-        283,
-        165
+        0.2812172088142707,
+        0.3440366972477064
       ]
     },
     {
@@ -25820,8 +25820,8 @@ const features = {
       "user": "Andrei C",
       "label": "guitar",
       "point": [
-        278,
-        64
+        0.2759706190975866,
+        0.11238532110091744
       ]
     },
     {
@@ -25830,8 +25830,8 @@ const features = {
       "user": "Andrei C",
       "label": "pencil",
       "point": [
-        107,
-        118
+        0.09653725078698845,
+        0.23623853211009174
       ]
     },
     {
@@ -25840,8 +25840,8 @@ const features = {
       "user": "Andrei C",
       "label": "clock",
       "point": [
-        153,
-        133
+        0.14480587618048268,
+        0.2706422018348624
       ]
     },
     {
@@ -25850,8 +25850,8 @@ const features = {
       "user": "Lakshya",
       "label": "car",
       "point": [
-        284,
-        131
+        0.28226652675760755,
+        0.26605504587155965
       ]
     },
     {
@@ -25860,8 +25860,8 @@ const features = {
       "user": "Lakshya",
       "label": "fish",
       "point": [
-        276,
-        157
+        0.2738719832109129,
+        0.3256880733944954
       ]
     },
     {
@@ -25870,8 +25870,8 @@ const features = {
       "user": "Lakshya",
       "label": "house",
       "point": [
-        269,
-        204
+        0.26652675760755506,
+        0.4334862385321101
       ]
     },
     {
@@ -25880,8 +25880,8 @@ const features = {
       "user": "Lakshya",
       "label": "tree",
       "point": [
-        188,
-        251
+        0.18153200419727178,
+        0.5412844036697247
       ]
     },
     {
@@ -25890,8 +25890,8 @@ const features = {
       "user": "Lakshya",
       "label": "bicycle",
       "point": [
-        309,
-        132
+        0.30849947534102834,
+        0.268348623853211
       ]
     },
     {
@@ -25900,8 +25900,8 @@ const features = {
       "user": "Lakshya",
       "label": "guitar",
       "point": [
-        327,
-        204
+        0.3273871983210913,
+        0.4334862385321101
       ]
     },
     {
@@ -25910,8 +25910,8 @@ const features = {
       "user": "Lakshya",
       "label": "pencil",
       "point": [
-        171,
-        140
+        0.16369359916054566,
+        0.286697247706422
       ]
     },
     {
@@ -25920,8 +25920,8 @@ const features = {
       "user": "Lakshya",
       "label": "clock",
       "point": [
-        170,
-        165
+        0.1626442812172088,
+        0.3440366972477064
       ]
     },
     {
@@ -25930,8 +25930,8 @@ const features = {
       "user": "Siva",
       "label": "car",
       "point": [
-        272,
-        164
+        0.2696747114375656,
+        0.34174311926605505
       ]
     },
     {
@@ -25940,8 +25940,8 @@ const features = {
       "user": "Siva",
       "label": "fish",
       "point": [
-        289,
-        159
+        0.28751311647429173,
+        0.3302752293577982
       ]
     },
     {
@@ -25950,8 +25950,8 @@ const features = {
       "user": "Siva",
       "label": "house",
       "point": [
-        322,
-        277
+        0.32214060860440713,
+        0.6009174311926605
       ]
     },
     {
@@ -25960,8 +25960,8 @@ const features = {
       "user": "Siva",
       "label": "tree",
       "point": [
-        250,
-        323
+        0.2465897166841553,
+        0.7064220183486238
       ]
     },
     {
@@ -25970,8 +25970,8 @@ const features = {
       "user": "Siva",
       "label": "bicycle",
       "point": [
-        272,
-        192
+        0.2696747114375656,
+        0.4059633027522936
       ]
     },
     {
@@ -25980,8 +25980,8 @@ const features = {
       "user": "Siva",
       "label": "guitar",
       "point": [
-        154,
-        303
+        0.1458551941238195,
+        0.6605504587155964
       ]
     },
     {
@@ -25990,8 +25990,8 @@ const features = {
       "user": "Siva",
       "label": "pencil",
       "point": [
-        264,
-        254
+        0.26128016789087094,
+        0.5481651376146789
       ]
     },
     {
@@ -26000,8 +26000,8 @@ const features = {
       "user": "Siva",
       "label": "clock",
       "point": [
-        241,
-        263
+        0.23714585519412382,
+        0.5688073394495413
       ]
     },
     {
@@ -26010,8 +26010,8 @@ const features = {
       "user": "Hussein kadhim",
       "label": "car",
       "point": [
-        305,
-        195
+        0.304302203567681,
+        0.41284403669724773
       ]
     },
     {
@@ -26020,8 +26020,8 @@ const features = {
       "user": "Hussein kadhim",
       "label": "fish",
       "point": [
-        261,
-        129
+        0.25813221406086045,
+        0.26146788990825687
       ]
     },
     {
@@ -26030,8 +26030,8 @@ const features = {
       "user": "Hussein kadhim",
       "label": "house",
       "point": [
-        349,
-        257
+        0.35047219307450156,
+        0.555045871559633
       ]
     },
     {
@@ -26040,8 +26040,8 @@ const features = {
       "user": "Hussein kadhim",
       "label": "tree",
       "point": [
-        227,
-        430
+        0.22245540398740818,
+        0.9518348623853211
       ]
     },
     {
@@ -26050,8 +26050,8 @@ const features = {
       "user": "Hussein kadhim",
       "label": "bicycle",
       "point": [
-        272,
-        199
+        0.2696747114375656,
+        0.42201834862385323
       ]
     },
     {
@@ -26060,8 +26060,8 @@ const features = {
       "user": "Hussein kadhim",
       "label": "guitar",
       "point": [
-        268,
-        220
+        0.2654774396642183,
+        0.4701834862385321
       ]
     },
     {
@@ -26070,8 +26070,8 @@ const features = {
       "user": "Hussein kadhim",
       "label": "pencil",
       "point": [
-        161,
-        181
+        0.15320041972717732,
+        0.38073394495412843
       ]
     },
     {
@@ -26080,8 +26080,8 @@ const features = {
       "user": "Hussein kadhim",
       "label": "clock",
       "point": [
-        175,
-        201
+        0.16789087093389296,
+        0.42660550458715596
       ]
     },
     {
@@ -26090,8 +26090,8 @@ const features = {
       "user": "Daniel",
       "label": "car",
       "point": [
-        311,
-        160
+        0.310598111227702,
+        0.33256880733944955
       ]
     },
     {
@@ -26100,8 +26100,8 @@ const features = {
       "user": "Daniel",
       "label": "fish",
       "point": [
-        337,
-        174
+        0.3378803777544596,
+        0.3646788990825688
       ]
     },
     {
@@ -26110,8 +26110,8 @@ const features = {
       "user": "Daniel",
       "label": "house",
       "point": [
-        262,
-        217
+        0.25918153200419725,
+        0.463302752293578
       ]
     },
     {
@@ -26120,8 +26120,8 @@ const features = {
       "user": "Daniel",
       "label": "tree",
       "point": [
-        199,
-        372
+        0.1930745015739769,
+        0.8188073394495413
       ]
     },
     {
@@ -26130,8 +26130,8 @@ const features = {
       "user": "Daniel",
       "label": "bicycle",
       "point": [
-        310,
-        169
+        0.3095487932843652,
+        0.3532110091743119
       ]
     },
     {
@@ -26140,8 +26140,8 @@ const features = {
       "user": "Daniel",
       "label": "guitar",
       "point": [
-        271,
-        83
+        0.26862539349422876,
+        0.1559633027522936
       ]
     },
     {
@@ -26150,8 +26150,8 @@ const features = {
       "user": "Daniel",
       "label": "pencil",
       "point": [
-        236,
-        140
+        0.23189926547743966,
+        0.286697247706422
       ]
     },
     {
@@ -26160,8 +26160,8 @@ const features = {
       "user": "Daniel",
       "label": "clock",
       "point": [
-        202,
-        211
+        0.19622245540398742,
+        0.44954128440366975
       ]
     },
     {
@@ -26170,8 +26170,8 @@ const features = {
       "user": "TheRockerRush",
       "label": "car",
       "point": [
-        266,
-        149
+        0.2633788037775446,
+        0.3073394495412844
       ]
     },
     {
@@ -26180,8 +26180,8 @@ const features = {
       "user": "TheRockerRush",
       "label": "fish",
       "point": [
-        209,
-        183
+        0.20356768100734524,
+        0.3853211009174312
       ]
     },
     {
@@ -26190,8 +26190,8 @@ const features = {
       "user": "TheRockerRush",
       "label": "house",
       "point": [
-        235,
-        171
+        0.23084994753410285,
+        0.3577981651376147
       ]
     },
     {
@@ -26200,8 +26200,8 @@ const features = {
       "user": "TheRockerRush",
       "label": "tree",
       "point": [
-        244,
-        222
+        0.2402938090241343,
+        0.47477064220183485
       ]
     },
     {
@@ -26210,8 +26210,8 @@ const features = {
       "user": "TheRockerRush",
       "label": "bicycle",
       "point": [
-        180,
-        152
+        0.1731374606505771,
+        0.31422018348623854
       ]
     },
     {
@@ -26220,8 +26220,8 @@ const features = {
       "user": "TheRockerRush",
       "label": "guitar",
       "point": [
-        277,
-        138
+        0.27492130115424973,
+        0.28211009174311924
       ]
     },
     {
@@ -26230,8 +26230,8 @@ const features = {
       "user": "TheRockerRush",
       "label": "pencil",
       "point": [
-        49,
-        151
+        0.035676810073452254,
+        0.3119266055045872
       ]
     },
     {
@@ -26240,8 +26240,8 @@ const features = {
       "user": "TheRockerRush",
       "label": "clock",
       "point": [
-        177,
-        186
+        0.16998950682056663,
+        0.3922018348623853
       ]
     },
     {
@@ -26250,8 +26250,8 @@ const features = {
       "user": "Ali Gohar",
       "label": "car",
       "point": [
-        320,
-        145
+        0.3200419727177335,
+        0.2981651376146789
       ]
     },
     {
@@ -26260,8 +26260,8 @@ const features = {
       "user": "Ali Gohar",
       "label": "fish",
       "point": [
-        165,
-        89
+        0.15739769150052466,
+        0.16972477064220184
       ]
     },
     {
@@ -26270,8 +26270,8 @@ const features = {
       "user": "Ali Gohar",
       "label": "house",
       "point": [
-        191,
-        220
+        0.18467995802728226,
+        0.4701834862385321
       ]
     },
     {
@@ -26280,8 +26280,8 @@ const features = {
       "user": "Ali Gohar",
       "label": "tree",
       "point": [
-        270,
-        349
+        0.2675760755508919,
+        0.7660550458715596
       ]
     },
     {
@@ -26290,8 +26290,8 @@ const features = {
       "user": "Ali Gohar",
       "label": "bicycle",
       "point": [
-        251,
-        142
+        0.24763903462749212,
+        0.29128440366972475
       ]
     },
     {
@@ -26300,8 +26300,8 @@ const features = {
       "user": "Ali Gohar",
       "label": "guitar",
       "point": [
-        192,
-        375
+        0.18572927597061908,
+        0.8256880733944955
       ]
     },
     {
@@ -26310,8 +26310,8 @@ const features = {
       "user": "Ali Gohar",
       "label": "pencil",
       "point": [
-        277,
-        241
+        0.27492130115424973,
+        0.518348623853211
       ]
     },
     {
@@ -26320,8 +26320,8 @@ const features = {
       "user": "Ali Gohar",
       "label": "clock",
       "point": [
-        233,
-        281
+        0.22875131164742918,
+        0.6100917431192661
       ]
     },
     {
@@ -26330,8 +26330,8 @@ const features = {
       "user": "Urax",
       "label": "car",
       "point": [
-        289,
-        164
+        0.28751311647429173,
+        0.34174311926605505
       ]
     },
     {
@@ -26340,8 +26340,8 @@ const features = {
       "user": "Urax",
       "label": "fish",
       "point": [
-        206,
-        92
+        0.20041972717733472,
+        0.17660550458715596
       ]
     },
     {
@@ -26350,8 +26350,8 @@ const features = {
       "user": "Urax",
       "label": "house",
       "point": [
-        234,
-        239
+        0.229800629590766,
+        0.5137614678899083
       ]
     },
     {
@@ -26360,8 +26360,8 @@ const features = {
       "user": "Urax",
       "label": "tree",
       "point": [
-        284,
-        284
+        0.28226652675760755,
+        0.6169724770642202
       ]
     },
     {
@@ -26370,8 +26370,8 @@ const features = {
       "user": "Urax",
       "label": "bicycle",
       "point": [
-        176,
-        154
+        0.1689401888772298,
+        0.31880733944954126
       ]
     },
     {
@@ -26380,8 +26380,8 @@ const features = {
       "user": "Urax",
       "label": "guitar",
       "point": [
-        255,
-        103
+        0.2518363064008394,
+        0.2018348623853211
       ]
     },
     {
@@ -26390,8 +26390,8 @@ const features = {
       "user": "Urax",
       "label": "pencil",
       "point": [
-        60,
-        330
+        0.0472193074501574,
+        0.7224770642201835
       ]
     },
     {
@@ -26400,8 +26400,8 @@ const features = {
       "user": "Urax",
       "label": "clock",
       "point": [
-        226,
-        214
+        0.22140608604407136,
+        0.45642201834862384
       ]
     },
     {
@@ -26410,8 +26410,8 @@ const features = {
       "user": "John Doe",
       "label": "car",
       "point": [
-        257,
-        109
+        0.2539349422875131,
+        0.21559633027522937
       ]
     },
     {
@@ -26420,8 +26420,8 @@ const features = {
       "user": "John Doe",
       "label": "fish",
       "point": [
-        148,
-        71
+        0.13955928646379853,
+        0.12844036697247707
       ]
     },
     {
@@ -26430,8 +26430,8 @@ const features = {
       "user": "John Doe",
       "label": "house",
       "point": [
-        197,
-        209
+        0.19097586568730326,
+        0.44495412844036697
       ]
     },
     {
@@ -26440,8 +26440,8 @@ const features = {
       "user": "John Doe",
       "label": "tree",
       "point": [
-        223,
-        290
+        0.21825813221406087,
+        0.6307339449541285
       ]
     },
     {
@@ -26450,8 +26450,8 @@ const features = {
       "user": "John Doe",
       "label": "bicycle",
       "point": [
-        232,
-        120
+        0.22770199370409233,
+        0.2408256880733945
       ]
     },
     {
@@ -26460,8 +26460,8 @@ const features = {
       "user": "John Doe",
       "label": "guitar",
       "point": [
-        145,
-        214
+        0.13641133263378805,
+        0.45642201834862384
       ]
     },
     {
@@ -26470,8 +26470,8 @@ const features = {
       "user": "John Doe",
       "label": "pencil",
       "point": [
-        24,
-        248
+        0.00944386149003148,
+        0.5344036697247706
       ]
     },
     {
@@ -26480,8 +26480,8 @@ const features = {
       "user": "John Doe",
       "label": "clock",
       "point": [
-        246,
-        229
+        0.24239244491080797,
+        0.4908256880733945
       ]
     },
     {
@@ -26490,8 +26490,8 @@ const features = {
       "user": "Claudiu",
       "label": "car",
       "point": [
-        350,
-        116
+        0.3515215110178384,
+        0.231651376146789
       ]
     },
     {
@@ -26500,8 +26500,8 @@ const features = {
       "user": "Claudiu",
       "label": "fish",
       "point": [
-        222,
-        236
+        0.21720881427072403,
+        0.5068807339449541
       ]
     },
     {
@@ -26510,8 +26510,8 @@ const features = {
       "user": "Claudiu",
       "label": "house",
       "point": [
-        355,
-        295
+        0.3567681007345226,
+        0.6422018348623854
       ]
     },
     {
@@ -26520,8 +26520,8 @@ const features = {
       "user": "Claudiu",
       "label": "tree",
       "point": [
-        400,
-        200
+        0.40398740818467993,
+        0.4243119266055046
       ]
     },
     {
@@ -26530,8 +26530,8 @@ const features = {
       "user": "Claudiu",
       "label": "bicycle",
       "point": [
-        103,
-        202
+        0.09233997901364113,
+        0.4288990825688073
       ]
     },
     {
@@ -26540,8 +26540,8 @@ const features = {
       "user": "Claudiu",
       "label": "guitar",
       "point": [
-        150,
-        366
+        0.1416579223504722,
+        0.805045871559633
       ]
     },
     {
@@ -26550,8 +26550,8 @@ const features = {
       "user": "Claudiu",
       "label": "pencil",
       "point": [
-        346,
-        309
+        0.3473242392444911,
+        0.6743119266055045
       ]
     },
     {
@@ -26560,8 +26560,8 @@ const features = {
       "user": "Claudiu",
       "label": "clock",
       "point": [
-        196,
-        135
+        0.18992654774396642,
+        0.27522935779816515
       ]
     },
     {
@@ -26570,8 +26570,8 @@ const features = {
       "user": "Glenn",
       "label": "car",
       "point": [
-        245,
-        155
+        0.24134312696747115,
+        0.3211009174311927
       ]
     },
     {
@@ -26580,8 +26580,8 @@ const features = {
       "user": "Glenn",
       "label": "fish",
       "point": [
-        195,
-        112
+        0.1888772298006296,
+        0.22247706422018348
       ]
     },
     {
@@ -26590,8 +26590,8 @@ const features = {
       "user": "Glenn",
       "label": "house",
       "point": [
-        222,
-        279
+        0.21720881427072403,
+        0.6055045871559633
       ]
     },
     {
@@ -26600,8 +26600,8 @@ const features = {
       "user": "Glenn",
       "label": "tree",
       "point": [
-        182,
-        271
+        0.17523609653725078,
+        0.5871559633027523
       ]
     },
     {
@@ -26610,8 +26610,8 @@ const features = {
       "user": "Glenn",
       "label": "bicycle",
       "point": [
-        249,
-        184
+        0.24554039874081846,
+        0.3876146788990826
       ]
     },
     {
@@ -26620,8 +26620,8 @@ const features = {
       "user": "Glenn",
       "label": "guitar",
       "point": [
-        332,
-        239
+        0.33263378803777544,
+        0.5137614678899083
       ]
     },
     {
@@ -26630,8 +26630,8 @@ const features = {
       "user": "Glenn",
       "label": "pencil",
       "point": [
-        178,
-        176
+        0.17103882476390347,
+        0.36926605504587157
       ]
     },
     {
@@ -26640,8 +26640,8 @@ const features = {
       "user": "Glenn",
       "label": "clock",
       "point": [
-        226,
-        93
+        0.22140608604407136,
+        0.17889908256880735
       ]
     },
     {
@@ -26650,8 +26650,8 @@ const features = {
       "user": "Amit",
       "label": "car",
       "point": [
-        308,
-        121
+        0.3074501573976915,
+        0.24311926605504589
       ]
     },
     {
@@ -26660,8 +26660,8 @@ const features = {
       "user": "Amit",
       "label": "fish",
       "point": [
-        213,
-        98
+        0.20776495278069254,
+        0.19036697247706422
       ]
     },
     {
@@ -26670,8 +26670,8 @@ const features = {
       "user": "Amit",
       "label": "house",
       "point": [
-        273,
-        287
+        0.2707240293809024,
+        0.6238532110091743
       ]
     },
     {
@@ -26680,8 +26680,8 @@ const features = {
       "user": "Amit",
       "label": "tree",
       "point": [
-        220,
-        316
+        0.21511017838405036,
+        0.6903669724770642
       ]
     },
     {
@@ -26690,8 +26690,8 @@ const features = {
       "user": "Amit",
       "label": "bicycle",
       "point": [
-        238,
-        150
+        0.23399790136411333,
+        0.30963302752293576
       ]
     },
     {
@@ -26700,8 +26700,8 @@ const features = {
       "user": "Amit",
       "label": "guitar",
       "point": [
-        298,
-        263
+        0.2969569779643232,
+        0.5688073394495413
       ]
     },
     {
@@ -26710,8 +26710,8 @@ const features = {
       "user": "Amit",
       "label": "pencil",
       "point": [
-        47,
-        319
+        0.033578174186778595,
+        0.6972477064220184
       ]
     },
     {
@@ -26720,8 +26720,8 @@ const features = {
       "user": "Amit",
       "label": "clock",
       "point": [
-        167,
-        212
+        0.15949632738719832,
+        0.4518348623853211
       ]
     },
     {
@@ -26730,8 +26730,8 @@ const features = {
       "user": "Pazini",
       "label": "car",
       "point": [
-        195,
-        135
+        0.1888772298006296,
+        0.27522935779816515
       ]
     },
     {
@@ -26740,8 +26740,8 @@ const features = {
       "user": "Pazini",
       "label": "fish",
       "point": [
-        204,
-        161
+        0.19832109129066108,
+        0.3348623853211009
       ]
     },
     {
@@ -26750,8 +26750,8 @@ const features = {
       "user": "Pazini",
       "label": "house",
       "point": [
-        211,
-        194
+        0.20566631689401887,
+        0.4105504587155963
       ]
     },
     {
@@ -26760,8 +26760,8 @@ const features = {
       "user": "Pazini",
       "label": "tree",
       "point": [
-        160,
-        198
+        0.1521511017838405,
+        0.4197247706422018
       ]
     },
     {
@@ -26770,8 +26770,8 @@ const features = {
       "user": "Pazini",
       "label": "bicycle",
       "point": [
-        261,
-        219
+        0.25813221406086045,
+        0.46788990825688076
       ]
     },
     {
@@ -26780,8 +26780,8 @@ const features = {
       "user": "Pazini",
       "label": "guitar",
       "point": [
-        275,
-        180
+        0.2728226652675761,
+        0.37844036697247707
       ]
     },
     {
@@ -26790,8 +26790,8 @@ const features = {
       "user": "Pazini",
       "label": "pencil",
       "point": [
-        90,
-        243
+        0.07869884575026233,
+        0.5229357798165137
       ]
     },
     {
@@ -26800,8 +26800,8 @@ const features = {
       "user": "Pazini",
       "label": "clock",
       "point": [
-        180,
-        170
+        0.1731374606505771,
+        0.3555045871559633
       ]
     },
     {
@@ -26810,8 +26810,8 @@ const features = {
       "user": "kes",
       "label": "car",
       "point": [
-        206,
-        60
+        0.20041972717733472,
+        0.10321100917431193
       ]
     },
     {
@@ -26820,8 +26820,8 @@ const features = {
       "user": "kes",
       "label": "fish",
       "point": [
-        200,
-        101
+        0.19412381951731375,
+        0.19724770642201836
       ]
     },
     {
@@ -26830,8 +26830,8 @@ const features = {
       "user": "kes",
       "label": "house",
       "point": [
-        167,
-        136
+        0.15949632738719832,
+        0.2775229357798165
       ]
     },
     {
@@ -26840,8 +26840,8 @@ const features = {
       "user": "kes",
       "label": "tree",
       "point": [
-        339,
-        325
+        0.33997901364113325,
+        0.7110091743119266
       ]
     },
     {
@@ -26850,8 +26850,8 @@ const features = {
       "user": "kes",
       "label": "bicycle",
       "point": [
-        181,
-        190
+        0.17418677859391396,
+        0.4013761467889908
       ]
     },
     {
@@ -26860,8 +26860,8 @@ const features = {
       "user": "kes",
       "label": "guitar",
       "point": [
-        132,
-        228
+        0.12277019937040923,
+        0.48853211009174313
       ]
     },
     {
@@ -26870,8 +26870,8 @@ const features = {
       "user": "kes",
       "label": "pencil",
       "point": [
-        150,
-        228
+        0.1416579223504722,
+        0.48853211009174313
       ]
     },
     {
@@ -26880,8 +26880,8 @@ const features = {
       "user": "kes",
       "label": "clock",
       "point": [
-        202,
-        232
+        0.19622245540398742,
+        0.49770642201834864
       ]
     },
     {
@@ -26890,8 +26890,8 @@ const features = {
       "user": "Etienne",
       "label": "car",
       "point": [
-        246,
-        166
+        0.24239244491080797,
+        0.3463302752293578
       ]
     },
     {
@@ -26900,8 +26900,8 @@ const features = {
       "user": "Etienne",
       "label": "fish",
       "point": [
-        212,
-        121
+        0.20671563483735572,
+        0.24311926605504589
       ]
     },
     {
@@ -26910,8 +26910,8 @@ const features = {
       "user": "Etienne",
       "label": "house",
       "point": [
-        210,
-        168
+        0.20461699895068206,
+        0.35091743119266056
       ]
     },
     {
@@ -26920,8 +26920,8 @@ const features = {
       "user": "Etienne",
       "label": "tree",
       "point": [
-        228,
-        251
+        0.22350472193074503,
+        0.5412844036697247
       ]
     },
     {
@@ -26930,8 +26930,8 @@ const features = {
       "user": "Etienne",
       "label": "bicycle",
       "point": [
-        256,
-        211
+        0.2528856243441763,
+        0.44954128440366975
       ]
     },
     {
@@ -26940,8 +26940,8 @@ const features = {
       "user": "Etienne",
       "label": "guitar",
       "point": [
-        219,
-        318
+        0.21406086044071354,
+        0.694954128440367
       ]
     },
     {
@@ -26950,8 +26950,8 @@ const features = {
       "user": "Etienne",
       "label": "pencil",
       "point": [
-        232,
-        157
+        0.22770199370409233,
+        0.3256880733944954
       ]
     },
     {
@@ -26960,8 +26960,8 @@ const features = {
       "user": "Etienne",
       "label": "clock",
       "point": [
-        161,
-        341
+        0.15320041972717732,
+        0.7477064220183486
       ]
     },
     {
@@ -26970,8 +26970,8 @@ const features = {
       "user": "Hollayemi18 ",
       "label": "car",
       "point": [
-        335,
-        158
+        0.3357817418677859,
+        0.32798165137614677
       ]
     },
     {
@@ -26980,8 +26980,8 @@ const features = {
       "user": "Hollayemi18 ",
       "label": "fish",
       "point": [
-        245,
-        138
+        0.24134312696747115,
+        0.28211009174311924
       ]
     },
     {
@@ -26990,8 +26990,8 @@ const features = {
       "user": "Hollayemi18 ",
       "label": "house",
       "point": [
-        256,
-        271
+        0.2528856243441763,
+        0.5871559633027523
       ]
     },
     {
@@ -27000,8 +27000,8 @@ const features = {
       "user": "Hollayemi18 ",
       "label": "tree",
       "point": [
-        298,
-        374
+        0.2969569779643232,
+        0.823394495412844
       ]
     },
     {
@@ -27010,8 +27010,8 @@ const features = {
       "user": "Hollayemi18 ",
       "label": "bicycle",
       "point": [
-        271,
-        227
+        0.26862539349422876,
+        0.48623853211009177
       ]
     },
     {
@@ -27020,8 +27020,8 @@ const features = {
       "user": "Hollayemi18 ",
       "label": "guitar",
       "point": [
-        288,
-        241
+        0.2864637985309549,
+        0.518348623853211
       ]
     },
     {
@@ -27030,8 +27030,8 @@ const features = {
       "user": "Hollayemi18 ",
       "label": "pencil",
       "point": [
-        74,
-        243
+        0.06190975865687303,
+        0.5229357798165137
       ]
     },
     {
@@ -27040,8 +27040,8 @@ const features = {
       "user": "Hollayemi18 ",
       "label": "clock",
       "point": [
-        167,
-        212
+        0.15949632738719832,
+        0.4518348623853211
       ]
     },
     {
@@ -27050,8 +27050,8 @@ const features = {
       "user": "vj",
       "label": "car",
       "point": [
-        240,
-        119
+        0.236096537250787,
+        0.23853211009174313
       ]
     },
     {
@@ -27060,8 +27060,8 @@ const features = {
       "user": "vj",
       "label": "fish",
       "point": [
-        193,
-        225
+        0.18677859391395593,
+        0.481651376146789
       ]
     },
     {
@@ -27070,8 +27070,8 @@ const features = {
       "user": "vj",
       "label": "house",
       "point": [
-        196,
-        261
+        0.18992654774396642,
+        0.5642201834862385
       ]
     },
     {
@@ -27080,8 +27080,8 @@ const features = {
       "user": "vj",
       "label": "tree",
       "point": [
-        262,
-        356
+        0.25918153200419725,
+        0.7821100917431193
       ]
     },
     {
@@ -27090,8 +27090,8 @@ const features = {
       "user": "vj",
       "label": "bicycle",
       "point": [
-        289,
-        233
+        0.28751311647429173,
+        0.5
       ]
     },
     {
@@ -27100,8 +27100,8 @@ const features = {
       "user": "vj",
       "label": "guitar",
       "point": [
-        296,
-        263
+        0.29485834207764955,
+        0.5688073394495413
       ]
     },
     {
@@ -27110,8 +27110,8 @@ const features = {
       "user": "vj",
       "label": "pencil",
       "point": [
-        115,
-        197
+        0.1049317943336831,
+        0.41743119266055045
       ]
     },
     {
@@ -27120,8 +27120,8 @@ const features = {
       "user": "vj",
       "label": "clock",
       "point": [
-        272,
-        261
+        0.2696747114375656,
+        0.5642201834862385
       ]
     },
     {
@@ -27130,8 +27130,8 @@ const features = {
       "user": "khalil",
       "label": "car",
       "point": [
-        339,
-        126
+        0.33997901364113325,
+        0.2545871559633027
       ]
     },
     {
@@ -27140,8 +27140,8 @@ const features = {
       "user": "khalil",
       "label": "fish",
       "point": [
-        213,
-        118
+        0.20776495278069254,
+        0.23623853211009174
       ]
     },
     {
@@ -27150,8 +27150,8 @@ const features = {
       "user": "khalil",
       "label": "house",
       "point": [
-        158,
-        256
+        0.15005246589716684,
+        0.5527522935779816
       ]
     },
     {
@@ -27160,8 +27160,8 @@ const features = {
       "user": "khalil",
       "label": "tree",
       "point": [
-        240,
-        268
+        0.236096537250787,
+        0.5802752293577982
       ]
     },
     {
@@ -27170,8 +27170,8 @@ const features = {
       "user": "khalil",
       "label": "bicycle",
       "point": [
-        283,
-        140
+        0.2812172088142707,
+        0.286697247706422
       ]
     },
     {
@@ -27180,8 +27180,8 @@ const features = {
       "user": "khalil",
       "label": "guitar",
       "point": [
-        130,
-        315
+        0.12067156348373557,
+        0.6880733944954128
       ]
     },
     {
@@ -27190,8 +27190,8 @@ const features = {
       "user": "khalil",
       "label": "pencil",
       "point": [
-        299,
-        280
+        0.29800629590766003,
+        0.6077981651376146
       ]
     },
     {
@@ -27200,8 +27200,8 @@ const features = {
       "user": "khalil",
       "label": "clock",
       "point": [
-        198,
-        140
+        0.19202518363064008,
+        0.286697247706422
       ]
     },
     {
@@ -27210,8 +27210,8 @@ const features = {
       "user": "Manasvi",
       "label": "car",
       "point": [
-        376,
-        165
+        0.378803777544596,
+        0.3440366972477064
       ]
     },
     {
@@ -27220,8 +27220,8 @@ const features = {
       "user": "Manasvi",
       "label": "fish",
       "point": [
-        291,
-        233
+        0.28961175236096537,
+        0.5
       ]
     },
     {
@@ -27230,8 +27230,8 @@ const features = {
       "user": "Manasvi",
       "label": "house",
       "point": [
-        353,
-        252
+        0.3546694648478489,
+        0.5435779816513762
       ]
     },
     {
@@ -27240,8 +27240,8 @@ const features = {
       "user": "Manasvi",
       "label": "tree",
       "point": [
-        277,
-        333
+        0.27492130115424973,
+        0.7293577981651376
       ]
     },
     {
@@ -27250,8 +27250,8 @@ const features = {
       "user": "Manasvi",
       "label": "bicycle",
       "point": [
-        295,
-        181
+        0.2938090241343127,
+        0.38073394495412843
       ]
     },
     {
@@ -27260,8 +27260,8 @@ const features = {
       "user": "Manasvi",
       "label": "guitar",
       "point": [
-        324,
-        281
+        0.3242392444910808,
+        0.6100917431192661
       ]
     },
     {
@@ -27270,8 +27270,8 @@ const features = {
       "user": "Manasvi",
       "label": "pencil",
       "point": [
-        222,
-        299
+        0.21720881427072403,
+        0.6513761467889908
       ]
     },
     {
@@ -27280,8 +27280,8 @@ const features = {
       "user": "Manasvi",
       "label": "clock",
       "point": [
-        276,
-        215
+        0.2738719832109129,
+        0.45871559633027525
       ]
     },
     {
@@ -27290,8 +27290,8 @@ const features = {
       "user": "sunshine",
       "label": "car",
       "point": [
-        174,
-        63
+        0.16684155299055614,
+        0.11009174311926606
       ]
     },
     {
@@ -27300,8 +27300,8 @@ const features = {
       "user": "sunshine",
       "label": "fish",
       "point": [
-        101,
-        177
+        0.09024134312696747,
+        0.37155963302752293
       ]
     },
     {
@@ -27310,8 +27310,8 @@ const features = {
       "user": "sunshine",
       "label": "house",
       "point": [
-        132,
-        201
+        0.12277019937040923,
+        0.42660550458715596
       ]
     },
     {
@@ -27320,8 +27320,8 @@ const features = {
       "user": "sunshine",
       "label": "tree",
       "point": [
-        237,
-        265
+        0.23294858342077648,
+        0.573394495412844
       ]
     },
     {
@@ -27330,8 +27330,8 @@ const features = {
       "user": "sunshine",
       "label": "bicycle",
       "point": [
-        219,
-        135
+        0.21406086044071354,
+        0.27522935779816515
       ]
     },
     {
@@ -27340,8 +27340,8 @@ const features = {
       "user": "sunshine",
       "label": "guitar",
       "point": [
-        206,
-        200
+        0.20041972717733472,
+        0.4243119266055046
       ]
     },
     {
@@ -27350,8 +27350,8 @@ const features = {
       "user": "sunshine",
       "label": "pencil",
       "point": [
-        99,
-        190
+        0.08814270724029381,
+        0.4013761467889908
       ]
     },
     {
@@ -27360,8 +27360,8 @@ const features = {
       "user": "sunshine",
       "label": "clock",
       "point": [
-        173,
-        181
+        0.1657922350472193,
+        0.38073394495412843
       ]
     },
     {
@@ -27370,8 +27370,8 @@ const features = {
       "user": "snake8",
       "label": "car",
       "point": [
-        515,
-        121
+        0.5246589716684156,
+        0.24311926605504589
       ]
     },
     {
@@ -27380,8 +27380,8 @@ const features = {
       "user": "snake8",
       "label": "fish",
       "point": [
-        288,
-        150
+        0.2864637985309549,
+        0.30963302752293576
       ]
     },
     {
@@ -27390,8 +27390,8 @@ const features = {
       "user": "snake8",
       "label": "house",
       "point": [
-        451,
-        231
+        0.45750262329485836,
+        0.4954128440366973
       ]
     },
     {
@@ -27400,8 +27400,8 @@ const features = {
       "user": "snake8",
       "label": "tree",
       "point": [
-        270,
-        296
+        0.2675760755508919,
+        0.6444954128440367
       ]
     },
     {
@@ -27410,8 +27410,8 @@ const features = {
       "user": "snake8",
       "label": "bicycle",
       "point": [
-        222,
-        114
+        0.21720881427072403,
+        0.22706422018348624
       ]
     },
     {
@@ -27420,8 +27420,8 @@ const features = {
       "user": "snake8",
       "label": "guitar",
       "point": [
-        242,
-        282
+        0.23819517313746066,
+        0.6123853211009175
       ]
     },
     {
@@ -27430,8 +27430,8 @@ const features = {
       "user": "snake8",
       "label": "pencil",
       "point": [
-        152,
-        272
+        0.14375655823714587,
+        0.5894495412844036
       ]
     },
     {
@@ -27440,8 +27440,8 @@ const features = {
       "user": "snake8",
       "label": "clock",
       "point": [
-        212,
-        221
+        0.20671563483735572,
+        0.4724770642201835
       ]
     },
     {
@@ -27450,8 +27450,8 @@ const features = {
       "user": "casafurix",
       "label": "car",
       "point": [
-        168,
-        104
+        0.16054564533053514,
+        0.20412844036697247
       ]
     },
     {
@@ -27460,8 +27460,8 @@ const features = {
       "user": "casafurix",
       "label": "fish",
       "point": [
-        145,
-        50
+        0.13641133263378805,
+        0.08027522935779817
       ]
     },
     {
@@ -27470,8 +27470,8 @@ const features = {
       "user": "casafurix",
       "label": "house",
       "point": [
-        159,
-        190
+        0.15110178384050368,
+        0.4013761467889908
       ]
     },
     {
@@ -27480,8 +27480,8 @@ const features = {
       "user": "casafurix",
       "label": "tree",
       "point": [
-        151,
-        199
+        0.14270724029380902,
+        0.42201834862385323
       ]
     },
     {
@@ -27490,8 +27490,8 @@ const features = {
       "user": "casafurix",
       "label": "bicycle",
       "point": [
-        145,
-        91
+        0.13641133263378805,
+        0.1743119266055046
       ]
     },
     {
@@ -27500,8 +27500,8 @@ const features = {
       "user": "casafurix",
       "label": "guitar",
       "point": [
-        264,
-        100
+        0.26128016789087094,
+        0.19495412844036697
       ]
     },
     {
@@ -27510,8 +27510,8 @@ const features = {
       "user": "casafurix",
       "label": "pencil",
       "point": [
-        165,
-        39
+        0.15739769150052466,
+        0.05504587155963303
       ]
     },
     {
@@ -27520,8 +27520,8 @@ const features = {
       "user": "casafurix",
       "label": "clock",
       "point": [
-        143,
-        132
+        0.13431269674711438,
+        0.268348623853211
       ]
     },
     {
@@ -27530,8 +27530,8 @@ const features = {
       "user": "Eternam",
       "label": "car",
       "point": [
-        343,
-        175
+        0.3441762854144806,
+        0.3669724770642202
       ]
     },
     {
@@ -27540,8 +27540,8 @@ const features = {
       "user": "Eternam",
       "label": "fish",
       "point": [
-        332,
-        282
+        0.33263378803777544,
+        0.6123853211009175
       ]
     },
     {
@@ -27550,8 +27550,8 @@ const features = {
       "user": "Eternam",
       "label": "house",
       "point": [
-        338,
-        325
+        0.3389296956977964,
+        0.7110091743119266
       ]
     },
     {
@@ -27560,8 +27560,8 @@ const features = {
       "user": "Eternam",
       "label": "tree",
       "point": [
-        317,
-        344
+        0.316894018887723,
+        0.7545871559633027
       ]
     },
     {
@@ -27570,8 +27570,8 @@ const features = {
       "user": "Eternam",
       "label": "bicycle",
       "point": [
-        282,
-        198
+        0.2801678908709339,
+        0.4197247706422018
       ]
     },
     {
@@ -27580,8 +27580,8 @@ const features = {
       "user": "Eternam",
       "label": "guitar",
       "point": [
-        338,
-        329
+        0.3389296956977964,
+        0.7201834862385321
       ]
     },
     {
@@ -27590,8 +27590,8 @@ const features = {
       "user": "Eternam",
       "label": "pencil",
       "point": [
-        221,
-        260
+        0.2161594963273872,
+        0.5619266055045872
       ]
     },
     {
@@ -27600,8 +27600,8 @@ const features = {
       "user": "Eternam",
       "label": "clock",
       "point": [
-        398,
-        403
+        0.4018887722980063,
+        0.8899082568807339
       ]
     },
     {
@@ -27610,8 +27610,8 @@ const features = {
       "user": "Frank",
       "label": "car",
       "point": [
-        325,
-        175
+        0.3252885624344176,
+        0.3669724770642202
       ]
     },
     {
@@ -27620,8 +27620,8 @@ const features = {
       "user": "Frank",
       "label": "fish",
       "point": [
-        310,
-        197
+        0.3095487932843652,
+        0.41743119266055045
       ]
     },
     {
@@ -27630,8 +27630,8 @@ const features = {
       "user": "Frank",
       "label": "house",
       "point": [
-        202,
-        258
+        0.19622245540398742,
+        0.5573394495412844
       ]
     },
     {
@@ -27640,8 +27640,8 @@ const features = {
       "user": "Frank",
       "label": "tree",
       "point": [
-        237,
-        321
+        0.23294858342077648,
+        0.7018348623853211
       ]
     },
     {
@@ -27650,8 +27650,8 @@ const features = {
       "user": "Frank",
       "label": "bicycle",
       "point": [
-        271,
-        180
+        0.26862539349422876,
+        0.37844036697247707
       ]
     },
     {
@@ -27660,8 +27660,8 @@ const features = {
       "user": "Frank",
       "label": "guitar",
       "point": [
-        166,
-        319
+        0.1584470094438615,
+        0.6972477064220184
       ]
     },
     {
@@ -27670,8 +27670,8 @@ const features = {
       "user": "Frank",
       "label": "pencil",
       "point": [
-        109,
-        283
+        0.09863588667366212,
+        0.6146788990825688
       ]
     },
     {
@@ -27680,8 +27680,8 @@ const features = {
       "user": "Frank",
       "label": "clock",
       "point": [
-        231,
-        268
+        0.2266526757607555,
+        0.5802752293577982
       ]
     },
     {
@@ -27690,8 +27690,8 @@ const features = {
       "user": "Arkadiusz",
       "label": "car",
       "point": [
-        362,
-        105
+        0.3641133263378804,
+        0.20642201834862386
       ]
     },
     {
@@ -27700,8 +27700,8 @@ const features = {
       "user": "Arkadiusz",
       "label": "fish",
       "point": [
-        284,
-        173
+        0.28226652675760755,
+        0.3623853211009174
       ]
     },
     {
@@ -27710,8 +27710,8 @@ const features = {
       "user": "Arkadiusz",
       "label": "house",
       "point": [
-        177,
-        280
+        0.16998950682056663,
+        0.6077981651376146
       ]
     },
     {
@@ -27720,8 +27720,8 @@ const features = {
       "user": "Arkadiusz",
       "label": "tree",
       "point": [
-        282,
-        356
+        0.2801678908709339,
+        0.7821100917431193
       ]
     },
     {
@@ -27730,8 +27730,8 @@ const features = {
       "user": "Arkadiusz",
       "label": "bicycle",
       "point": [
-        286,
-        130
+        0.28436516264428124,
+        0.26376146788990823
       ]
     },
     {
@@ -27740,8 +27740,8 @@ const features = {
       "user": "Arkadiusz",
       "label": "guitar",
       "point": [
-        105,
-        315
+        0.0944386149003148,
+        0.6880733944954128
       ]
     },
     {
@@ -27750,8 +27750,8 @@ const features = {
       "user": "Arkadiusz",
       "label": "pencil",
       "point": [
-        261,
-        153
+        0.25813221406086045,
+        0.3165137614678899
       ]
     },
     {
@@ -27760,8 +27760,8 @@ const features = {
       "user": "Arkadiusz",
       "label": "clock",
       "point": [
-        139,
-        221
+        0.13011542497376705,
+        0.4724770642201835
       ]
     },
     {
@@ -27770,8 +27770,8 @@ const features = {
       "user": "Swaroop",
       "label": "car",
       "point": [
-        308,
-        145
+        0.3074501573976915,
+        0.2981651376146789
       ]
     },
     {
@@ -27780,8 +27780,8 @@ const features = {
       "user": "Swaroop",
       "label": "fish",
       "point": [
-        235,
-        114
+        0.23084994753410285,
+        0.22706422018348624
       ]
     },
     {
@@ -27790,8 +27790,8 @@ const features = {
       "user": "Swaroop",
       "label": "house",
       "point": [
-        186,
-        216
+        0.1794333683105981,
+        0.4610091743119266
       ]
     },
     {
@@ -27800,8 +27800,8 @@ const features = {
       "user": "Swaroop",
       "label": "tree",
       "point": [
-        171,
-        298
+        0.16369359916054566,
+        0.6490825688073395
       ]
     },
     {
@@ -27810,8 +27810,8 @@ const features = {
       "user": "Swaroop",
       "label": "bicycle",
       "point": [
-        316,
-        221
+        0.31584470094438616,
+        0.4724770642201835
       ]
     },
     {
@@ -27820,8 +27820,8 @@ const features = {
       "user": "Swaroop",
       "label": "guitar",
       "point": [
-        164,
-        288
+        0.15634837355718784,
+        0.6261467889908257
       ]
     },
     {
@@ -27830,8 +27830,8 @@ const features = {
       "user": "Swaroop",
       "label": "pencil",
       "point": [
-        167,
-        150
+        0.15949632738719832,
+        0.30963302752293576
       ]
     },
     {
@@ -27840,8 +27840,8 @@ const features = {
       "user": "Swaroop",
       "label": "clock",
       "point": [
-        199,
-        192
+        0.1930745015739769,
+        0.4059633027522936
       ]
     },
     {
@@ -27850,8 +27850,8 @@ const features = {
       "user": "AA",
       "label": "car",
       "point": [
-        259,
-        200
+        0.25603357817418676,
+        0.4243119266055046
       ]
     },
     {
@@ -27860,8 +27860,8 @@ const features = {
       "user": "AA",
       "label": "fish",
       "point": [
-        233,
-        172
+        0.22875131164742918,
+        0.36009174311926606
       ]
     },
     {
@@ -27870,8 +27870,8 @@ const features = {
       "user": "AA",
       "label": "house",
       "point": [
-        247,
-        210
+        0.24344176285414482,
+        0.44724770642201833
       ]
     },
     {
@@ -27880,8 +27880,8 @@ const features = {
       "user": "AA",
       "label": "tree",
       "point": [
-        331,
-        353
+        0.3315844700944386,
+        0.7752293577981652
       ]
     },
     {
@@ -27890,8 +27890,8 @@ const features = {
       "user": "AA",
       "label": "bicycle",
       "point": [
-        236,
-        214
+        0.23189926547743966,
+        0.45642201834862384
       ]
     },
     {
@@ -27900,8 +27900,8 @@ const features = {
       "user": "AA",
       "label": "guitar",
       "point": [
-        236,
-        311
+        0.23189926547743966,
+        0.6788990825688074
       ]
     },
     {
@@ -27910,8 +27910,8 @@ const features = {
       "user": "AA",
       "label": "pencil",
       "point": [
-        65,
-        188
+        0.05246589716684155,
+        0.3967889908256881
       ]
     },
     {
@@ -27920,8 +27920,8 @@ const features = {
       "user": "AA",
       "label": "clock",
       "point": [
-        56,
-        155
+        0.04302203567681007,
+        0.3211009174311927
       ]
     },
     {
@@ -27930,8 +27930,8 @@ const features = {
       "user": "ankush",
       "label": "car",
       "point": [
-        326,
-        232
+        0.32633788037775446,
+        0.49770642201834864
       ]
     },
     {
@@ -27940,8 +27940,8 @@ const features = {
       "user": "ankush",
       "label": "fish",
       "point": [
-        207,
-        180
+        0.20146904512067157,
+        0.37844036697247707
       ]
     },
     {
@@ -27950,8 +27950,8 @@ const features = {
       "user": "ankush",
       "label": "house",
       "point": [
-        284,
-        233
+        0.28226652675760755,
+        0.5
       ]
     },
     {
@@ -27960,8 +27960,8 @@ const features = {
       "user": "ankush",
       "label": "tree",
       "point": [
-        338,
-        268
+        0.3389296956977964,
+        0.5802752293577982
       ]
     },
     {
@@ -27970,8 +27970,8 @@ const features = {
       "user": "ankush",
       "label": "bicycle",
       "point": [
-        212,
-        197
+        0.20671563483735572,
+        0.41743119266055045
       ]
     },
     {
@@ -27980,8 +27980,8 @@ const features = {
       "user": "ankush",
       "label": "guitar",
       "point": [
-        244,
-        226
+        0.2402938090241343,
+        0.48394495412844035
       ]
     },
     {
@@ -27990,8 +27990,8 @@ const features = {
       "user": "ankush",
       "label": "pencil",
       "point": [
-        75,
-        259
+        0.06295907660020986,
+        0.5596330275229358
       ]
     },
     {
@@ -28000,8 +28000,8 @@ const features = {
       "user": "ankush",
       "label": "clock",
       "point": [
-        185,
-        219
+        0.1783840503672613,
+        0.46788990825688076
       ]
     },
     {
@@ -28010,8 +28010,8 @@ const features = {
       "user": "Mahmud",
       "label": "car",
       "point": [
-        260,
-        128
+        0.2570828961175236,
+        0.2591743119266055
       ]
     },
     {
@@ -28020,8 +28020,8 @@ const features = {
       "user": "Mahmud",
       "label": "fish",
       "point": [
-        219,
-        110
+        0.21406086044071354,
+        0.21788990825688073
       ]
     },
     {
@@ -28030,8 +28030,8 @@ const features = {
       "user": "Mahmud",
       "label": "house",
       "point": [
-        270,
-        160
+        0.2675760755508919,
+        0.33256880733944955
       ]
     },
     {
@@ -28040,8 +28040,8 @@ const features = {
       "user": "Mahmud",
       "label": "tree",
       "point": [
-        247,
-        269
+        0.24344176285414482,
+        0.5825688073394495
       ]
     },
     {
@@ -28050,8 +28050,8 @@ const features = {
       "user": "Mahmud",
       "label": "bicycle",
       "point": [
-        132,
-        85
+        0.12277019937040923,
+        0.16055045871559634
       ]
     },
     {
@@ -28060,8 +28060,8 @@ const features = {
       "user": "Mahmud",
       "label": "guitar",
       "point": [
-        236,
-        225
+        0.23189926547743966,
+        0.481651376146789
       ]
     },
     {
@@ -28070,8 +28070,8 @@ const features = {
       "user": "Mahmud",
       "label": "pencil",
       "point": [
-        57,
-        291
+        0.04407135362014691,
+        0.6330275229357798
       ]
     },
     {
@@ -28080,8 +28080,8 @@ const features = {
       "user": "Mahmud",
       "label": "clock",
       "point": [
-        147,
-        141
+        0.1385099685204617,
+        0.2889908256880734
       ]
     },
     {
@@ -28090,8 +28090,8 @@ const features = {
       "user": "prophet",
       "label": "car",
       "point": [
-        208,
-        112
+        0.2025183630640084,
+        0.22247706422018348
       ]
     },
     {
@@ -28100,8 +28100,8 @@ const features = {
       "user": "prophet",
       "label": "fish",
       "point": [
-        205,
-        115
+        0.1993704092339979,
+        0.22935779816513763
       ]
     },
     {
@@ -28110,8 +28110,8 @@ const features = {
       "user": "prophet",
       "label": "house",
       "point": [
-        320,
-        288
+        0.3200419727177335,
+        0.6261467889908257
       ]
     },
     {
@@ -28120,8 +28120,8 @@ const features = {
       "user": "prophet",
       "label": "tree",
       "point": [
-        254,
-        346
+        0.25078698845750264,
+        0.7591743119266054
       ]
     },
     {
@@ -28130,8 +28130,8 @@ const features = {
       "user": "prophet",
       "label": "bicycle",
       "point": [
-        298,
-        252
+        0.2969569779643232,
+        0.5435779816513762
       ]
     },
     {
@@ -28140,8 +28140,8 @@ const features = {
       "user": "prophet",
       "label": "guitar",
       "point": [
-        105,
-        207
+        0.0944386149003148,
+        0.44036697247706424
       ]
     },
     {
@@ -28150,8 +28150,8 @@ const features = {
       "user": "prophet",
       "label": "pencil",
       "point": [
-        195,
-        197
+        0.1888772298006296,
+        0.41743119266055045
       ]
     },
     {
@@ -28160,8 +28160,8 @@ const features = {
       "user": "prophet",
       "label": "clock",
       "point": [
-        184,
-        159
+        0.17733473242392445,
+        0.3302752293577982
       ]
     },
     {
@@ -28170,8 +28170,8 @@ const features = {
       "user": "Jitendar",
       "label": "car",
       "point": [
-        294,
-        236
+        0.29275970619097585,
+        0.5068807339449541
       ]
     },
     {
@@ -28180,8 +28180,8 @@ const features = {
       "user": "Jitendar",
       "label": "fish",
       "point": [
-        322,
-        234
+        0.32214060860440713,
+        0.5022935779816514
       ]
     },
     {
@@ -28190,8 +28190,8 @@ const features = {
       "user": "Jitendar",
       "label": "house",
       "point": [
-        193,
-        260
+        0.18677859391395593,
+        0.5619266055045872
       ]
     },
     {
@@ -28200,8 +28200,8 @@ const features = {
       "user": "Jitendar",
       "label": "tree",
       "point": [
-        225,
-        288
+        0.2203567681007345,
+        0.6261467889908257
       ]
     },
     {
@@ -28210,8 +28210,8 @@ const features = {
       "user": "Jitendar",
       "label": "bicycle",
       "point": [
-        275,
-        217
+        0.2728226652675761,
+        0.463302752293578
       ]
     },
     {
@@ -28220,8 +28220,8 @@ const features = {
       "user": "Jitendar",
       "label": "guitar",
       "point": [
-        328,
-        135
+        0.3284365162644281,
+        0.27522935779816515
       ]
     },
     {
@@ -28230,8 +28230,8 @@ const features = {
       "user": "Jitendar",
       "label": "pencil",
       "point": [
-        45,
-        230
+        0.03147953830010493,
+        0.49311926605504586
       ]
     },
     {
@@ -28240,8 +28240,8 @@ const features = {
       "user": "Jitendar",
       "label": "clock",
       "point": [
-        141,
-        190
+        0.1322140608604407,
+        0.4013761467889908
       ]
     },
     {
@@ -28250,8 +28250,8 @@ const features = {
       "user": "Thomas",
       "label": "car",
       "point": [
-        387,
-        186
+        0.39034627492130114,
+        0.3922018348623853
       ]
     },
     {
@@ -28260,8 +28260,8 @@ const features = {
       "user": "Thomas",
       "label": "fish",
       "point": [
-        338,
-        98
+        0.3389296956977964,
+        0.19036697247706422
       ]
     },
     {
@@ -28270,8 +28270,8 @@ const features = {
       "user": "Thomas",
       "label": "house",
       "point": [
-        326,
-        263
+        0.32633788037775446,
+        0.5688073394495413
       ]
     },
     {
@@ -28280,8 +28280,8 @@ const features = {
       "user": "Thomas",
       "label": "tree",
       "point": [
-        227,
-        354
+        0.22245540398740818,
+        0.7775229357798165
       ]
     },
     {
@@ -28290,8 +28290,8 @@ const features = {
       "user": "Thomas",
       "label": "bicycle",
       "point": [
-        303,
-        168
+        0.30220356768100737,
+        0.35091743119266056
       ]
     },
     {
@@ -28300,8 +28300,8 @@ const features = {
       "user": "Thomas",
       "label": "guitar",
       "point": [
-        289,
-        312
+        0.28751311647429173,
+        0.6811926605504587
       ]
     },
     {
@@ -28310,8 +28310,8 @@ const features = {
       "user": "Thomas",
       "label": "pencil",
       "point": [
-        36,
-        342
+        0.022035676810073453,
+        0.75
       ]
     },
     {
@@ -28320,8 +28320,8 @@ const features = {
       "user": "Thomas",
       "label": "clock",
       "point": [
-        152,
-        157
+        0.14375655823714587,
+        0.3256880733944954
       ]
     },
     {
@@ -28330,8 +28330,8 @@ const features = {
       "user": "Ghsamm",
       "label": "car",
       "point": [
-        300,
-        138
+        0.2990556138509968,
+        0.28211009174311924
       ]
     },
     {
@@ -28340,8 +28340,8 @@ const features = {
       "user": "Ghsamm",
       "label": "fish",
       "point": [
-        203,
-        145
+        0.19727177334732424,
+        0.2981651376146789
       ]
     },
     {
@@ -28350,8 +28350,8 @@ const features = {
       "user": "Ghsamm",
       "label": "house",
       "point": [
-        174,
-        254
+        0.16684155299055614,
+        0.5481651376146789
       ]
     },
     {
@@ -28360,8 +28360,8 @@ const features = {
       "user": "Ghsamm",
       "label": "tree",
       "point": [
-        189,
-        216
+        0.1825813221406086,
+        0.4610091743119266
       ]
     },
     {
@@ -28370,8 +28370,8 @@ const features = {
       "user": "Ghsamm",
       "label": "bicycle",
       "point": [
-        232,
-        166
+        0.22770199370409233,
+        0.3463302752293578
       ]
     },
     {
@@ -28380,8 +28380,8 @@ const features = {
       "user": "Ghsamm",
       "label": "guitar",
       "point": [
-        250,
-        152
+        0.2465897166841553,
+        0.31422018348623854
       ]
     },
     {
@@ -28390,8 +28390,8 @@ const features = {
       "user": "Ghsamm",
       "label": "pencil",
       "point": [
-        152,
-        171
+        0.14375655823714587,
+        0.3577981651376147
       ]
     },
     {
@@ -28400,8 +28400,8 @@ const features = {
       "user": "Ghsamm",
       "label": "clock",
       "point": [
-        219,
-        233
+        0.21406086044071354,
+        0.5
       ]
     },
     {
@@ -28410,8 +28410,8 @@ const features = {
       "user": "Franz",
       "label": "car",
       "point": [
-        216,
-        75
+        0.21091290661070305,
+        0.13761467889908258
       ]
     },
     {
@@ -28420,8 +28420,8 @@ const features = {
       "user": "Franz",
       "label": "fish",
       "point": [
-        302,
-        190
+        0.3011542497376705,
+        0.4013761467889908
       ]
     },
     {
@@ -28430,8 +28430,8 @@ const features = {
       "user": "Franz",
       "label": "house",
       "point": [
-        360,
-        307
+        0.3620146904512067,
+        0.6697247706422018
       ]
     },
     {
@@ -28440,8 +28440,8 @@ const features = {
       "user": "Franz",
       "label": "tree",
       "point": [
-        305,
-        382
+        0.304302203567681,
+        0.841743119266055
       ]
     },
     {
@@ -28450,8 +28450,8 @@ const features = {
       "user": "Franz",
       "label": "bicycle",
       "point": [
-        317,
-        190
+        0.316894018887723,
+        0.4013761467889908
       ]
     },
     {
@@ -28460,8 +28460,8 @@ const features = {
       "user": "Franz",
       "label": "guitar",
       "point": [
-        167,
-        371
+        0.15949632738719832,
+        0.8165137614678899
       ]
     },
     {
@@ -28470,8 +28470,8 @@ const features = {
       "user": "Franz",
       "label": "pencil",
       "point": [
-        371,
-        74
+        0.37355718782791186,
+        0.1353211009174312
       ]
     },
     {
@@ -28480,8 +28480,8 @@ const features = {
       "user": "Franz",
       "label": "clock",
       "point": [
-        278,
-        292
+        0.2759706190975866,
+        0.6353211009174312
       ]
     },
     {
@@ -28490,8 +28490,8 @@ const features = {
       "user": "sads",
       "label": "car",
       "point": [
-        312,
-        132
+        0.3116474291710388,
+        0.268348623853211
       ]
     },
     {
@@ -28500,8 +28500,8 @@ const features = {
       "user": "sads",
       "label": "fish",
       "point": [
-        147,
-        114
+        0.1385099685204617,
+        0.22706422018348624
       ]
     },
     {
@@ -28510,8 +28510,8 @@ const features = {
       "user": "sads",
       "label": "house",
       "point": [
-        223,
-        229
+        0.21825813221406087,
+        0.4908256880733945
       ]
     },
     {
@@ -28520,8 +28520,8 @@ const features = {
       "user": "sads",
       "label": "tree",
       "point": [
-        196,
-        239
+        0.18992654774396642,
+        0.5137614678899083
       ]
     },
     {
@@ -28530,8 +28530,8 @@ const features = {
       "user": "sads",
       "label": "bicycle",
       "point": [
-        292,
-        223
+        0.2906610703043022,
+        0.47706422018348627
       ]
     },
     {
@@ -28540,8 +28540,8 @@ const features = {
       "user": "sads",
       "label": "guitar",
       "point": [
-        261,
-        223
+        0.25813221406086045,
+        0.47706422018348627
       ]
     },
     {
@@ -28550,8 +28550,8 @@ const features = {
       "user": "sads",
       "label": "pencil",
       "point": [
-        98,
-        341
+        0.08709338929695698,
+        0.7477064220183486
       ]
     },
     {
@@ -28560,8 +28560,8 @@ const features = {
       "user": "sads",
       "label": "clock",
       "point": [
-        155,
-        214
+        0.14690451206715635,
+        0.45642201834862384
       ]
     },
     {
@@ -28570,8 +28570,8 @@ const features = {
       "user": "Santiago",
       "label": "car",
       "point": [
-        215,
-        103
+        0.2098635886673662,
+        0.2018348623853211
       ]
     },
     {
@@ -28580,8 +28580,8 @@ const features = {
       "user": "Santiago",
       "label": "fish",
       "point": [
-        161,
-        80
+        0.15320041972717732,
+        0.14908256880733944
       ]
     },
     {
@@ -28590,8 +28590,8 @@ const features = {
       "user": "Santiago",
       "label": "house",
       "point": [
-        204,
-        182
+        0.19832109129066108,
+        0.3830275229357798
       ]
     },
     {
@@ -28600,8 +28600,8 @@ const features = {
       "user": "Santiago",
       "label": "tree",
       "point": [
-        193,
-        232
+        0.18677859391395593,
+        0.49770642201834864
       ]
     },
     {
@@ -28610,8 +28610,8 @@ const features = {
       "user": "Santiago",
       "label": "bicycle",
       "point": [
-        265,
-        170
+        0.2623294858342078,
+        0.3555045871559633
       ]
     },
     {
@@ -28620,8 +28620,8 @@ const features = {
       "user": "Santiago",
       "label": "guitar",
       "point": [
-        151,
-        245
+        0.14270724029380902,
+        0.5275229357798165
       ]
     },
     {
@@ -28630,8 +28630,8 @@ const features = {
       "user": "Santiago",
       "label": "pencil",
       "point": [
-        59,
-        298
+        0.046169989506820566,
+        0.6490825688073395
       ]
     },
     {
@@ -28640,8 +28640,8 @@ const features = {
       "user": "Santiago",
       "label": "clock",
       "point": [
-        177,
-        225
+        0.16998950682056663,
+        0.481651376146789
       ]
     },
     {
@@ -28650,8 +28650,8 @@ const features = {
       "user": "Ameen",
       "label": "car",
       "point": [
-        251,
-        155
+        0.24763903462749212,
+        0.3211009174311927
       ]
     },
     {
@@ -28660,8 +28660,8 @@ const features = {
       "user": "Ameen",
       "label": "fish",
       "point": [
-        124,
-        55
+        0.11437565582371459,
+        0.09174311926605505
       ]
     },
     {
@@ -28670,8 +28670,8 @@ const features = {
       "user": "Ameen",
       "label": "house",
       "point": [
-        158,
-        142
+        0.15005246589716684,
+        0.29128440366972475
       ]
     },
     {
@@ -28680,8 +28680,8 @@ const features = {
       "user": "Ameen",
       "label": "tree",
       "point": [
-        95,
-        136
+        0.08394543546694648,
+        0.2775229357798165
       ]
     },
     {
@@ -28690,8 +28690,8 @@ const features = {
       "user": "Ameen",
       "label": "bicycle",
       "point": [
-        185,
-        135
+        0.1783840503672613,
+        0.27522935779816515
       ]
     },
     {
@@ -28700,8 +28700,8 @@ const features = {
       "user": "Ameen",
       "label": "guitar",
       "point": [
-        127,
-        139
+        0.11752360965372508,
+        0.28440366972477066
       ]
     },
     {
@@ -28710,8 +28710,8 @@ const features = {
       "user": "Ameen",
       "label": "pencil",
       "point": [
-        147,
-        95
+        0.1385099685204617,
+        0.1834862385321101
       ]
     },
     {
@@ -28720,8 +28720,8 @@ const features = {
       "user": "Ameen",
       "label": "clock",
       "point": [
-        118,
-        130
+        0.1080797481636936,
+        0.26376146788990823
       ]
     },
     {
@@ -28730,8 +28730,8 @@ const features = {
       "user": "Ruslan",
       "label": "car",
       "point": [
-        247,
-        97
+        0.24344176285414482,
+        0.18807339449541285
       ]
     },
     {
@@ -28740,8 +28740,8 @@ const features = {
       "user": "Ruslan",
       "label": "fish",
       "point": [
-        253,
-        82
+        0.2497376705141658,
+        0.1536697247706422
       ]
     },
     {
@@ -28750,8 +28750,8 @@ const features = {
       "user": "Ruslan",
       "label": "house",
       "point": [
-        237,
-        237
+        0.23294858342077648,
+        0.5091743119266054
       ]
     },
     {
@@ -28760,8 +28760,8 @@ const features = {
       "user": "Ruslan",
       "label": "tree",
       "point": [
-        277,
-        298
+        0.27492130115424973,
+        0.6490825688073395
       ]
     },
     {
@@ -28770,8 +28770,8 @@ const features = {
       "user": "Ruslan",
       "label": "bicycle",
       "point": [
-        260,
-        127
+        0.2570828961175236,
+        0.25688073394495414
       ]
     },
     {
@@ -28780,8 +28780,8 @@ const features = {
       "user": "Ruslan",
       "label": "guitar",
       "point": [
-        338,
-        150
+        0.3389296956977964,
+        0.30963302752293576
       ]
     },
     {
@@ -28790,8 +28790,8 @@ const features = {
       "user": "Ruslan",
       "label": "pencil",
       "point": [
-        219,
-        225
+        0.21406086044071354,
+        0.481651376146789
       ]
     },
     {
@@ -28800,8 +28800,8 @@ const features = {
       "user": "Ruslan",
       "label": "clock",
       "point": [
-        259,
-        208
+        0.25603357817418676,
+        0.4426605504587156
       ]
     },
     {
@@ -28810,8 +28810,8 @@ const features = {
       "user": "PetrL",
       "label": "car",
       "point": [
-        183,
-        142
+        0.17628541448058763,
+        0.29128440366972475
       ]
     },
     {
@@ -28820,8 +28820,8 @@ const features = {
       "user": "PetrL",
       "label": "fish",
       "point": [
-        212,
-        181
+        0.20671563483735572,
+        0.38073394495412843
       ]
     },
     {
@@ -28830,8 +28830,8 @@ const features = {
       "user": "PetrL",
       "label": "house",
       "point": [
-        185,
-        185
+        0.1783840503672613,
+        0.38990825688073394
       ]
     },
     {
@@ -28840,8 +28840,8 @@ const features = {
       "user": "PetrL",
       "label": "tree",
       "point": [
-        215,
-        253
+        0.2098635886673662,
+        0.5458715596330275
       ]
     },
     {
@@ -28850,8 +28850,8 @@ const features = {
       "user": "PetrL",
       "label": "bicycle",
       "point": [
-        146,
-        149
+        0.13746065057712487,
+        0.3073394495412844
       ]
     },
     {
@@ -28860,8 +28860,8 @@ const features = {
       "user": "PetrL",
       "label": "guitar",
       "point": [
-        158,
-        211
+        0.15005246589716684,
+        0.44954128440366975
       ]
     },
     {
@@ -28870,8 +28870,8 @@ const features = {
       "user": "PetrL",
       "label": "pencil",
       "point": [
-        190,
-        299
+        0.18363064008394545,
+        0.6513761467889908
       ]
     },
     {
@@ -28880,8 +28880,8 @@ const features = {
       "user": "PetrL",
       "label": "clock",
       "point": [
-        262,
-        292
+        0.25918153200419725,
+        0.6353211009174312
       ]
     },
     {
@@ -28890,8 +28890,8 @@ const features = {
       "user": "Muhammad ",
       "label": "car",
       "point": [
-        301,
-        162
+        0.3001049317943337,
+        0.33715596330275227
       ]
     },
     {
@@ -28900,8 +28900,8 @@ const features = {
       "user": "Muhammad ",
       "label": "fish",
       "point": [
-        244,
-        206
+        0.2402938090241343,
+        0.4380733944954128
       ]
     },
     {
@@ -28910,8 +28910,8 @@ const features = {
       "user": "Muhammad ",
       "label": "house",
       "point": [
-        225,
-        234
+        0.2203567681007345,
+        0.5022935779816514
       ]
     },
     {
@@ -28920,8 +28920,8 @@ const features = {
       "user": "Muhammad ",
       "label": "tree",
       "point": [
-        335,
-        328
+        0.3357817418677859,
+        0.7178899082568807
       ]
     },
     {
@@ -28930,8 +28930,8 @@ const features = {
       "user": "Muhammad ",
       "label": "bicycle",
       "point": [
-        265,
-        159
+        0.2623294858342078,
+        0.3302752293577982
       ]
     },
     {
@@ -28940,8 +28940,8 @@ const features = {
       "user": "Muhammad ",
       "label": "guitar",
       "point": [
-        311,
-        259
+        0.310598111227702,
+        0.5596330275229358
       ]
     },
     {
@@ -28950,8 +28950,8 @@ const features = {
       "user": "Muhammad ",
       "label": "pencil",
       "point": [
-        252,
-        352
+        0.24868835257082897,
+        0.7729357798165137
       ]
     },
     {
@@ -28960,8 +28960,8 @@ const features = {
       "user": "Muhammad ",
       "label": "clock",
       "point": [
-        161,
-        373
+        0.15320041972717732,
+        0.8211009174311926
       ]
     },
     {
@@ -28970,8 +28970,8 @@ const features = {
       "user": "Stefan",
       "label": "car",
       "point": [
-        364,
-        163
+        0.36621196222455404,
+        0.3394495412844037
       ]
     },
     {
@@ -28980,8 +28980,8 @@ const features = {
       "user": "Stefan",
       "label": "fish",
       "point": [
-        272,
-        131
+        0.2696747114375656,
+        0.26605504587155965
       ]
     },
     {
@@ -28990,8 +28990,8 @@ const features = {
       "user": "Stefan",
       "label": "house",
       "point": [
-        208,
-        245
+        0.2025183630640084,
+        0.5275229357798165
       ]
     },
     {
@@ -29000,8 +29000,8 @@ const features = {
       "user": "Stefan",
       "label": "tree",
       "point": [
-        294,
-        360
+        0.29275970619097585,
+        0.7912844036697247
       ]
     },
     {
@@ -29010,8 +29010,8 @@ const features = {
       "user": "Stefan",
       "label": "bicycle",
       "point": [
-        293,
-        173
+        0.291710388247639,
+        0.3623853211009174
       ]
     },
     {
@@ -29020,8 +29020,8 @@ const features = {
       "user": "Stefan",
       "label": "guitar",
       "point": [
-        340,
-        197
+        0.3410283315844701,
+        0.41743119266055045
       ]
     },
     {
@@ -29030,8 +29030,8 @@ const features = {
       "user": "Stefan",
       "label": "pencil",
       "point": [
-        152,
-        209
+        0.14375655823714587,
+        0.44495412844036697
       ]
     },
     {
@@ -29040,8 +29040,8 @@ const features = {
       "user": "Stefan",
       "label": "clock",
       "point": [
-        228,
-        171
+        0.22350472193074503,
+        0.3577981651376147
       ]
     },
     {
@@ -29050,8 +29050,8 @@ const features = {
       "user": "Sahaj",
       "label": "car",
       "point": [
-        326,
-        153
+        0.32633788037775446,
+        0.3165137614678899
       ]
     },
     {
@@ -29060,8 +29060,8 @@ const features = {
       "user": "Sahaj",
       "label": "fish",
       "point": [
-        318,
-        244
+        0.3179433368310598,
+        0.5252293577981652
       ]
     },
     {
@@ -29070,8 +29070,8 @@ const features = {
       "user": "Sahaj",
       "label": "house",
       "point": [
-        332,
-        317
+        0.33263378803777544,
+        0.6926605504587156
       ]
     },
     {
@@ -29080,8 +29080,8 @@ const features = {
       "user": "Sahaj",
       "label": "tree",
       "point": [
-        294,
-        343
+        0.29275970619097585,
+        0.7522935779816514
       ]
     },
     {
@@ -29090,8 +29090,8 @@ const features = {
       "user": "Sahaj",
       "label": "bicycle",
       "point": [
-        308,
-        210
+        0.3074501573976915,
+        0.44724770642201833
       ]
     },
     {
@@ -29100,8 +29100,8 @@ const features = {
       "user": "Sahaj",
       "label": "guitar",
       "point": [
-        391,
-        340
+        0.3945435466946485,
+        0.7454128440366973
       ]
     },
     {
@@ -29110,8 +29110,8 @@ const features = {
       "user": "Sahaj",
       "label": "pencil",
       "point": [
-        118,
-        352
+        0.1080797481636936,
+        0.7729357798165137
       ]
     },
     {
@@ -29120,8 +29120,8 @@ const features = {
       "user": "Sahaj",
       "label": "clock",
       "point": [
-        249,
-        211
+        0.24554039874081846,
+        0.44954128440366975
       ]
     },
     {
@@ -29130,8 +29130,8 @@ const features = {
       "user": "Alex",
       "label": "car",
       "point": [
-        372,
-        128
+        0.3746065057712487,
+        0.2591743119266055
       ]
     },
     {
@@ -29140,8 +29140,8 @@ const features = {
       "user": "Alex",
       "label": "fish",
       "point": [
-        260,
-        110
+        0.2570828961175236,
+        0.21788990825688073
       ]
     },
     {
@@ -29150,8 +29150,8 @@ const features = {
       "user": "Alex",
       "label": "house",
       "point": [
-        148,
-        182
+        0.13955928646379853,
+        0.3830275229357798
       ]
     },
     {
@@ -29160,8 +29160,8 @@ const features = {
       "user": "Alex",
       "label": "tree",
       "point": [
-        356,
-        385
+        0.3578174186778594,
+        0.8486238532110092
       ]
     },
     {
@@ -29170,8 +29170,8 @@ const features = {
       "user": "Alex",
       "label": "bicycle",
       "point": [
-        288,
-        204
+        0.2864637985309549,
+        0.4334862385321101
       ]
     },
     {
@@ -29180,8 +29180,8 @@ const features = {
       "user": "Alex",
       "label": "guitar",
       "point": [
-        389,
-        126
+        0.39244491080797483,
+        0.2545871559633027
       ]
     },
     {
@@ -29190,8 +29190,8 @@ const features = {
       "user": "Alex",
       "label": "pencil",
       "point": [
-        41,
-        336
+        0.02728226652675761,
+        0.7362385321100917
       ]
     },
     {
@@ -29200,8 +29200,8 @@ const features = {
       "user": "Alex",
       "label": "clock",
       "point": [
-        165,
-        195
+        0.15739769150052466,
+        0.41284403669724773
       ]
     },
     {
@@ -29210,8 +29210,8 @@ const features = {
       "user": "Smithusama",
       "label": "car",
       "point": [
-        271,
-        137
+        0.26862539349422876,
+        0.2798165137614679
       ]
     },
     {
@@ -29220,8 +29220,8 @@ const features = {
       "user": "Smithusama",
       "label": "fish",
       "point": [
-        188,
-        64
+        0.18153200419727178,
+        0.11238532110091744
       ]
     },
     {
@@ -29230,8 +29230,8 @@ const features = {
       "user": "Smithusama",
       "label": "house",
       "point": [
-        258,
-        381
+        0.25498426023084997,
+        0.8394495412844036
       ]
     },
     {
@@ -29240,8 +29240,8 @@ const features = {
       "user": "Smithusama",
       "label": "tree",
       "point": [
-        239,
-        346
+        0.23504721930745015,
+        0.7591743119266054
       ]
     },
     {
@@ -29250,8 +29250,8 @@ const features = {
       "user": "Smithusama",
       "label": "bicycle",
       "point": [
-        209,
-        145
+        0.20356768100734524,
+        0.2981651376146789
       ]
     },
     {
@@ -29260,8 +29260,8 @@ const features = {
       "user": "Smithusama",
       "label": "guitar",
       "point": [
-        219,
-        241
+        0.21406086044071354,
+        0.518348623853211
       ]
     },
     {
@@ -29270,8 +29270,8 @@ const features = {
       "user": "Smithusama",
       "label": "pencil",
       "point": [
-        248,
-        174
+        0.24449108079748164,
+        0.3646788990825688
       ]
     },
     {
@@ -29280,8 +29280,8 @@ const features = {
       "user": "Smithusama",
       "label": "clock",
       "point": [
-        271,
-        250
+        0.26862539349422876,
+        0.5389908256880734
       ]
     },
     {
@@ -29290,8 +29290,8 @@ const features = {
       "user": "Ricky29",
       "label": "car",
       "point": [
-        206,
-        152
+        0.20041972717733472,
+        0.31422018348623854
       ]
     },
     {
@@ -29300,8 +29300,8 @@ const features = {
       "user": "Ricky29",
       "label": "fish",
       "point": [
-        151,
-        114
+        0.14270724029380902,
+        0.22706422018348624
       ]
     },
     {
@@ -29310,8 +29310,8 @@ const features = {
       "user": "Ricky29",
       "label": "house",
       "point": [
-        144,
-        283
+        0.1353620146904512,
+        0.6146788990825688
       ]
     },
     {
@@ -29320,8 +29320,8 @@ const features = {
       "user": "Ricky29",
       "label": "tree",
       "point": [
-        208,
-        294
+        0.2025183630640084,
+        0.6399082568807339
       ]
     },
     {
@@ -29330,8 +29330,8 @@ const features = {
       "user": "Ricky29",
       "label": "bicycle",
       "point": [
-        178,
-        175
+        0.17103882476390347,
+        0.3669724770642202
       ]
     },
     {
@@ -29340,8 +29340,8 @@ const features = {
       "user": "Ricky29",
       "label": "guitar",
       "point": [
-        264,
-        238
+        0.26128016789087094,
+        0.5114678899082569
       ]
     },
     {
@@ -29350,8 +29350,8 @@ const features = {
       "user": "Ricky29",
       "label": "pencil",
       "point": [
-        104,
-        216
+        0.09338929695697797,
+        0.4610091743119266
       ]
     },
     {
@@ -29360,8 +29360,8 @@ const features = {
       "user": "Ricky29",
       "label": "clock",
       "point": [
-        164,
-        201
+        0.15634837355718784,
+        0.42660550458715596
       ]
     },
     {
@@ -29370,8 +29370,8 @@ const features = {
       "user": "Althaf",
       "label": "car",
       "point": [
-        197,
-        149
+        0.19097586568730326,
+        0.3073394495412844
       ]
     },
     {
@@ -29380,8 +29380,8 @@ const features = {
       "user": "Althaf",
       "label": "fish",
       "point": [
-        236,
-        97
+        0.23189926547743966,
+        0.18807339449541285
       ]
     },
     {
@@ -29390,8 +29390,8 @@ const features = {
       "user": "Althaf",
       "label": "house",
       "point": [
-        159,
-        159
+        0.15110178384050368,
+        0.3302752293577982
       ]
     },
     {
@@ -29400,8 +29400,8 @@ const features = {
       "user": "Althaf",
       "label": "tree",
       "point": [
-        288,
-        314
+        0.2864637985309549,
+        0.6857798165137615
       ]
     },
     {
@@ -29410,8 +29410,8 @@ const features = {
       "user": "Althaf",
       "label": "bicycle",
       "point": [
-        147,
-        119
+        0.1385099685204617,
+        0.23853211009174313
       ]
     },
     {
@@ -29420,8 +29420,8 @@ const features = {
       "user": "Althaf",
       "label": "guitar",
       "point": [
-        225,
-        181
+        0.2203567681007345,
+        0.38073394495412843
       ]
     },
     {
@@ -29430,8 +29430,8 @@ const features = {
       "user": "Althaf",
       "label": "pencil",
       "point": [
-        48,
-        166
+        0.03462749213011543,
+        0.3463302752293578
       ]
     },
     {
@@ -29440,8 +29440,8 @@ const features = {
       "user": "Althaf",
       "label": "clock",
       "point": [
-        159,
-        157
+        0.15110178384050368,
+        0.3256880733944954
       ]
     },
     {
@@ -29450,8 +29450,8 @@ const features = {
       "user": "Certi",
       "label": "car",
       "point": [
-        264,
-        189
+        0.26128016789087094,
+        0.39908256880733944
       ]
     },
     {
@@ -29460,8 +29460,8 @@ const features = {
       "user": "Certi",
       "label": "fish",
       "point": [
-        233,
-        117
+        0.22875131164742918,
+        0.23394495412844038
       ]
     },
     {
@@ -29470,8 +29470,8 @@ const features = {
       "user": "Certi",
       "label": "house",
       "point": [
-        176,
-        233
+        0.1689401888772298,
+        0.5
       ]
     },
     {
@@ -29480,8 +29480,8 @@ const features = {
       "user": "Certi",
       "label": "tree",
       "point": [
-        171,
-        255
+        0.16369359916054566,
+        0.5504587155963303
       ]
     },
     {
@@ -29490,8 +29490,8 @@ const features = {
       "user": "Certi",
       "label": "bicycle",
       "point": [
-        261,
-        164
+        0.25813221406086045,
+        0.34174311926605505
       ]
     },
     {
@@ -29500,8 +29500,8 @@ const features = {
       "user": "Certi",
       "label": "guitar",
       "point": [
-        334,
-        123
+        0.33473242392444913,
+        0.24770642201834864
       ]
     },
     {
@@ -29510,8 +29510,8 @@ const features = {
       "user": "Certi",
       "label": "pencil",
       "point": [
-        36,
-        233
+        0.022035676810073453,
+        0.5
       ]
     },
     {
@@ -29520,8 +29520,8 @@ const features = {
       "user": "Certi",
       "label": "clock",
       "point": [
-        247,
-        274
+        0.24344176285414482,
+        0.5940366972477065
       ]
     },
     {
@@ -29530,8 +29530,8 @@ const features = {
       "user": "pvt",
       "label": "car",
       "point": [
-        201,
-        70
+        0.19517313746065057,
+        0.12614678899082568
       ]
     },
     {
@@ -29540,8 +29540,8 @@ const features = {
       "user": "pvt",
       "label": "fish",
       "point": [
-        168,
-        70
+        0.16054564533053514,
+        0.12614678899082568
       ]
     },
     {
@@ -29550,8 +29550,8 @@ const features = {
       "user": "pvt",
       "label": "house",
       "point": [
-        170,
-        275
+        0.1626442812172088,
+        0.5963302752293578
       ]
     },
     {
@@ -29560,8 +29560,8 @@ const features = {
       "user": "pvt",
       "label": "tree",
       "point": [
-        140,
-        247
+        0.1311647429171039,
+        0.5321100917431193
       ]
     },
     {
@@ -29570,8 +29570,8 @@ const features = {
       "user": "pvt",
       "label": "bicycle",
       "point": [
-        190,
-        138
+        0.18363064008394545,
+        0.28211009174311924
       ]
     },
     {
@@ -29580,8 +29580,8 @@ const features = {
       "user": "pvt",
       "label": "guitar",
       "point": [
-        165,
-        243
+        0.15739769150052466,
+        0.5229357798165137
       ]
     },
     {
@@ -29590,8 +29590,8 @@ const features = {
       "user": "pvt",
       "label": "pencil",
       "point": [
-        42,
-        184
+        0.02833158447009444,
+        0.3876146788990826
       ]
     },
     {
@@ -29600,8 +29600,8 @@ const features = {
       "user": "pvt",
       "label": "clock",
       "point": [
-        162,
-        162
+        0.15424973767051417,
+        0.33715596330275227
       ]
     },
     {
@@ -29610,8 +29610,8 @@ const features = {
       "user": "Sandeep",
       "label": "car",
       "point": [
-        221,
-        167
+        0.2161594963273872,
+        0.3486238532110092
       ]
     },
     {
@@ -29620,8 +29620,8 @@ const features = {
       "user": "Sandeep",
       "label": "fish",
       "point": [
-        315,
-        158
+        0.3147953830010493,
+        0.32798165137614677
       ]
     },
     {
@@ -29630,8 +29630,8 @@ const features = {
       "user": "Sandeep",
       "label": "house",
       "point": [
-        337,
-        330
+        0.3378803777544596,
+        0.7224770642201835
       ]
     },
     {
@@ -29640,8 +29640,8 @@ const features = {
       "user": "Sandeep",
       "label": "tree",
       "point": [
-        296,
-        376
+        0.29485834207764955,
+        0.8279816513761468
       ]
     },
     {
@@ -29650,8 +29650,8 @@ const features = {
       "user": "Sandeep",
       "label": "bicycle",
       "point": [
-        274,
-        269
+        0.27177334732423925,
+        0.5825688073394495
       ]
     },
     {
@@ -29660,8 +29660,8 @@ const features = {
       "user": "Sandeep",
       "label": "guitar",
       "point": [
-        337,
-        166
+        0.3378803777544596,
+        0.3463302752293578
       ]
     },
     {
@@ -29670,8 +29670,8 @@ const features = {
       "user": "Sandeep",
       "label": "pencil",
       "point": [
-        56,
-        322
+        0.04302203567681007,
+        0.7041284403669725
       ]
     },
     {
@@ -29680,8 +29680,8 @@ const features = {
       "user": "Sandeep",
       "label": "clock",
       "point": [
-        244,
-        235
+        0.2402938090241343,
+        0.5045871559633027
       ]
     },
     {
@@ -29690,8 +29690,8 @@ const features = {
       "user": "Viktor",
       "label": "car",
       "point": [
-        357,
-        185
+        0.3588667366211962,
+        0.38990825688073394
       ]
     },
     {
@@ -29700,8 +29700,8 @@ const features = {
       "user": "Viktor",
       "label": "fish",
       "point": [
-        305,
-        104
+        0.304302203567681,
+        0.20412844036697247
       ]
     },
     {
@@ -29710,8 +29710,8 @@ const features = {
       "user": "Viktor",
       "label": "house",
       "point": [
-        216,
-        311
+        0.21091290661070305,
+        0.6788990825688074
       ]
     },
     {
@@ -29720,8 +29720,8 @@ const features = {
       "user": "Viktor",
       "label": "tree",
       "point": [
-        305,
-        396
+        0.304302203567681,
+        0.8738532110091743
       ]
     },
     {
@@ -29730,8 +29730,8 @@ const features = {
       "user": "Viktor",
       "label": "bicycle",
       "point": [
-        256,
-        163
+        0.2528856243441763,
+        0.3394495412844037
       ]
     },
     {
@@ -29740,8 +29740,8 @@ const features = {
       "user": "Viktor",
       "label": "guitar",
       "point": [
-        312,
-        303
+        0.3116474291710388,
+        0.6605504587155964
       ]
     },
     {
@@ -29750,8 +29750,8 @@ const features = {
       "user": "Viktor",
       "label": "pencil",
       "point": [
-        343,
-        205
+        0.3441762854144806,
+        0.43577981651376146
       ]
     },
     {
@@ -29760,8 +29760,8 @@ const features = {
       "user": "Viktor",
       "label": "clock",
       "point": [
-        231,
-        257
+        0.2266526757607555,
+        0.555045871559633
       ]
     },
     {
@@ -29770,8 +29770,8 @@ const features = {
       "user": "roshan",
       "label": "car",
       "point": [
-        283,
-        176
+        0.2812172088142707,
+        0.36926605504587157
       ]
     },
     {
@@ -29780,8 +29780,8 @@ const features = {
       "user": "roshan",
       "label": "fish",
       "point": [
-        258,
-        195
+        0.25498426023084997,
+        0.41284403669724773
       ]
     },
     {
@@ -29790,8 +29790,8 @@ const features = {
       "user": "roshan",
       "label": "house",
       "point": [
-        162,
-        206
+        0.15424973767051417,
+        0.4380733944954128
       ]
     },
     {
@@ -29800,8 +29800,8 @@ const features = {
       "user": "roshan",
       "label": "tree",
       "point": [
-        160,
-        195
+        0.1521511017838405,
+        0.41284403669724773
       ]
     },
     {
@@ -29810,8 +29810,8 @@ const features = {
       "user": "roshan",
       "label": "bicycle",
       "point": [
-        256,
-        139
+        0.2528856243441763,
+        0.28440366972477066
       ]
     },
     {
@@ -29820,8 +29820,8 @@ const features = {
       "user": "roshan",
       "label": "guitar",
       "point": [
-        222,
-        131
+        0.21720881427072403,
+        0.26605504587155965
       ]
     },
     {
@@ -29830,8 +29830,8 @@ const features = {
       "user": "roshan",
       "label": "pencil",
       "point": [
-        34,
-        139
+        0.01993704092339979,
+        0.28440366972477066
       ]
     },
     {
@@ -29840,8 +29840,8 @@ const features = {
       "user": "roshan",
       "label": "clock",
       "point": [
-        125,
-        128
+        0.11542497376705142,
+        0.2591743119266055
       ]
     },
     {
@@ -29850,8 +29850,8 @@ const features = {
       "user": "Britt",
       "label": "car",
       "point": [
-        230,
-        135
+        0.22560335781741866,
+        0.27522935779816515
       ]
     },
     {
@@ -29860,8 +29860,8 @@ const features = {
       "user": "Britt",
       "label": "fish",
       "point": [
-        231,
-        211
+        0.2266526757607555,
+        0.44954128440366975
       ]
     },
     {
@@ -29870,8 +29870,8 @@ const features = {
       "user": "Britt",
       "label": "house",
       "point": [
-        166,
-        212
+        0.1584470094438615,
+        0.4518348623853211
       ]
     },
     {
@@ -29880,8 +29880,8 @@ const features = {
       "user": "Britt",
       "label": "tree",
       "point": [
-        263,
-        360
+        0.2602308499475341,
+        0.7912844036697247
       ]
     },
     {
@@ -29890,8 +29890,8 @@ const features = {
       "user": "Britt",
       "label": "bicycle",
       "point": [
-        232,
-        209
+        0.22770199370409233,
+        0.44495412844036697
       ]
     },
     {
@@ -29900,8 +29900,8 @@ const features = {
       "user": "Britt",
       "label": "guitar",
       "point": [
-        81,
-        281
+        0.06925498426023086,
+        0.6100917431192661
       ]
     },
     {
@@ -29910,8 +29910,8 @@ const features = {
       "user": "Britt",
       "label": "pencil",
       "point": [
-        28,
-        215
+        0.013641133263378805,
+        0.45871559633027525
       ]
     },
     {
@@ -29920,8 +29920,8 @@ const features = {
       "user": "Britt",
       "label": "clock",
       "point": [
-        205,
-        186
+        0.1993704092339979,
+        0.3922018348623853
       ]
     },
     {
@@ -29930,8 +29930,8 @@ const features = {
       "user": "Jeux_Mathinfo",
       "label": "car",
       "point": [
-        251,
-        90
+        0.24763903462749212,
+        0.1720183486238532
       ]
     },
     {
@@ -29940,8 +29940,8 @@ const features = {
       "user": "Jeux_Mathinfo",
       "label": "fish",
       "point": [
-        224,
-        127
+        0.2193074501573977,
+        0.25688073394495414
       ]
     },
     {
@@ -29950,8 +29950,8 @@ const features = {
       "user": "Jeux_Mathinfo",
       "label": "house",
       "point": [
-        245,
-        176
+        0.24134312696747115,
+        0.36926605504587157
       ]
     },
     {
@@ -29960,8 +29960,8 @@ const features = {
       "user": "Jeux_Mathinfo",
       "label": "tree",
       "point": [
-        173,
-        296
+        0.1657922350472193,
+        0.6444954128440367
       ]
     },
     {
@@ -29970,8 +29970,8 @@ const features = {
       "user": "Jeux_Mathinfo",
       "label": "bicycle",
       "point": [
-        273,
-        193
+        0.2707240293809024,
+        0.40825688073394495
       ]
     },
     {
@@ -29980,8 +29980,8 @@ const features = {
       "user": "Jeux_Mathinfo",
       "label": "guitar",
       "point": [
-        230,
-        306
+        0.22560335781741866,
+        0.6674311926605505
       ]
     },
     {
@@ -29990,8 +29990,8 @@ const features = {
       "user": "Jeux_Mathinfo",
       "label": "pencil",
       "point": [
-        134,
-        195
+        0.1248688352570829,
+        0.41284403669724773
       ]
     },
     {
@@ -30000,8 +30000,8 @@ const features = {
       "user": "Jeux_Mathinfo",
       "label": "clock",
       "point": [
-        191,
-        201
+        0.18467995802728226,
+        0.42660550458715596
       ]
     },
     {
@@ -30010,8 +30010,8 @@ const features = {
       "user": "Tee",
       "label": "car",
       "point": [
-        198,
-        104
+        0.19202518363064008,
+        0.20412844036697247
       ]
     },
     {
@@ -30020,8 +30020,8 @@ const features = {
       "user": "Tee",
       "label": "fish",
       "point": [
-        91,
-        45
+        0.07974816369359916,
+        0.06880733944954129
       ]
     },
     {
@@ -30030,8 +30030,8 @@ const features = {
       "user": "Tee",
       "label": "house",
       "point": [
-        174,
-        172
+        0.16684155299055614,
+        0.36009174311926606
       ]
     },
     {
@@ -30040,8 +30040,8 @@ const features = {
       "user": "Tee",
       "label": "tree",
       "point": [
-        158,
-        217
+        0.15005246589716684,
+        0.463302752293578
       ]
     },
     {
@@ -30050,8 +30050,8 @@ const features = {
       "user": "Tee",
       "label": "bicycle",
       "point": [
-        114,
-        78
+        0.10388247639034627,
+        0.1444954128440367
       ]
     },
     {
@@ -30060,8 +30060,8 @@ const features = {
       "user": "Tee",
       "label": "guitar",
       "point": [
-        236,
-        104
+        0.23189926547743966,
+        0.20412844036697247
       ]
     },
     {
@@ -30070,8 +30070,8 @@ const features = {
       "user": "Tee",
       "label": "pencil",
       "point": [
-        112,
-        15
+        0.10178384050367262,
+        0
       ]
     },
     {
@@ -30080,8 +30080,8 @@ const features = {
       "user": "Tee",
       "label": "clock",
       "point": [
-        164,
-        133
+        0.15634837355718784,
+        0.2706422018348624
       ]
     },
     {
@@ -30090,8 +30090,8 @@ const features = {
       "user": "Ivan",
       "label": "car",
       "point": [
-        289,
-        107
+        0.28751311647429173,
+        0.21100917431192662
       ]
     },
     {
@@ -30100,8 +30100,8 @@ const features = {
       "user": "Ivan",
       "label": "fish",
       "point": [
-        187,
-        239
+        0.18048268625393493,
+        0.5137614678899083
       ]
     },
     {
@@ -30110,8 +30110,8 @@ const features = {
       "user": "Ivan",
       "label": "house",
       "point": [
-        244,
-        206
+        0.2402938090241343,
+        0.4380733944954128
       ]
     },
     {
@@ -30120,8 +30120,8 @@ const features = {
       "user": "Ivan",
       "label": "tree",
       "point": [
-        241,
-        305
+        0.23714585519412382,
+        0.6651376146788991
       ]
     },
     {
@@ -30130,8 +30130,8 @@ const features = {
       "user": "Ivan",
       "label": "bicycle",
       "point": [
-        205,
-        176
+        0.1993704092339979,
+        0.36926605504587157
       ]
     },
     {
@@ -30140,8 +30140,8 @@ const features = {
       "user": "Ivan",
       "label": "guitar",
       "point": [
-        188,
-        289
+        0.18153200419727178,
+        0.6284403669724771
       ]
     },
     {
@@ -30150,8 +30150,8 @@ const features = {
       "user": "Ivan",
       "label": "pencil",
       "point": [
-        147,
-        218
+        0.1385099685204617,
+        0.46559633027522934
       ]
     },
     {
@@ -30160,8 +30160,8 @@ const features = {
       "user": "Ivan",
       "label": "clock",
       "point": [
-        195,
-        210
+        0.1888772298006296,
+        0.44724770642201833
       ]
     },
     {
@@ -30170,8 +30170,8 @@ const features = {
       "user": "Divyanshu",
       "label": "car",
       "point": [
-        321,
-        169
+        0.3210912906610703,
+        0.3532110091743119
       ]
     },
     {
@@ -30180,8 +30180,8 @@ const features = {
       "user": "Divyanshu",
       "label": "fish",
       "point": [
-        333,
-        164
+        0.3336831059811123,
+        0.34174311926605505
       ]
     },
     {
@@ -30190,8 +30190,8 @@ const features = {
       "user": "Divyanshu",
       "label": "house",
       "point": [
-        168,
-        196
+        0.16054564533053514,
+        0.4151376146788991
       ]
     },
     {
@@ -30200,8 +30200,8 @@ const features = {
       "user": "Divyanshu",
       "label": "tree",
       "point": [
-        320,
-        345
+        0.3200419727177335,
+        0.7568807339449541
       ]
     },
     {
@@ -30210,8 +30210,8 @@ const features = {
       "user": "Divyanshu",
       "label": "bicycle",
       "point": [
-        307,
-        218
+        0.30640083945435465,
+        0.46559633027522934
       ]
     },
     {
@@ -30220,8 +30220,8 @@ const features = {
       "user": "Divyanshu",
       "label": "guitar",
       "point": [
-        313,
-        145
+        0.3126967471143757,
+        0.2981651376146789
       ]
     },
     {
@@ -30230,8 +30230,8 @@ const features = {
       "user": "Divyanshu",
       "label": "pencil",
       "point": [
-        42,
-        310
+        0.02833158447009444,
+        0.676605504587156
       ]
     },
     {
@@ -30240,8 +30240,8 @@ const features = {
       "user": "Divyanshu",
       "label": "clock",
       "point": [
-        157,
-        157
+        0.14900314795383002,
+        0.3256880733944954
       ]
     },
     {
@@ -30250,8 +30250,8 @@ const features = {
       "user": "Sidharth",
       "label": "car",
       "point": [
-        147,
-        54
+        0.1385099685204617,
+        0.08944954128440367
       ]
     },
     {
@@ -30260,8 +30260,8 @@ const features = {
       "user": "Sidharth",
       "label": "fish",
       "point": [
-        97,
-        35
+        0.08604407135362015,
+        0.045871559633027525
       ]
     },
     {
@@ -30270,8 +30270,8 @@ const features = {
       "user": "Sidharth",
       "label": "house",
       "point": [
-        70,
-        129
+        0.05771248688352571,
+        0.26146788990825687
       ]
     },
     {
@@ -30280,8 +30280,8 @@ const features = {
       "user": "Sidharth",
       "label": "tree",
       "point": [
-        182,
-        253
+        0.17523609653725078,
+        0.5458715596330275
       ]
     },
     {
@@ -30290,8 +30290,8 @@ const features = {
       "user": "Sidharth",
       "label": "bicycle",
       "point": [
-        294,
-        167
+        0.29275970619097585,
+        0.3486238532110092
       ]
     },
     {
@@ -30300,8 +30300,8 @@ const features = {
       "user": "Sidharth",
       "label": "guitar",
       "point": [
-        115,
-        263
+        0.1049317943336831,
+        0.5688073394495413
       ]
     },
     {
@@ -30310,8 +30310,8 @@ const features = {
       "user": "Sidharth",
       "label": "pencil",
       "point": [
-        114,
-        145
+        0.10388247639034627,
+        0.2981651376146789
       ]
     },
     {
@@ -30320,8 +30320,8 @@ const features = {
       "user": "Sidharth",
       "label": "clock",
       "point": [
-        146,
-        152
+        0.13746065057712487,
+        0.31422018348623854
       ]
     },
     {
@@ -30330,8 +30330,8 @@ const features = {
       "user": "bopuc",
       "label": "car",
       "point": [
-        248,
-        135
+        0.24449108079748164,
+        0.27522935779816515
       ]
     },
     {
@@ -30340,8 +30340,8 @@ const features = {
       "user": "bopuc",
       "label": "fish",
       "point": [
-        172,
-        92
+        0.16474291710388247,
+        0.17660550458715596
       ]
     },
     {
@@ -30350,8 +30350,8 @@ const features = {
       "user": "bopuc",
       "label": "house",
       "point": [
-        111,
-        246
+        0.10073452256033578,
+        0.5298165137614679
       ]
     },
     {
@@ -30360,8 +30360,8 @@ const features = {
       "user": "bopuc",
       "label": "tree",
       "point": [
-        172,
-        248
+        0.16474291710388247,
+        0.5344036697247706
       ]
     },
     {
@@ -30370,8 +30370,8 @@ const features = {
       "user": "bopuc",
       "label": "bicycle",
       "point": [
-        225,
-        158
+        0.2203567681007345,
+        0.32798165137614677
       ]
     },
     {
@@ -30380,8 +30380,8 @@ const features = {
       "user": "bopuc",
       "label": "guitar",
       "point": [
-        141,
-        265
+        0.1322140608604407,
+        0.573394495412844
       ]
     },
     {
@@ -30390,8 +30390,8 @@ const features = {
       "user": "bopuc",
       "label": "pencil",
       "point": [
-        67,
-        237
+        0.05456453305351522,
+        0.5091743119266054
       ]
     },
     {
@@ -30400,8 +30400,8 @@ const features = {
       "user": "bopuc",
       "label": "clock",
       "point": [
-        150,
-        135
+        0.1416579223504722,
+        0.27522935779816515
       ]
     },
     {
@@ -30410,8 +30410,8 @@ const features = {
       "user": "alphayo",
       "label": "car",
       "point": [
-        266,
-        133
+        0.2633788037775446,
+        0.2706422018348624
       ]
     },
     {
@@ -30420,8 +30420,8 @@ const features = {
       "user": "alphayo",
       "label": "fish",
       "point": [
-        280,
-        92
+        0.2780692549842602,
+        0.17660550458715596
       ]
     },
     {
@@ -30430,8 +30430,8 @@ const features = {
       "user": "alphayo",
       "label": "house",
       "point": [
-        237,
-        197
+        0.23294858342077648,
+        0.41743119266055045
       ]
     },
     {
@@ -30440,8 +30440,8 @@ const features = {
       "user": "alphayo",
       "label": "tree",
       "point": [
-        178,
-        171
+        0.17103882476390347,
+        0.3577981651376147
       ]
     },
     {
@@ -30450,8 +30450,8 @@ const features = {
       "user": "alphayo",
       "label": "bicycle",
       "point": [
-        221,
-        86
+        0.2161594963273872,
+        0.1628440366972477
       ]
     },
     {
@@ -30460,8 +30460,8 @@ const features = {
       "user": "alphayo",
       "label": "guitar",
       "point": [
-        253,
-        79
+        0.2497376705141658,
+        0.14678899082568808
       ]
     },
     {
@@ -30470,8 +30470,8 @@ const features = {
       "user": "alphayo",
       "label": "pencil",
       "point": [
-        21,
-        164
+        0.0062959076600209865,
+        0.34174311926605505
       ]
     },
     {
@@ -30480,8 +30480,8 @@ const features = {
       "user": "alphayo",
       "label": "clock",
       "point": [
-        258,
-        233
+        0.25498426023084997,
+        0.5
       ]
     },
     {
@@ -30490,8 +30490,8 @@ const features = {
       "user": "Catalin",
       "label": "car",
       "point": [
-        289,
-        137
+        0.28751311647429173,
+        0.2798165137614679
       ]
     },
     {
@@ -30500,8 +30500,8 @@ const features = {
       "user": "Catalin",
       "label": "fish",
       "point": [
-        293,
-        111
+        0.291710388247639,
+        0.22018348623853212
       ]
     },
     {
@@ -30510,8 +30510,8 @@ const features = {
       "user": "Catalin",
       "label": "house",
       "point": [
-        244,
-        275
+        0.2402938090241343,
+        0.5963302752293578
       ]
     },
     {
@@ -30520,8 +30520,8 @@ const features = {
       "user": "Catalin",
       "label": "tree",
       "point": [
-        251,
-        336
+        0.24763903462749212,
+        0.7362385321100917
       ]
     },
     {
@@ -30530,8 +30530,8 @@ const features = {
       "user": "Catalin",
       "label": "bicycle",
       "point": [
-        271,
-        148
+        0.26862539349422876,
+        0.30504587155963303
       ]
     },
     {
@@ -30540,8 +30540,8 @@ const features = {
       "user": "Catalin",
       "label": "guitar",
       "point": [
-        298,
-        327
+        0.2969569779643232,
+        0.7155963302752294
       ]
     },
     {
@@ -30550,8 +30550,8 @@ const features = {
       "user": "Catalin",
       "label": "pencil",
       "point": [
-        207,
-        283
+        0.20146904512067157,
+        0.6146788990825688
       ]
     },
     {
@@ -30560,8 +30560,8 @@ const features = {
       "user": "Catalin",
       "label": "clock",
       "point": [
-        226,
-        230
+        0.22140608604407136,
+        0.49311926605504586
       ]
     },
     {
@@ -30570,8 +30570,8 @@ const features = {
       "user": "00Hdin",
       "label": "car",
       "point": [
-        350,
-        140
+        0.3515215110178384,
+        0.286697247706422
       ]
     },
     {
@@ -30580,8 +30580,8 @@ const features = {
       "user": "00Hdin",
       "label": "fish",
       "point": [
-        272,
-        196
+        0.2696747114375656,
+        0.4151376146788991
       ]
     },
     {
@@ -30590,8 +30590,8 @@ const features = {
       "user": "00Hdin",
       "label": "house",
       "point": [
-        327,
-        354
+        0.3273871983210913,
+        0.7775229357798165
       ]
     },
     {
@@ -30600,8 +30600,8 @@ const features = {
       "user": "00Hdin",
       "label": "tree",
       "point": [
-        319,
-        352
+        0.31899265477439664,
+        0.7729357798165137
       ]
     },
     {
@@ -30610,8 +30610,8 @@ const features = {
       "user": "00Hdin",
       "label": "bicycle",
       "point": [
-        261,
-        167
+        0.25813221406086045,
+        0.3486238532110092
       ]
     },
     {
@@ -30620,8 +30620,8 @@ const features = {
       "user": "00Hdin",
       "label": "guitar",
       "point": [
-        194,
-        363
+        0.18782791185729275,
+        0.7981651376146789
       ]
     },
     {
@@ -30630,8 +30630,8 @@ const features = {
       "user": "00Hdin",
       "label": "pencil",
       "point": [
-        136,
-        386
+        0.12696747114375656,
+        0.8509174311926605
       ]
     },
     {
@@ -30640,8 +30640,8 @@ const features = {
       "user": "00Hdin",
       "label": "clock",
       "point": [
-        252,
-        280
+        0.24868835257082897,
+        0.6077981651376146
       ]
     },
     {
@@ -30650,8 +30650,8 @@ const features = {
       "user": "ac",
       "label": "car",
       "point": [
-        209,
-        102
+        0.20356768100734524,
+        0.19954128440366972
       ]
     },
     {
@@ -30660,8 +30660,8 @@ const features = {
       "user": "ac",
       "label": "fish",
       "point": [
-        328,
-        113
+        0.3284365162644281,
+        0.22477064220183487
       ]
     },
     {
@@ -30670,8 +30670,8 @@ const features = {
       "user": "ac",
       "label": "house",
       "point": [
-        346,
-        191
+        0.3473242392444911,
+        0.4036697247706422
       ]
     },
     {
@@ -30680,8 +30680,8 @@ const features = {
       "user": "ac",
       "label": "tree",
       "point": [
-        243,
-        258
+        0.23924449108079748,
+        0.5573394495412844
       ]
     },
     {
@@ -30690,8 +30690,8 @@ const features = {
       "user": "ac",
       "label": "bicycle",
       "point": [
-        235,
-        146
+        0.23084994753410285,
+        0.30045871559633025
       ]
     },
     {
@@ -30700,8 +30700,8 @@ const features = {
       "user": "ac",
       "label": "guitar",
       "point": [
-        276,
-        238
+        0.2738719832109129,
+        0.5114678899082569
       ]
     },
     {
@@ -30710,8 +30710,8 @@ const features = {
       "user": "ac",
       "label": "pencil",
       "point": [
-        196,
-        169
+        0.18992654774396642,
+        0.3532110091743119
       ]
     },
     {
@@ -30720,8 +30720,8 @@ const features = {
       "user": "ac",
       "label": "clock",
       "point": [
-        163,
-        163
+        0.155299055613851,
+        0.3394495412844037
       ]
     },
     {
@@ -30730,8 +30730,8 @@ const features = {
       "user": "Robe",
       "label": "car",
       "point": [
-        333,
-        84
+        0.3336831059811123,
+        0.15825688073394495
       ]
     },
     {
@@ -30740,8 +30740,8 @@ const features = {
       "user": "Robe",
       "label": "fish",
       "point": [
-        237,
-        146
+        0.23294858342077648,
+        0.30045871559633025
       ]
     },
     {
@@ -30750,8 +30750,8 @@ const features = {
       "user": "Robe",
       "label": "house",
       "point": [
-        226,
-        204
+        0.22140608604407136,
+        0.4334862385321101
       ]
     },
     {
@@ -30760,8 +30760,8 @@ const features = {
       "user": "Robe",
       "label": "tree",
       "point": [
-        240,
-        311
+        0.236096537250787,
+        0.6788990825688074
       ]
     },
     {
@@ -30770,8 +30770,8 @@ const features = {
       "user": "Robe",
       "label": "bicycle",
       "point": [
-        224,
-        151
+        0.2193074501573977,
+        0.3119266055045872
       ]
     },
     {
@@ -30780,8 +30780,8 @@ const features = {
       "user": "Robe",
       "label": "guitar",
       "point": [
-        133,
-        321
+        0.12381951731374606,
+        0.7018348623853211
       ]
     },
     {
@@ -30790,8 +30790,8 @@ const features = {
       "user": "Robe",
       "label": "pencil",
       "point": [
-        177,
-        322
+        0.16998950682056663,
+        0.7041284403669725
       ]
     },
     {
@@ -30800,8 +30800,8 @@ const features = {
       "user": "Robe",
       "label": "clock",
       "point": [
-        202,
-        250
+        0.19622245540398742,
+        0.5389908256880734
       ]
     },
     {
@@ -30810,8 +30810,8 @@ const features = {
       "user": "zob",
       "label": "car",
       "point": [
-        343,
-        169
+        0.3441762854144806,
+        0.3532110091743119
       ]
     },
     {
@@ -30820,8 +30820,8 @@ const features = {
       "user": "zob",
       "label": "fish",
       "point": [
-        296,
-        145
+        0.29485834207764955,
+        0.2981651376146789
       ]
     },
     {
@@ -30830,8 +30830,8 @@ const features = {
       "user": "zob",
       "label": "house",
       "point": [
-        309,
-        172
+        0.30849947534102834,
+        0.36009174311926606
       ]
     },
     {
@@ -30840,8 +30840,8 @@ const features = {
       "user": "zob",
       "label": "tree",
       "point": [
-        204,
-        277
+        0.19832109129066108,
+        0.6009174311926605
       ]
     },
     {
@@ -30850,8 +30850,8 @@ const features = {
       "user": "zob",
       "label": "bicycle",
       "point": [
-        303,
-        140
+        0.30220356768100737,
+        0.286697247706422
       ]
     },
     {
@@ -30860,8 +30860,8 @@ const features = {
       "user": "zob",
       "label": "guitar",
       "point": [
-        286,
-        205
+        0.28436516264428124,
+        0.43577981651376146
       ]
     },
     {
@@ -30870,8 +30870,8 @@ const features = {
       "user": "zob",
       "label": "pencil",
       "point": [
-        82,
-        285
+        0.07030430220356768,
+        0.6192660550458715
       ]
     },
     {
@@ -30880,8 +30880,8 @@ const features = {
       "user": "zob",
       "label": "clock",
       "point": [
-        199,
-        206
+        0.1930745015739769,
+        0.4380733944954128
       ]
     },
     {
@@ -30890,8 +30890,8 @@ const features = {
       "user": "Sarthak",
       "label": "car",
       "point": [
-        181,
-        167
+        0.17418677859391396,
+        0.3486238532110092
       ]
     },
     {
@@ -30900,8 +30900,8 @@ const features = {
       "user": "Sarthak",
       "label": "fish",
       "point": [
-        187,
-        134
+        0.18048268625393493,
+        0.27293577981651373
       ]
     },
     {
@@ -30910,8 +30910,8 @@ const features = {
       "user": "Sarthak",
       "label": "house",
       "point": [
-        146,
-        186
+        0.13746065057712487,
+        0.3922018348623853
       ]
     },
     {
@@ -30920,8 +30920,8 @@ const features = {
       "user": "Sarthak",
       "label": "tree",
       "point": [
-        184,
-        248
+        0.17733473242392445,
+        0.5344036697247706
       ]
     },
     {
@@ -30930,8 +30930,8 @@ const features = {
       "user": "Sarthak",
       "label": "bicycle",
       "point": [
-        217,
-        179
+        0.21196222455403987,
+        0.3761467889908257
       ]
     },
     {
@@ -30940,8 +30940,8 @@ const features = {
       "user": "Sarthak",
       "label": "guitar",
       "point": [
-        275,
-        131
+        0.2728226652675761,
+        0.26605504587155965
       ]
     },
     {
@@ -30950,8 +30950,8 @@ const features = {
       "user": "Sarthak",
       "label": "pencil",
       "point": [
-        38,
-        162
+        0.024134312696747113,
+        0.33715596330275227
       ]
     },
     {
@@ -30960,8 +30960,8 @@ const features = {
       "user": "Sarthak",
       "label": "clock",
       "point": [
-        180,
-        207
+        0.1731374606505771,
+        0.44036697247706424
       ]
     },
     {
@@ -30970,8 +30970,8 @@ const features = {
       "user": "Jéssica",
       "label": "car",
       "point": [
-        311,
-        213
+        0.310598111227702,
+        0.4541284403669725
       ]
     },
     {
@@ -30980,8 +30980,8 @@ const features = {
       "user": "Jéssica",
       "label": "fish",
       "point": [
-        189,
-        99
+        0.1825813221406086,
+        0.1926605504587156
       ]
     },
     {
@@ -30990,8 +30990,8 @@ const features = {
       "user": "Jéssica",
       "label": "house",
       "point": [
-        258,
-        291
+        0.25498426023084997,
+        0.6330275229357798
       ]
     },
     {
@@ -31000,8 +31000,8 @@ const features = {
       "user": "Jéssica",
       "label": "tree",
       "point": [
-        402,
-        375
+        0.4060860440713536,
+        0.8256880733944955
       ]
     },
     {
@@ -31010,8 +31010,8 @@ const features = {
       "user": "Jéssica",
       "label": "bicycle",
       "point": [
-        281,
-        167
+        0.27911857292759706,
+        0.3486238532110092
       ]
     },
     {
@@ -31020,8 +31020,8 @@ const features = {
       "user": "Jéssica",
       "label": "guitar",
       "point": [
-        131,
-        245
+        0.12172088142707241,
+        0.5275229357798165
       ]
     },
     {
@@ -31030,8 +31030,8 @@ const features = {
       "user": "Jéssica",
       "label": "pencil",
       "point": [
-        152,
-        189
+        0.14375655823714587,
+        0.39908256880733944
       ]
     },
     {
@@ -31040,8 +31040,8 @@ const features = {
       "user": "Jéssica",
       "label": "clock",
       "point": [
-        169,
-        170
+        0.161594963273872,
+        0.3555045871559633
       ]
     },
     {
@@ -31050,8 +31050,8 @@ const features = {
       "user": "Erminio",
       "label": "car",
       "point": [
-        314,
-        123
+        0.31374606505771246,
+        0.24770642201834864
       ]
     },
     {
@@ -31060,8 +31060,8 @@ const features = {
       "user": "Erminio",
       "label": "fish",
       "point": [
-        186,
-        60
+        0.1794333683105981,
+        0.10321100917431193
       ]
     },
     {
@@ -31070,8 +31070,8 @@ const features = {
       "user": "Erminio",
       "label": "house",
       "point": [
-        968,
-        153
+        1,
+        0.3165137614678899
       ]
     },
     {
@@ -31080,8 +31080,8 @@ const features = {
       "user": "Erminio",
       "label": "tree",
       "point": [
-        239,
-        304
+        0.23504721930745015,
+        0.6628440366972477
       ]
     },
     {
@@ -31090,8 +31090,8 @@ const features = {
       "user": "Erminio",
       "label": "bicycle",
       "point": [
-        179,
-        139
+        0.1720881427072403,
+        0.28440366972477066
       ]
     },
     {
@@ -31100,8 +31100,8 @@ const features = {
       "user": "Erminio",
       "label": "guitar",
       "point": [
-        337,
-        123
+        0.3378803777544596,
+        0.24770642201834864
       ]
     },
     {
@@ -31110,8 +31110,8 @@ const features = {
       "user": "Erminio",
       "label": "pencil",
       "point": [
-        86,
-        346
+        0.07450157397691501,
+        0.7591743119266054
       ]
     },
     {
@@ -31120,8 +31120,8 @@ const features = {
       "user": "Erminio",
       "label": "clock",
       "point": [
-        220,
-        232
+        0.21511017838405036,
+        0.49770642201834864
       ]
     },
     {
@@ -31130,8 +31130,8 @@ const features = {
       "user": "Rye",
       "label": "car",
       "point": [
-        276,
-        138
+        0.2738719832109129,
+        0.28211009174311924
       ]
     },
     {
@@ -31140,8 +31140,8 @@ const features = {
       "user": "Rye",
       "label": "fish",
       "point": [
-        278,
-        114
+        0.2759706190975866,
+        0.22706422018348624
       ]
     },
     {
@@ -31150,8 +31150,8 @@ const features = {
       "user": "Rye",
       "label": "house",
       "point": [
-        210,
-        297
+        0.20461699895068206,
+        0.6467889908256881
       ]
     },
     {
@@ -31160,8 +31160,8 @@ const features = {
       "user": "Rye",
       "label": "tree",
       "point": [
-        360,
-        337
+        0.3620146904512067,
+        0.7385321100917431
       ]
     },
     {
@@ -31170,8 +31170,8 @@ const features = {
       "user": "Rye",
       "label": "bicycle",
       "point": [
-        326,
-        246
+        0.32633788037775446,
+        0.5298165137614679
       ]
     },
     {
@@ -31180,8 +31180,8 @@ const features = {
       "user": "Rye",
       "label": "guitar",
       "point": [
-        349,
-        272
+        0.35047219307450156,
+        0.5894495412844036
       ]
     },
     {
@@ -31190,8 +31190,8 @@ const features = {
       "user": "Rye",
       "label": "pencil",
       "point": [
-        265,
-        255
+        0.2623294858342078,
+        0.5504587155963303
       ]
     },
     {
@@ -31200,8 +31200,8 @@ const features = {
       "user": "Rye",
       "label": "clock",
       "point": [
-        283,
-        232
+        0.2812172088142707,
+        0.49770642201834864
       ]
     },
     {
@@ -31210,8 +31210,8 @@ const features = {
       "user": "Anil",
       "label": "car",
       "point": [
-        304,
-        119
+        0.30325288562434416,
+        0.23853211009174313
       ]
     },
     {
@@ -31220,8 +31220,8 @@ const features = {
       "user": "Anil",
       "label": "fish",
       "point": [
-        247,
-        166
+        0.24344176285414482,
+        0.3463302752293578
       ]
     },
     {
@@ -31230,8 +31230,8 @@ const features = {
       "user": "Anil",
       "label": "house",
       "point": [
-        279,
-        269
+        0.2770199370409234,
+        0.5825688073394495
       ]
     },
     {
@@ -31240,8 +31240,8 @@ const features = {
       "user": "Anil",
       "label": "tree",
       "point": [
-        258,
-        285
+        0.25498426023084997,
+        0.6192660550458715
       ]
     },
     {
@@ -31250,8 +31250,8 @@ const features = {
       "user": "Anil",
       "label": "bicycle",
       "point": [
-        228,
-        146
+        0.22350472193074503,
+        0.30045871559633025
       ]
     },
     {
@@ -31260,8 +31260,8 @@ const features = {
       "user": "Anil",
       "label": "guitar",
       "point": [
-        279,
-        316
+        0.2770199370409234,
+        0.6903669724770642
       ]
     },
     {
@@ -31270,8 +31270,8 @@ const features = {
       "user": "Anil",
       "label": "pencil",
       "point": [
-        203,
-        177
+        0.19727177334732424,
+        0.37155963302752293
       ]
     },
     {
@@ -31280,8 +31280,8 @@ const features = {
       "user": "Anil",
       "label": "clock",
       "point": [
-        192,
-        200
+        0.18572927597061908,
+        0.4243119266055046
       ]
     },
     {
@@ -31290,8 +31290,8 @@ const features = {
       "user": "Bartłomiej",
       "label": "car",
       "point": [
-        366,
-        126
+        0.3683105981112277,
+        0.2545871559633027
       ]
     },
     {
@@ -31300,8 +31300,8 @@ const features = {
       "user": "Bartłomiej",
       "label": "fish",
       "point": [
-        337,
-        188
+        0.3378803777544596,
+        0.3967889908256881
       ]
     },
     {
@@ -31310,8 +31310,8 @@ const features = {
       "user": "Bartłomiej",
       "label": "house",
       "point": [
-        191,
-        218
+        0.18467995802728226,
+        0.46559633027522934
       ]
     },
     {
@@ -31320,8 +31320,8 @@ const features = {
       "user": "Bartłomiej",
       "label": "tree",
       "point": [
-        289,
-        327
+        0.28751311647429173,
+        0.7155963302752294
       ]
     },
     {
@@ -31330,8 +31330,8 @@ const features = {
       "user": "Bartłomiej",
       "label": "bicycle",
       "point": [
-        297,
-        197
+        0.29590766002098634,
+        0.41743119266055045
       ]
     },
     {
@@ -31340,8 +31340,8 @@ const features = {
       "user": "Bartłomiej",
       "label": "guitar",
       "point": [
-        343,
-        323
+        0.3441762854144806,
+        0.7064220183486238
       ]
     },
     {
@@ -31350,8 +31350,8 @@ const features = {
       "user": "Bartłomiej",
       "label": "pencil",
       "point": [
-        183,
-        228
+        0.17628541448058763,
+        0.48853211009174313
       ]
     },
     {
@@ -31360,8 +31360,8 @@ const features = {
       "user": "Bartłomiej",
       "label": "clock",
       "point": [
-        209,
-        184
+        0.20356768100734524,
+        0.3876146788990826
       ]
     },
     {
@@ -31370,8 +31370,8 @@ const features = {
       "user": "SamuelH",
       "label": "car",
       "point": [
-        279,
-        183
+        0.2770199370409234,
+        0.3853211009174312
       ]
     },
     {
@@ -31380,8 +31380,8 @@ const features = {
       "user": "SamuelH",
       "label": "fish",
       "point": [
-        280,
-        119
+        0.2780692549842602,
+        0.23853211009174313
       ]
     },
     {
@@ -31390,8 +31390,8 @@ const features = {
       "user": "SamuelH",
       "label": "house",
       "point": [
-        242,
-        302
+        0.23819517313746066,
+        0.658256880733945
       ]
     },
     {
@@ -31400,8 +31400,8 @@ const features = {
       "user": "SamuelH",
       "label": "tree",
       "point": [
-        303,
-        377
+        0.30220356768100737,
+        0.8302752293577982
       ]
     },
     {
@@ -31410,8 +31410,8 @@ const features = {
       "user": "SamuelH",
       "label": "bicycle",
       "point": [
-        287,
-        199
+        0.28541448058761804,
+        0.42201834862385323
       ]
     },
     {
@@ -31420,8 +31420,8 @@ const features = {
       "user": "SamuelH",
       "label": "guitar",
       "point": [
-        244,
-        264
+        0.2402938090241343,
+        0.5711009174311926
       ]
     },
     {
@@ -31430,8 +31430,8 @@ const features = {
       "user": "SamuelH",
       "label": "pencil",
       "point": [
-        144,
-        217
+        0.1353620146904512,
+        0.463302752293578
       ]
     },
     {
@@ -31440,8 +31440,8 @@ const features = {
       "user": "SamuelH",
       "label": "clock",
       "point": [
-        286,
-        244
+        0.28436516264428124,
+        0.5252293577981652
       ]
     },
     {
@@ -31450,8 +31450,8 @@ const features = {
       "user": "Jacob",
       "label": "car",
       "point": [
-        346,
-        239
+        0.3473242392444911,
+        0.5137614678899083
       ]
     },
     {
@@ -31460,8 +31460,8 @@ const features = {
       "user": "Jacob",
       "label": "fish",
       "point": [
-        236,
-        88
+        0.23189926547743966,
+        0.16743119266055045
       ]
     },
     {
@@ -31470,8 +31470,8 @@ const features = {
       "user": "Jacob",
       "label": "house",
       "point": [
-        208,
-        242
+        0.2025183630640084,
+        0.5206422018348624
       ]
     },
     {
@@ -31480,8 +31480,8 @@ const features = {
       "user": "Jacob",
       "label": "tree",
       "point": [
-        264,
-        345
+        0.26128016789087094,
+        0.7568807339449541
       ]
     },
     {
@@ -31490,8 +31490,8 @@ const features = {
       "user": "Jacob",
       "label": "bicycle",
       "point": [
-        218,
-        145
+        0.2130115424973767,
+        0.2981651376146789
       ]
     },
     {
@@ -31500,8 +31500,8 @@ const features = {
       "user": "Jacob",
       "label": "guitar",
       "point": [
-        317,
-        101
+        0.316894018887723,
+        0.19724770642201836
       ]
     },
     {
@@ -31510,8 +31510,8 @@ const features = {
       "user": "Jacob",
       "label": "pencil",
       "point": [
-        98,
-        222
+        0.08709338929695698,
+        0.47477064220183485
       ]
     },
     {
@@ -31520,8 +31520,8 @@ const features = {
       "user": "Jacob",
       "label": "clock",
       "point": [
-        259,
-        224
+        0.25603357817418676,
+        0.4793577981651376
       ]
     },
     {
@@ -31530,8 +31530,8 @@ const features = {
       "user": "Rishav",
       "label": "car",
       "point": [
-        319,
-        125
+        0.31899265477439664,
+        0.25229357798165136
       ]
     },
     {
@@ -31540,8 +31540,8 @@ const features = {
       "user": "Rishav",
       "label": "fish",
       "point": [
-        350,
-        208
+        0.3515215110178384,
+        0.4426605504587156
       ]
     },
     {
@@ -31550,8 +31550,8 @@ const features = {
       "user": "Rishav",
       "label": "house",
       "point": [
-        385,
-        308
+        0.3882476390346275,
+        0.6720183486238532
       ]
     },
     {
@@ -31560,8 +31560,8 @@ const features = {
       "user": "Rishav",
       "label": "tree",
       "point": [
-        234,
-        229
+        0.229800629590766,
+        0.4908256880733945
       ]
     },
     {
@@ -31570,8 +31570,8 @@ const features = {
       "user": "Rishav",
       "label": "bicycle",
       "point": [
-        354,
-        272
+        0.35571878279118574,
+        0.5894495412844036
       ]
     },
     {
@@ -31580,8 +31580,8 @@ const features = {
       "user": "Rishav",
       "label": "guitar",
       "point": [
-        393,
-        238
+        0.39664218258132217,
+        0.5114678899082569
       ]
     },
     {
@@ -31590,8 +31590,8 @@ const features = {
       "user": "Rishav",
       "label": "pencil",
       "point": [
-        293,
-        60
+        0.291710388247639,
+        0.10321100917431193
       ]
     },
     {
@@ -31600,8 +31600,8 @@ const features = {
       "user": "Rishav",
       "label": "clock",
       "point": [
-        237,
-        213
+        0.23294858342077648,
+        0.4541284403669725
       ]
     },
     {
@@ -31610,8 +31610,8 @@ const features = {
       "user": "Liam",
       "label": "car",
       "point": [
-        306,
-        212
+        0.30535152151101785,
+        0.4518348623853211
       ]
     },
     {
@@ -31620,8 +31620,8 @@ const features = {
       "user": "Liam",
       "label": "fish",
       "point": [
-        225,
-        162
+        0.2203567681007345,
+        0.33715596330275227
       ]
     },
     {
@@ -31630,8 +31630,8 @@ const features = {
       "user": "Liam",
       "label": "house",
       "point": [
-        242,
-        318
+        0.23819517313746066,
+        0.694954128440367
       ]
     },
     {
@@ -31640,8 +31640,8 @@ const features = {
       "user": "Liam",
       "label": "tree",
       "point": [
-        323,
-        367
+        0.323189926547744,
+        0.8073394495412844
       ]
     },
     {
@@ -31650,8 +31650,8 @@ const features = {
       "user": "Liam",
       "label": "bicycle",
       "point": [
-        277,
-        234
+        0.27492130115424973,
+        0.5022935779816514
       ]
     },
     {
@@ -31660,8 +31660,8 @@ const features = {
       "user": "Liam",
       "label": "guitar",
       "point": [
-        355,
-        266
+        0.3567681007345226,
+        0.5756880733944955
       ]
     },
     {
@@ -31670,8 +31670,8 @@ const features = {
       "user": "Liam",
       "label": "pencil",
       "point": [
-        198,
-        180
+        0.19202518363064008,
+        0.37844036697247707
       ]
     },
     {
@@ -31680,8 +31680,8 @@ const features = {
       "user": "Liam",
       "label": "clock",
       "point": [
-        128,
-        121
+        0.11857292759706191,
+        0.24311926605504589
       ]
     },
     {
@@ -31690,8 +31690,8 @@ const features = {
       "user": "zinary",
       "label": "car",
       "point": [
-        337,
-        134
+        0.3378803777544596,
+        0.27293577981651373
       ]
     },
     {
@@ -31700,8 +31700,8 @@ const features = {
       "user": "zinary",
       "label": "fish",
       "point": [
-        272,
-        133
+        0.2696747114375656,
+        0.2706422018348624
       ]
     },
     {
@@ -31710,8 +31710,8 @@ const features = {
       "user": "zinary",
       "label": "house",
       "point": [
-        225,
-        223
+        0.2203567681007345,
+        0.47706422018348627
       ]
     },
     {
@@ -31720,8 +31720,8 @@ const features = {
       "user": "zinary",
       "label": "tree",
       "point": [
-        353,
-        315
+        0.3546694648478489,
+        0.6880733944954128
       ]
     },
     {
@@ -31730,8 +31730,8 @@ const features = {
       "user": "zinary",
       "label": "bicycle",
       "point": [
-        242,
-        178
+        0.23819517313746066,
+        0.3738532110091743
       ]
     },
     {
@@ -31740,8 +31740,8 @@ const features = {
       "user": "zinary",
       "label": "guitar",
       "point": [
-        300,
-        281
+        0.2990556138509968,
+        0.6100917431192661
       ]
     },
     {
@@ -31750,8 +31750,8 @@ const features = {
       "user": "zinary",
       "label": "pencil",
       "point": [
-        186,
-        182
+        0.1794333683105981,
+        0.3830275229357798
       ]
     },
     {
@@ -31760,8 +31760,8 @@ const features = {
       "user": "zinary",
       "label": "clock",
       "point": [
-        176,
-        177
+        0.1689401888772298,
+        0.37155963302752293
       ]
     },
     {
@@ -31770,8 +31770,8 @@ const features = {
       "user": "Pranil Dhakal",
       "label": "car",
       "point": [
-        289,
-        129
+        0.28751311647429173,
+        0.26146788990825687
       ]
     },
     {
@@ -31780,8 +31780,8 @@ const features = {
       "user": "Pranil Dhakal",
       "label": "fish",
       "point": [
-        195,
-        74
+        0.1888772298006296,
+        0.1353211009174312
       ]
     },
     {
@@ -31790,8 +31790,8 @@ const features = {
       "user": "Pranil Dhakal",
       "label": "house",
       "point": [
-        195,
-        219
+        0.1888772298006296,
+        0.46788990825688076
       ]
     },
     {
@@ -31800,8 +31800,8 @@ const features = {
       "user": "Pranil Dhakal",
       "label": "tree",
       "point": [
-        152,
-        247
+        0.14375655823714587,
+        0.5321100917431193
       ]
     },
     {
@@ -31810,8 +31810,8 @@ const features = {
       "user": "Pranil Dhakal",
       "label": "bicycle",
       "point": [
-        152,
-        113
+        0.14375655823714587,
+        0.22477064220183487
       ]
     },
     {
@@ -31820,8 +31820,8 @@ const features = {
       "user": "Pranil Dhakal",
       "label": "guitar",
       "point": [
-        112,
-        242
+        0.10178384050367262,
+        0.5206422018348624
       ]
     },
     {
@@ -31830,8 +31830,8 @@ const features = {
       "user": "Pranil Dhakal",
       "label": "pencil",
       "point": [
-        92,
-        100
+        0.080797481636936,
+        0.19495412844036697
       ]
     },
     {
@@ -31840,8 +31840,8 @@ const features = {
       "user": "Pranil Dhakal",
       "label": "clock",
       "point": [
-        171,
-        233
+        0.16369359916054566,
+        0.5
       ]
     },
     {
@@ -31850,8 +31850,8 @@ const features = {
       "user": "David Melsh",
       "label": "car",
       "point": [
-        252,
-        189
+        0.24868835257082897,
+        0.39908256880733944
       ]
     },
     {
@@ -31860,8 +31860,8 @@ const features = {
       "user": "David Melsh",
       "label": "fish",
       "point": [
-        257,
-        147
+        0.2539349422875131,
+        0.30275229357798167
       ]
     },
     {
@@ -31870,8 +31870,8 @@ const features = {
       "user": "David Melsh",
       "label": "house",
       "point": [
-        266,
-        284
+        0.2633788037775446,
+        0.6169724770642202
       ]
     },
     {
@@ -31880,8 +31880,8 @@ const features = {
       "user": "David Melsh",
       "label": "tree",
       "point": [
-        222,
-        346
+        0.21720881427072403,
+        0.7591743119266054
       ]
     },
     {
@@ -31890,8 +31890,8 @@ const features = {
       "user": "David Melsh",
       "label": "bicycle",
       "point": [
-        291,
-        183
+        0.28961175236096537,
+        0.3853211009174312
       ]
     },
     {
@@ -31900,8 +31900,8 @@ const features = {
       "user": "David Melsh",
       "label": "guitar",
       "point": [
-        248,
-        263
+        0.24449108079748164,
+        0.5688073394495413
       ]
     },
     {
@@ -31910,8 +31910,8 @@ const features = {
       "user": "David Melsh",
       "label": "pencil",
       "point": [
-        288,
-        300
+        0.2864637985309549,
+        0.6536697247706422
       ]
     },
     {
@@ -31920,8 +31920,8 @@ const features = {
       "user": "David Melsh",
       "label": "clock",
       "point": [
-        215,
-        253
+        0.2098635886673662,
+        0.5458715596330275
       ]
     },
     {
@@ -31930,8 +31930,8 @@ const features = {
       "user": "Dwna",
       "label": "car",
       "point": [
-        395,
-        215
+        0.3987408184679958,
+        0.45871559633027525
       ]
     },
     {
@@ -31940,8 +31940,8 @@ const features = {
       "user": "Dwna",
       "label": "fish",
       "point": [
-        275,
-        203
+        0.2728226652675761,
+        0.43119266055045874
       ]
     },
     {
@@ -31950,8 +31950,8 @@ const features = {
       "user": "Dwna",
       "label": "house",
       "point": [
-        354,
-        361
+        0.35571878279118574,
+        0.7935779816513762
       ]
     },
     {
@@ -31960,8 +31960,8 @@ const features = {
       "user": "Dwna",
       "label": "tree",
       "point": [
-        305,
-        355
+        0.304302203567681,
+        0.7798165137614679
       ]
     },
     {
@@ -31970,8 +31970,8 @@ const features = {
       "user": "Dwna",
       "label": "bicycle",
       "point": [
-        338,
-        318
+        0.3389296956977964,
+        0.694954128440367
       ]
     },
     {
@@ -31980,8 +31980,8 @@ const features = {
       "user": "Dwna",
       "label": "guitar",
       "point": [
-        347,
-        249
+        0.3483735571878279,
+        0.536697247706422
       ]
     },
     {
@@ -31990,8 +31990,8 @@ const features = {
       "user": "Dwna",
       "label": "pencil",
       "point": [
-        306,
-        236
+        0.30535152151101785,
+        0.5068807339449541
       ]
     },
     {
@@ -32000,8 +32000,8 @@ const features = {
       "user": "Dwna",
       "label": "clock",
       "point": [
-        242,
-        303
+        0.23819517313746066,
+        0.6605504587155964
       ]
     },
     {
@@ -32010,8 +32010,8 @@ const features = {
       "user": "GiantBooley",
       "label": "car",
       "point": [
-        257,
-        118
+        0.2539349422875131,
+        0.23623853211009174
       ]
     },
     {
@@ -32020,8 +32020,8 @@ const features = {
       "user": "GiantBooley",
       "label": "fish",
       "point": [
-        338,
-        183
+        0.3389296956977964,
+        0.3853211009174312
       ]
     },
     {
@@ -32030,8 +32030,8 @@ const features = {
       "user": "GiantBooley",
       "label": "house",
       "point": [
-        270,
-        271
+        0.2675760755508919,
+        0.5871559633027523
       ]
     },
     {
@@ -32040,8 +32040,8 @@ const features = {
       "user": "GiantBooley",
       "label": "tree",
       "point": [
-        207,
-        322
+        0.20146904512067157,
+        0.7041284403669725
       ]
     },
     {
@@ -32050,8 +32050,8 @@ const features = {
       "user": "GiantBooley",
       "label": "bicycle",
       "point": [
-        264,
-        234
+        0.26128016789087094,
+        0.5022935779816514
       ]
     },
     {
@@ -32060,8 +32060,8 @@ const features = {
       "user": "GiantBooley",
       "label": "guitar",
       "point": [
-        361,
-        92
+        0.36306400839454356,
+        0.17660550458715596
       ]
     },
     {
@@ -32070,8 +32070,8 @@ const features = {
       "user": "GiantBooley",
       "label": "pencil",
       "point": [
-        346,
-        26
+        0.3473242392444911,
+        0.02522935779816514
       ]
     },
     {
@@ -32080,8 +32080,8 @@ const features = {
       "user": "GiantBooley",
       "label": "clock",
       "point": [
-        188,
-        225
+        0.18153200419727178,
+        0.481651376146789
       ]
     },
     {
@@ -32090,8 +32090,8 @@ const features = {
       "user": "Hunter",
       "label": "car",
       "point": [
-        351,
-        185
+        0.35257082896117525,
+        0.38990825688073394
       ]
     },
     {
@@ -32100,8 +32100,8 @@ const features = {
       "user": "Hunter",
       "label": "fish",
       "point": [
-        327,
-        172
+        0.3273871983210913,
+        0.36009174311926606
       ]
     },
     {
@@ -32110,8 +32110,8 @@ const features = {
       "user": "Hunter",
       "label": "house",
       "point": [
-        236,
-        285
+        0.23189926547743966,
+        0.6192660550458715
       ]
     },
     {
@@ -32120,8 +32120,8 @@ const features = {
       "user": "Hunter",
       "label": "tree",
       "point": [
-        322,
-        348
+        0.32214060860440713,
+        0.7637614678899083
       ]
     },
     {
@@ -32130,8 +32130,8 @@ const features = {
       "user": "Hunter",
       "label": "bicycle",
       "point": [
-        250,
-        262
+        0.2465897166841553,
+        0.5665137614678899
       ]
     },
     {
@@ -32140,8 +32140,8 @@ const features = {
       "user": "Hunter",
       "label": "guitar",
       "point": [
-        223,
-        327
+        0.21825813221406087,
+        0.7155963302752294
       ]
     },
     {
@@ -32150,8 +32150,8 @@ const features = {
       "user": "Hunter",
       "label": "pencil",
       "point": [
-        167,
-        306
+        0.15949632738719832,
+        0.6674311926605505
       ]
     },
     {
@@ -32160,8 +32160,8 @@ const features = {
       "user": "Hunter",
       "label": "clock",
       "point": [
-        215,
-        225
+        0.2098635886673662,
+        0.481651376146789
       ]
     },
     {
@@ -32170,8 +32170,8 @@ const features = {
       "user": "DrinkableWater",
       "label": "car",
       "point": [
-        341,
-        152
+        0.34207764952780695,
+        0.31422018348623854
       ]
     },
     {
@@ -32180,8 +32180,8 @@ const features = {
       "user": "DrinkableWater",
       "label": "fish",
       "point": [
-        180,
-        93
+        0.1731374606505771,
+        0.17889908256880735
       ]
     },
     {
@@ -32190,8 +32190,8 @@ const features = {
       "user": "DrinkableWater",
       "label": "house",
       "point": [
-        220,
-        269
+        0.21511017838405036,
+        0.5825688073394495
       ]
     },
     {
@@ -32200,8 +32200,8 @@ const features = {
       "user": "DrinkableWater",
       "label": "tree",
       "point": [
-        226,
-        333
+        0.22140608604407136,
+        0.7293577981651376
       ]
     },
     {
@@ -32210,8 +32210,8 @@ const features = {
       "user": "DrinkableWater",
       "label": "bicycle",
       "point": [
-        139,
-        121
+        0.13011542497376705,
+        0.24311926605504589
       ]
     },
     {
@@ -32220,8 +32220,8 @@ const features = {
       "user": "DrinkableWater",
       "label": "guitar",
       "point": [
-        342,
-        349
+        0.34312696747114374,
+        0.7660550458715596
       ]
     },
     {
@@ -32230,8 +32230,8 @@ const features = {
       "user": "DrinkableWater",
       "label": "pencil",
       "point": [
-        178,
-        181
+        0.17103882476390347,
+        0.38073394495412843
       ]
     },
     {
@@ -32240,8 +32240,8 @@ const features = {
       "user": "DrinkableWater",
       "label": "clock",
       "point": [
-        197,
-        189
+        0.19097586568730326,
+        0.39908256880733944
       ]
     },
     {
@@ -32250,8 +32250,8 @@ const features = {
       "user": "sandy",
       "label": "car",
       "point": [
-        236,
-        175
+        0.23189926547743966,
+        0.3669724770642202
       ]
     },
     {
@@ -32260,8 +32260,8 @@ const features = {
       "user": "sandy",
       "label": "fish",
       "point": [
-        131,
-        67
+        0.12172088142707241,
+        0.11926605504587157
       ]
     },
     {
@@ -32270,8 +32270,8 @@ const features = {
       "user": "sandy",
       "label": "house",
       "point": [
-        286,
-        264
+        0.28436516264428124,
+        0.5711009174311926
       ]
     },
     {
@@ -32280,8 +32280,8 @@ const features = {
       "user": "sandy",
       "label": "tree",
       "point": [
-        239,
-        281
+        0.23504721930745015,
+        0.6100917431192661
       ]
     },
     {
@@ -32290,8 +32290,8 @@ const features = {
       "user": "sandy",
       "label": "bicycle",
       "point": [
-        223,
-        118
+        0.21825813221406087,
+        0.23623853211009174
       ]
     },
     {
@@ -32300,8 +32300,8 @@ const features = {
       "user": "sandy",
       "label": "guitar",
       "point": [
-        243,
-        166
+        0.23924449108079748,
+        0.3463302752293578
       ]
     },
     {
@@ -32310,8 +32310,8 @@ const features = {
       "user": "sandy",
       "label": "pencil",
       "point": [
-        32,
-        267
+        0.017838405036726127,
+        0.5779816513761468
       ]
     },
     {
@@ -32320,8 +32320,8 @@ const features = {
       "user": "sandy",
       "label": "clock",
       "point": [
-        91,
-        99
+        0.07974816369359916,
+        0.1926605504587156
       ]
     },
     {
@@ -32330,8 +32330,8 @@ const features = {
       "user": "el nombre",
       "label": "car",
       "point": [
-        269,
-        114
+        0.26652675760755506,
+        0.22706422018348624
       ]
     },
     {
@@ -32340,8 +32340,8 @@ const features = {
       "user": "el nombre",
       "label": "fish",
       "point": [
-        248,
-        113
+        0.24449108079748164,
+        0.22477064220183487
       ]
     },
     {
@@ -32350,8 +32350,8 @@ const features = {
       "user": "el nombre",
       "label": "house",
       "point": [
-        213,
-        195
+        0.20776495278069254,
+        0.41284403669724773
       ]
     },
     {
@@ -32360,8 +32360,8 @@ const features = {
       "user": "el nombre",
       "label": "tree",
       "point": [
-        279,
-        291
+        0.2770199370409234,
+        0.6330275229357798
       ]
     },
     {
@@ -32370,8 +32370,8 @@ const features = {
       "user": "el nombre",
       "label": "bicycle",
       "point": [
-        342,
-        250
+        0.34312696747114374,
+        0.5389908256880734
       ]
     },
     {
@@ -32380,8 +32380,8 @@ const features = {
       "user": "el nombre",
       "label": "guitar",
       "point": [
-        265,
-        391
+        0.2623294858342078,
+        0.8623853211009175
       ]
     },
     {
@@ -32390,8 +32390,8 @@ const features = {
       "user": "el nombre",
       "label": "pencil",
       "point": [
-        264,
-        320
+        0.26128016789087094,
+        0.6995412844036697
       ]
     },
     {
@@ -32400,8 +32400,8 @@ const features = {
       "user": "el nombre",
       "label": "clock",
       "point": [
-        340,
-        319
+        0.3410283315844701,
+        0.6972477064220184
       ]
     },
     {
@@ -32410,8 +32410,8 @@ const features = {
       "user": "alpha",
       "label": "car",
       "point": [
-        299,
-        137
+        0.29800629590766003,
+        0.2798165137614679
       ]
     },
     {
@@ -32420,8 +32420,8 @@ const features = {
       "user": "alpha",
       "label": "fish",
       "point": [
-        169,
-        94
+        0.161594963273872,
+        0.1811926605504587
       ]
     },
     {
@@ -32430,8 +32430,8 @@ const features = {
       "user": "alpha",
       "label": "house",
       "point": [
-        309,
-        205
+        0.30849947534102834,
+        0.43577981651376146
       ]
     },
     {
@@ -32440,8 +32440,8 @@ const features = {
       "user": "alpha",
       "label": "tree",
       "point": [
-        375,
-        273
+        0.3777544596012592,
+        0.591743119266055
       ]
     },
     {
@@ -32450,8 +32450,8 @@ const features = {
       "user": "alpha",
       "label": "bicycle",
       "point": [
-        315,
-        181
+        0.3147953830010493,
+        0.38073394495412843
       ]
     },
     {
@@ -32460,8 +32460,8 @@ const features = {
       "user": "alpha",
       "label": "guitar",
       "point": [
-        259,
-        228
+        0.25603357817418676,
+        0.48853211009174313
       ]
     },
     {
@@ -32470,8 +32470,8 @@ const features = {
       "user": "alpha",
       "label": "pencil",
       "point": [
-        184,
-        177
+        0.17733473242392445,
+        0.37155963302752293
       ]
     },
     {
@@ -32480,8 +32480,8 @@ const features = {
       "user": "alpha",
       "label": "clock",
       "point": [
-        191,
-        164
+        0.18467995802728226,
+        0.34174311926605505
       ]
     },
     {
@@ -32490,8 +32490,8 @@ const features = {
       "user": "Anshul Jain",
       "label": "car",
       "point": [
-        329,
-        201
+        0.32948583420776495,
+        0.42660550458715596
       ]
     },
     {
@@ -32500,8 +32500,8 @@ const features = {
       "user": "Anshul Jain",
       "label": "fish",
       "point": [
-        328,
-        93
+        0.3284365162644281,
+        0.17889908256880735
       ]
     },
     {
@@ -32510,8 +32510,8 @@ const features = {
       "user": "Anshul Jain",
       "label": "house",
       "point": [
-        300,
-        264
+        0.2990556138509968,
+        0.5711009174311926
       ]
     },
     {
@@ -32520,8 +32520,8 @@ const features = {
       "user": "Anshul Jain",
       "label": "tree",
       "point": [
-        241,
-        303
+        0.23714585519412382,
+        0.6605504587155964
       ]
     },
     {
@@ -32530,8 +32530,8 @@ const features = {
       "user": "Anshul Jain",
       "label": "bicycle",
       "point": [
-        255,
-        245
+        0.2518363064008394,
+        0.5275229357798165
       ]
     },
     {
@@ -32540,8 +32540,8 @@ const features = {
       "user": "Anshul Jain",
       "label": "guitar",
       "point": [
-        354,
-        260
+        0.35571878279118574,
+        0.5619266055045872
       ]
     },
     {
@@ -32550,8 +32550,8 @@ const features = {
       "user": "Anshul Jain",
       "label": "pencil",
       "point": [
-        261,
-        196
+        0.25813221406086045,
+        0.4151376146788991
       ]
     },
     {
@@ -32560,8 +32560,8 @@ const features = {
       "user": "Anshul Jain",
       "label": "clock",
       "point": [
-        197,
-        206
+        0.19097586568730326,
+        0.4380733944954128
       ]
     },
     {
@@ -32570,8 +32570,8 @@ const features = {
       "user": "Tom",
       "label": "car",
       "point": [
-        290,
-        165
+        0.2885624344176285,
+        0.3440366972477064
       ]
     },
     {
@@ -32580,8 +32580,8 @@ const features = {
       "user": "Tom",
       "label": "fish",
       "point": [
-        155,
-        97
+        0.14690451206715635,
+        0.18807339449541285
       ]
     },
     {
@@ -32590,8 +32590,8 @@ const features = {
       "user": "Tom",
       "label": "house",
       "point": [
-        175,
-        223
+        0.16789087093389296,
+        0.47706422018348627
       ]
     },
     {
@@ -32600,8 +32600,8 @@ const features = {
       "user": "Tom",
       "label": "tree",
       "point": [
-        154,
-        295
+        0.1458551941238195,
+        0.6422018348623854
       ]
     },
     {
@@ -32610,8 +32610,8 @@ const features = {
       "user": "Tom",
       "label": "bicycle",
       "point": [
-        212,
-        173
+        0.20671563483735572,
+        0.3623853211009174
       ]
     },
     {
@@ -32620,8 +32620,8 @@ const features = {
       "user": "Tom",
       "label": "guitar",
       "point": [
-        260,
-        263
+        0.2570828961175236,
+        0.5688073394495413
       ]
     },
     {
@@ -32630,8 +32630,8 @@ const features = {
       "user": "Tom",
       "label": "pencil",
       "point": [
-        190,
-        235
+        0.18363064008394545,
+        0.5045871559633027
       ]
     },
     {
@@ -32640,8 +32640,8 @@ const features = {
       "user": "Tom",
       "label": "clock",
       "point": [
-        254,
-        230
+        0.25078698845750264,
+        0.49311926605504586
       ]
     },
     {
@@ -32650,8 +32650,8 @@ const features = {
       "user": "Aakash",
       "label": "car",
       "point": [
-        297,
-        165
+        0.29590766002098634,
+        0.3440366972477064
       ]
     },
     {
@@ -32660,8 +32660,8 @@ const features = {
       "user": "Aakash",
       "label": "fish",
       "point": [
-        219,
-        69
+        0.21406086044071354,
+        0.12385321100917432
       ]
     },
     {
@@ -32670,8 +32670,8 @@ const features = {
       "user": "Aakash",
       "label": "house",
       "point": [
-        130,
-        116
+        0.12067156348373557,
+        0.231651376146789
       ]
     },
     {
@@ -32680,8 +32680,8 @@ const features = {
       "user": "Aakash",
       "label": "tree",
       "point": [
-        258,
-        304
+        0.25498426023084997,
+        0.6628440366972477
       ]
     },
     {
@@ -32690,8 +32690,8 @@ const features = {
       "user": "Aakash",
       "label": "bicycle",
       "point": [
-        193,
-        139
+        0.18677859391395593,
+        0.28440366972477066
       ]
     },
     {
@@ -32700,8 +32700,8 @@ const features = {
       "user": "Aakash",
       "label": "guitar",
       "point": [
-        228,
-        201
+        0.22350472193074503,
+        0.42660550458715596
       ]
     },
     {
@@ -32710,8 +32710,8 @@ const features = {
       "user": "Aakash",
       "label": "pencil",
       "point": [
-        36,
-        220
+        0.022035676810073453,
+        0.4701834862385321
       ]
     },
     {
@@ -32720,8 +32720,8 @@ const features = {
       "user": "Aakash",
       "label": "clock",
       "point": [
-        131,
-        135
+        0.12172088142707241,
+        0.27522935779816515
       ]
     },
     {
@@ -32730,8 +32730,8 @@ const features = {
       "user": "Doddy",
       "label": "car",
       "point": [
-        314,
-        150
+        0.31374606505771246,
+        0.30963302752293576
       ]
     },
     {
@@ -32740,8 +32740,8 @@ const features = {
       "user": "Doddy",
       "label": "fish",
       "point": [
-        255,
-        143
+        0.2518363064008394,
+        0.29357798165137616
       ]
     },
     {
@@ -32750,8 +32750,8 @@ const features = {
       "user": "Doddy",
       "label": "house",
       "point": [
-        363,
-        271
+        0.3651626442812172,
+        0.5871559633027523
       ]
     },
     {
@@ -32760,8 +32760,8 @@ const features = {
       "user": "Doddy",
       "label": "tree",
       "point": [
-        384,
-        271
+        0.38719832109129065,
+        0.5871559633027523
       ]
     },
     {
@@ -32770,8 +32770,8 @@ const features = {
       "user": "Doddy",
       "label": "bicycle",
       "point": [
-        305,
-        179
+        0.304302203567681,
+        0.3761467889908257
       ]
     },
     {
@@ -32780,8 +32780,8 @@ const features = {
       "user": "Doddy",
       "label": "guitar",
       "point": [
-        243,
-        252
+        0.23924449108079748,
+        0.5435779816513762
       ]
     },
     {
@@ -32790,8 +32790,8 @@ const features = {
       "user": "Doddy",
       "label": "pencil",
       "point": [
-        237,
-        177
+        0.23294858342077648,
+        0.37155963302752293
       ]
     },
     {
@@ -32800,8 +32800,8 @@ const features = {
       "user": "Doddy",
       "label": "clock",
       "point": [
-        221,
-        212
+        0.2161594963273872,
+        0.4518348623853211
       ]
     },
     {
@@ -32810,8 +32810,8 @@ const features = {
       "user": "ubaidullah",
       "label": "car",
       "point": [
-        318,
-        117
+        0.3179433368310598,
+        0.23394495412844038
       ]
     },
     {
@@ -32820,8 +32820,8 @@ const features = {
       "user": "ubaidullah",
       "label": "fish",
       "point": [
-        232,
-        73
+        0.22770199370409233,
+        0.13302752293577982
       ]
     },
     {
@@ -32830,8 +32830,8 @@ const features = {
       "user": "ubaidullah",
       "label": "house",
       "point": [
-        278,
-        236
+        0.2759706190975866,
+        0.5068807339449541
       ]
     },
     {
@@ -32840,8 +32840,8 @@ const features = {
       "user": "ubaidullah",
       "label": "tree",
       "point": [
-        303,
-        289
+        0.30220356768100737,
+        0.6284403669724771
       ]
     },
     {
@@ -32850,8 +32850,8 @@ const features = {
       "user": "ubaidullah",
       "label": "bicycle",
       "point": [
-        277,
-        152
+        0.27492130115424973,
+        0.31422018348623854
       ]
     },
     {
@@ -32860,8 +32860,8 @@ const features = {
       "user": "ubaidullah",
       "label": "guitar",
       "point": [
-        100,
-        284
+        0.08919202518363065,
+        0.6169724770642202
       ]
     },
     {
@@ -32870,8 +32870,8 @@ const features = {
       "user": "ubaidullah",
       "label": "pencil",
       "point": [
-        58,
-        207
+        0.04512067156348373,
+        0.44036697247706424
       ]
     },
     {
@@ -32880,8 +32880,8 @@ const features = {
       "user": "ubaidullah",
       "label": "clock",
       "point": [
-        170,
-        196
+        0.1626442812172088,
+        0.4151376146788991
       ]
     },
     {
@@ -32890,8 +32890,8 @@ const features = {
       "user": "marcino0o",
       "label": "car",
       "point": [
-        304,
-        121
+        0.30325288562434416,
+        0.24311926605504589
       ]
     },
     {
@@ -32900,8 +32900,8 @@ const features = {
       "user": "marcino0o",
       "label": "fish",
       "point": [
-        209,
-        95
+        0.20356768100734524,
+        0.1834862385321101
       ]
     },
     {
@@ -32910,8 +32910,8 @@ const features = {
       "user": "marcino0o",
       "label": "house",
       "point": [
-        230,
-        248
+        0.22560335781741866,
+        0.5344036697247706
       ]
     },
     {
@@ -32920,8 +32920,8 @@ const features = {
       "user": "marcino0o",
       "label": "tree",
       "point": [
-        235,
-        299
+        0.23084994753410285,
+        0.6513761467889908
       ]
     },
     {
@@ -32930,8 +32930,8 @@ const features = {
       "user": "marcino0o",
       "label": "bicycle",
       "point": [
-        256,
-        195
+        0.2528856243441763,
+        0.41284403669724773
       ]
     },
     {
@@ -32940,8 +32940,8 @@ const features = {
       "user": "marcino0o",
       "label": "guitar",
       "point": [
-        267,
-        275
+        0.2644281217208814,
+        0.5963302752293578
       ]
     },
     {
@@ -32950,8 +32950,8 @@ const features = {
       "user": "marcino0o",
       "label": "pencil",
       "point": [
-        184,
-        240
+        0.17733473242392445,
+        0.5160550458715596
       ]
     },
     {
@@ -32960,8 +32960,8 @@ const features = {
       "user": "marcino0o",
       "label": "clock",
       "point": [
-        204,
-        187
+        0.19832109129066108,
+        0.3944954128440367
       ]
     },
     {
@@ -32970,8 +32970,8 @@ const features = {
       "user": "Christian",
       "label": "car",
       "point": [
-        340,
-        242
+        0.3410283315844701,
+        0.5206422018348624
       ]
     },
     {
@@ -32980,8 +32980,8 @@ const features = {
       "user": "Christian",
       "label": "fish",
       "point": [
-        196,
-        127
+        0.18992654774396642,
+        0.25688073394495414
       ]
     },
     {
@@ -32990,8 +32990,8 @@ const features = {
       "user": "Christian",
       "label": "house",
       "point": [
-        199,
-        239
+        0.1930745015739769,
+        0.5137614678899083
       ]
     },
     {
@@ -33000,8 +33000,8 @@ const features = {
       "user": "Christian",
       "label": "tree",
       "point": [
-        236,
-        288
+        0.23189926547743966,
+        0.6261467889908257
       ]
     },
     {
@@ -33010,8 +33010,8 @@ const features = {
       "user": "Christian",
       "label": "bicycle",
       "point": [
-        218,
-        130
+        0.2130115424973767,
+        0.26376146788990823
       ]
     },
     {
@@ -33020,8 +33020,8 @@ const features = {
       "user": "Christian",
       "label": "guitar",
       "point": [
-        240,
-        305
+        0.236096537250787,
+        0.6651376146788991
       ]
     },
     {
@@ -33030,8 +33030,8 @@ const features = {
       "user": "Christian",
       "label": "pencil",
       "point": [
-        122,
-        149
+        0.11227701993704092,
+        0.3073394495412844
       ]
     },
     {
@@ -33040,8 +33040,8 @@ const features = {
       "user": "Christian",
       "label": "clock",
       "point": [
-        131,
-        147
+        0.12172088142707241,
+        0.30275229357798167
       ]
     },
     {
@@ -33050,8 +33050,8 @@ const features = {
       "user": "Igostoso",
       "label": "car",
       "point": [
-        238,
-        80
+        0.23399790136411333,
+        0.14908256880733944
       ]
     },
     {
@@ -33060,8 +33060,8 @@ const features = {
       "user": "Igostoso",
       "label": "fish",
       "point": [
-        190,
-        110
+        0.18363064008394545,
+        0.21788990825688073
       ]
     },
     {
@@ -33070,8 +33070,8 @@ const features = {
       "user": "Igostoso",
       "label": "house",
       "point": [
-        133,
-        134
+        0.12381951731374606,
+        0.27293577981651373
       ]
     },
     {
@@ -33080,8 +33080,8 @@ const features = {
       "user": "Igostoso",
       "label": "tree",
       "point": [
-        397,
-        302
+        0.40083945435466944,
+        0.658256880733945
       ]
     },
     {
@@ -33090,8 +33090,8 @@ const features = {
       "user": "Igostoso",
       "label": "bicycle",
       "point": [
-        209,
-        188
+        0.20356768100734524,
+        0.3967889908256881
       ]
     },
     {
@@ -33100,8 +33100,8 @@ const features = {
       "user": "Igostoso",
       "label": "guitar",
       "point": [
-        273,
-        104
+        0.2707240293809024,
+        0.20412844036697247
       ]
     },
     {
@@ -33110,8 +33110,8 @@ const features = {
       "user": "Igostoso",
       "label": "pencil",
       "point": [
-        24,
-        104
+        0.00944386149003148,
+        0.20412844036697247
       ]
     },
     {
@@ -33120,8 +33120,8 @@ const features = {
       "user": "Igostoso",
       "label": "clock",
       "point": [
-        91,
-        91
+        0.07974816369359916,
+        0.1743119266055046
       ]
     },
     {
@@ -33130,8 +33130,8 @@ const features = {
       "user": "mas",
       "label": "car",
       "point": [
-        363,
-        151
+        0.3651626442812172,
+        0.3119266055045872
       ]
     },
     {
@@ -33140,8 +33140,8 @@ const features = {
       "user": "mas",
       "label": "fish",
       "point": [
-        255,
-        130
+        0.2518363064008394,
+        0.26376146788990823
       ]
     },
     {
@@ -33150,8 +33150,8 @@ const features = {
       "user": "mas",
       "label": "house",
       "point": [
-        326,
-        310
+        0.32633788037775446,
+        0.676605504587156
       ]
     },
     {
@@ -33160,8 +33160,8 @@ const features = {
       "user": "mas",
       "label": "tree",
       "point": [
-        357,
-        359
+        0.3588667366211962,
+        0.7889908256880734
       ]
     },
     {
@@ -33170,8 +33170,8 @@ const features = {
       "user": "mas",
       "label": "bicycle",
       "point": [
-        309,
-        224
+        0.30849947534102834,
+        0.4793577981651376
       ]
     },
     {
@@ -33180,8 +33180,8 @@ const features = {
       "user": "mas",
       "label": "guitar",
       "point": [
-        367,
-        351
+        0.36935991605456453,
+        0.7706422018348624
       ]
     },
     {
@@ -33190,8 +33190,8 @@ const features = {
       "user": "mas",
       "label": "pencil",
       "point": [
-        324,
-        289
+        0.3242392444910808,
+        0.6284403669724771
       ]
     },
     {
@@ -33200,8 +33200,8 @@ const features = {
       "user": "mas",
       "label": "clock",
       "point": [
-        255,
-        238
+        0.2518363064008394,
+        0.5114678899082569
       ]
     },
     {
@@ -33210,8 +33210,8 @@ const features = {
       "user": "dim",
       "label": "car",
       "point": [
-        200,
-        113
+        0.19412381951731375,
+        0.22477064220183487
       ]
     },
     {
@@ -33220,8 +33220,8 @@ const features = {
       "user": "dim",
       "label": "fish",
       "point": [
-        174,
-        61
+        0.16684155299055614,
+        0.10550458715596331
       ]
     },
     {
@@ -33230,8 +33230,8 @@ const features = {
       "user": "dim",
       "label": "house",
       "point": [
-        213,
-        198
+        0.20776495278069254,
+        0.4197247706422018
       ]
     },
     {
@@ -33240,8 +33240,8 @@ const features = {
       "user": "dim",
       "label": "tree",
       "point": [
-        171,
-        230
+        0.16369359916054566,
+        0.49311926605504586
       ]
     },
     {
@@ -33250,8 +33250,8 @@ const features = {
       "user": "dim",
       "label": "bicycle",
       "point": [
-        278,
-        211
+        0.2759706190975866,
+        0.44954128440366975
       ]
     },
     {
@@ -33260,8 +33260,8 @@ const features = {
       "user": "dim",
       "label": "guitar",
       "point": [
-        136,
-        346
+        0.12696747114375656,
+        0.7591743119266054
       ]
     },
     {
@@ -33270,8 +33270,8 @@ const features = {
       "user": "dim",
       "label": "pencil",
       "point": [
-        125,
-        271
+        0.11542497376705142,
+        0.5871559633027523
       ]
     },
     {
@@ -33280,8 +33280,8 @@ const features = {
       "user": "dim",
       "label": "clock",
       "point": [
-        196,
-        220
+        0.18992654774396642,
+        0.4701834862385321
       ]
     },
     {
@@ -33290,8 +33290,8 @@ const features = {
       "user": "Arpit ",
       "label": "car",
       "point": [
-        329,
-        170
+        0.32948583420776495,
+        0.3555045871559633
       ]
     },
     {
@@ -33300,8 +33300,8 @@ const features = {
       "user": "Arpit ",
       "label": "fish",
       "point": [
-        215,
-        109
+        0.2098635886673662,
+        0.21559633027522937
       ]
     },
     {
@@ -33310,8 +33310,8 @@ const features = {
       "user": "Arpit ",
       "label": "house",
       "point": [
-        396,
-        312
+        0.39979013641133265,
+        0.6811926605504587
       ]
     },
     {
@@ -33320,8 +33320,8 @@ const features = {
       "user": "Arpit ",
       "label": "tree",
       "point": [
-        322,
-        400
+        0.32214060860440713,
+        0.8830275229357798
       ]
     },
     {
@@ -33330,8 +33330,8 @@ const features = {
       "user": "Arpit ",
       "label": "bicycle",
       "point": [
-        332,
-        198
+        0.33263378803777544,
+        0.4197247706422018
       ]
     },
     {
@@ -33340,8 +33340,8 @@ const features = {
       "user": "Arpit ",
       "label": "guitar",
       "point": [
-        151,
-        327
+        0.14270724029380902,
+        0.7155963302752294
       ]
     },
     {
@@ -33350,8 +33350,8 @@ const features = {
       "user": "Arpit ",
       "label": "pencil",
       "point": [
-        79,
-        290
+        0.06715634837355719,
+        0.6307339449541285
       ]
     },
     {
@@ -33360,8 +33360,8 @@ const features = {
       "user": "Arpit ",
       "label": "clock",
       "point": [
-        334,
-        369
+        0.33473242392444913,
+        0.8119266055045872
       ]
     },
     {
@@ -33370,8 +33370,8 @@ const features = {
       "user": "pip",
       "label": "car",
       "point": [
-        203,
-        84
+        0.19727177334732424,
+        0.15825688073394495
       ]
     },
     {
@@ -33380,8 +33380,8 @@ const features = {
       "user": "pip",
       "label": "fish",
       "point": [
-        215,
-        109
+        0.2098635886673662,
+        0.21559633027522937
       ]
     },
     {
@@ -33390,8 +33390,8 @@ const features = {
       "user": "pip",
       "label": "house",
       "point": [
-        236,
-        251
+        0.23189926547743966,
+        0.5412844036697247
       ]
     },
     {
@@ -33400,8 +33400,8 @@ const features = {
       "user": "pip",
       "label": "tree",
       "point": [
-        278,
-        302
+        0.2759706190975866,
+        0.658256880733945
       ]
     },
     {
@@ -33410,8 +33410,8 @@ const features = {
       "user": "pip",
       "label": "bicycle",
       "point": [
-        216,
-        142
+        0.21091290661070305,
+        0.29128440366972475
       ]
     },
     {
@@ -33420,8 +33420,8 @@ const features = {
       "user": "pip",
       "label": "guitar",
       "point": [
-        280,
-        204
+        0.2780692549842602,
+        0.4334862385321101
       ]
     },
     {
@@ -33430,8 +33430,8 @@ const features = {
       "user": "pip",
       "label": "pencil",
       "point": [
-        150,
-        225
+        0.1416579223504722,
+        0.481651376146789
       ]
     },
     {
@@ -33440,8 +33440,8 @@ const features = {
       "user": "pip",
       "label": "clock",
       "point": [
-        180,
-        153
+        0.1731374606505771,
+        0.3165137614678899
       ]
     },
     {
@@ -33450,8 +33450,8 @@ const features = {
       "user": "Alin Labau",
       "label": "car",
       "point": [
-        348,
-        173
+        0.34942287513116477,
+        0.3623853211009174
       ]
     },
     {
@@ -33460,8 +33460,8 @@ const features = {
       "user": "Alin Labau",
       "label": "fish",
       "point": [
-        319,
-        111
+        0.31899265477439664,
+        0.22018348623853212
       ]
     },
     {
@@ -33470,8 +33470,8 @@ const features = {
       "user": "Alin Labau",
       "label": "house",
       "point": [
-        263,
-        287
+        0.2602308499475341,
+        0.6238532110091743
       ]
     },
     {
@@ -33480,8 +33480,8 @@ const features = {
       "user": "Alin Labau",
       "label": "tree",
       "point": [
-        301,
-        333
+        0.3001049317943337,
+        0.7293577981651376
       ]
     },
     {
@@ -33490,8 +33490,8 @@ const features = {
       "user": "Alin Labau",
       "label": "bicycle",
       "point": [
-        243,
-        130
+        0.23924449108079748,
+        0.26376146788990823
       ]
     },
     {
@@ -33500,8 +33500,8 @@ const features = {
       "user": "Alin Labau",
       "label": "guitar",
       "point": [
-        347,
-        227
+        0.3483735571878279,
+        0.48623853211009177
       ]
     },
     {
@@ -33510,8 +33510,8 @@ const features = {
       "user": "Alin Labau",
       "label": "pencil",
       "point": [
-        268,
-        200
+        0.2654774396642183,
+        0.4243119266055046
       ]
     },
     {
@@ -33520,8 +33520,8 @@ const features = {
       "user": "Alin Labau",
       "label": "clock",
       "point": [
-        330,
-        286
+        0.3305351521511018,
+        0.6215596330275229
       ]
     },
     {
@@ -33530,8 +33530,8 @@ const features = {
       "user": "Andrii",
       "label": "car",
       "point": [
-        204,
-        77
+        0.19832109129066108,
+        0.14220183486238533
       ]
     },
     {
@@ -33540,8 +33540,8 @@ const features = {
       "user": "Andrii",
       "label": "fish",
       "point": [
-        159,
-        58
+        0.15110178384050368,
+        0.09862385321100918
       ]
     },
     {
@@ -33550,8 +33550,8 @@ const features = {
       "user": "Andrii",
       "label": "house",
       "point": [
-        196,
-        214
+        0.18992654774396642,
+        0.45642201834862384
       ]
     },
     {
@@ -33560,8 +33560,8 @@ const features = {
       "user": "Andrii",
       "label": "tree",
       "point": [
-        169,
-        209
+        0.161594963273872,
+        0.44495412844036697
       ]
     },
     {
@@ -33570,8 +33570,8 @@ const features = {
       "user": "Andrii",
       "label": "bicycle",
       "point": [
-        213,
-        130
+        0.20776495278069254,
+        0.26376146788990823
       ]
     },
     {
@@ -33580,8 +33580,8 @@ const features = {
       "user": "Andrii",
       "label": "guitar",
       "point": [
-        128,
-        253
+        0.11857292759706191,
+        0.5458715596330275
       ]
     },
     {
@@ -33590,8 +33590,8 @@ const features = {
       "user": "Andrii",
       "label": "pencil",
       "point": [
-        48,
-        137
+        0.03462749213011543,
+        0.2798165137614679
       ]
     },
     {
@@ -33600,8 +33600,8 @@ const features = {
       "user": "Andrii",
       "label": "clock",
       "point": [
-        167,
-        150
+        0.15949632738719832,
+        0.30963302752293576
       ]
     },
     {
@@ -33610,8 +33610,8 @@ const features = {
       "user": "akahito",
       "label": "car",
       "point": [
-        327,
-        165
+        0.3273871983210913,
+        0.3440366972477064
       ]
     },
     {
@@ -33620,8 +33620,8 @@ const features = {
       "user": "akahito",
       "label": "fish",
       "point": [
-        248,
-        96
+        0.24449108079748164,
+        0.18577981651376146
       ]
     },
     {
@@ -33630,8 +33630,8 @@ const features = {
       "user": "akahito",
       "label": "house",
       "point": [
-        172,
-        220
+        0.16474291710388247,
+        0.4701834862385321
       ]
     },
     {
@@ -33640,8 +33640,8 @@ const features = {
       "user": "akahito",
       "label": "tree",
       "point": [
-        399,
-        229
+        0.40293809024134314,
+        0.4908256880733945
       ]
     },
     {
@@ -33650,8 +33650,8 @@ const features = {
       "user": "akahito",
       "label": "bicycle",
       "point": [
-        313,
-        216
+        0.3126967471143757,
+        0.4610091743119266
       ]
     },
     {
@@ -33660,8 +33660,8 @@ const features = {
       "user": "akahito",
       "label": "guitar",
       "point": [
-        162,
-        292
+        0.15424973767051417,
+        0.6353211009174312
       ]
     },
     {
@@ -33670,8 +33670,8 @@ const features = {
       "user": "akahito",
       "label": "pencil",
       "point": [
-        241,
-        44
+        0.23714585519412382,
+        0.06651376146788991
       ]
     },
     {
@@ -33680,8 +33680,8 @@ const features = {
       "user": "akahito",
       "label": "clock",
       "point": [
-        225,
-        229
+        0.2203567681007345,
+        0.4908256880733945
       ]
     },
     {
@@ -33690,8 +33690,8 @@ const features = {
       "user": "gil",
       "label": "car",
       "point": [
-        284,
-        190
+        0.28226652675760755,
+        0.4013761467889908
       ]
     },
     {
@@ -33700,8 +33700,8 @@ const features = {
       "user": "gil",
       "label": "fish",
       "point": [
-        272,
-        190
+        0.2696747114375656,
+        0.4013761467889908
       ]
     },
     {
@@ -33710,8 +33710,8 @@ const features = {
       "user": "gil",
       "label": "house",
       "point": [
-        381,
-        264
+        0.38405036726128017,
+        0.5711009174311926
       ]
     },
     {
@@ -33720,8 +33720,8 @@ const features = {
       "user": "gil",
       "label": "tree",
       "point": [
-        231,
-        330
+        0.2266526757607555,
+        0.7224770642201835
       ]
     },
     {
@@ -33730,8 +33730,8 @@ const features = {
       "user": "gil",
       "label": "bicycle",
       "point": [
-        234,
-        122
+        0.229800629590766,
+        0.24541284403669725
       ]
     },
     {
@@ -33740,8 +33740,8 @@ const features = {
       "user": "gil",
       "label": "guitar",
       "point": [
-        247,
-        261
+        0.24344176285414482,
+        0.5642201834862385
       ]
     },
     {
@@ -33750,8 +33750,8 @@ const features = {
       "user": "gil",
       "label": "pencil",
       "point": [
-        262,
-        282
+        0.25918153200419725,
+        0.6123853211009175
       ]
     },
     {
@@ -33760,8 +33760,8 @@ const features = {
       "user": "gil",
       "label": "clock",
       "point": [
-        212,
-        223
+        0.20671563483735572,
+        0.47706422018348627
       ]
     },
     {
@@ -33770,8 +33770,8 @@ const features = {
       "user": "Arjun ",
       "label": "car",
       "point": [
-        241,
-        191
+        0.23714585519412382,
+        0.4036697247706422
       ]
     },
     {
@@ -33780,8 +33780,8 @@ const features = {
       "user": "Arjun ",
       "label": "fish",
       "point": [
-        223,
-        248
+        0.21825813221406087,
+        0.5344036697247706
       ]
     },
     {
@@ -33790,8 +33790,8 @@ const features = {
       "user": "Arjun ",
       "label": "house",
       "point": [
-        208,
-        295
+        0.2025183630640084,
+        0.6422018348623854
       ]
     },
     {
@@ -33800,8 +33800,8 @@ const features = {
       "user": "Arjun ",
       "label": "tree",
       "point": [
-        214,
-        298
+        0.2088142707240294,
+        0.6490825688073395
       ]
     },
     {
@@ -33810,8 +33810,8 @@ const features = {
       "user": "Arjun ",
       "label": "bicycle",
       "point": [
-        224,
-        269
+        0.2193074501573977,
+        0.5825688073394495
       ]
     },
     {
@@ -33820,8 +33820,8 @@ const features = {
       "user": "Arjun ",
       "label": "guitar",
       "point": [
-        233,
-        318
+        0.22875131164742918,
+        0.694954128440367
       ]
     },
     {
@@ -33830,8 +33830,8 @@ const features = {
       "user": "Arjun ",
       "label": "pencil",
       "point": [
-        264,
-        312
+        0.26128016789087094,
+        0.6811926605504587
       ]
     },
     {
@@ -33840,8 +33840,8 @@ const features = {
       "user": "Arjun ",
       "label": "clock",
       "point": [
-        286,
-        148
+        0.28436516264428124,
+        0.30504587155963303
       ]
     },
     {
@@ -33850,8 +33850,8 @@ const features = {
       "user": "Adam",
       "label": "car",
       "point": [
-        266,
-        90
+        0.2633788037775446,
+        0.1720183486238532
       ]
     },
     {
@@ -33860,8 +33860,8 @@ const features = {
       "user": "Adam",
       "label": "fish",
       "point": [
-        288,
-        151
+        0.2864637985309549,
+        0.3119266055045872
       ]
     },
     {
@@ -33870,8 +33870,8 @@ const features = {
       "user": "Adam",
       "label": "house",
       "point": [
-        170,
-        262
+        0.1626442812172088,
+        0.5665137614678899
       ]
     },
     {
@@ -33880,8 +33880,8 @@ const features = {
       "user": "Adam",
       "label": "tree",
       "point": [
-        268,
-        288
+        0.2654774396642183,
+        0.6261467889908257
       ]
     },
     {
@@ -33890,8 +33890,8 @@ const features = {
       "user": "Adam",
       "label": "bicycle",
       "point": [
-        337,
-        185
+        0.3378803777544596,
+        0.38990825688073394
       ]
     },
     {
@@ -33900,8 +33900,8 @@ const features = {
       "user": "Adam",
       "label": "guitar",
       "point": [
-        346,
-        274
+        0.3473242392444911,
+        0.5940366972477065
       ]
     },
     {
@@ -33910,8 +33910,8 @@ const features = {
       "user": "Adam",
       "label": "pencil",
       "point": [
-        83,
-        156
+        0.07135362014690451,
+        0.32339449541284404
       ]
     },
     {
@@ -33920,8 +33920,8 @@ const features = {
       "user": "Adam",
       "label": "clock",
       "point": [
-        231,
-        228
+        0.2266526757607555,
+        0.48853211009174313
       ]
     },
     {
@@ -33930,8 +33930,8 @@ const features = {
       "user": "ionut",
       "label": "car",
       "point": [
-        253,
-        87
+        0.2497376705141658,
+        0.1651376146788991
       ]
     },
     {
@@ -33940,8 +33940,8 @@ const features = {
       "user": "ionut",
       "label": "fish",
       "point": [
-        196,
-        112
+        0.18992654774396642,
+        0.22247706422018348
       ]
     },
     {
@@ -33950,8 +33950,8 @@ const features = {
       "user": "ionut",
       "label": "house",
       "point": [
-        253,
-        245
+        0.2497376705141658,
+        0.5275229357798165
       ]
     },
     {
@@ -33960,8 +33960,8 @@ const features = {
       "user": "ionut",
       "label": "tree",
       "point": [
-        212,
-        263
+        0.20671563483735572,
+        0.5688073394495413
       ]
     },
     {
@@ -33970,8 +33970,8 @@ const features = {
       "user": "ionut",
       "label": "bicycle",
       "point": [
-        304,
-        197
+        0.30325288562434416,
+        0.41743119266055045
       ]
     },
     {
@@ -33980,8 +33980,8 @@ const features = {
       "user": "ionut",
       "label": "guitar",
       "point": [
-        363,
-        104
+        0.3651626442812172,
+        0.20412844036697247
       ]
     },
     {
@@ -33990,8 +33990,8 @@ const features = {
       "user": "ionut",
       "label": "pencil",
       "point": [
-        77,
-        111
+        0.06505771248688352,
+        0.22018348623853212
       ]
     },
     {
@@ -34000,8 +34000,8 @@ const features = {
       "user": "ionut",
       "label": "clock",
       "point": [
-        299,
-        171
+        0.29800629590766003,
+        0.3577981651376147
       ]
     },
     {
@@ -34010,8 +34010,8 @@ const features = {
       "user": "vec",
       "label": "car",
       "point": [
-        236,
-        133
+        0.23189926547743966,
+        0.2706422018348624
       ]
     },
     {
@@ -34020,8 +34020,8 @@ const features = {
       "user": "vec",
       "label": "fish",
       "point": [
-        266,
-        159
+        0.2633788037775446,
+        0.3302752293577982
       ]
     },
     {
@@ -34030,8 +34030,8 @@ const features = {
       "user": "vec",
       "label": "house",
       "point": [
-        314,
-        221
+        0.31374606505771246,
+        0.4724770642201835
       ]
     },
     {
@@ -34040,8 +34040,8 @@ const features = {
       "user": "vec",
       "label": "tree",
       "point": [
-        328,
-        379
+        0.3284365162644281,
+        0.8348623853211009
       ]
     },
     {
@@ -34050,8 +34050,8 @@ const features = {
       "user": "vec",
       "label": "bicycle",
       "point": [
-        235,
-        205
+        0.23084994753410285,
+        0.43577981651376146
       ]
     },
     {
@@ -34060,8 +34060,8 @@ const features = {
       "user": "vec",
       "label": "guitar",
       "point": [
-        270,
-        322
+        0.2675760755508919,
+        0.7041284403669725
       ]
     },
     {
@@ -34070,8 +34070,8 @@ const features = {
       "user": "vec",
       "label": "pencil",
       "point": [
-        172,
-        348
+        0.16474291710388247,
+        0.7637614678899083
       ]
     },
     {
@@ -34080,8 +34080,8 @@ const features = {
       "user": "vec",
       "label": "clock",
       "point": [
-        194,
-        207
+        0.18782791185729275,
+        0.44036697247706424
       ]
     },
     {
@@ -34090,8 +34090,8 @@ const features = {
       "user": "rubek",
       "label": "car",
       "point": [
-        265,
-        155
+        0.2623294858342078,
+        0.3211009174311927
       ]
     },
     {
@@ -34100,8 +34100,8 @@ const features = {
       "user": "rubek",
       "label": "fish",
       "point": [
-        245,
-        91
+        0.24134312696747115,
+        0.1743119266055046
       ]
     },
     {
@@ -34110,8 +34110,8 @@ const features = {
       "user": "rubek",
       "label": "house",
       "point": [
-        225,
-        161
+        0.2203567681007345,
+        0.3348623853211009
       ]
     },
     {
@@ -34120,8 +34120,8 @@ const features = {
       "user": "rubek",
       "label": "tree",
       "point": [
-        256,
-        309
+        0.2528856243441763,
+        0.6743119266055045
       ]
     },
     {
@@ -34130,8 +34130,8 @@ const features = {
       "user": "rubek",
       "label": "bicycle",
       "point": [
-        217,
-        136
+        0.21196222455403987,
+        0.2775229357798165
       ]
     },
     {
@@ -34140,8 +34140,8 @@ const features = {
       "user": "rubek",
       "label": "guitar",
       "point": [
-        156,
-        168
+        0.14795383001049317,
+        0.35091743119266056
       ]
     },
     {
@@ -34150,8 +34150,8 @@ const features = {
       "user": "rubek",
       "label": "pencil",
       "point": [
-        88,
-        90
+        0.07660020986358866,
+        0.1720183486238532
       ]
     },
     {
@@ -34160,8 +34160,8 @@ const features = {
       "user": "rubek",
       "label": "clock",
       "point": [
-        107,
-        124
+        0.09653725078698845,
+        0.25
       ]
     },
     {
@@ -34170,8 +34170,8 @@ const features = {
       "user": "testest",
       "label": "car",
       "point": [
-        375,
-        170
+        0.3777544596012592,
+        0.3555045871559633
       ]
     },
     {
@@ -34180,8 +34180,8 @@ const features = {
       "user": "testest",
       "label": "fish",
       "point": [
-        308,
-        115
+        0.3074501573976915,
+        0.22935779816513763
       ]
     },
     {
@@ -34190,8 +34190,8 @@ const features = {
       "user": "testest",
       "label": "house",
       "point": [
-        273,
-        251
+        0.2707240293809024,
+        0.5412844036697247
       ]
     },
     {
@@ -34200,8 +34200,8 @@ const features = {
       "user": "testest",
       "label": "tree",
       "point": [
-        215,
-        269
+        0.2098635886673662,
+        0.5825688073394495
       ]
     },
     {
@@ -34210,8 +34210,8 @@ const features = {
       "user": "testest",
       "label": "bicycle",
       "point": [
-        214,
-        160
+        0.2088142707240294,
+        0.33256880733944955
       ]
     },
     {
@@ -34220,8 +34220,8 @@ const features = {
       "user": "testest",
       "label": "guitar",
       "point": [
-        129,
-        221
+        0.11962224554039874,
+        0.4724770642201835
       ]
     },
     {
@@ -34230,8 +34230,8 @@ const features = {
       "user": "testest",
       "label": "pencil",
       "point": [
-        47,
-        165
+        0.033578174186778595,
+        0.3440366972477064
       ]
     },
     {
@@ -34240,8 +34240,8 @@ const features = {
       "user": "testest",
       "label": "clock",
       "point": [
-        152,
-        179
+        0.14375655823714587,
+        0.3761467889908257
       ]
     },
     {
@@ -34250,8 +34250,8 @@ const features = {
       "user": "vlottie",
       "label": "car",
       "point": [
-        269,
-        290
+        0.26652675760755506,
+        0.6307339449541285
       ]
     },
     {
@@ -34260,8 +34260,8 @@ const features = {
       "user": "vlottie",
       "label": "fish",
       "point": [
-        256,
-        187
+        0.2528856243441763,
+        0.3944954128440367
       ]
     },
     {
@@ -34270,8 +34270,8 @@ const features = {
       "user": "vlottie",
       "label": "house",
       "point": [
-        385,
-        205
+        0.3882476390346275,
+        0.43577981651376146
       ]
     },
     {
@@ -34280,8 +34280,8 @@ const features = {
       "user": "vlottie",
       "label": "tree",
       "point": [
-        317,
-        310
+        0.316894018887723,
+        0.676605504587156
       ]
     },
     {
@@ -34290,8 +34290,8 @@ const features = {
       "user": "vlottie",
       "label": "bicycle",
       "point": [
-        235,
-        175
+        0.23084994753410285,
+        0.3669724770642202
       ]
     },
     {
@@ -34300,8 +34300,8 @@ const features = {
       "user": "vlottie",
       "label": "guitar",
       "point": [
-        376,
-        366
+        0.378803777544596,
+        0.805045871559633
       ]
     },
     {
@@ -34310,8 +34310,8 @@ const features = {
       "user": "vlottie",
       "label": "pencil",
       "point": [
-        200,
-        164
+        0.19412381951731375,
+        0.34174311926605505
       ]
     },
     {
@@ -34320,8 +34320,8 @@ const features = {
       "user": "vlottie",
       "label": "clock",
       "point": [
-        177,
-        157
+        0.16998950682056663,
+        0.3256880733944954
       ]
     },
     {
@@ -34330,8 +34330,8 @@ const features = {
       "user": "Paul Crypto",
       "label": "car",
       "point": [
-        186,
-        121
+        0.1794333683105981,
+        0.24311926605504589
       ]
     },
     {
@@ -34340,8 +34340,8 @@ const features = {
       "user": "Paul Crypto",
       "label": "fish",
       "point": [
-        140,
-        72
+        0.1311647429171039,
+        0.13073394495412843
       ]
     },
     {
@@ -34350,8 +34350,8 @@ const features = {
       "user": "Paul Crypto",
       "label": "house",
       "point": [
-        184,
-        117
+        0.17733473242392445,
+        0.23394495412844038
       ]
     },
     {
@@ -34360,8 +34360,8 @@ const features = {
       "user": "Paul Crypto",
       "label": "tree",
       "point": [
-        171,
-        259
+        0.16369359916054566,
+        0.5596330275229358
       ]
     },
     {
@@ -34370,8 +34370,8 @@ const features = {
       "user": "Paul Crypto",
       "label": "bicycle",
       "point": [
-        210,
-        111
+        0.20461699895068206,
+        0.22018348623853212
       ]
     },
     {
@@ -34380,8 +34380,8 @@ const features = {
       "user": "Paul Crypto",
       "label": "guitar",
       "point": [
-        287,
-        243
+        0.28541448058761804,
+        0.5229357798165137
       ]
     },
     {
@@ -34390,8 +34390,8 @@ const features = {
       "user": "Paul Crypto",
       "label": "pencil",
       "point": [
-        162,
-        134
+        0.15424973767051417,
+        0.27293577981651373
       ]
     },
     {
@@ -34400,8 +34400,8 @@ const features = {
       "user": "Paul Crypto",
       "label": "clock",
       "point": [
-        125,
-        129
+        0.11542497376705142,
+        0.26146788990825687
       ]
     },
     {
@@ -34410,8 +34410,8 @@ const features = {
       "user": "Swaraj",
       "label": "car",
       "point": [
-        182,
-        237
+        0.17523609653725078,
+        0.5091743119266054
       ]
     },
     {
@@ -34420,8 +34420,8 @@ const features = {
       "user": "Swaraj",
       "label": "fish",
       "point": [
-        219,
-        83
+        0.21406086044071354,
+        0.1559633027522936
       ]
     },
     {
@@ -34430,8 +34430,8 @@ const features = {
       "user": "Swaraj",
       "label": "house",
       "point": [
-        253,
-        226
+        0.2497376705141658,
+        0.48394495412844035
       ]
     },
     {
@@ -34440,8 +34440,8 @@ const features = {
       "user": "Swaraj",
       "label": "tree",
       "point": [
-        96,
-        262
+        0.08499475341028331,
+        0.5665137614678899
       ]
     },
     {
@@ -34450,8 +34450,8 @@ const features = {
       "user": "Swaraj",
       "label": "bicycle",
       "point": [
-        281,
-        178
+        0.27911857292759706,
+        0.3738532110091743
       ]
     },
     {
@@ -34460,8 +34460,8 @@ const features = {
       "user": "Swaraj",
       "label": "guitar",
       "point": [
-        129,
-        268
+        0.11962224554039874,
+        0.5802752293577982
       ]
     },
     {
@@ -34470,8 +34470,8 @@ const features = {
       "user": "Swaraj",
       "label": "pencil",
       "point": [
-        89,
-        267
+        0.0776495278069255,
+        0.5779816513761468
       ]
     },
     {
@@ -34480,8 +34480,8 @@ const features = {
       "user": "Swaraj",
       "label": "clock",
       "point": [
-        142,
-        140
+        0.13326337880377753,
+        0.286697247706422
       ]
     },
     {
@@ -34490,8 +34490,8 @@ const features = {
       "user": "berkay",
       "label": "car",
       "point": [
-        363,
-        179
+        0.3651626442812172,
+        0.3761467889908257
       ]
     },
     {
@@ -34500,8 +34500,8 @@ const features = {
       "user": "berkay",
       "label": "fish",
       "point": [
-        221,
-        72
+        0.2161594963273872,
+        0.13073394495412843
       ]
     },
     {
@@ -34510,8 +34510,8 @@ const features = {
       "user": "berkay",
       "label": "house",
       "point": [
-        233,
-        286
+        0.22875131164742918,
+        0.6215596330275229
       ]
     },
     {
@@ -34520,8 +34520,8 @@ const features = {
       "user": "berkay",
       "label": "tree",
       "point": [
-        201,
-        268
+        0.19517313746065057,
+        0.5802752293577982
       ]
     },
     {
@@ -34530,8 +34530,8 @@ const features = {
       "user": "berkay",
       "label": "bicycle",
       "point": [
-        220,
-        137
+        0.21511017838405036,
+        0.2798165137614679
       ]
     },
     {
@@ -34540,8 +34540,8 @@ const features = {
       "user": "berkay",
       "label": "guitar",
       "point": [
-        230,
-        283
+        0.22560335781741866,
+        0.6146788990825688
       ]
     },
     {
@@ -34550,8 +34550,8 @@ const features = {
       "user": "berkay",
       "label": "pencil",
       "point": [
-        176,
-        156
+        0.1689401888772298,
+        0.32339449541284404
       ]
     },
     {
@@ -34560,8 +34560,8 @@ const features = {
       "user": "berkay",
       "label": "clock",
       "point": [
-        94,
-        94
+        0.08289611752360965,
+        0.1811926605504587
       ]
     },
     {
@@ -34570,8 +34570,8 @@ const features = {
       "user": "vlottie",
       "label": "car",
       "point": [
-        326,
-        125
+        0.32633788037775446,
+        0.25229357798165136
       ]
     },
     {
@@ -34580,8 +34580,8 @@ const features = {
       "user": "vlottie",
       "label": "fish",
       "point": [
-        259,
-        144
+        0.25603357817418676,
+        0.2958715596330275
       ]
     },
     {
@@ -34590,8 +34590,8 @@ const features = {
       "user": "vlottie",
       "label": "house",
       "point": [
-        243,
-        336
+        0.23924449108079748,
+        0.7362385321100917
       ]
     },
     {
@@ -34600,8 +34600,8 @@ const features = {
       "user": "vlottie",
       "label": "tree",
       "point": [
-        255,
-        336
+        0.2518363064008394,
+        0.7362385321100917
       ]
     },
     {
@@ -34610,8 +34610,8 @@ const features = {
       "user": "vlottie",
       "label": "bicycle",
       "point": [
-        191,
-        116
+        0.18467995802728226,
+        0.231651376146789
       ]
     },
     {
@@ -34620,8 +34620,8 @@ const features = {
       "user": "vlottie",
       "label": "guitar",
       "point": [
-        300,
-        137
+        0.2990556138509968,
+        0.2798165137614679
       ]
     },
     {
@@ -34630,8 +34630,8 @@ const features = {
       "user": "vlottie",
       "label": "pencil",
       "point": [
-        298,
-        245
+        0.2969569779643232,
+        0.5275229357798165
       ]
     },
     {
@@ -34640,8 +34640,8 @@ const features = {
       "user": "vlottie",
       "label": "clock",
       "point": [
-        405,
-        180
+        0.4092339979013641,
+        0.37844036697247707
       ]
     },
     {
@@ -34650,8 +34650,8 @@ const features = {
       "user": "SouravA",
       "label": "car",
       "point": [
-        375,
-        157
+        0.3777544596012592,
+        0.3256880733944954
       ]
     },
     {
@@ -34660,8 +34660,8 @@ const features = {
       "user": "SouravA",
       "label": "fish",
       "point": [
-        251,
-        124
+        0.24763903462749212,
+        0.25
       ]
     },
     {
@@ -34670,8 +34670,8 @@ const features = {
       "user": "SouravA",
       "label": "house",
       "point": [
-        400,
-        387
+        0.40398740818467993,
+        0.8532110091743119
       ]
     },
     {
@@ -34680,8 +34680,8 @@ const features = {
       "user": "SouravA",
       "label": "tree",
       "point": [
-        399,
-        393
+        0.40293809024134314,
+        0.8669724770642202
       ]
     },
     {
@@ -34690,8 +34690,8 @@ const features = {
       "user": "SouravA",
       "label": "bicycle",
       "point": [
-        343,
-        217
+        0.3441762854144806,
+        0.463302752293578
       ]
     },
     {
@@ -34700,8 +34700,8 @@ const features = {
       "user": "SouravA",
       "label": "guitar",
       "point": [
-        122,
-        246
+        0.11227701993704092,
+        0.5298165137614679
       ]
     },
     {
@@ -34710,8 +34710,8 @@ const features = {
       "user": "SouravA",
       "label": "pencil",
       "point": [
-        153,
-        219
+        0.14480587618048268,
+        0.46788990825688076
       ]
     },
     {
@@ -34720,8 +34720,8 @@ const features = {
       "user": "SouravA",
       "label": "clock",
       "point": [
-        121,
-        177
+        0.11122770199370409,
+        0.37155963302752293
       ]
     },
     {
@@ -34730,8 +34730,8 @@ const features = {
       "user": "Arun Prakash",
       "label": "car",
       "point": [
-        191,
-        69
+        0.18467995802728226,
+        0.12385321100917432
       ]
     },
     {
@@ -34740,8 +34740,8 @@ const features = {
       "user": "Arun Prakash",
       "label": "fish",
       "point": [
-        192,
-        133
+        0.18572927597061908,
+        0.2706422018348624
       ]
     },
     {
@@ -34750,8 +34750,8 @@ const features = {
       "user": "Arun Prakash",
       "label": "house",
       "point": [
-        105,
-        149
+        0.0944386149003148,
+        0.3073394495412844
       ]
     },
     {
@@ -34760,8 +34760,8 @@ const features = {
       "user": "Arun Prakash",
       "label": "tree",
       "point": [
-        208,
-        149
+        0.2025183630640084,
+        0.3073394495412844
       ]
     },
     {
@@ -34770,8 +34770,8 @@ const features = {
       "user": "Arun Prakash",
       "label": "bicycle",
       "point": [
-        244,
-        126
+        0.2402938090241343,
+        0.2545871559633027
       ]
     },
     {
@@ -34780,8 +34780,8 @@ const features = {
       "user": "Arun Prakash",
       "label": "guitar",
       "point": [
-        221,
-        62
+        0.2161594963273872,
+        0.10779816513761468
       ]
     },
     {
@@ -34790,8 +34790,8 @@ const features = {
       "user": "Arun Prakash",
       "label": "pencil",
       "point": [
-        24,
-        141
+        0.00944386149003148,
+        0.2889908256880734
       ]
     },
     {
@@ -34800,8 +34800,8 @@ const features = {
       "user": "Arun Prakash",
       "label": "clock",
       "point": [
-        110,
-        98
+        0.09968520461699895,
+        0.19036697247706422
       ]
     },
     {
@@ -34810,8 +34810,8 @@ const features = {
       "user": "jarnspoken",
       "label": "car",
       "point": [
-        235,
-        138
+        0.23084994753410285,
+        0.28211009174311924
       ]
     },
     {
@@ -34820,8 +34820,8 @@ const features = {
       "user": "jarnspoken",
       "label": "fish",
       "point": [
-        189,
-        92
+        0.1825813221406086,
+        0.17660550458715596
       ]
     },
     {
@@ -34830,8 +34830,8 @@ const features = {
       "user": "jarnspoken",
       "label": "house",
       "point": [
-        71,
-        139
+        0.05876180482686254,
+        0.28440366972477066
       ]
     },
     {
@@ -34840,8 +34840,8 @@ const features = {
       "user": "jarnspoken",
       "label": "tree",
       "point": [
-        111,
-        254
+        0.10073452256033578,
+        0.5481651376146789
       ]
     },
     {
@@ -34850,8 +34850,8 @@ const features = {
       "user": "jarnspoken",
       "label": "bicycle",
       "point": [
-        207,
-        198
+        0.20146904512067157,
+        0.4197247706422018
       ]
     },
     {
@@ -34860,8 +34860,8 @@ const features = {
       "user": "jarnspoken",
       "label": "guitar",
       "point": [
-        116,
-        269
+        0.10598111227701994,
+        0.5825688073394495
       ]
     },
     {
@@ -34870,8 +34870,8 @@ const features = {
       "user": "jarnspoken",
       "label": "pencil",
       "point": [
-        30,
-        173
+        0.015739769150052464,
+        0.3623853211009174
       ]
     },
     {
@@ -34880,8 +34880,8 @@ const features = {
       "user": "jarnspoken",
       "label": "clock",
       "point": [
-        121,
-        135
+        0.11122770199370409,
+        0.27522935779816515
       ]
     },
     {
@@ -34890,8 +34890,8 @@ const features = {
       "user": "Viktor",
       "label": "car",
       "point": [
-        298,
-        183
+        0.2969569779643232,
+        0.3853211009174312
       ]
     },
     {
@@ -34900,8 +34900,8 @@ const features = {
       "user": "Viktor",
       "label": "fish",
       "point": [
-        253,
-        136
+        0.2497376705141658,
+        0.2775229357798165
       ]
     },
     {
@@ -34910,8 +34910,8 @@ const features = {
       "user": "Viktor",
       "label": "house",
       "point": [
-        253,
-        328
+        0.2497376705141658,
+        0.7178899082568807
       ]
     },
     {
@@ -34920,8 +34920,8 @@ const features = {
       "user": "Viktor",
       "label": "tree",
       "point": [
-        292,
-        381
+        0.2906610703043022,
+        0.8394495412844036
       ]
     },
     {
@@ -34930,8 +34930,8 @@ const features = {
       "user": "Viktor",
       "label": "bicycle",
       "point": [
-        190,
-        158
+        0.18363064008394545,
+        0.32798165137614677
       ]
     },
     {
@@ -34940,8 +34940,8 @@ const features = {
       "user": "Viktor",
       "label": "guitar",
       "point": [
-        316,
-        259
+        0.31584470094438616,
+        0.5596330275229358
       ]
     },
     {
@@ -34950,8 +34950,8 @@ const features = {
       "user": "Viktor",
       "label": "pencil",
       "point": [
-        167,
-        148
+        0.15949632738719832,
+        0.30504587155963303
       ]
     },
     {
@@ -34960,8 +34960,8 @@ const features = {
       "user": "Viktor",
       "label": "clock",
       "point": [
-        148,
-        203
+        0.13955928646379853,
+        0.43119266055045874
       ]
     },
     {
@@ -34970,8 +34970,8 @@ const features = {
       "user": "adi",
       "label": "car",
       "point": [
-        302,
-        96
+        0.3011542497376705,
+        0.18577981651376146
       ]
     },
     {
@@ -34980,8 +34980,8 @@ const features = {
       "user": "adi",
       "label": "fish",
       "point": [
-        281,
-        96
+        0.27911857292759706,
+        0.18577981651376146
       ]
     },
     {
@@ -34990,8 +34990,8 @@ const features = {
       "user": "adi",
       "label": "house",
       "point": [
-        208,
-        216
+        0.2025183630640084,
+        0.4610091743119266
       ]
     },
     {
@@ -35000,8 +35000,8 @@ const features = {
       "user": "adi",
       "label": "tree",
       "point": [
-        286,
-        334
+        0.28436516264428124,
+        0.731651376146789
       ]
     },
     {
@@ -35010,8 +35010,8 @@ const features = {
       "user": "adi",
       "label": "bicycle",
       "point": [
-        200,
-        147
+        0.19412381951731375,
+        0.30275229357798167
       ]
     },
     {
@@ -35020,8 +35020,8 @@ const features = {
       "user": "adi",
       "label": "guitar",
       "point": [
-        162,
-        331
+        0.15424973767051417,
+        0.7247706422018348
       ]
     },
     {
@@ -35030,8 +35030,8 @@ const features = {
       "user": "adi",
       "label": "pencil",
       "point": [
-        119,
-        198
+        0.10912906610703044,
+        0.4197247706422018
       ]
     },
     {
@@ -35040,8 +35040,8 @@ const features = {
       "user": "adi",
       "label": "clock",
       "point": [
-        238,
-        246
+        0.23399790136411333,
+        0.5298165137614679
       ]
     },
     {
@@ -35050,8 +35050,8 @@ const features = {
       "user": "ShambleZ",
       "label": "car",
       "point": [
-        314,
-        106
+        0.31374606505771246,
+        0.20871559633027523
       ]
     },
     {
@@ -35060,8 +35060,8 @@ const features = {
       "user": "ShambleZ",
       "label": "fish",
       "point": [
-        339,
-        173
+        0.33997901364113325,
+        0.3623853211009174
       ]
     },
     {
@@ -35070,8 +35070,8 @@ const features = {
       "user": "ShambleZ",
       "label": "house",
       "point": [
-        263,
-        304
+        0.2602308499475341,
+        0.6628440366972477
       ]
     },
     {
@@ -35080,8 +35080,8 @@ const features = {
       "user": "ShambleZ",
       "label": "tree",
       "point": [
-        250,
-        323
+        0.2465897166841553,
+        0.7064220183486238
       ]
     },
     {
@@ -35090,8 +35090,8 @@ const features = {
       "user": "ShambleZ",
       "label": "bicycle",
       "point": [
-        234,
-        135
+        0.229800629590766,
+        0.27522935779816515
       ]
     },
     {
@@ -35100,8 +35100,8 @@ const features = {
       "user": "ShambleZ",
       "label": "guitar",
       "point": [
-        288,
-        308
+        0.2864637985309549,
+        0.6720183486238532
       ]
     },
     {
@@ -35110,8 +35110,8 @@ const features = {
       "user": "ShambleZ",
       "label": "pencil",
       "point": [
-        307,
-        286
+        0.30640083945435465,
+        0.6215596330275229
       ]
     },
     {
@@ -35120,8 +35120,8 @@ const features = {
       "user": "ShambleZ",
       "label": "clock",
       "point": [
-        276,
-        237
+        0.2738719832109129,
+        0.5091743119266054
       ]
     },
     {
@@ -35130,8 +35130,8 @@ const features = {
       "user": "Mahmood",
       "label": "car",
       "point": [
-        265,
-        181
+        0.2623294858342078,
+        0.38073394495412843
       ]
     },
     {
@@ -35140,8 +35140,8 @@ const features = {
       "user": "Mahmood",
       "label": "fish",
       "point": [
-        237,
-        149
+        0.23294858342077648,
+        0.3073394495412844
       ]
     },
     {
@@ -35150,8 +35150,8 @@ const features = {
       "user": "Mahmood",
       "label": "house",
       "point": [
-        248,
-        266
+        0.24449108079748164,
+        0.5756880733944955
       ]
     },
     {
@@ -35160,8 +35160,8 @@ const features = {
       "user": "Mahmood",
       "label": "tree",
       "point": [
-        230,
-        336
+        0.22560335781741866,
+        0.7362385321100917
       ]
     },
     {
@@ -35170,8 +35170,8 @@ const features = {
       "user": "Mahmood",
       "label": "bicycle",
       "point": [
-        239,
-        190
+        0.23504721930745015,
+        0.4013761467889908
       ]
     },
     {
@@ -35180,8 +35180,8 @@ const features = {
       "user": "Mahmood",
       "label": "guitar",
       "point": [
-        314,
-        152
+        0.31374606505771246,
+        0.31422018348623854
       ]
     },
     {
@@ -35190,8 +35190,8 @@ const features = {
       "user": "Mahmood",
       "label": "pencil",
       "point": [
-        229,
-        284
+        0.22455403987408185,
+        0.6169724770642202
       ]
     },
     {
@@ -35200,8 +35200,8 @@ const features = {
       "user": "Mahmood",
       "label": "clock",
       "point": [
-        188,
-        201
+        0.18153200419727178,
+        0.42660550458715596
       ]
     },
     {
@@ -35210,8 +35210,8 @@ const features = {
       "user": "Ali",
       "label": "car",
       "point": [
-        293,
-        177
+        0.291710388247639,
+        0.37155963302752293
       ]
     },
     {
@@ -35220,8 +35220,8 @@ const features = {
       "user": "Ali",
       "label": "fish",
       "point": [
-        261,
-        131
+        0.25813221406086045,
+        0.26605504587155965
       ]
     },
     {
@@ -35230,8 +35230,8 @@ const features = {
       "user": "Ali",
       "label": "house",
       "point": [
-        325,
-        262
+        0.3252885624344176,
+        0.5665137614678899
       ]
     },
     {
@@ -35240,8 +35240,8 @@ const features = {
       "user": "Ali",
       "label": "tree",
       "point": [
-        327,
-        381
+        0.3273871983210913,
+        0.8394495412844036
       ]
     },
     {
@@ -35250,8 +35250,8 @@ const features = {
       "user": "Ali",
       "label": "bicycle",
       "point": [
-        309,
-        221
+        0.30849947534102834,
+        0.4724770642201835
       ]
     },
     {
@@ -35260,8 +35260,8 @@ const features = {
       "user": "Ali",
       "label": "guitar",
       "point": [
-        335,
-        151
+        0.3357817418677859,
+        0.3119266055045872
       ]
     },
     {
@@ -35270,8 +35270,8 @@ const features = {
       "user": "Ali",
       "label": "pencil",
       "point": [
-        307,
-        39
+        0.30640083945435465,
+        0.05504587155963303
       ]
     },
     {
@@ -35280,8 +35280,8 @@ const features = {
       "user": "Ali",
       "label": "clock",
       "point": [
-        205,
-        232
+        0.1993704092339979,
+        0.49770642201834864
       ]
     },
     {
@@ -35290,8 +35290,8 @@ const features = {
       "user": "D",
       "label": "car",
       "point": [
-        298,
-        136
+        0.2969569779643232,
+        0.2775229357798165
       ]
     },
     {
@@ -35300,8 +35300,8 @@ const features = {
       "user": "D",
       "label": "fish",
       "point": [
-        202,
-        90
+        0.19622245540398742,
+        0.1720183486238532
       ]
     },
     {
@@ -35310,8 +35310,8 @@ const features = {
       "user": "D",
       "label": "house",
       "point": [
-        251,
-        231
+        0.24763903462749212,
+        0.4954128440366973
       ]
     },
     {
@@ -35320,8 +35320,8 @@ const features = {
       "user": "D",
       "label": "tree",
       "point": [
-        249,
-        325
+        0.24554039874081846,
+        0.7110091743119266
       ]
     },
     {
@@ -35330,8 +35330,8 @@ const features = {
       "user": "D",
       "label": "bicycle",
       "point": [
-        210,
-        230
+        0.20461699895068206,
+        0.49311926605504586
       ]
     },
     {
@@ -35340,8 +35340,8 @@ const features = {
       "user": "D",
       "label": "guitar",
       "point": [
-        317,
-        282
+        0.316894018887723,
+        0.6123853211009175
       ]
     },
     {
@@ -35350,8 +35350,8 @@ const features = {
       "user": "D",
       "label": "pencil",
       "point": [
-        149,
-        180
+        0.14060860440713535,
+        0.37844036697247707
       ]
     },
     {
@@ -35360,8 +35360,8 @@ const features = {
       "user": "D",
       "label": "clock",
       "point": [
-        146,
-        170
+        0.13746065057712487,
+        0.3555045871559633
       ]
     },
     {
@@ -35370,8 +35370,8 @@ const features = {
       "user": "Prabhu",
       "label": "car",
       "point": [
-        134,
-        228
+        0.1248688352570829,
+        0.48853211009174313
       ]
     },
     {
@@ -35380,8 +35380,8 @@ const features = {
       "user": "Prabhu",
       "label": "fish",
       "point": [
-        334,
-        326
+        0.33473242392444913,
+        0.713302752293578
       ]
     },
     {
@@ -35390,8 +35390,8 @@ const features = {
       "user": "Prabhu",
       "label": "house",
       "point": [
-        233,
-        184
+        0.22875131164742918,
+        0.3876146788990826
       ]
     },
     {
@@ -35400,8 +35400,8 @@ const features = {
       "user": "Prabhu",
       "label": "tree",
       "point": [
-        320,
-        241
+        0.3200419727177335,
+        0.518348623853211
       ]
     },
     {
@@ -35410,8 +35410,8 @@ const features = {
       "user": "Prabhu",
       "label": "bicycle",
       "point": [
-        304,
-        331
+        0.30325288562434416,
+        0.7247706422018348
       ]
     },
     {
@@ -35420,8 +35420,8 @@ const features = {
       "user": "Prabhu",
       "label": "guitar",
       "point": [
-        214,
-        338
+        0.2088142707240294,
+        0.7408256880733946
       ]
     },
     {
@@ -35430,8 +35430,8 @@ const features = {
       "user": "Prabhu",
       "label": "pencil",
       "point": [
-        192,
-        271
+        0.18572927597061908,
+        0.5871559633027523
       ]
     },
     {
@@ -35440,8 +35440,8 @@ const features = {
       "user": "Prabhu",
       "label": "clock",
       "point": [
-        191,
-        292
+        0.18467995802728226,
+        0.6353211009174312
       ]
     },
     {
@@ -35450,8 +35450,8 @@ const features = {
       "user": "Antonio",
       "label": "car",
       "point": [
-        228,
-        106
+        0.22350472193074503,
+        0.20871559633027523
       ]
     },
     {
@@ -35460,8 +35460,8 @@ const features = {
       "user": "Antonio",
       "label": "fish",
       "point": [
-        207,
-        96
+        0.20146904512067157,
+        0.18577981651376146
       ]
     },
     {
@@ -35470,8 +35470,8 @@ const features = {
       "user": "Antonio",
       "label": "house",
       "point": [
-        138,
-        183
+        0.12906610703043023,
+        0.3853211009174312
       ]
     },
     {
@@ -35480,8 +35480,8 @@ const features = {
       "user": "Antonio",
       "label": "tree",
       "point": [
-        189,
-        266
+        0.1825813221406086,
+        0.5756880733944955
       ]
     },
     {
@@ -35490,8 +35490,8 @@ const features = {
       "user": "Antonio",
       "label": "bicycle",
       "point": [
-        265,
-        161
+        0.2623294858342078,
+        0.3348623853211009
       ]
     },
     {
@@ -35500,8 +35500,8 @@ const features = {
       "user": "Antonio",
       "label": "guitar",
       "point": [
-        301,
-        255
+        0.3001049317943337,
+        0.5504587155963303
       ]
     },
     {
@@ -35510,8 +35510,8 @@ const features = {
       "user": "Antonio",
       "label": "pencil",
       "point": [
-        144,
-        228
+        0.1353620146904512,
+        0.48853211009174313
       ]
     },
     {
@@ -35520,8 +35520,8 @@ const features = {
       "user": "Antonio",
       "label": "clock",
       "point": [
-        180,
-        175
+        0.1731374606505771,
+        0.3669724770642202
       ]
     },
     {
@@ -35530,8 +35530,8 @@ const features = {
       "user": "honza192",
       "label": "car",
       "point": [
-        274,
-        99
+        0.27177334732423925,
+        0.1926605504587156
       ]
     },
     {
@@ -35540,8 +35540,8 @@ const features = {
       "user": "honza192",
       "label": "fish",
       "point": [
-        99,
-        108
+        0.08814270724029381,
+        0.21330275229357798
       ]
     },
     {
@@ -35550,8 +35550,8 @@ const features = {
       "user": "honza192",
       "label": "house",
       "point": [
-        163,
-        223
+        0.155299055613851,
+        0.47706422018348627
       ]
     },
     {
@@ -35560,8 +35560,8 @@ const features = {
       "user": "honza192",
       "label": "tree",
       "point": [
-        259,
-        284
+        0.25603357817418676,
+        0.6169724770642202
       ]
     },
     {
@@ -35570,8 +35570,8 @@ const features = {
       "user": "honza192",
       "label": "bicycle",
       "point": [
-        278,
-        167
+        0.2759706190975866,
+        0.3486238532110092
       ]
     },
     {
@@ -35580,8 +35580,8 @@ const features = {
       "user": "honza192",
       "label": "guitar",
       "point": [
-        198,
-        248
+        0.19202518363064008,
+        0.5344036697247706
       ]
     },
     {
@@ -35590,8 +35590,8 @@ const features = {
       "user": "honza192",
       "label": "pencil",
       "point": [
-        214,
-        257
+        0.2088142707240294,
+        0.555045871559633
       ]
     },
     {
@@ -35600,8 +35600,8 @@ const features = {
       "user": "honza192",
       "label": "clock",
       "point": [
-        265,
-        266
+        0.2623294858342078,
+        0.5756880733944955
       ]
     },
     {
@@ -35610,8 +35610,8 @@ const features = {
       "user": "Georgii",
       "label": "car",
       "point": [
-        276,
-        123
+        0.2738719832109129,
+        0.24770642201834864
       ]
     },
     {
@@ -35620,8 +35620,8 @@ const features = {
       "user": "Georgii",
       "label": "fish",
       "point": [
-        165,
-        226
+        0.15739769150052466,
+        0.48394495412844035
       ]
     },
     {
@@ -35630,8 +35630,8 @@ const features = {
       "user": "Georgii",
       "label": "house",
       "point": [
-        262,
-        284
+        0.25918153200419725,
+        0.6169724770642202
       ]
     },
     {
@@ -35640,8 +35640,8 @@ const features = {
       "user": "Georgii",
       "label": "tree",
       "point": [
-        171,
-        339
+        0.16369359916054566,
+        0.7431192660550459
       ]
     },
     {
@@ -35650,8 +35650,8 @@ const features = {
       "user": "Georgii",
       "label": "bicycle",
       "point": [
-        251,
-        162
+        0.24763903462749212,
+        0.33715596330275227
       ]
     },
     {
@@ -35660,8 +35660,8 @@ const features = {
       "user": "Georgii",
       "label": "guitar",
       "point": [
-        179,
-        349
+        0.1720881427072403,
+        0.7660550458715596
       ]
     },
     {
@@ -35670,8 +35670,8 @@ const features = {
       "user": "Georgii",
       "label": "pencil",
       "point": [
-        104,
-        325
+        0.09338929695697797,
+        0.7110091743119266
       ]
     },
     {
@@ -35680,8 +35680,8 @@ const features = {
       "user": "Georgii",
       "label": "clock",
       "point": [
-        254,
-        203
+        0.25078698845750264,
+        0.43119266055045874
       ]
     },
     {
@@ -35690,8 +35690,8 @@ const features = {
       "user": "Pradev",
       "label": "car",
       "point": [
-        368,
-        260
+        0.3704092339979014,
+        0.5619266055045872
       ]
     },
     {
@@ -35700,8 +35700,8 @@ const features = {
       "user": "Pradev",
       "label": "fish",
       "point": [
-        261,
-        113
+        0.25813221406086045,
+        0.22477064220183487
       ]
     },
     {
@@ -35710,8 +35710,8 @@ const features = {
       "user": "Pradev",
       "label": "house",
       "point": [
-        330,
-        268
+        0.3305351521511018,
+        0.5802752293577982
       ]
     },
     {
@@ -35720,8 +35720,8 @@ const features = {
       "user": "Pradev",
       "label": "tree",
       "point": [
-        354,
-        358
+        0.35571878279118574,
+        0.786697247706422
       ]
     },
     {
@@ -35730,8 +35730,8 @@ const features = {
       "user": "Pradev",
       "label": "bicycle",
       "point": [
-        321,
-        304
+        0.3210912906610703,
+        0.6628440366972477
       ]
     },
     {
@@ -35740,8 +35740,8 @@ const features = {
       "user": "Pradev",
       "label": "guitar",
       "point": [
-        366,
-        335
+        0.3683105981112277,
+        0.7339449541284404
       ]
     },
     {
@@ -35750,8 +35750,8 @@ const features = {
       "user": "Pradev",
       "label": "pencil",
       "point": [
-        343,
-        327
+        0.3441762854144806,
+        0.7155963302752294
       ]
     },
     {
@@ -35760,8 +35760,8 @@ const features = {
       "user": "Pradev",
       "label": "clock",
       "point": [
-        228,
-        300
+        0.22350472193074503,
+        0.6536697247706422
       ]
     },
     {
@@ -35770,8 +35770,8 @@ const features = {
       "user": "ifat",
       "label": "car",
       "point": [
-        283,
-        177
+        0.2812172088142707,
+        0.37155963302752293
       ]
     },
     {
@@ -35780,8 +35780,8 @@ const features = {
       "user": "ifat",
       "label": "fish",
       "point": [
-        230,
-        173
+        0.22560335781741866,
+        0.3623853211009174
       ]
     },
     {
@@ -35790,8 +35790,8 @@ const features = {
       "user": "ifat",
       "label": "house",
       "point": [
-        197,
-        281
+        0.19097586568730326,
+        0.6100917431192661
       ]
     },
     {
@@ -35800,8 +35800,8 @@ const features = {
       "user": "ifat",
       "label": "tree",
       "point": [
-        317,
-        344
+        0.316894018887723,
+        0.7545871559633027
       ]
     },
     {
@@ -35810,8 +35810,8 @@ const features = {
       "user": "ifat",
       "label": "bicycle",
       "point": [
-        360,
-        365
+        0.3620146904512067,
+        0.8027522935779816
       ]
     },
     {
@@ -35820,8 +35820,8 @@ const features = {
       "user": "ifat",
       "label": "guitar",
       "point": [
-        344,
-        141
+        0.34522560335781743,
+        0.2889908256880734
       ]
     },
     {
@@ -35830,8 +35830,8 @@ const features = {
       "user": "ifat",
       "label": "pencil",
       "point": [
-        66,
-        258
+        0.053515215110178385,
+        0.5573394495412844
       ]
     },
     {
@@ -35840,8 +35840,8 @@ const features = {
       "user": "ifat",
       "label": "clock",
       "point": [
-        253,
-        261
+        0.2497376705141658,
+        0.5642201834862385
       ]
     },
     {
@@ -35850,8 +35850,8 @@ const features = {
       "user": "Ockinko",
       "label": "car",
       "point": [
-        282,
-        103
+        0.2801678908709339,
+        0.2018348623853211
       ]
     },
     {
@@ -35860,8 +35860,8 @@ const features = {
       "user": "Ockinko",
       "label": "fish",
       "point": [
-        156,
-        76
+        0.14795383001049317,
+        0.13990825688073394
       ]
     },
     {
@@ -35870,8 +35870,8 @@ const features = {
       "user": "Ockinko",
       "label": "house",
       "point": [
-        170,
-        117
+        0.1626442812172088,
+        0.23394495412844038
       ]
     },
     {
@@ -35880,8 +35880,8 @@ const features = {
       "user": "Ockinko",
       "label": "tree",
       "point": [
-        59,
-        122
+        0.046169989506820566,
+        0.24541284403669725
       ]
     },
     {
@@ -35890,8 +35890,8 @@ const features = {
       "user": "Ockinko",
       "label": "bicycle",
       "point": [
-        141,
-        116
+        0.1322140608604407,
+        0.231651376146789
       ]
     },
     {
@@ -35900,8 +35900,8 @@ const features = {
       "user": "Ockinko",
       "label": "guitar",
       "point": [
-        199,
-        148
+        0.1930745015739769,
+        0.30504587155963303
       ]
     },
     {
@@ -35910,8 +35910,8 @@ const features = {
       "user": "Ockinko",
       "label": "pencil",
       "point": [
-        175,
-        113
+        0.16789087093389296,
+        0.22477064220183487
       ]
     },
     {
@@ -35920,8 +35920,8 @@ const features = {
       "user": "Ockinko",
       "label": "clock",
       "point": [
-        192,
-        188
+        0.18572927597061908,
+        0.3967889908256881
       ]
     },
     {
@@ -35930,8 +35930,8 @@ const features = {
       "user": "Marcus",
       "label": "car",
       "point": [
-        303,
-        274
+        0.30220356768100737,
+        0.5940366972477065
       ]
     },
     {
@@ -35940,8 +35940,8 @@ const features = {
       "user": "Marcus",
       "label": "fish",
       "point": [
-        232,
-        122
+        0.22770199370409233,
+        0.24541284403669725
       ]
     },
     {
@@ -35950,8 +35950,8 @@ const features = {
       "user": "Marcus",
       "label": "house",
       "point": [
-        147,
-        186
+        0.1385099685204617,
+        0.3922018348623853
       ]
     },
     {
@@ -35960,8 +35960,8 @@ const features = {
       "user": "Marcus",
       "label": "tree",
       "point": [
-        218,
-        278
+        0.2130115424973767,
+        0.6032110091743119
       ]
     },
     {
@@ -35970,8 +35970,8 @@ const features = {
       "user": "Marcus",
       "label": "bicycle",
       "point": [
-        255,
-        184
+        0.2518363064008394,
+        0.3876146788990826
       ]
     },
     {
@@ -35980,8 +35980,8 @@ const features = {
       "user": "Marcus",
       "label": "guitar",
       "point": [
-        171,
-        210
+        0.16369359916054566,
+        0.44724770642201833
       ]
     },
     {
@@ -35990,8 +35990,8 @@ const features = {
       "user": "Marcus",
       "label": "pencil",
       "point": [
-        137,
-        273
+        0.12801678908709338,
+        0.591743119266055
       ]
     },
     {
@@ -36000,8 +36000,8 @@ const features = {
       "user": "Marcus",
       "label": "clock",
       "point": [
-        137,
-        165
+        0.12801678908709338,
+        0.3440366972477064
       ]
     },
     {
@@ -36010,8 +36010,8 @@ const features = {
       "user": "Alex",
       "label": "car",
       "point": [
-        375,
-        226
+        0.3777544596012592,
+        0.48394495412844035
       ]
     },
     {
@@ -36020,8 +36020,8 @@ const features = {
       "user": "Alex",
       "label": "fish",
       "point": [
-        367,
-        243
+        0.36935991605456453,
+        0.5229357798165137
       ]
     },
     {
@@ -36030,8 +36030,8 @@ const features = {
       "user": "Alex",
       "label": "house",
       "point": [
-        269,
-        235
+        0.26652675760755506,
+        0.5045871559633027
       ]
     },
     {
@@ -36040,8 +36040,8 @@ const features = {
       "user": "Alex",
       "label": "tree",
       "point": [
-        325,
-        359
+        0.3252885624344176,
+        0.7889908256880734
       ]
     },
     {
@@ -36050,8 +36050,8 @@ const features = {
       "user": "Alex",
       "label": "bicycle",
       "point": [
-        322,
-        245
+        0.32214060860440713,
+        0.5275229357798165
       ]
     },
     {
@@ -36060,8 +36060,8 @@ const features = {
       "user": "Alex",
       "label": "guitar",
       "point": [
-        191,
-        363
+        0.18467995802728226,
+        0.7981651376146789
       ]
     },
     {
@@ -36070,8 +36070,8 @@ const features = {
       "user": "Alex",
       "label": "pencil",
       "point": [
-        337,
-        248
+        0.3378803777544596,
+        0.5344036697247706
       ]
     },
     {
@@ -36080,8 +36080,8 @@ const features = {
       "user": "Alex",
       "label": "clock",
       "point": [
-        237,
-        252
+        0.23294858342077648,
+        0.5435779816513762
       ]
     },
     {
@@ -36090,8 +36090,8 @@ const features = {
       "user": "davidalexandru1370@gmail.com",
       "label": "car",
       "point": [
-        312,
-        143
+        0.3116474291710388,
+        0.29357798165137616
       ]
     },
     {
@@ -36100,8 +36100,8 @@ const features = {
       "user": "davidalexandru1370@gmail.com",
       "label": "fish",
       "point": [
-        207,
-        76
+        0.20146904512067157,
+        0.13990825688073394
       ]
     },
     {
@@ -36110,8 +36110,8 @@ const features = {
       "user": "davidalexandru1370@gmail.com",
       "label": "house",
       "point": [
-        239,
-        261
+        0.23504721930745015,
+        0.5642201834862385
       ]
     },
     {
@@ -36120,8 +36120,8 @@ const features = {
       "user": "davidalexandru1370@gmail.com",
       "label": "tree",
       "point": [
-        227,
-        309
+        0.22245540398740818,
+        0.6743119266055045
       ]
     },
     {
@@ -36130,8 +36130,8 @@ const features = {
       "user": "davidalexandru1370@gmail.com",
       "label": "bicycle",
       "point": [
-        264,
-        175
+        0.26128016789087094,
+        0.3669724770642202
       ]
     },
     {
@@ -36140,8 +36140,8 @@ const features = {
       "user": "davidalexandru1370@gmail.com",
       "label": "guitar",
       "point": [
-        192,
-        166
+        0.18572927597061908,
+        0.3463302752293578
       ]
     },
     {
@@ -36150,8 +36150,8 @@ const features = {
       "user": "davidalexandru1370@gmail.com",
       "label": "pencil",
       "point": [
-        53,
-        293
+        0.03987408184679958,
+        0.6376146788990825
       ]
     },
     {
@@ -36160,8 +36160,8 @@ const features = {
       "user": "davidalexandru1370@gmail.com",
       "label": "clock",
       "point": [
-        196,
-        210
+        0.18992654774396642,
+        0.44724770642201833
       ]
     },
     {
@@ -36170,8 +36170,8 @@ const features = {
       "user": "AppleAmplifier",
       "label": "car",
       "point": [
-        325,
-        171
+        0.3252885624344176,
+        0.3577981651376147
       ]
     },
     {
@@ -36180,8 +36180,8 @@ const features = {
       "user": "AppleAmplifier",
       "label": "fish",
       "point": [
-        313,
-        203
+        0.3126967471143757,
+        0.43119266055045874
       ]
     },
     {
@@ -36190,8 +36190,8 @@ const features = {
       "user": "AppleAmplifier",
       "label": "house",
       "point": [
-        260,
-        285
+        0.2570828961175236,
+        0.6192660550458715
       ]
     },
     {
@@ -36200,8 +36200,8 @@ const features = {
       "user": "AppleAmplifier",
       "label": "tree",
       "point": [
-        315,
-        347
+        0.3147953830010493,
+        0.7614678899082569
       ]
     },
     {
@@ -36210,8 +36210,8 @@ const features = {
       "user": "AppleAmplifier",
       "label": "bicycle",
       "point": [
-        338,
-        249
+        0.3389296956977964,
+        0.536697247706422
       ]
     },
     {
@@ -36220,8 +36220,8 @@ const features = {
       "user": "AppleAmplifier",
       "label": "guitar",
       "point": [
-        339,
-        384
+        0.33997901364113325,
+        0.8463302752293578
       ]
     },
     {
@@ -36230,8 +36230,8 @@ const features = {
       "user": "AppleAmplifier",
       "label": "pencil",
       "point": [
-        273,
-        303
+        0.2707240293809024,
+        0.6605504587155964
       ]
     },
     {
@@ -36240,8 +36240,8 @@ const features = {
       "user": "AppleAmplifier",
       "label": "clock",
       "point": [
-        277,
-        241
+        0.27492130115424973,
+        0.518348623853211
       ]
     },
     {
@@ -36250,8 +36250,8 @@ const features = {
       "user": "menuett",
       "label": "car",
       "point": [
-        351,
-        161
+        0.35257082896117525,
+        0.3348623853211009
       ]
     },
     {
@@ -36260,8 +36260,8 @@ const features = {
       "user": "menuett",
       "label": "fish",
       "point": [
-        271,
-        160
+        0.26862539349422876,
+        0.33256880733944955
       ]
     },
     {
@@ -36270,8 +36270,8 @@ const features = {
       "user": "menuett",
       "label": "house",
       "point": [
-        206,
-        257
+        0.20041972717733472,
+        0.555045871559633
       ]
     },
     {
@@ -36280,8 +36280,8 @@ const features = {
       "user": "menuett",
       "label": "tree",
       "point": [
-        315,
-        291
+        0.3147953830010493,
+        0.6330275229357798
       ]
     },
     {
@@ -36290,8 +36290,8 @@ const features = {
       "user": "menuett",
       "label": "bicycle",
       "point": [
-        251,
-        182
+        0.24763903462749212,
+        0.3830275229357798
       ]
     },
     {
@@ -36300,8 +36300,8 @@ const features = {
       "user": "menuett",
       "label": "guitar",
       "point": [
-        325,
-        260
+        0.3252885624344176,
+        0.5619266055045872
       ]
     },
     {
@@ -36310,8 +36310,8 @@ const features = {
       "user": "menuett",
       "label": "pencil",
       "point": [
-        313,
-        25
+        0.3126967471143757,
+        0.022935779816513763
       ]
     },
     {
@@ -36320,8 +36320,8 @@ const features = {
       "user": "menuett",
       "label": "clock",
       "point": [
-        289,
-        256
+        0.28751311647429173,
+        0.5527522935779816
       ]
     },
     {
@@ -36330,8 +36330,8 @@ const features = {
       "user": "Larven",
       "label": "car",
       "point": [
-        250,
-        130
+        0.2465897166841553,
+        0.26376146788990823
       ]
     },
     {
@@ -36340,8 +36340,8 @@ const features = {
       "user": "Larven",
       "label": "fish",
       "point": [
-        181,
-        51
+        0.17418677859391396,
+        0.08256880733944955
       ]
     },
     {
@@ -36350,8 +36350,8 @@ const features = {
       "user": "Larven",
       "label": "house",
       "point": [
-        200,
-        142
+        0.19412381951731375,
+        0.29128440366972475
       ]
     },
     {
@@ -36360,8 +36360,8 @@ const features = {
       "user": "Larven",
       "label": "tree",
       "point": [
-        373,
-        289
+        0.3756558237145855,
+        0.6284403669724771
       ]
     },
     {
@@ -36370,8 +36370,8 @@ const features = {
       "user": "Larven",
       "label": "bicycle",
       "point": [
-        250,
-        175
+        0.2465897166841553,
+        0.3669724770642202
       ]
     },
     {
@@ -36380,8 +36380,8 @@ const features = {
       "user": "Larven",
       "label": "guitar",
       "point": [
-        363,
-        142
+        0.3651626442812172,
+        0.29128440366972475
       ]
     },
     {
@@ -36390,8 +36390,8 @@ const features = {
       "user": "Larven",
       "label": "pencil",
       "point": [
-        70,
-        236
+        0.05771248688352571,
+        0.5068807339449541
       ]
     },
     {
@@ -36400,8 +36400,8 @@ const features = {
       "user": "Larven",
       "label": "clock",
       "point": [
-        302,
-        253
+        0.3011542497376705,
+        0.5458715596330275
       ]
     },
     {
@@ -36410,8 +36410,8 @@ const features = {
       "user": "Irina",
       "label": "car",
       "point": [
-        328,
-        120
+        0.3284365162644281,
+        0.2408256880733945
       ]
     },
     {
@@ -36420,8 +36420,8 @@ const features = {
       "user": "Irina",
       "label": "fish",
       "point": [
-        300,
-        117
+        0.2990556138509968,
+        0.23394495412844038
       ]
     },
     {
@@ -36430,8 +36430,8 @@ const features = {
       "user": "Irina",
       "label": "house",
       "point": [
-        213,
-        295
+        0.20776495278069254,
+        0.6422018348623854
       ]
     },
     {
@@ -36440,8 +36440,8 @@ const features = {
       "user": "Irina",
       "label": "tree",
       "point": [
-        207,
-        216
+        0.20146904512067157,
+        0.4610091743119266
       ]
     },
     {
@@ -36450,8 +36450,8 @@ const features = {
       "user": "Irina",
       "label": "bicycle",
       "point": [
-        273,
-        132
+        0.2707240293809024,
+        0.268348623853211
       ]
     },
     {
@@ -36460,8 +36460,8 @@ const features = {
       "user": "Irina",
       "label": "guitar",
       "point": [
-        329,
-        243
+        0.32948583420776495,
+        0.5229357798165137
       ]
     },
     {
@@ -36470,8 +36470,8 @@ const features = {
       "user": "Irina",
       "label": "pencil",
       "point": [
-        195,
-        254
+        0.1888772298006296,
+        0.5481651376146789
       ]
     },
     {
@@ -36480,8 +36480,8 @@ const features = {
       "user": "Irina",
       "label": "clock",
       "point": [
-        223,
-        189
+        0.21825813221406087,
+        0.39908256880733944
       ]
     },
     {
@@ -36490,8 +36490,8 @@ const features = {
       "user": "get",
       "label": "car",
       "point": [
-        364,
-        189
+        0.36621196222455404,
+        0.39908256880733944
       ]
     },
     {
@@ -36500,8 +36500,8 @@ const features = {
       "user": "get",
       "label": "fish",
       "point": [
-        295,
-        160
+        0.2938090241343127,
+        0.33256880733944955
       ]
     },
     {
@@ -36510,8 +36510,8 @@ const features = {
       "user": "get",
       "label": "house",
       "point": [
-        256,
-        144
+        0.2528856243441763,
+        0.2958715596330275
       ]
     },
     {
@@ -36520,8 +36520,8 @@ const features = {
       "user": "get",
       "label": "tree",
       "point": [
-        169,
-        236
+        0.161594963273872,
+        0.5068807339449541
       ]
     },
     {
@@ -36530,8 +36530,8 @@ const features = {
       "user": "get",
       "label": "bicycle",
       "point": [
-        261,
-        180
+        0.25813221406086045,
+        0.37844036697247707
       ]
     },
     {
@@ -36540,8 +36540,8 @@ const features = {
       "user": "get",
       "label": "guitar",
       "point": [
-        336,
-        300
+        0.33683105981112277,
+        0.6536697247706422
       ]
     },
     {
@@ -36550,8 +36550,8 @@ const features = {
       "user": "get",
       "label": "pencil",
       "point": [
-        118,
-        272
+        0.1080797481636936,
+        0.5894495412844036
       ]
     },
     {
@@ -36560,8 +36560,8 @@ const features = {
       "user": "get",
       "label": "clock",
       "point": [
-        209,
-        234
+        0.20356768100734524,
+        0.5022935779816514
       ]
     },
     {
@@ -36570,8 +36570,8 @@ const features = {
       "user": "Juraj",
       "label": "car",
       "point": [
-        264,
-        89
+        0.26128016789087094,
+        0.16972477064220184
       ]
     },
     {
@@ -36580,8 +36580,8 @@ const features = {
       "user": "Juraj",
       "label": "fish",
       "point": [
-        281,
-        78
+        0.27911857292759706,
+        0.1444954128440367
       ]
     },
     {
@@ -36590,8 +36590,8 @@ const features = {
       "user": "Juraj",
       "label": "house",
       "point": [
-        392,
-        303
+        0.3955928646379853,
+        0.6605504587155964
       ]
     },
     {
@@ -36600,8 +36600,8 @@ const features = {
       "user": "Juraj",
       "label": "tree",
       "point": [
-        263,
-        382
+        0.2602308499475341,
+        0.841743119266055
       ]
     },
     {
@@ -36610,8 +36610,8 @@ const features = {
       "user": "Juraj",
       "label": "bicycle",
       "point": [
-        225,
-        183
+        0.2203567681007345,
+        0.3853211009174312
       ]
     },
     {
@@ -36620,8 +36620,8 @@ const features = {
       "user": "Juraj",
       "label": "guitar",
       "point": [
-        184,
-        247
+        0.17733473242392445,
+        0.5321100917431193
       ]
     },
     {
@@ -36630,8 +36630,8 @@ const features = {
       "user": "Juraj",
       "label": "pencil",
       "point": [
-        239,
-        202
+        0.23504721930745015,
+        0.4288990825688073
       ]
     },
     {
@@ -36640,8 +36640,8 @@ const features = {
       "user": "Juraj",
       "label": "clock",
       "point": [
-        206,
-        218
+        0.20041972717733472,
+        0.46559633027522934
       ]
     },
     {
@@ -36650,8 +36650,8 @@ const features = {
       "user": "Jocieldo",
       "label": "car",
       "point": [
-        232,
-        99
+        0.22770199370409233,
+        0.1926605504587156
       ]
     },
     {
@@ -36660,8 +36660,8 @@ const features = {
       "user": "Jocieldo",
       "label": "fish",
       "point": [
-        245,
-        178
+        0.24134312696747115,
+        0.3738532110091743
       ]
     },
     {
@@ -36670,8 +36670,8 @@ const features = {
       "user": "Jocieldo",
       "label": "house",
       "point": [
-        277,
-        191
+        0.27492130115424973,
+        0.4036697247706422
       ]
     },
     {
@@ -36680,8 +36680,8 @@ const features = {
       "user": "Jocieldo",
       "label": "tree",
       "point": [
-        194,
-        223
+        0.18782791185729275,
+        0.47706422018348627
       ]
     },
     {
@@ -36690,8 +36690,8 @@ const features = {
       "user": "Jocieldo",
       "label": "bicycle",
       "point": [
-        139,
-        93
+        0.13011542497376705,
+        0.17889908256880735
       ]
     },
     {
@@ -36700,8 +36700,8 @@ const features = {
       "user": "Jocieldo",
       "label": "guitar",
       "point": [
-        256,
-        75
+        0.2528856243441763,
+        0.13761467889908258
       ]
     },
     {
@@ -36710,8 +36710,8 @@ const features = {
       "user": "Jocieldo",
       "label": "pencil",
       "point": [
-        116,
-        173
+        0.10598111227701994,
+        0.3623853211009174
       ]
     },
     {
@@ -36720,8 +36720,8 @@ const features = {
       "user": "Jocieldo",
       "label": "clock",
       "point": [
-        158,
-        134
+        0.15005246589716684,
+        0.27293577981651373
       ]
     },
     {
@@ -36730,8 +36730,8 @@ const features = {
       "user": "rcdmrl",
       "label": "car",
       "point": [
-        200,
-        124
+        0.19412381951731375,
+        0.25
       ]
     },
     {
@@ -36740,8 +36740,8 @@ const features = {
       "user": "rcdmrl",
       "label": "fish",
       "point": [
-        126,
-        61
+        0.11647429171038824,
+        0.10550458715596331
       ]
     },
     {
@@ -36750,8 +36750,8 @@ const features = {
       "user": "rcdmrl",
       "label": "house",
       "point": [
-        243,
-        302
+        0.23924449108079748,
+        0.658256880733945
       ]
     },
     {
@@ -36760,8 +36760,8 @@ const features = {
       "user": "rcdmrl",
       "label": "tree",
       "point": [
-        216,
-        317
+        0.21091290661070305,
+        0.6926605504587156
       ]
     },
     {
@@ -36770,8 +36770,8 @@ const features = {
       "user": "rcdmrl",
       "label": "bicycle",
       "point": [
-        205,
-        181
+        0.1993704092339979,
+        0.38073394495412843
       ]
     },
     {
@@ -36780,8 +36780,8 @@ const features = {
       "user": "rcdmrl",
       "label": "guitar",
       "point": [
-        80,
-        263
+        0.06820566631689402,
+        0.5688073394495413
       ]
     },
     {
@@ -36790,8 +36790,8 @@ const features = {
       "user": "rcdmrl",
       "label": "pencil",
       "point": [
-        50,
-        204
+        0.03672612801678909,
+        0.4334862385321101
       ]
     },
     {
@@ -36800,8 +36800,8 @@ const features = {
       "user": "rcdmrl",
       "label": "clock",
       "point": [
-        132,
-        133
+        0.12277019937040923,
+        0.2706422018348624
       ]
     },
     {
@@ -36810,8 +36810,8 @@ const features = {
       "user": "Bambi",
       "label": "car",
       "point": [
-        304,
-        112
+        0.30325288562434416,
+        0.22247706422018348
       ]
     },
     {
@@ -36820,8 +36820,8 @@ const features = {
       "user": "Bambi",
       "label": "fish",
       "point": [
-        271,
-        145
+        0.26862539349422876,
+        0.2981651376146789
       ]
     },
     {
@@ -36830,8 +36830,8 @@ const features = {
       "user": "Bambi",
       "label": "house",
       "point": [
-        226,
-        284
+        0.22140608604407136,
+        0.6169724770642202
       ]
     },
     {
@@ -36840,8 +36840,8 @@ const features = {
       "user": "Bambi",
       "label": "tree",
       "point": [
-        173,
-        267
+        0.1657922350472193,
+        0.5779816513761468
       ]
     },
     {
@@ -36850,8 +36850,8 @@ const features = {
       "user": "Bambi",
       "label": "bicycle",
       "point": [
-        220,
-        149
+        0.21511017838405036,
+        0.3073394495412844
       ]
     },
     {
@@ -36860,8 +36860,8 @@ const features = {
       "user": "Bambi",
       "label": "guitar",
       "point": [
-        262,
-        220
+        0.25918153200419725,
+        0.4701834862385321
       ]
     },
     {
@@ -36870,8 +36870,8 @@ const features = {
       "user": "Bambi",
       "label": "pencil",
       "point": [
-        226,
-        311
+        0.22140608604407136,
+        0.6788990825688074
       ]
     },
     {
@@ -36880,8 +36880,8 @@ const features = {
       "user": "Bambi",
       "label": "clock",
       "point": [
-        238,
-        256
+        0.23399790136411333,
+        0.5527522935779816
       ]
     },
     {
@@ -36890,8 +36890,8 @@ const features = {
       "user": "radu",
       "label": "car",
       "point": [
-        162,
-        252
+        0.15424973767051417,
+        0.5435779816513762
       ]
     },
     {
@@ -36900,8 +36900,8 @@ const features = {
       "user": "radu",
       "label": "fish",
       "point": [
-        91,
-        136
+        0.07974816369359916,
+        0.2775229357798165
       ]
     },
     {
@@ -36910,8 +36910,8 @@ const features = {
       "user": "radu",
       "label": "house",
       "point": [
-        170,
-        130
+        0.1626442812172088,
+        0.26376146788990823
       ]
     },
     {
@@ -36920,8 +36920,8 @@ const features = {
       "user": "radu",
       "label": "tree",
       "point": [
-        80,
-        108
+        0.06820566631689402,
+        0.21330275229357798
       ]
     },
     {
@@ -36930,8 +36930,8 @@ const features = {
       "user": "radu",
       "label": "bicycle",
       "point": [
-        238,
-        178
+        0.23399790136411333,
+        0.3738532110091743
       ]
     },
     {
@@ -36940,8 +36940,8 @@ const features = {
       "user": "radu",
       "label": "guitar",
       "point": [
-        295,
-        350
+        0.2938090241343127,
+        0.768348623853211
       ]
     },
     {
@@ -36950,8 +36950,8 @@ const features = {
       "user": "radu",
       "label": "pencil",
       "point": [
-        118,
-        180
+        0.1080797481636936,
+        0.37844036697247707
       ]
     },
     {
@@ -36960,8 +36960,8 @@ const features = {
       "user": "radu",
       "label": "clock",
       "point": [
-        234,
-        199
+        0.229800629590766,
+        0.42201834862385323
       ]
     },
     {
@@ -36970,8 +36970,8 @@ const features = {
       "user": "radu",
       "label": "car",
       "point": [
-        326,
-        266
+        0.32633788037775446,
+        0.5756880733944955
       ]
     },
     {
@@ -36980,8 +36980,8 @@ const features = {
       "user": "radu",
       "label": "fish",
       "point": [
-        307,
-        168
+        0.30640083945435465,
+        0.35091743119266056
       ]
     },
     {
@@ -36990,8 +36990,8 @@ const features = {
       "user": "radu",
       "label": "house",
       "point": [
-        246,
-        143
+        0.24239244491080797,
+        0.29357798165137616
       ]
     },
     {
@@ -37000,8 +37000,8 @@ const features = {
       "user": "radu",
       "label": "tree",
       "point": [
-        158,
-        245
+        0.15005246589716684,
+        0.5275229357798165
       ]
     },
     {
@@ -37010,8 +37010,8 @@ const features = {
       "user": "radu",
       "label": "bicycle",
       "point": [
-        211,
-        268
+        0.20566631689401887,
+        0.5802752293577982
       ]
     },
     {
@@ -37020,8 +37020,8 @@ const features = {
       "user": "radu",
       "label": "guitar",
       "point": [
-        187,
-        260
+        0.18048268625393493,
+        0.5619266055045872
       ]
     },
     {
@@ -37030,8 +37030,8 @@ const features = {
       "user": "radu",
       "label": "pencil",
       "point": [
-        348,
-        388
+        0.34942287513116477,
+        0.8555045871559633
       ]
     },
     {
@@ -37040,8 +37040,8 @@ const features = {
       "user": "radu",
       "label": "clock",
       "point": [
-        197,
-        307
+        0.19097586568730326,
+        0.6697247706422018
       ]
     },
     {
@@ -37050,8 +37050,8 @@ const features = {
       "user": "Erik",
       "label": "car",
       "point": [
-        279,
-        97
+        0.2770199370409234,
+        0.18807339449541285
       ]
     },
     {
@@ -37060,8 +37060,8 @@ const features = {
       "user": "Erik",
       "label": "fish",
       "point": [
-        75,
-        126
+        0.06295907660020986,
+        0.2545871559633027
       ]
     },
     {
@@ -37070,8 +37070,8 @@ const features = {
       "user": "Erik",
       "label": "house",
       "point": [
-        155,
-        135
+        0.14690451206715635,
+        0.27522935779816515
       ]
     },
     {
@@ -37080,8 +37080,8 @@ const features = {
       "user": "Erik",
       "label": "tree",
       "point": [
-        225,
-        269
+        0.2203567681007345,
+        0.5825688073394495
       ]
     },
     {
@@ -37090,8 +37090,8 @@ const features = {
       "user": "Erik",
       "label": "bicycle",
       "point": [
-        186,
-        113
+        0.1794333683105981,
+        0.22477064220183487
       ]
     },
     {
@@ -37100,8 +37100,8 @@ const features = {
       "user": "Erik",
       "label": "guitar",
       "point": [
-        232,
-        75
+        0.22770199370409233,
+        0.13761467889908258
       ]
     },
     {
@@ -37110,8 +37110,8 @@ const features = {
       "user": "Erik",
       "label": "pencil",
       "point": [
-        37,
-        142
+        0.023084994753410283,
+        0.29128440366972475
       ]
     },
     {
@@ -37120,8 +37120,8 @@ const features = {
       "user": "Erik",
       "label": "clock",
       "point": [
-        113,
-        112
+        0.10283315844700944,
+        0.22247706422018348
       ]
     },
     {
@@ -37130,8 +37130,8 @@ const features = {
       "user": "georgedan D FOTEA",
       "label": "car",
       "point": [
-        205,
-        91
+        0.1993704092339979,
+        0.1743119266055046
       ]
     },
     {
@@ -37140,8 +37140,8 @@ const features = {
       "user": "georgedan D FOTEA",
       "label": "fish",
       "point": [
-        275,
-        93
+        0.2728226652675761,
+        0.17889908256880735
       ]
     },
     {
@@ -37150,8 +37150,8 @@ const features = {
       "user": "georgedan D FOTEA",
       "label": "house",
       "point": [
-        219,
-        261
+        0.21406086044071354,
+        0.5642201834862385
       ]
     },
     {
@@ -37160,8 +37160,8 @@ const features = {
       "user": "georgedan D FOTEA",
       "label": "tree",
       "point": [
-        198,
-        356
+        0.19202518363064008,
+        0.7821100917431193
       ]
     },
     {
@@ -37170,8 +37170,8 @@ const features = {
       "user": "georgedan D FOTEA",
       "label": "bicycle",
       "point": [
-        310,
-        274
+        0.3095487932843652,
+        0.5940366972477065
       ]
     },
     {
@@ -37180,8 +37180,8 @@ const features = {
       "user": "georgedan D FOTEA",
       "label": "guitar",
       "point": [
-        261,
-        89
+        0.25813221406086045,
+        0.16972477064220184
       ]
     },
     {
@@ -37190,8 +37190,8 @@ const features = {
       "user": "georgedan D FOTEA",
       "label": "pencil",
       "point": [
-        46,
-        352
+        0.03252885624344176,
+        0.7729357798165137
       ]
     },
     {
@@ -37200,8 +37200,8 @@ const features = {
       "user": "georgedan D FOTEA",
       "label": "clock",
       "point": [
-        306,
-        311
+        0.30535152151101785,
+        0.6788990825688074
       ]
     },
     {
@@ -37210,8 +37210,8 @@ const features = {
       "user": "burak",
       "label": "car",
       "point": [
-        327,
-        136
+        0.3273871983210913,
+        0.2775229357798165
       ]
     },
     {
@@ -37220,8 +37220,8 @@ const features = {
       "user": "burak",
       "label": "fish",
       "point": [
-        290,
-        98
+        0.2885624344176285,
+        0.19036697247706422
       ]
     },
     {
@@ -37230,8 +37230,8 @@ const features = {
       "user": "burak",
       "label": "house",
       "point": [
-        249,
-        272
+        0.24554039874081846,
+        0.5894495412844036
       ]
     },
     {
@@ -37240,8 +37240,8 @@ const features = {
       "user": "burak",
       "label": "tree",
       "point": [
-        183,
-        246
+        0.17628541448058763,
+        0.5298165137614679
       ]
     },
     {
@@ -37250,8 +37250,8 @@ const features = {
       "user": "burak",
       "label": "bicycle",
       "point": [
-        277,
-        156
+        0.27492130115424973,
+        0.32339449541284404
       ]
     },
     {
@@ -37260,8 +37260,8 @@ const features = {
       "user": "burak",
       "label": "guitar",
       "point": [
-        381,
-        120
+        0.38405036726128017,
+        0.2408256880733945
       ]
     },
     {
@@ -37270,8 +37270,8 @@ const features = {
       "user": "burak",
       "label": "pencil",
       "point": [
-        183,
-        256
+        0.17628541448058763,
+        0.5527522935779816
       ]
     },
     {
@@ -37280,8 +37280,8 @@ const features = {
       "user": "burak",
       "label": "clock",
       "point": [
-        177,
-        135
+        0.16998950682056663,
+        0.27522935779816515
       ]
     },
     {
@@ -37290,8 +37290,8 @@ const features = {
       "user": "lain",
       "label": "car",
       "point": [
-        276,
-        104
+        0.2738719832109129,
+        0.20412844036697247
       ]
     },
     {
@@ -37300,8 +37300,8 @@ const features = {
       "user": "lain",
       "label": "fish",
       "point": [
-        114,
-        232
+        0.10388247639034627,
+        0.49770642201834864
       ]
     },
     {
@@ -37310,8 +37310,8 @@ const features = {
       "user": "lain",
       "label": "house",
       "point": [
-        244,
-        172
+        0.2402938090241343,
+        0.36009174311926606
       ]
     },
     {
@@ -37320,8 +37320,8 @@ const features = {
       "user": "lain",
       "label": "tree",
       "point": [
-        156,
-        183
+        0.14795383001049317,
+        0.3853211009174312
       ]
     },
     {
@@ -37330,8 +37330,8 @@ const features = {
       "user": "lain",
       "label": "bicycle",
       "point": [
-        193,
-        152
+        0.18677859391395593,
+        0.31422018348623854
       ]
     },
     {
@@ -37340,8 +37340,8 @@ const features = {
       "user": "lain",
       "label": "guitar",
       "point": [
-        206,
-        79
+        0.20041972717733472,
+        0.14678899082568808
       ]
     },
     {
@@ -37350,8 +37350,8 @@ const features = {
       "user": "lain",
       "label": "pencil",
       "point": [
-        40,
-        187
+        0.026232948583420776,
+        0.3944954128440367
       ]
     },
     {
@@ -37360,8 +37360,8 @@ const features = {
       "user": "lain",
       "label": "clock",
       "point": [
-        117,
-        128
+        0.10703043022035677,
+        0.2591743119266055
       ]
     },
     {
@@ -37370,8 +37370,8 @@ const features = {
       "user": "Gustavo (luv u radu)",
       "label": "car",
       "point": [
-        287,
-        107
+        0.28541448058761804,
+        0.21100917431192662
       ]
     },
     {
@@ -37380,8 +37380,8 @@ const features = {
       "user": "Gustavo (luv u radu)",
       "label": "fish",
       "point": [
-        227,
-        84
+        0.22245540398740818,
+        0.15825688073394495
       ]
     },
     {
@@ -37390,8 +37390,8 @@ const features = {
       "user": "Gustavo (luv u radu)",
       "label": "house",
       "point": [
-        221,
-        181
+        0.2161594963273872,
+        0.38073394495412843
       ]
     },
     {
@@ -37400,8 +37400,8 @@ const features = {
       "user": "Gustavo (luv u radu)",
       "label": "tree",
       "point": [
-        315,
-        380
+        0.3147953830010493,
+        0.8371559633027523
       ]
     },
     {
@@ -37410,8 +37410,8 @@ const features = {
       "user": "Gustavo (luv u radu)",
       "label": "bicycle",
       "point": [
-        236,
-        148
+        0.23189926547743966,
+        0.30504587155963303
       ]
     },
     {
@@ -37420,8 +37420,8 @@ const features = {
       "user": "Gustavo (luv u radu)",
       "label": "guitar",
       "point": [
-        238,
-        320
+        0.23399790136411333,
+        0.6995412844036697
       ]
     },
     {
@@ -37430,8 +37430,8 @@ const features = {
       "user": "Gustavo (luv u radu)",
       "label": "pencil",
       "point": [
-        22,
-        224
+        0.007345225603357817,
+        0.4793577981651376
       ]
     },
     {
@@ -37440,8 +37440,8 @@ const features = {
       "user": "Gustavo (luv u radu)",
       "label": "clock",
       "point": [
-        242,
-        216
+        0.23819517313746066,
+        0.4610091743119266
       ]
     },
     {
@@ -37450,8 +37450,8 @@ const features = {
       "user": "Ulrich",
       "label": "car",
       "point": [
-        283,
-        87
+        0.2812172088142707,
+        0.1651376146788991
       ]
     },
     {
@@ -37460,8 +37460,8 @@ const features = {
       "user": "Ulrich",
       "label": "fish",
       "point": [
-        215,
-        133
+        0.2098635886673662,
+        0.2706422018348624
       ]
     },
     {
@@ -37470,8 +37470,8 @@ const features = {
       "user": "Ulrich",
       "label": "house",
       "point": [
-        178,
-        185
+        0.17103882476390347,
+        0.38990825688073394
       ]
     },
     {
@@ -37480,8 +37480,8 @@ const features = {
       "user": "Ulrich",
       "label": "tree",
       "point": [
-        387,
-        351
+        0.39034627492130114,
+        0.7706422018348624
       ]
     },
     {
@@ -37490,8 +37490,8 @@ const features = {
       "user": "Ulrich",
       "label": "bicycle",
       "point": [
-        302,
-        214
+        0.3011542497376705,
+        0.45642201834862384
       ]
     },
     {
@@ -37500,8 +37500,8 @@ const features = {
       "user": "Ulrich",
       "label": "guitar",
       "point": [
-        217,
-        369
+        0.21196222455403987,
+        0.8119266055045872
       ]
     },
     {
@@ -37510,8 +37510,8 @@ const features = {
       "user": "Ulrich",
       "label": "pencil",
       "point": [
-        258,
-        255
+        0.25498426023084997,
+        0.5504587155963303
       ]
     },
     {
@@ -37520,8 +37520,8 @@ const features = {
       "user": "Ulrich",
       "label": "clock",
       "point": [
-        169,
-        173
+        0.161594963273872,
+        0.3623853211009174
       ]
     },
     {
@@ -37530,8 +37530,8 @@ const features = {
       "user": "kornelius",
       "label": "car",
       "point": [
-        246,
-        120
+        0.24239244491080797,
+        0.2408256880733945
       ]
     },
     {
@@ -37540,8 +37540,8 @@ const features = {
       "user": "kornelius",
       "label": "fish",
       "point": [
-        208,
-        109
+        0.2025183630640084,
+        0.21559633027522937
       ]
     },
     {
@@ -37550,8 +37550,8 @@ const features = {
       "user": "kornelius",
       "label": "house",
       "point": [
-        170,
-        169
+        0.1626442812172088,
+        0.3532110091743119
       ]
     },
     {
@@ -37560,8 +37560,8 @@ const features = {
       "user": "kornelius",
       "label": "tree",
       "point": [
-        137,
-        226
+        0.12801678908709338,
+        0.48394495412844035
       ]
     },
     {
@@ -37570,8 +37570,8 @@ const features = {
       "user": "kornelius",
       "label": "bicycle",
       "point": [
-        212,
-        129
+        0.20671563483735572,
+        0.26146788990825687
       ]
     },
     {
@@ -37580,8 +37580,8 @@ const features = {
       "user": "kornelius",
       "label": "guitar",
       "point": [
-        276,
-        280
+        0.2738719832109129,
+        0.6077981651376146
       ]
     },
     {
@@ -37590,8 +37590,8 @@ const features = {
       "user": "kornelius",
       "label": "pencil",
       "point": [
-        174,
-        249
+        0.16684155299055614,
+        0.536697247706422
       ]
     },
     {
@@ -37600,8 +37600,8 @@ const features = {
       "user": "kornelius",
       "label": "clock",
       "point": [
-        232,
-        215
+        0.22770199370409233,
+        0.45871559633027525
       ]
     },
     {
@@ -37610,8 +37610,8 @@ const features = {
       "user": "bantya",
       "label": "car",
       "point": [
-        304,
-        153
+        0.30325288562434416,
+        0.3165137614678899
       ]
     },
     {
@@ -37620,8 +37620,8 @@ const features = {
       "user": "bantya",
       "label": "fish",
       "point": [
-        235,
-        120
+        0.23084994753410285,
+        0.2408256880733945
       ]
     },
     {
@@ -37630,8 +37630,8 @@ const features = {
       "user": "bantya",
       "label": "house",
       "point": [
-        335,
-        243
+        0.3357817418677859,
+        0.5229357798165137
       ]
     },
     {
@@ -37640,8 +37640,8 @@ const features = {
       "user": "bantya",
       "label": "tree",
       "point": [
-        291,
-        304
+        0.28961175236096537,
+        0.6628440366972477
       ]
     },
     {
@@ -37650,8 +37650,8 @@ const features = {
       "user": "bantya",
       "label": "bicycle",
       "point": [
-        275,
-        225
+        0.2728226652675761,
+        0.481651376146789
       ]
     },
     {
@@ -37660,8 +37660,8 @@ const features = {
       "user": "bantya",
       "label": "guitar",
       "point": [
-        329,
-        164
+        0.32948583420776495,
+        0.34174311926605505
       ]
     },
     {
@@ -37670,8 +37670,8 @@ const features = {
       "user": "bantya",
       "label": "pencil",
       "point": [
-        240,
-        248
+        0.236096537250787,
+        0.5344036697247706
       ]
     },
     {
@@ -37680,8 +37680,8 @@ const features = {
       "user": "bantya",
       "label": "clock",
       "point": [
-        240,
-        243
+        0.236096537250787,
+        0.5229357798165137
       ]
     },
     {
@@ -37690,8 +37690,8 @@ const features = {
       "user": "Julian",
       "label": "car",
       "point": [
-        360,
-        106
+        0.3620146904512067,
+        0.20871559633027523
       ]
     },
     {
@@ -37700,8 +37700,8 @@ const features = {
       "user": "Julian",
       "label": "fish",
       "point": [
-        398,
-        86
+        0.4018887722980063,
+        0.1628440366972477
       ]
     },
     {
@@ -37710,8 +37710,8 @@ const features = {
       "user": "Julian",
       "label": "house",
       "point": [
-        150,
-        203
+        0.1416579223504722,
+        0.43119266055045874
       ]
     },
     {
@@ -37720,8 +37720,8 @@ const features = {
       "user": "Julian",
       "label": "tree",
       "point": [
-        124,
-        191
+        0.11437565582371459,
+        0.4036697247706422
       ]
     },
     {
@@ -37730,8 +37730,8 @@ const features = {
       "user": "Julian",
       "label": "bicycle",
       "point": [
-        204,
-        127
+        0.19832109129066108,
+        0.25688073394495414
       ]
     },
     {
@@ -37740,8 +37740,8 @@ const features = {
       "user": "Julian",
       "label": "guitar",
       "point": [
-        257,
-        189
+        0.2539349422875131,
+        0.39908256880733944
       ]
     },
     {
@@ -37750,8 +37750,8 @@ const features = {
       "user": "Julian",
       "label": "pencil",
       "point": [
-        39,
-        188
+        0.025183630640083946,
+        0.3967889908256881
       ]
     },
     {
@@ -37760,8 +37760,8 @@ const features = {
       "user": "Julian",
       "label": "clock",
       "point": [
-        327,
-        371
+        0.3273871983210913,
+        0.8165137614678899
       ]
     },
     {
@@ -37770,8 +37770,8 @@ const features = {
       "user": "md83",
       "label": "car",
       "point": [
-        235,
-        91
+        0.23084994753410285,
+        0.1743119266055046
       ]
     },
     {
@@ -37780,8 +37780,8 @@ const features = {
       "user": "md83",
       "label": "fish",
       "point": [
-        217,
-        82
+        0.21196222455403987,
+        0.1536697247706422
       ]
     },
     {
@@ -37790,8 +37790,8 @@ const features = {
       "user": "md83",
       "label": "house",
       "point": [
-        280,
-        193
+        0.2780692549842602,
+        0.40825688073394495
       ]
     },
     {
@@ -37800,8 +37800,8 @@ const features = {
       "user": "md83",
       "label": "tree",
       "point": [
-        353,
-        339
+        0.3546694648478489,
+        0.7431192660550459
       ]
     },
     {
@@ -37810,8 +37810,8 @@ const features = {
       "user": "md83",
       "label": "bicycle",
       "point": [
-        305,
-        177
+        0.304302203567681,
+        0.37155963302752293
       ]
     },
     {
@@ -37820,8 +37820,8 @@ const features = {
       "user": "md83",
       "label": "guitar",
       "point": [
-        380,
-        111
+        0.3830010493179433,
+        0.22018348623853212
       ]
     },
     {
@@ -37830,8 +37830,8 @@ const features = {
       "user": "md83",
       "label": "pencil",
       "point": [
-        36,
-        301
+        0.022035676810073453,
+        0.6559633027522935
       ]
     },
     {
@@ -37840,8 +37840,8 @@ const features = {
       "user": "md83",
       "label": "clock",
       "point": [
-        297,
-        258
+        0.29590766002098634,
+        0.5573394495412844
       ]
     },
     {
@@ -37850,8 +37850,8 @@ const features = {
       "user": "Gregory",
       "label": "car",
       "point": [
-        296,
-        115
+        0.29485834207764955,
+        0.22935779816513763
       ]
     },
     {
@@ -37860,8 +37860,8 @@ const features = {
       "user": "Gregory",
       "label": "fish",
       "point": [
-        205,
-        101
+        0.1993704092339979,
+        0.19724770642201836
       ]
     },
     {
@@ -37870,8 +37870,8 @@ const features = {
       "user": "Gregory",
       "label": "house",
       "point": [
-        259,
-        281
+        0.25603357817418676,
+        0.6100917431192661
       ]
     },
     {
@@ -37880,8 +37880,8 @@ const features = {
       "user": "Gregory",
       "label": "tree",
       "point": [
-        120,
-        308
+        0.11017838405036726,
+        0.6720183486238532
       ]
     },
     {
@@ -37890,8 +37890,8 @@ const features = {
       "user": "Gregory",
       "label": "bicycle",
       "point": [
-        117,
-        88
+        0.10703043022035677,
+        0.16743119266055045
       ]
     },
     {
@@ -37900,8 +37900,8 @@ const features = {
       "user": "Gregory",
       "label": "guitar",
       "point": [
-        101,
-        250
+        0.09024134312696747,
+        0.5389908256880734
       ]
     },
     {
@@ -37910,8 +37910,8 @@ const features = {
       "user": "Gregory",
       "label": "pencil",
       "point": [
-        24,
-        137
+        0.00944386149003148,
+        0.2798165137614679
       ]
     },
     {
@@ -37920,8 +37920,8 @@ const features = {
       "user": "Gregory",
       "label": "clock",
       "point": [
-        189,
-        225
+        0.1825813221406086,
+        0.481651376146789
       ]
     },
     {
@@ -37930,8 +37930,8 @@ const features = {
       "user": "kld",
       "label": "car",
       "point": [
-        284,
-        130
+        0.28226652675760755,
+        0.26376146788990823
       ]
     },
     {
@@ -37940,8 +37940,8 @@ const features = {
       "user": "kld",
       "label": "fish",
       "point": [
-        219,
-        98
+        0.21406086044071354,
+        0.19036697247706422
       ]
     },
     {
@@ -37950,8 +37950,8 @@ const features = {
       "user": "kld",
       "label": "house",
       "point": [
-        202,
-        252
+        0.19622245540398742,
+        0.5435779816513762
       ]
     },
     {
@@ -37960,8 +37960,8 @@ const features = {
       "user": "kld",
       "label": "tree",
       "point": [
-        229,
-        285
+        0.22455403987408185,
+        0.6192660550458715
       ]
     },
     {
@@ -37970,8 +37970,8 @@ const features = {
       "user": "kld",
       "label": "bicycle",
       "point": [
-        280,
-        209
+        0.2780692549842602,
+        0.44495412844036697
       ]
     },
     {
@@ -37980,8 +37980,8 @@ const features = {
       "user": "kld",
       "label": "guitar",
       "point": [
-        358,
-        140
+        0.35991605456453307,
+        0.286697247706422
       ]
     },
     {
@@ -37990,8 +37990,8 @@ const features = {
       "user": "kld",
       "label": "pencil",
       "point": [
-        27,
-        273
+        0.012591815320041973,
+        0.591743119266055
       ]
     },
     {
@@ -38000,8 +38000,8 @@ const features = {
       "user": "kld",
       "label": "clock",
       "point": [
-        243,
-        230
+        0.23924449108079748,
+        0.49311926605504586
       ]
     },
     {
@@ -38010,8 +38010,8 @@ const features = {
       "user": "amir",
       "label": "car",
       "point": [
-        243,
-        167
+        0.23924449108079748,
+        0.3486238532110092
       ]
     },
     {
@@ -38020,8 +38020,8 @@ const features = {
       "user": "amir",
       "label": "fish",
       "point": [
-        229,
-        129
+        0.22455403987408185,
+        0.26146788990825687
       ]
     },
     {
@@ -38030,8 +38030,8 @@ const features = {
       "user": "amir",
       "label": "house",
       "point": [
-        96,
-        179
+        0.08499475341028331,
+        0.3761467889908257
       ]
     },
     {
@@ -38040,8 +38040,8 @@ const features = {
       "user": "amir",
       "label": "tree",
       "point": [
-        170,
-        245
+        0.1626442812172088,
+        0.5275229357798165
       ]
     },
     {
@@ -38050,8 +38050,8 @@ const features = {
       "user": "amir",
       "label": "bicycle",
       "point": [
-        250,
-        144
+        0.2465897166841553,
+        0.2958715596330275
       ]
     },
     {
@@ -38060,8 +38060,8 @@ const features = {
       "user": "amir",
       "label": "guitar",
       "point": [
-        148,
-        304
+        0.13955928646379853,
+        0.6628440366972477
       ]
     },
     {
@@ -38070,8 +38070,8 @@ const features = {
       "user": "amir",
       "label": "pencil",
       "point": [
-        36,
-        273
+        0.022035676810073453,
+        0.591743119266055
       ]
     },
     {
@@ -38080,8 +38080,8 @@ const features = {
       "user": "amir",
       "label": "clock",
       "point": [
-        295,
-        278
+        0.2938090241343127,
+        0.6032110091743119
       ]
     },
     {
@@ -38090,8 +38090,8 @@ const features = {
       "user": "Ankit Sana",
       "label": "car",
       "point": [
-        311,
-        139
+        0.310598111227702,
+        0.28440366972477066
       ]
     },
     {
@@ -38100,8 +38100,8 @@ const features = {
       "user": "Ankit Sana",
       "label": "fish",
       "point": [
-        210,
-        141
+        0.20461699895068206,
+        0.2889908256880734
       ]
     },
     {
@@ -38110,8 +38110,8 @@ const features = {
       "user": "Ankit Sana",
       "label": "house",
       "point": [
-        122,
-        147
+        0.11227701993704092,
+        0.30275229357798167
       ]
     },
     {
@@ -38120,8 +38120,8 @@ const features = {
       "user": "Ankit Sana",
       "label": "tree",
       "point": [
-        398,
-        305
+        0.4018887722980063,
+        0.6651376146788991
       ]
     },
     {
@@ -38130,8 +38130,8 @@ const features = {
       "user": "Ankit Sana",
       "label": "bicycle",
       "point": [
-        218,
-        127
+        0.2130115424973767,
+        0.25688073394495414
       ]
     },
     {
@@ -38140,8 +38140,8 @@ const features = {
       "user": "Ankit Sana",
       "label": "guitar",
       "point": [
-        151,
-        215
+        0.14270724029380902,
+        0.45871559633027525
       ]
     },
     {
@@ -38150,8 +38150,8 @@ const features = {
       "user": "Ankit Sana",
       "label": "pencil",
       "point": [
-        174,
-        207
+        0.16684155299055614,
+        0.44036697247706424
       ]
     },
     {
@@ -38160,8 +38160,8 @@ const features = {
       "user": "Ankit Sana",
       "label": "clock",
       "point": [
-        204,
-        195
+        0.19832109129066108,
+        0.41284403669724773
       ]
     },
     {
@@ -38170,8 +38170,8 @@ const features = {
       "user": "Han",
       "label": "car",
       "point": [
-        76,
-        117
+        0.06400839454354669,
+        0.23394495412844038
       ]
     },
     {
@@ -38180,8 +38180,8 @@ const features = {
       "user": "Han",
       "label": "fish",
       "point": [
-        166,
-        139
+        0.1584470094438615,
+        0.28440366972477066
       ]
     },
     {
@@ -38190,8 +38190,8 @@ const features = {
       "user": "Han",
       "label": "house",
       "point": [
-        185,
-        335
+        0.1783840503672613,
+        0.7339449541284404
       ]
     },
     {
@@ -38200,8 +38200,8 @@ const features = {
       "user": "Han",
       "label": "tree",
       "point": [
-        331,
-        334
+        0.3315844700944386,
+        0.731651376146789
       ]
     },
     {
@@ -38210,8 +38210,8 @@ const features = {
       "user": "Han",
       "label": "bicycle",
       "point": [
-        147,
-        212
+        0.1385099685204617,
+        0.4518348623853211
       ]
     },
     {
@@ -38220,8 +38220,8 @@ const features = {
       "user": "Han",
       "label": "guitar",
       "point": [
-        124,
-        286
+        0.11437565582371459,
+        0.6215596330275229
       ]
     },
     {
@@ -38230,8 +38230,8 @@ const features = {
       "user": "Han",
       "label": "pencil",
       "point": [
-        198,
-        342
+        0.19202518363064008,
+        0.75
       ]
     },
     {
@@ -38240,8 +38240,8 @@ const features = {
       "user": "Han",
       "label": "clock",
       "point": [
-        222,
-        251
+        0.21720881427072403,
+        0.5412844036697247
       ]
     },
     {
@@ -38250,8 +38250,8 @@ const features = {
       "user": "Vicky",
       "label": "car",
       "point": [
-        344,
-        137
+        0.34522560335781743,
+        0.2798165137614679
       ]
     },
     {
@@ -38260,8 +38260,8 @@ const features = {
       "user": "Vicky",
       "label": "fish",
       "point": [
-        279,
-        149
+        0.2770199370409234,
+        0.3073394495412844
       ]
     },
     {
@@ -38270,8 +38270,8 @@ const features = {
       "user": "Vicky",
       "label": "house",
       "point": [
-        258,
-        212
+        0.25498426023084997,
+        0.4518348623853211
       ]
     },
     {
@@ -38280,8 +38280,8 @@ const features = {
       "user": "Vicky",
       "label": "tree",
       "point": [
-        281,
-        289
+        0.27911857292759706,
+        0.6284403669724771
       ]
     },
     {
@@ -38290,8 +38290,8 @@ const features = {
       "user": "Vicky",
       "label": "bicycle",
       "point": [
-        226,
-        139
+        0.22140608604407136,
+        0.28440366972477066
       ]
     },
     {
@@ -38300,8 +38300,8 @@ const features = {
       "user": "Vicky",
       "label": "guitar",
       "point": [
-        299,
-        266
+        0.29800629590766003,
+        0.5756880733944955
       ]
     },
     {
@@ -38310,8 +38310,8 @@ const features = {
       "user": "Vicky",
       "label": "pencil",
       "point": [
-        274,
-        197
+        0.27177334732423925,
+        0.41743119266055045
       ]
     },
     {
@@ -38320,8 +38320,8 @@ const features = {
       "user": "Vicky",
       "label": "clock",
       "point": [
-        343,
-        342
+        0.3441762854144806,
+        0.75
       ]
     },
     {
@@ -38330,8 +38330,8 @@ const features = {
       "user": "Domagoj",
       "label": "car",
       "point": [
-        309,
-        103
+        0.30849947534102834,
+        0.2018348623853211
       ]
     },
     {
@@ -38340,8 +38340,8 @@ const features = {
       "user": "Domagoj",
       "label": "fish",
       "point": [
-        304,
-        103
+        0.30325288562434416,
+        0.2018348623853211
       ]
     },
     {
@@ -38350,8 +38350,8 @@ const features = {
       "user": "Domagoj",
       "label": "house",
       "point": [
-        150,
-        196
+        0.1416579223504722,
+        0.4151376146788991
       ]
     },
     {
@@ -38360,8 +38360,8 @@ const features = {
       "user": "Domagoj",
       "label": "tree",
       "point": [
-        284,
-        343
+        0.28226652675760755,
+        0.7522935779816514
       ]
     },
     {
@@ -38370,8 +38370,8 @@ const features = {
       "user": "Domagoj",
       "label": "bicycle",
       "point": [
-        318,
-        260
+        0.3179433368310598,
+        0.5619266055045872
       ]
     },
     {
@@ -38380,8 +38380,8 @@ const features = {
       "user": "Domagoj",
       "label": "guitar",
       "point": [
-        296,
-        236
+        0.29485834207764955,
+        0.5068807339449541
       ]
     },
     {
@@ -38390,8 +38390,8 @@ const features = {
       "user": "Domagoj",
       "label": "pencil",
       "point": [
-        95,
-        280
+        0.08394543546694648,
+        0.6077981651376146
       ]
     },
     {
@@ -38400,8 +38400,8 @@ const features = {
       "user": "Domagoj",
       "label": "clock",
       "point": [
-        198,
-        183
+        0.19202518363064008,
+        0.3853211009174312
       ]
     },
     {
@@ -38410,8 +38410,8 @@ const features = {
       "user": "Ayush Kumar (Admires Radu a lot)",
       "label": "car",
       "point": [
-        232,
-        101
+        0.22770199370409233,
+        0.19724770642201836
       ]
     },
     {
@@ -38420,8 +38420,8 @@ const features = {
       "user": "Ayush Kumar (Admires Radu a lot)",
       "label": "fish",
       "point": [
-        282,
-        199
+        0.2801678908709339,
+        0.42201834862385323
       ]
     },
     {
@@ -38430,8 +38430,8 @@ const features = {
       "user": "Ayush Kumar (Admires Radu a lot)",
       "label": "house",
       "point": [
-        203,
-        215
+        0.19727177334732424,
+        0.45871559633027525
       ]
     },
     {
@@ -38440,8 +38440,8 @@ const features = {
       "user": "Ayush Kumar (Admires Radu a lot)",
       "label": "tree",
       "point": [
-        253,
-        258
+        0.2497376705141658,
+        0.5573394495412844
       ]
     },
     {
@@ -38450,8 +38450,8 @@ const features = {
       "user": "Ayush Kumar (Admires Radu a lot)",
       "label": "bicycle",
       "point": [
-        278,
-        232
+        0.2759706190975866,
+        0.49770642201834864
       ]
     },
     {
@@ -38460,8 +38460,8 @@ const features = {
       "user": "Ayush Kumar (Admires Radu a lot)",
       "label": "guitar",
       "point": [
-        219,
-        340
+        0.21406086044071354,
+        0.7454128440366973
       ]
     },
     {
@@ -38470,8 +38470,8 @@ const features = {
       "user": "Ayush Kumar (Admires Radu a lot)",
       "label": "pencil",
       "point": [
-        196,
-        255
+        0.18992654774396642,
+        0.5504587155963303
       ]
     },
     {
@@ -38480,8 +38480,8 @@ const features = {
       "user": "Ayush Kumar (Admires Radu a lot)",
       "label": "clock",
       "point": [
-        198,
-        196
+        0.19202518363064008,
+        0.4151376146788991
       ]
     },
     {
@@ -38490,8 +38490,8 @@ const features = {
       "user": "yosia",
       "label": "car",
       "point": [
-        341,
-        167
+        0.34207764952780695,
+        0.3486238532110092
       ]
     },
     {
@@ -38500,8 +38500,8 @@ const features = {
       "user": "yosia",
       "label": "fish",
       "point": [
-        312,
-        123
+        0.3116474291710388,
+        0.24770642201834864
       ]
     },
     {
@@ -38510,8 +38510,8 @@ const features = {
       "user": "yosia",
       "label": "house",
       "point": [
-        154,
-        269
+        0.1458551941238195,
+        0.5825688073394495
       ]
     },
     {
@@ -38520,8 +38520,8 @@ const features = {
       "user": "yosia",
       "label": "tree",
       "point": [
-        241,
-        332
+        0.23714585519412382,
+        0.7270642201834863
       ]
     },
     {
@@ -38530,8 +38530,8 @@ const features = {
       "user": "yosia",
       "label": "bicycle",
       "point": [
-        352,
-        236
+        0.35362014690451204,
+        0.5068807339449541
       ]
     },
     {
@@ -38540,8 +38540,8 @@ const features = {
       "user": "yosia",
       "label": "guitar",
       "point": [
-        376,
-        146
+        0.378803777544596,
+        0.30045871559633025
       ]
     },
     {
@@ -38550,8 +38550,8 @@ const features = {
       "user": "yosia",
       "label": "pencil",
       "point": [
-        174,
-        139
+        0.16684155299055614,
+        0.28440366972477066
       ]
     },
     {
@@ -38560,8 +38560,8 @@ const features = {
       "user": "yosia",
       "label": "clock",
       "point": [
-        195,
-        173
+        0.1888772298006296,
+        0.3623853211009174
       ]
     },
     {
@@ -38570,8 +38570,8 @@ const features = {
       "user": "Mike Torreno",
       "label": "car",
       "point": [
-        381,
-        180
+        0.38405036726128017,
+        0.37844036697247707
       ]
     },
     {
@@ -38580,8 +38580,8 @@ const features = {
       "user": "Mike Torreno",
       "label": "fish",
       "point": [
-        365,
-        248
+        0.3672612801678909,
+        0.5344036697247706
       ]
     },
     {
@@ -38590,8 +38590,8 @@ const features = {
       "user": "Mike Torreno",
       "label": "house",
       "point": [
-        399,
-        388
+        0.40293809024134314,
+        0.8555045871559633
       ]
     },
     {
@@ -38600,8 +38600,8 @@ const features = {
       "user": "Mike Torreno",
       "label": "tree",
       "point": [
-        398,
-        357
+        0.4018887722980063,
+        0.7844036697247706
       ]
     },
     {
@@ -38610,8 +38610,8 @@ const features = {
       "user": "Mike Torreno",
       "label": "bicycle",
       "point": [
-        341,
-        192
+        0.34207764952780695,
+        0.4059633027522936
       ]
     },
     {
@@ -38620,8 +38620,8 @@ const features = {
       "user": "Mike Torreno",
       "label": "guitar",
       "point": [
-        398,
-        196
+        0.4018887722980063,
+        0.4151376146788991
       ]
     },
     {
@@ -38630,8 +38630,8 @@ const features = {
       "user": "Mike Torreno",
       "label": "pencil",
       "point": [
-        384,
-        43
+        0.38719832109129065,
+        0.06422018348623854
       ]
     },
     {
@@ -38640,8 +38640,8 @@ const features = {
       "user": "Mike Torreno",
       "label": "clock",
       "point": [
-        301,
-        268
+        0.3001049317943337,
+        0.5802752293577982
       ]
     },
     {
@@ -38650,8 +38650,8 @@ const features = {
       "user": "henrmota",
       "label": "car",
       "point": [
-        367,
-        155
+        0.36935991605456453,
+        0.3211009174311927
       ]
     },
     {
@@ -38660,8 +38660,8 @@ const features = {
       "user": "henrmota",
       "label": "fish",
       "point": [
-        277,
-        185
+        0.27492130115424973,
+        0.38990825688073394
       ]
     },
     {
@@ -38670,8 +38670,8 @@ const features = {
       "user": "henrmota",
       "label": "house",
       "point": [
-        128,
-        260
+        0.11857292759706191,
+        0.5619266055045872
       ]
     },
     {
@@ -38680,8 +38680,8 @@ const features = {
       "user": "henrmota",
       "label": "tree",
       "point": [
-        126,
-        153
+        0.11647429171038824,
+        0.3165137614678899
       ]
     },
     {
@@ -38690,8 +38690,8 @@ const features = {
       "user": "henrmota",
       "label": "bicycle",
       "point": [
-        262,
-        176
+        0.25918153200419725,
+        0.36926605504587157
       ]
     },
     {
@@ -38700,8 +38700,8 @@ const features = {
       "user": "henrmota",
       "label": "guitar",
       "point": [
-        305,
-        107
+        0.304302203567681,
+        0.21100917431192662
       ]
     },
     {
@@ -38710,8 +38710,8 @@ const features = {
       "user": "henrmota",
       "label": "pencil",
       "point": [
-        235,
-        37
+        0.23084994753410285,
+        0.05045871559633028
       ]
     },
     {
@@ -38720,8 +38720,8 @@ const features = {
       "user": "henrmota",
       "label": "clock",
       "point": [
-        156,
-        165
+        0.14795383001049317,
+        0.3440366972477064
       ]
     },
     {
@@ -38730,8 +38730,8 @@ const features = {
       "user": "Ali",
       "label": "car",
       "point": [
-        174,
-        108
+        0.16684155299055614,
+        0.21330275229357798
       ]
     },
     {
@@ -38740,8 +38740,8 @@ const features = {
       "user": "Ali",
       "label": "fish",
       "point": [
-        147,
-        91
+        0.1385099685204617,
+        0.1743119266055046
       ]
     },
     {
@@ -38750,8 +38750,8 @@ const features = {
       "user": "Ali",
       "label": "house",
       "point": [
-        165,
-        172
+        0.15739769150052466,
+        0.36009174311926606
       ]
     },
     {
@@ -38760,8 +38760,8 @@ const features = {
       "user": "Ali",
       "label": "tree",
       "point": [
-        183,
-        206
+        0.17628541448058763,
+        0.4380733944954128
       ]
     },
     {
@@ -38770,8 +38770,8 @@ const features = {
       "user": "Ali",
       "label": "bicycle",
       "point": [
-        185,
-        125
+        0.1783840503672613,
+        0.25229357798165136
       ]
     },
     {
@@ -38780,8 +38780,8 @@ const features = {
       "user": "Ali",
       "label": "guitar",
       "point": [
-        302,
-        137
+        0.3011542497376705,
+        0.2798165137614679
       ]
     },
     {
@@ -38790,8 +38790,8 @@ const features = {
       "user": "Ali",
       "label": "pencil",
       "point": [
-        31,
-        136
+        0.016789087093389297,
+        0.2775229357798165
       ]
     },
     {
@@ -38800,8 +38800,8 @@ const features = {
       "user": "Ali",
       "label": "clock",
       "point": [
-        193,
-        237
+        0.18677859391395593,
+        0.5091743119266054
       ]
     },
     {
@@ -38810,8 +38810,8 @@ const features = {
       "user": "John M",
       "label": "car",
       "point": [
-        177,
-        59
+        0.16998950682056663,
+        0.10091743119266056
       ]
     },
     {
@@ -38820,8 +38820,8 @@ const features = {
       "user": "John M",
       "label": "fish",
       "point": [
-        172,
-        61
+        0.16474291710388247,
+        0.10550458715596331
       ]
     },
     {
@@ -38830,8 +38830,8 @@ const features = {
       "user": "John M",
       "label": "house",
       "point": [
-        195,
-        193
+        0.1888772298006296,
+        0.40825688073394495
       ]
     },
     {
@@ -38840,8 +38840,8 @@ const features = {
       "user": "John M",
       "label": "tree",
       "point": [
-        398,
-        342
+        0.4018887722980063,
+        0.75
       ]
     },
     {
@@ -38850,8 +38850,8 @@ const features = {
       "user": "John M",
       "label": "bicycle",
       "point": [
-        177,
-        143
+        0.16998950682056663,
+        0.29357798165137616
       ]
     },
     {
@@ -38860,8 +38860,8 @@ const features = {
       "user": "John M",
       "label": "guitar",
       "point": [
-        231,
-        78
+        0.2266526757607555,
+        0.1444954128440367
       ]
     },
     {
@@ -38870,8 +38870,8 @@ const features = {
       "user": "John M",
       "label": "pencil",
       "point": [
-        29,
-        153
+        0.014690451206715634,
+        0.3165137614678899
       ]
     },
     {
@@ -38880,8 +38880,8 @@ const features = {
       "user": "John M",
       "label": "clock",
       "point": [
-        168,
-        131
+        0.16054564533053514,
+        0.26605504587155965
       ]
     },
     {
@@ -38890,8 +38890,8 @@ const features = {
       "user": "Josh",
       "label": "car",
       "point": [
-        310,
-        167
+        0.3095487932843652,
+        0.3486238532110092
       ]
     },
     {
@@ -38900,8 +38900,8 @@ const features = {
       "user": "Josh",
       "label": "fish",
       "point": [
-        272,
-        93
+        0.2696747114375656,
+        0.17889908256880735
       ]
     },
     {
@@ -38910,8 +38910,8 @@ const features = {
       "user": "Josh",
       "label": "house",
       "point": [
-        223,
-        244
+        0.21825813221406087,
+        0.5252293577981652
       ]
     },
     {
@@ -38920,8 +38920,8 @@ const features = {
       "user": "Josh",
       "label": "tree",
       "point": [
-        296,
-        352
+        0.29485834207764955,
+        0.7729357798165137
       ]
     },
     {
@@ -38930,8 +38930,8 @@ const features = {
       "user": "Josh",
       "label": "bicycle",
       "point": [
-        241,
-        140
+        0.23714585519412382,
+        0.286697247706422
       ]
     },
     {
@@ -38940,8 +38940,8 @@ const features = {
       "user": "Josh",
       "label": "guitar",
       "point": [
-        208,
-        266
+        0.2025183630640084,
+        0.5756880733944955
       ]
     },
     {
@@ -38950,8 +38950,8 @@ const features = {
       "user": "Josh",
       "label": "pencil",
       "point": [
-        302,
-        171
+        0.3011542497376705,
+        0.3577981651376147
       ]
     },
     {
@@ -38960,8 +38960,8 @@ const features = {
       "user": "Josh",
       "label": "clock",
       "point": [
-        168,
-        151
+        0.16054564533053514,
+        0.3119266055045872
       ]
     },
     {
@@ -38970,8 +38970,8 @@ const features = {
       "user": "zeay",
       "label": "car",
       "point": [
-        261,
-        133
+        0.25813221406086045,
+        0.2706422018348624
       ]
     },
     {
@@ -38980,8 +38980,8 @@ const features = {
       "user": "zeay",
       "label": "fish",
       "point": [
-        184,
-        154
+        0.17733473242392445,
+        0.31880733944954126
       ]
     },
     {
@@ -38990,8 +38990,8 @@ const features = {
       "user": "zeay",
       "label": "house",
       "point": [
-        269,
-        150
+        0.26652675760755506,
+        0.30963302752293576
       ]
     },
     {
@@ -39000,8 +39000,8 @@ const features = {
       "user": "zeay",
       "label": "tree",
       "point": [
-        200,
-        235
+        0.19412381951731375,
+        0.5045871559633027
       ]
     },
     {
@@ -39010,8 +39010,8 @@ const features = {
       "user": "zeay",
       "label": "bicycle",
       "point": [
-        266,
-        216
+        0.2633788037775446,
+        0.4610091743119266
       ]
     },
     {
@@ -39020,8 +39020,8 @@ const features = {
       "user": "zeay",
       "label": "guitar",
       "point": [
-        224,
-        330
+        0.2193074501573977,
+        0.7224770642201835
       ]
     },
     {
@@ -39030,8 +39030,8 @@ const features = {
       "user": "zeay",
       "label": "pencil",
       "point": [
-        99,
-        230
+        0.08814270724029381,
+        0.49311926605504586
       ]
     },
     {
@@ -39040,8 +39040,8 @@ const features = {
       "user": "zeay",
       "label": "clock",
       "point": [
-        188,
-        191
+        0.18153200419727178,
+        0.4036697247706422
       ]
     },
     {
@@ -39050,8 +39050,8 @@ const features = {
       "user": "Vale",
       "label": "car",
       "point": [
-        240,
-        116
+        0.236096537250787,
+        0.231651376146789
       ]
     },
     {
@@ -39060,8 +39060,8 @@ const features = {
       "user": "Vale",
       "label": "fish",
       "point": [
-        324,
-        154
+        0.3242392444910808,
+        0.31880733944954126
       ]
     },
     {
@@ -39070,8 +39070,8 @@ const features = {
       "user": "Vale",
       "label": "house",
       "point": [
-        345,
-        259
+        0.3462749213011542,
+        0.5596330275229358
       ]
     },
     {
@@ -39080,8 +39080,8 @@ const features = {
       "user": "Vale",
       "label": "tree",
       "point": [
-        192,
-        351
+        0.18572927597061908,
+        0.7706422018348624
       ]
     },
     {
@@ -39090,8 +39090,8 @@ const features = {
       "user": "Vale",
       "label": "bicycle",
       "point": [
-        289,
-        169
+        0.28751311647429173,
+        0.3532110091743119
       ]
     },
     {
@@ -39100,8 +39100,8 @@ const features = {
       "user": "Vale",
       "label": "guitar",
       "point": [
-        317,
-        349
+        0.316894018887723,
+        0.7660550458715596
       ]
     },
     {
@@ -39110,8 +39110,8 @@ const features = {
       "user": "Vale",
       "label": "pencil",
       "point": [
-        174,
-        183
+        0.16684155299055614,
+        0.3853211009174312
       ]
     },
     {
@@ -39120,8 +39120,8 @@ const features = {
       "user": "Vale",
       "label": "clock",
       "point": [
-        91,
-        285
+        0.07974816369359916,
+        0.6192660550458715
       ]
     },
     {
@@ -39130,8 +39130,8 @@ const features = {
       "user": "ghotncey",
       "label": "car",
       "point": [
-        234,
-        244
+        0.229800629590766,
+        0.5252293577981652
       ]
     },
     {
@@ -39140,8 +39140,8 @@ const features = {
       "user": "ghotncey",
       "label": "fish",
       "point": [
-        313,
-        175
+        0.3126967471143757,
+        0.3669724770642202
       ]
     },
     {
@@ -39150,8 +39150,8 @@ const features = {
       "user": "ghotncey",
       "label": "house",
       "point": [
-        317,
-        239
+        0.316894018887723,
+        0.5137614678899083
       ]
     },
     {
@@ -39160,8 +39160,8 @@ const features = {
       "user": "ghotncey",
       "label": "tree",
       "point": [
-        213,
-        310
+        0.20776495278069254,
+        0.676605504587156
       ]
     },
     {
@@ -39170,8 +39170,8 @@ const features = {
       "user": "ghotncey",
       "label": "bicycle",
       "point": [
-        273,
-        171
+        0.2707240293809024,
+        0.3577981651376147
       ]
     },
     {
@@ -39180,8 +39180,8 @@ const features = {
       "user": "ghotncey",
       "label": "guitar",
       "point": [
-        333,
-        210
+        0.3336831059811123,
+        0.44724770642201833
       ]
     },
     {
@@ -39190,8 +39190,8 @@ const features = {
       "user": "ghotncey",
       "label": "pencil",
       "point": [
-        187,
-        306
+        0.18048268625393493,
+        0.6674311926605505
       ]
     },
     {
@@ -39200,8 +39200,8 @@ const features = {
       "user": "ghotncey",
       "label": "clock",
       "point": [
-        227,
-        253
+        0.22245540398740818,
+        0.5458715596330275
       ]
     },
     {
@@ -39210,8 +39210,8 @@ const features = {
       "user": "henry",
       "label": "car",
       "point": [
-        257,
-        78
+        0.2539349422875131,
+        0.1444954128440367
       ]
     },
     {
@@ -39220,8 +39220,8 @@ const features = {
       "user": "henry",
       "label": "fish",
       "point": [
-        265,
-        193
+        0.2623294858342078,
+        0.40825688073394495
       ]
     },
     {
@@ -39230,8 +39230,8 @@ const features = {
       "user": "henry",
       "label": "house",
       "point": [
-        252,
-        277
+        0.24868835257082897,
+        0.6009174311926605
       ]
     },
     {
@@ -39240,8 +39240,8 @@ const features = {
       "user": "henry",
       "label": "tree",
       "point": [
-        315,
-        351
+        0.3147953830010493,
+        0.7706422018348624
       ]
     },
     {
@@ -39250,8 +39250,8 @@ const features = {
       "user": "henry",
       "label": "bicycle",
       "point": [
-        331,
-        183
+        0.3315844700944386,
+        0.3853211009174312
       ]
     },
     {
@@ -39260,8 +39260,8 @@ const features = {
       "user": "henry",
       "label": "guitar",
       "point": [
-        262,
-        236
+        0.25918153200419725,
+        0.5068807339449541
       ]
     },
     {
@@ -39270,8 +39270,8 @@ const features = {
       "user": "henry",
       "label": "pencil",
       "point": [
-        156,
-        302
+        0.14795383001049317,
+        0.658256880733945
       ]
     },
     {
@@ -39280,8 +39280,8 @@ const features = {
       "user": "henry",
       "label": "clock",
       "point": [
-        248,
-        234
+        0.24449108079748164,
+        0.5022935779816514
       ]
     },
     {
@@ -39290,8 +39290,8 @@ const features = {
       "user": "Njugush",
       "label": "car",
       "point": [
-        253,
-        120
+        0.2497376705141658,
+        0.2408256880733945
       ]
     },
     {
@@ -39300,8 +39300,8 @@ const features = {
       "user": "Njugush",
       "label": "fish",
       "point": [
-        258,
-        112
+        0.25498426023084997,
+        0.22247706422018348
       ]
     },
     {
@@ -39310,8 +39310,8 @@ const features = {
       "user": "Njugush",
       "label": "house",
       "point": [
-        247,
-        235
+        0.24344176285414482,
+        0.5045871559633027
       ]
     },
     {
@@ -39320,8 +39320,8 @@ const features = {
       "user": "Njugush",
       "label": "tree",
       "point": [
-        204,
-        226
+        0.19832109129066108,
+        0.48394495412844035
       ]
     },
     {
@@ -39330,8 +39330,8 @@ const features = {
       "user": "Njugush",
       "label": "bicycle",
       "point": [
-        270,
-        172
+        0.2675760755508919,
+        0.36009174311926606
       ]
     },
     {
@@ -39340,8 +39340,8 @@ const features = {
       "user": "Njugush",
       "label": "guitar",
       "point": [
-        350,
-        257
+        0.3515215110178384,
+        0.555045871559633
       ]
     },
     {
@@ -39350,8 +39350,8 @@ const features = {
       "user": "Njugush",
       "label": "pencil",
       "point": [
-        142,
-        97
+        0.13326337880377753,
+        0.18807339449541285
       ]
     },
     {
@@ -39360,8 +39360,8 @@ const features = {
       "user": "Njugush",
       "label": "clock",
       "point": [
-        176,
-        165
+        0.1689401888772298,
+        0.3440366972477064
       ]
     },
     {
@@ -39370,8 +39370,8 @@ const features = {
       "user": "Anand",
       "label": "car",
       "point": [
-        351,
-        162
+        0.35257082896117525,
+        0.33715596330275227
       ]
     },
     {
@@ -39380,8 +39380,8 @@ const features = {
       "user": "Anand",
       "label": "fish",
       "point": [
-        281,
-        72
+        0.27911857292759706,
+        0.13073394495412843
       ]
     },
     {
@@ -39390,8 +39390,8 @@ const features = {
       "user": "Anand",
       "label": "house",
       "point": [
-        232,
-        292
+        0.22770199370409233,
+        0.6353211009174312
       ]
     },
     {
@@ -39400,8 +39400,8 @@ const features = {
       "user": "Anand",
       "label": "tree",
       "point": [
-        293,
-        359
+        0.291710388247639,
+        0.7889908256880734
       ]
     },
     {
@@ -39410,8 +39410,8 @@ const features = {
       "user": "Anand",
       "label": "bicycle",
       "point": [
-        358,
-        241
+        0.35991605456453307,
+        0.518348623853211
       ]
     },
     {
@@ -39420,8 +39420,8 @@ const features = {
       "user": "Anand",
       "label": "guitar",
       "point": [
-        356,
-        177
+        0.3578174186778594,
+        0.37155963302752293
       ]
     },
     {
@@ -39430,8 +39430,8 @@ const features = {
       "user": "Anand",
       "label": "pencil",
       "point": [
-        324,
-        223
+        0.3242392444910808,
+        0.47706422018348627
       ]
     },
     {
@@ -39440,8 +39440,8 @@ const features = {
       "user": "Anand",
       "label": "clock",
       "point": [
-        220,
-        200
+        0.21511017838405036,
+        0.4243119266055046
       ]
     },
     {
@@ -39450,8 +39450,8 @@ const features = {
       "user": "Abhishek",
       "label": "car",
       "point": [
-        326,
-        141
+        0.32633788037775446,
+        0.2889908256880734
       ]
     },
     {
@@ -39460,8 +39460,8 @@ const features = {
       "user": "Abhishek",
       "label": "fish",
       "point": [
-        250,
-        275
+        0.2465897166841553,
+        0.5963302752293578
       ]
     },
     {
@@ -39470,8 +39470,8 @@ const features = {
       "user": "Abhishek",
       "label": "house",
       "point": [
-        246,
-        277
+        0.24239244491080797,
+        0.6009174311926605
       ]
     },
     {
@@ -39480,8 +39480,8 @@ const features = {
       "user": "Abhishek",
       "label": "tree",
       "point": [
-        298,
-        303
+        0.2969569779643232,
+        0.6605504587155964
       ]
     },
     {
@@ -39490,8 +39490,8 @@ const features = {
       "user": "Abhishek",
       "label": "bicycle",
       "point": [
-        289,
-        213
+        0.28751311647429173,
+        0.4541284403669725
       ]
     },
     {
@@ -39500,8 +39500,8 @@ const features = {
       "user": "Abhishek",
       "label": "guitar",
       "point": [
-        285,
-        288
+        0.2833158447009444,
+        0.6261467889908257
       ]
     },
     {
@@ -39510,8 +39510,8 @@ const features = {
       "user": "Abhishek",
       "label": "pencil",
       "point": [
-        199,
-        232
+        0.1930745015739769,
+        0.49770642201834864
       ]
     },
     {
@@ -39520,8 +39520,8 @@ const features = {
       "user": "Abhishek",
       "label": "clock",
       "point": [
-        172,
-        178
+        0.16474291710388247,
+        0.3738532110091743
       ]
     },
     {
@@ -39530,8 +39530,8 @@ const features = {
       "user": "Jonas Torres",
       "label": "car",
       "point": [
-        164,
-        67
+        0.15634837355718784,
+        0.11926605504587157
       ]
     },
     {
@@ -39540,8 +39540,8 @@ const features = {
       "user": "Jonas Torres",
       "label": "fish",
       "point": [
-        87,
-        47
+        0.07555089192025184,
+        0.07339449541284404
       ]
     },
     {
@@ -39550,8 +39550,8 @@ const features = {
       "user": "Jonas Torres",
       "label": "house",
       "point": [
-        126,
-        143
+        0.11647429171038824,
+        0.29357798165137616
       ]
     },
     {
@@ -39560,8 +39560,8 @@ const features = {
       "user": "Jonas Torres",
       "label": "tree",
       "point": [
-        153,
-        214
+        0.14480587618048268,
+        0.45642201834862384
       ]
     },
     {
@@ -39570,8 +39570,8 @@ const features = {
       "user": "Jonas Torres",
       "label": "bicycle",
       "point": [
-        145,
-        97
+        0.13641133263378805,
+        0.18807339449541285
       ]
     },
     {
@@ -39580,8 +39580,8 @@ const features = {
       "user": "Jonas Torres",
       "label": "guitar",
       "point": [
-        92,
-        189
+        0.080797481636936,
+        0.39908256880733944
       ]
     },
     {
@@ -39590,8 +39590,8 @@ const features = {
       "user": "Jonas Torres",
       "label": "pencil",
       "point": [
-        20,
-        118
+        0.005246589716684155,
+        0.23623853211009174
       ]
     },
     {
@@ -39600,8 +39600,8 @@ const features = {
       "user": "Jonas Torres",
       "label": "clock",
       "point": [
-        111,
-        123
+        0.10073452256033578,
+        0.24770642201834864
       ]
     },
     {
@@ -39610,8 +39610,8 @@ const features = {
       "user": "MiMs",
       "label": "car",
       "point": [
-        335,
-        134
+        0.3357817418677859,
+        0.27293577981651373
       ]
     },
     {
@@ -39620,8 +39620,8 @@ const features = {
       "user": "MiMs",
       "label": "fish",
       "point": [
-        248,
-        113
+        0.24449108079748164,
+        0.22477064220183487
       ]
     },
     {
@@ -39630,8 +39630,8 @@ const features = {
       "user": "MiMs",
       "label": "house",
       "point": [
-        171,
-        249
+        0.16369359916054566,
+        0.536697247706422
       ]
     },
     {
@@ -39640,8 +39640,8 @@ const features = {
       "user": "MiMs",
       "label": "tree",
       "point": [
-        229,
-        340
+        0.22455403987408185,
+        0.7454128440366973
       ]
     },
     {
@@ -39650,8 +39650,8 @@ const features = {
       "user": "MiMs",
       "label": "bicycle",
       "point": [
-        286,
-        225
+        0.28436516264428124,
+        0.481651376146789
       ]
     },
     {
@@ -39660,8 +39660,8 @@ const features = {
       "user": "MiMs",
       "label": "guitar",
       "point": [
-        342,
-        140
+        0.34312696747114374,
+        0.286697247706422
       ]
     },
     {
@@ -39670,8 +39670,8 @@ const features = {
       "user": "MiMs",
       "label": "pencil",
       "point": [
-        176,
-        25
+        0.1689401888772298,
+        0.022935779816513763
       ]
     },
     {
@@ -39680,8 +39680,8 @@ const features = {
       "user": "MiMs",
       "label": "clock",
       "point": [
-        177,
-        144
+        0.16998950682056663,
+        0.2958715596330275
       ]
     }
   ]

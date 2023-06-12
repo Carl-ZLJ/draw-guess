@@ -1,6 +1,7 @@
 const { log } = require('console')
 const constants = require('../common/constants')
 const featureFunctions = require('../common/features')
+const utils = require('../common/utils')
 const fs = require('fs')
 const path = require('path')
 
@@ -17,6 +18,10 @@ for (const sample of samples) {
     
     sample.point = featureFunctions.inUse.map(({ func }) => func(paths))
 }
+
+const minMax = utils.normalizePoints(
+    samples.map(s => s.point),
+)
 
 const featureNames = [
     'Width',
@@ -38,6 +43,14 @@ fs.writeFileSync(path.resolve(__dirname, constants.FEATURES_JS),
             featureNames,
             samples,
         },
+        null,
+        2
+    )}`
+)
+
+fs.writeFileSync(path.resolve(__dirname, constants.MIN_MAX_JS),
+    `const minMax = ${JSON.stringify(
+        minMax,
         null,
         2
     )}`

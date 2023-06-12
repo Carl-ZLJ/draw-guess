@@ -24,6 +24,7 @@
     <script src="../common/constants.js"></script>
     <script src="../common/draw.js"></script>
     <script src="../common/js_objects/features.js"></script>
+    <script src="../common/js_objects/minMax.js"></script>
     <script src="../common/features.js"></script>
     <script src="../chart/math.js"></script>
     <script src="../chart/graphics.js"></script>
@@ -59,6 +60,7 @@
           return
         }
         const f = featureFunctions.inUse.map(({ func }) => func(paths))
+        utils.normalizePoints([f], minMax)
         const { label, nearestSample } = classify(f)
         
         predictLabelContainer.innerHTML = `Is it a ${label}?`
