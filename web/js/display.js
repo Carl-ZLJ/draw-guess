@@ -54,3 +54,13 @@ function handleClick(sample, scroll = true) {
 
     chart.selectSample(sample)
 }
+
+function togglePad() {
+    if (inputContainer.style.display == 'none') {
+        inputContainer.style.display = 'block'
+        sketchPad.triggerUpdate()
+    } else {
+        inputContainer.style.display = 'none'
+        chart.hideDynamicPoint()
+    }
+}

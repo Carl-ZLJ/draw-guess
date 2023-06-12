@@ -2,7 +2,10 @@ body {
   background-color: skyblue;
   font-family: Arial, Helvetica, sans-serif;
   overscroll-behavior: none;
+  margin: 0;
 }
+
+
 
 #sketchPadContainer {
   width: 100vw;
@@ -89,3 +92,26 @@ button:disabled:hover {
   width: calc(100% - 500px);
 }
 
+#inputContainer {
+  position: fixed;
+  right: 500px;
+  top: 50%;
+  transform: translateY(-50%);
+  text-align: center;
+  margin: 10px;
+}
+
+#controlPanel {
+  position: fixed;
+  right: 0;
+  top: 0;
+  width: 500px;
+  text-align: center;
+  padding: 10px;
+}
+
+#predictLabelContainer {
+  position: relative;
+  color: white;
+  font-size: 30px;
+}

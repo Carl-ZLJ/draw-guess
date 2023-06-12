@@ -1,4 +1,4 @@
-draw = {}
+draw = Object.create(null)
 
 draw.path = (ctx, path, color = 'black') => {
     ctx.strokeStyle = color

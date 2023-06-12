@@ -38,6 +38,8 @@ class Chart {
         this.defaultDataBounds = this.#dataBounds()
         this.hoveredSample = null
         this.selectedSample = null
+        this.dynamicPoint = null
+        this.nearestSample = null
 
         this.#draw()
 
@@ -157,11 +159,14 @@ class Chart {
         const xMax = Math.max(...xValues)
         const yMin = Math.min(...yValues)
         const yMax = Math.max(...yValues)
+        // const deltaX = xMax - xMin
+        // const deltaY = yMax - yMin
+        // const maxDelta = Math.max(deltaX, deltaY)
         return {
-            top: yMax,
+            top: yMax,//yMin + maxDelta,
             bottom: yMin,
             left: xMin,
-            right: xMax,
+            right: xMax,//xMin + maxDelta,
         }
     }
 
@@ -179,6 +184,19 @@ class Chart {
         if (this.selectedSample) {
             this.#emphasizeSample(this.selectedSample, 'yellow')
         }
+
+        if (this.dynamicPoint) {
+            const { point, label } = this.dynamicPoint
+            const pixelLoc = math.remapPoint(
+                this.dataBounds,
+                this.pixelBounds,
+                point,
+            )
+            graphics.drawPoint(ctx, pixelLoc, 'rgba(0, 0, 0, 0.7)', 10000000)
+
+            graphics.drawImage(ctx, this.styles[label].image, pixelLoc)
+        }
+
         this.#drawAxes()
     }
 
@@ -297,5 +315,16 @@ class Chart {
                     )
             }
         }
+    }
+
+    showDynamicPoint(point, label, nearestSample) {
+        this.dynamicPoint = { point, label }
+        this.nearestSample = nearestSample
+        this.#draw()
+    }
+
+    hideDynamicPoint() {
+        this.dynamicPoint = null
+        this.#draw()
     }
 }

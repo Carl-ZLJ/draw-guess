@@ -33,6 +33,25 @@ utils.groupBy = function(objs, key) {
     return result
 }
 
+utils.distance = (a, b) => {
+    return Math.sqrt(
+        (b[1] - a[1]) ** 2 + (b[0] - a[0]) ** 2
+    )
+}
+
+utils.findNearest = (point, points) => {
+    let minDist = Infinity
+    let minIndex = -1
+    for (let i = 0; i < points.length; i++) {
+        const dist = utils.distance(point, points[i])
+        if (dist < minDist) {
+            minDist = dist
+            minIndex = i
+        }
+    }
+    return minIndex
+}
+
 if (typeof module !== 'undefined' && module.exports) {
     module.exports = utils
 }

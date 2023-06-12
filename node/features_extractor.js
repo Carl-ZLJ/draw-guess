@@ -1,6 +1,6 @@
 const { log } = require('console')
 const constants = require('../common/constants')
-const features = require('../common/features')
+const featureFunctions = require('../common/features')
 const fs = require('fs')
 const path = require('path')
 
@@ -14,15 +14,13 @@ for (const sample of samples) {
     const paths = JSON.parse(
         fs.readFileSync(path.resolve(__dirname, constants.JSON_DIR + '/' + sample.id + '.json'))
     )
-    sample.point = [
-        features.pathCount(paths),
-        features.pointsCount(paths),
-    ]
+    
+    sample.point = featureFunctions.inUse.map(({ func }) => func(paths))
 }
 
 const featureNames = [
-    'pathCount',
-    'pointsCount',
+    'Width',
+    'Height',
 ]
 
 fs.writeFileSync(path.resolve(__dirname, constants.FEATURES), JSON.stringify(
