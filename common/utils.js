@@ -39,17 +39,23 @@ utils.distance = (a, b) => {
     )
 }
 
-utils.findNearest = (point, points) => {
-    let minDist = Infinity
-    let minIndex = -1
-    for (let i = 0; i < points.length; i++) {
-        const dist = utils.distance(point, points[i])
-        if (dist < minDist) {
-            minDist = dist
-            minIndex = i
-        }
-    }
-    return minIndex
+utils.findNearest = (point, points, k = 1) => {
+    // let minDist = Infinity
+    // let minIndex = -1
+    // for (let i = 0; i < points.length; i++) {
+    //     const dist = utils.distance(point, points[i])
+    //     if (dist < minDist) {
+    //         minDist = dist
+    //         minIndex = i
+    //     }
+    // }
+    // return minIndex
+    const objs = points.map((p, index) => ({ p, index }))
+    const sorted = objs.sort((a, b) => {
+        return math.distance(point, a.p) - math.distance(point, b.p)
+    })
+    const indexs = sorted.map(obj => obj.index)
+    return indexs.slice(0, k)
 }
 
 utils.inverseLerp = (a, b, v) => {
@@ -84,6 +90,15 @@ utils.normalizePoints = (points, minMax) => {
         min,
         max,
     }
+}
+
+utils.findMostFrequent = (labels) => {
+    const count = {}
+    for (const label of labels) {
+       count[label] = (count[label] || 0) + 1
+    }
+    const max = Math.max(...Object.values(count))
+    return labels.find(label => count[label] === max)
 }
 
 if (typeof module !== 'undefined' && module.exports) {

@@ -7,6 +7,15 @@ graphics.drawPoint = (ctx, loc, color = 'black', size = 8) => {
     ctx.fill()
 }
 
+graphics.drawLine = (ctx, p1, p2, color = 'pink') => {
+    ctx.beginPath()
+    ctx.strokeStyle = color
+    ctx.lineWidth = 1
+    ctx.moveTo(...p1)
+    ctx.lineTo(...p2)
+    ctx.stroke()
+}
+
 graphics.drawText = (ctx, { text, loc, color = 'black', align = 'center', baseline = 'middle', size = 10 }) => {
     ctx.beginPath()
     ctx.fillStyle = color

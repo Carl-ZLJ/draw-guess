@@ -39,7 +39,7 @@ class Chart {
         this.hoveredSample = null
         this.selectedSample = null
         this.dynamicPoint = null
-        this.nearestSample = null
+        this.nearestSamples = null
 
         this.#draw()
 
@@ -193,9 +193,19 @@ class Chart {
                 point,
             )
             graphics.drawPoint(ctx, pixelLoc, 'rgba(0, 0, 0, 0.7)', 10000000)
-
+            if (this.nearestSamples) {
+                for (const sample of this.nearestSamples) {
+                    const pixelLocN = math.remapPoint(
+                        this.dataBounds,
+                        this.pixelBounds,
+                        sample.point,
+                    )
+                    graphics.drawLine(ctx, pixelLoc, pixelLocN)
+                }
+            }
             graphics.drawImage(ctx, this.styles[label].image, pixelLoc)
         }
+
 
         this.#drawAxes()
     }
@@ -317,9 +327,9 @@ class Chart {
         }
     }
 
-    showDynamicPoint(point, label, nearestSample) {
+    showDynamicPoint(point, label, nearestSamples) {
         this.dynamicPoint = { point, label }
-        this.nearestSample = nearestSample
+        this.nearestSamples = nearestSamples
         this.#draw()
     }
 

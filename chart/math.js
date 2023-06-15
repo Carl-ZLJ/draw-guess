@@ -58,15 +58,21 @@ math.distance = (a, b) => {
     )
 }
 
-math.findNearest = (point, points) => {
-    let minDist = Infinity
-    let minIndex = -1
-    for (let i = 0; i < points.length; i++) {
-        const dist = math.distance(point, points[i])
-        if (dist < minDist) {
-            minDist = dist
-            minIndex = i
-        }
-    }
-    return minIndex
+math.findNearest = (point, points, k = 1) => {
+    // let minDist = Infinity
+    // let minIndex = -1
+    // for (let i = 0; i < points.length; i++) {
+    //     const dist = math.distance(point, points[i])
+    //     if (dist < minDist) {
+    //         minDist = dist
+    //         minIndex = i
+    //     }
+    // }
+    // return minIndex
+    const objs = points.map((p, index) => ({ p, index }))
+    const sorted = objs.sort((a, b) => {
+        return math.distance(point, a.p) - math.distance(point, b.p)
+    })
+    const indexs = sorted.map(obj => obj.index)
+    return indexs.slice(0, k)
 }

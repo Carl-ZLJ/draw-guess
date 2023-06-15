@@ -61,19 +61,23 @@
         }
         const f = featureFunctions.inUse.map(({ func }) => func(paths))
         utils.normalizePoints([f], minMax)
-        const { label, nearestSample } = classify(f)
+        const { label, nearestSamples } = classify(f)
         
         predictLabelContainer.innerHTML = `Is it a ${label}?`
 
-        chart.showDynamicPoint(f, label, nearestSample)
+        chart.showDynamicPoint(f, label, nearestSamples)
       }
 
       function classify(point) {
         const points = samples.map(s => s.point)
-        const index = utils.findNearest(point, points)
-        
-        const sample = samples[index]
-        return { label: sample.label, nearestSample: sample }
+        const indexs = utils.findNearest(point, points, 5)
+        const nearestSamples = indexs.map(i => samples[i])
+        const labels = nearestSamples.map(s => s.label)
+        const label = utils.findMostFrequent(labels)
+        return { 
+          label, 
+          nearestSamples, 
+        }
       }
     </script>
   </body>
