@@ -10,6 +10,7 @@ utils.styles = {
     'guitar': { color: 'blue', text: '🎸' },
     'pencil': { color: 'magenta', text: '✏️' },
     'clock': { color: 'lightgray', text: '🕒' },
+    '?': { color: 'red', text: '❓' },
 }
 
 

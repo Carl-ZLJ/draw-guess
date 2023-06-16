@@ -78,7 +78,7 @@ button:disabled:hover {
 }
 
 .emphasis {
-  background-color: yellow;
+  background-color: yellow !important;
 }
 
 #chartContainer {
@@ -114,4 +114,9 @@ button:disabled:hover {
   position: relative;
   color: white;
   font-size: 30px;
+}
+
+#statistics {
+  font-size: 20px;
+  padding: 10px;
 }

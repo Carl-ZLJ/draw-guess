@@ -13,7 +13,10 @@ function createRow(container, username, samples) {
         sampleContainer.id = `sample_${sample.id}`
         sampleContainer.onclick = () => handleClick(sample, false)
         sampleContainer.classList.add('sample-container')
-        row.appendChild(sampleContainer)
+        if (sample.correct) {
+            sampleContainer.style.backgroundColor = 'lightgreen'
+        }
+
 
         const img = document.createElement('img')
         img.src = `${constants.IMG_DIR}/${sample.id}.png`
@@ -25,6 +28,8 @@ function createRow(container, username, samples) {
         label.innerText = sample.label
 
         sampleContainer.appendChild(label)
+
+        row.appendChild(sampleContainer)
     }
 }
 

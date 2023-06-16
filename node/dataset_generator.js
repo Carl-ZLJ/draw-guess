@@ -1,13 +1,11 @@
 const fs = require('fs')
 const path = require('path')
 const draw = require('../common/draw')
-const canvas = require('canvas').createCanvas(400, 400)
 const constants = require('../common/constants')
 const utils = require('../common/utils')
 
-
+const canvas = require('canvas').createCanvas(400, 400)
 const ctx = canvas.getContext('2d')
-
 
 // read files in raw dir synchronously
 const files = fs.readdirSync(resolve(constants.RAW_DIR))
@@ -37,7 +35,10 @@ files.forEach(file => {
 
 // write samples to samples.json
 fs.writeFileSync(resolve(constants.SAMPLES), JSON.stringify(samples, null, 2))
-fs.writeFileSync(resolve(constants.JS_OBJECT + '/' + 'sample.js'), `const samples = ${JSON.stringify(samples, null, 2)}`)
+fs.writeFileSync(
+    resolve(constants.JS_OBJECT + '/' + 'sample.js'), 
+    `const samples = ${JSON.stringify(samples, null, 2)}`
+)
 
 function generateImageFile(output, paths) {
     ctx.clearRect(0, 0, canvas.width, canvas.height)

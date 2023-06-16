@@ -19,14 +19,82 @@ for (const sample of samples) {
     sample.point = featureFunctions.inUse.map(({ func }) => func(paths))
 }
 
-const minMax = utils.normalizePoints(
-    samples.map(s => s.point),
-)
-
 const featureNames = [
     'Width',
     'Height',
 ]
+
+log('GENERATING SPLITS ...')
+
+const trainingAmount = samples.length * 0.5
+const training = []
+const testing = []
+for (const s of samples) {
+    if (training.length < trainingAmount) {
+        training.push(s)
+    } else {
+        testing.push(s)
+    }
+}
+
+const minMax = utils.normalizePoints(
+    training.map(s => s.point),
+)
+
+utils.normalizePoints(
+    testing.map(s => s.point),
+    minMax,
+)
+
+fs.writeFileSync(path.resolve(__dirname, constants.TRAINING), 
+    JSON.stringify(
+        {
+            featureNames,
+            samples: training.map(t => ({
+                label: t.label,
+                point: t.point,
+            })),
+        },
+        null,
+        2
+    )
+)
+
+fs.writeFileSync(path.resolve(__dirname, constants.TRAINING_JS),
+    `const training = ${JSON.stringify(
+        {
+            featureNames,
+            samples: training,
+        },
+        null,
+        2
+    )}`
+)
+
+fs.writeFileSync(path.resolve(__dirname, constants.TESTING), 
+    JSON.stringify(
+        {
+            featureNames,
+            samples: testing.map(t => ({
+                label: t.label,
+                point: t.point,
+            })),
+        },
+        null,
+        2
+    )
+)
+
+fs.writeFileSync(path.resolve(__dirname, constants.TESTING_JS),
+    `const testing = ${JSON.stringify(
+        {
+            featureNames,
+            samples: testing,
+        },
+        null,
+        2
+    )}`
+)
 
 fs.writeFileSync(path.resolve(__dirname, constants.FEATURES), JSON.stringify(
     {
