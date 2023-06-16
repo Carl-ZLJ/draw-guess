@@ -52,9 +52,9 @@ utils.findNearest = (point, points, k = 1) => {
     // }
     // return minIndex
     const objs = points.map((p, index) => ({ p, index }))
-    const sorted = objs.sort((a, b) => {
-        return math.distance(point, a.p) - math.distance(point, b.p)
-    })
+    const sorted = objs.sort((a, b) =>  
+        utils.distance(point, a.p) - utils.distance(point, b.p)
+    )
     const indexs = sorted.map(obj => obj.index)
     return indexs.slice(0, k)
 }

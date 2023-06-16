@@ -9,6 +9,7 @@ class Chart {
         this.axesLabels = options.axesLabels
         this.styles = options.styles
         this.icon = options.icon
+        this.bg = options.bg
         this.onClick = clickCallBack
 
         this.canvas = document.createElement('canvas')
@@ -18,6 +19,7 @@ class Chart {
         container.appendChild(this.canvas)
 
         this.ctx = this.canvas.getContext('2d')
+        this.ctx.imageSmoothingEnabled = false
         this.margin = options.size * 0.1
         this.opacity = options.opacity || 1
 
@@ -173,6 +175,18 @@ class Chart {
     #draw() {
         const { ctx, canvas } = this
         ctx.clearRect(0, 0, canvas.width, canvas.height)
+
+        const topLeft = math.remapPoint(
+            this.dataBounds,
+            this.pixelBounds,
+            [0, 1],
+        )
+
+        const size = (canvas.width - 2 * this.margin) / this.dataTrans.scale ** 2
+
+        ctx.drawImage(this.bg, ...topLeft, size, size)
+
+
         ctx.globalAlpha = this.opacity
         this.#drawSamples(this.samples)
         ctx.globalAlpha = 1
