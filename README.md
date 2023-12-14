@@ -1,6 +1,6 @@
 ## TODO
 
-- [ ] Instead of redrawing everything on the canvas when emphsis a sample,
+- [x] Instead of redrawing everything on the canvas when emphsis a sample,
 use a transparency canvas to only redraw the sample.
 
 - [ ] When moving the samples, using an Image instead of redraw everything, but don't forget to update the data.
@@ -10,4 +10,4 @@ use a transparency canvas to only redraw the sample.
 - [ ] Calculate a probability for the classification to be correct, based on the 
 number of neighbors of the predicted class.
 
-- [ ] Beat K value
+- [ ] Best K value

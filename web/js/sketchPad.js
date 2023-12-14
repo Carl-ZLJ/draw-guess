@@ -3,26 +3,31 @@ class SketchPad {
     this.canvas = document.createElement('canvas')
     this.canvas.width = size
     this.canvas.height = size
+    this.ctx = this.canvas.getContext('2d')
     this.canvas.style = `
       background-color: white;
       box-shadow: 0 0 10px 2px black;
     `
     container.appendChild(this.canvas)
-    this.onUpdate = onUpdate
+
     this.lineBreak = document.createElement('br')
     container.appendChild(this.lineBreak)
+    
+    this.#setupControls()
+    // paths is an array of path
+    // path is an array of points
+    this.paths = []
+    this.onUpdate = onUpdate
 
+    this.#addEventListeners()
+    this.#draw()
+  }
+
+  #setupControls() {
     this.undoBtn = document.createElement('button')
     this.undoBtn.innerHTML = 'Undo'
     container.appendChild(this.undoBtn)
 
-    this.ctx = this.canvas.getContext('2d')
-  
-    // array of path
-    this.paths = []
-
-    this.#addEventListeners()
-    this.#redraw()
   }
 
   #addEventListeners() {
@@ -35,7 +40,7 @@ class SketchPad {
       const mouse = this.#getMousePosition(e)
       const curPath = this.paths[this.paths.length - 1]
       curPath.push(mouse)
-      this.#redraw()
+      this.#draw()
     }
 
     this.canvas.addEventListener('mousedown', e => {
@@ -67,22 +72,24 @@ class SketchPad {
 
     this.undoBtn.addEventListener('click', () => {
       this.paths.pop()
-      this.#redraw()
+      this.#draw()
     })
   }
 
   reset() {
     this.paths = []
-    this.#redraw()
+    this.#draw()
   }
 
   triggerUpdate() {
     if (this.onUpdate) this.onUpdate(this.paths)
   }
 
-  #redraw() {
+  #draw() {
     this.ctx.clearRect(0, 0, this.ctx.canvas.width, this.ctx.canvas.height)
+
     draw.paths(this.ctx, this.paths)
+
     if (this.paths.length > 0) {
       this.undoBtn.disabled = false
     } else {

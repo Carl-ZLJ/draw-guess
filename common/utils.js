@@ -102,6 +102,14 @@ utils.findMostFrequent = (labels) => {
     return labels.find(label => count[label] === max)
 }
 
+utils.toCSV = (headers, samples) => {
+    let str = headers.join(',') + '\n'
+    for (const sample of samples) {
+        str += sample.join(',') + '\n'
+    }
+    return str
+}
+
 if (typeof module !== 'undefined' && module.exports) {
     module.exports = utils
 }

@@ -1,6 +1,6 @@
 # ignore node_modules folder
 node_modules
 
-# ignore png files
+# ignore dataset files
 **/*.png
 **/*.json

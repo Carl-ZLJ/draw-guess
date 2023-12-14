@@ -17,7 +17,6 @@ function createRow(container, username, samples) {
             sampleContainer.style.backgroundColor = 'lightgreen'
         }
 
-
         const img = document.createElement('img')
         img.src = `${constants.IMG_DIR}/${sample.id}.png`
         img.classList.add('thumbnail')

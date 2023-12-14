@@ -49,5 +49,5 @@ function generateImageFile(output, paths) {
 }
 
 function resolve(file) {
-    return path.resolve(__dirname, file)
+    return (__dirname, file)
 }

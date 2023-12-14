@@ -7,13 +7,13 @@ const path = require('path')
 
 log('Extracting features...')
 const samples = JSON.parse(
-    fs.readFileSync(path.resolve(__dirname, constants.SAMPLES))
+    fs.readFileSync((__dirname, constants.SAMPLES))
 )
 
 
 for (const sample of samples) {
     const paths = JSON.parse(
-        fs.readFileSync(path.resolve(__dirname, constants.JSON_DIR + '/' + sample.id + '.json'))
+        fs.readFileSync((__dirname, constants.JSON_DIR + '/' + sample.id + '.json'))
     )
     
     sample.point = featureFunctions.inUse.map(({ func }) => func(paths))
@@ -46,7 +46,7 @@ utils.normalizePoints(
     minMax,
 )
 
-fs.writeFileSync(path.resolve(__dirname, constants.TRAINING), 
+fs.writeFileSync((__dirname, constants.TRAINING), 
     JSON.stringify(
         {
             featureNames,
@@ -60,7 +60,12 @@ fs.writeFileSync(path.resolve(__dirname, constants.TRAINING),
     )
 )
 
-fs.writeFileSync(path.resolve(__dirname, constants.TRAINING_JS),
+fs.writeFileSync(
+    (__dirname, constants.TRAINING_CSV),
+    utils.toCSV([...featureNames, 'Lable'], training.map(t => [...t.point, t.label]))
+)
+
+fs.writeFileSync((__dirname, constants.TRAINING_JS),
     `const training = ${JSON.stringify(
         {
             featureNames,
@@ -71,7 +76,7 @@ fs.writeFileSync(path.resolve(__dirname, constants.TRAINING_JS),
     )}`
 )
 
-fs.writeFileSync(path.resolve(__dirname, constants.TESTING), 
+fs.writeFileSync((__dirname, constants.TESTING), 
     JSON.stringify(
         {
             featureNames,
@@ -85,7 +90,12 @@ fs.writeFileSync(path.resolve(__dirname, constants.TESTING),
     )
 )
 
-fs.writeFileSync(path.resolve(__dirname, constants.TESTING_JS),
+fs.writeFileSync(
+    (__dirname, constants.TESTING_CSV),
+    utils.toCSV([...featureNames, 'Lable'], testing.map(t => [...t.point, t.label]))
+)
+
+fs.writeFileSync((__dirname, constants.TESTING_JS),
     `const testing = ${JSON.stringify(
         {
             featureNames,
@@ -96,7 +106,7 @@ fs.writeFileSync(path.resolve(__dirname, constants.TESTING_JS),
     )}`
 )
 
-fs.writeFileSync(path.resolve(__dirname, constants.FEATURES), JSON.stringify(
+fs.writeFileSync((__dirname, constants.FEATURES), JSON.stringify(
     {
         featureNames,
         samples,
@@ -105,7 +115,7 @@ fs.writeFileSync(path.resolve(__dirname, constants.FEATURES), JSON.stringify(
     2
 ))
 
-fs.writeFileSync(path.resolve(__dirname, constants.FEATURES_JS),
+fs.writeFileSync((__dirname, constants.FEATURES_JS),
     `const features = ${JSON.stringify(
         {
             featureNames,
@@ -116,7 +126,7 @@ fs.writeFileSync(path.resolve(__dirname, constants.FEATURES_JS),
     )}`
 )
 
-fs.writeFileSync(path.resolve(__dirname, constants.MIN_MAX_JS),
+fs.writeFileSync((__dirname, constants.MIN_MAX_JS),
     `const minMax = ${JSON.stringify(
         minMax,
         null,

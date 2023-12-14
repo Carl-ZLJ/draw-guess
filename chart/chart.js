@@ -143,7 +143,7 @@ class Chart {
         return dataSpace ? math.remapPoint(pixelBounds, defaultDataBounds, p) : p
     }
 
-    #pixelBounds() {
+    #pixelBounds = () => {
         const { canvas, margin } = this
         return {
             top: margin,
@@ -183,8 +183,11 @@ class Chart {
         )
 
         const size = (canvas.width - 2 * this.margin) / this.dataTrans.scale ** 2
+        
 
-        ctx.drawImage(this.bg, ...topLeft, size, size)
+        if (this.bg) {
+            ctx.drawImage(this.bg, ...topLeft, size, size)
+        }
 
 
         ctx.globalAlpha = this.opacity

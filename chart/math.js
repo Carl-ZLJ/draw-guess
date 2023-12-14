@@ -53,22 +53,13 @@ math.scale = (a, s) => {
 }
 
 math.distance = (a, b) => {
+    // Math.hypot
     return Math.sqrt(
         (b[1] - a[1]) ** 2 + (b[0] - a[0]) ** 2
     )
 }
 
 math.findNearest = (point, points, k = 1) => {
-    // let minDist = Infinity
-    // let minIndex = -1
-    // for (let i = 0; i < points.length; i++) {
-    //     const dist = math.distance(point, points[i])
-    //     if (dist < minDist) {
-    //         minDist = dist
-    //         minIndex = i
-    //     }
-    // }
-    // return minIndex
     const objs = points.map((p, index) => ({ p, index }))
     const sorted = objs.sort((a, b) => {
         return math.distance(point, a.p) - math.distance(point, b.p)

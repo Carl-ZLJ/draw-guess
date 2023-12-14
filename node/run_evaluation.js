@@ -2,19 +2,18 @@ const constants = require('../common/constants')
 const KNN = require('../common/classifiers/knn')
 
 const fs = require('fs')
-const path = require('path')
 
 
 console.log('RUNNING CLASSIFICATION ...')
 
 const { samples: trainingSamples } = JSON.parse(
-    fs.readFileSync(path.resolve(__dirname, constants.TRAINING))
+    fs.readFileSync(constants.TRAINING)
 )
 
 const knn = new KNN(trainingSamples, 50)
 
 const { samples: testingSamples } = JSON.parse(
-    fs.readFileSync(path.resolve(__dirname, constants.TESTING))
+    fs.readFileSync(constants.TESTING)
 )
 
 let totalCount = 0
@@ -48,6 +47,6 @@ for (let i = 0; i < canvas.width; i++) {
 
 const buffer = canvas.toBuffer('image/png')
 
-fs.writeFileSync(path.resolve(__dirname, constants.DECISION_BOUNDARY), buffer)
+fs.writeFileSync(constants.DECISION_BOUNDARY, buffer)
 
 console.log('DONE')
