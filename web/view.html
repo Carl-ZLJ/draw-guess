@@ -74,14 +74,13 @@
         const userName = samples[0].user
         createRow(container, userName, samples)
       }
-
       // const groupedSamples = utils.groupBy(samples, 'user_id')
 
       const options = {
         size: 500,
         axesLabels: featureNames,
         styles: utils.styles,
-        opacity: 0.7,
+        opacity: 0.9,
         icon: 'image',
         bg: new Image(),
       }
@@ -92,6 +91,7 @@
       const sketchPad = new SketchPad(inputContainer, onDrawingUpdate)
       sketchPad.canvas.style.cssText += `
         outline: 10000px solid rgba(0, 0, 0, 0.7);`
+      togglePad()
 
       function onDrawingUpdate(paths) {
         if (paths.length <= 0) {

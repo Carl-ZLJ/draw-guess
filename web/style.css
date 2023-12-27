@@ -3,9 +3,8 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   overscroll-behavior: none;
   margin: 0;
+  color: white;
 }
-
-
 
 #sketchPadContainer {
   width: 100vw;
@@ -48,19 +47,26 @@ button:disabled:hover {
   flex-direction: row;
   align-items: center;
   text-align: center;
+  background-color: #151515;
+}
+
+.row:nth-child(even) {
+  background-color: #000;
 }
 
 .sample-container {
   display: flex;
   flex-direction: column;
   align-items: center;
-  border-radius: 10%;
-  margin: 2px;
-  flex: 1 1 0;
+    margin: 2px;
+   outline: 2px solid #f60;
+   border-radius: 5px;
+   text-transform: capitalize; flex: 1 1 0;
 }
 
 .thumbnail {
   width: 100%;
+  filter: invert(1);
 }
 
 .row-label {
@@ -78,7 +84,7 @@ button:disabled:hover {
 }
 
 .emphasis {
-  background-color: yellow !important;
+  background-color: #aa0 !important;
 }
 
 #chartContainer {
@@ -86,6 +92,8 @@ button:disabled:hover {
   right: 0;
   top: 50%;
   transform: translateY(-50%);
+  z-index: 2;
+  color: black;
 }
 
 #container {
@@ -99,6 +107,7 @@ button:disabled:hover {
   transform: translateY(-50%);
   text-align: center;
   margin: 10px;
+  z-index: 1;
 }
 
 #controlPanel {

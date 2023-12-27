@@ -1,25 +1,39 @@
 class Chart {
     constructor(container, samples, options, clickCallBack = null) {
         // samples {
-        // id: i,
-        // label: type,
-        // point: [Math.round(km), Math.round(price)]
+        //   id: i,
+        //   label: type,
+        //   point: [Math.round(km), Math.round(price)]
         // }
         this.samples = samples
         this.axesLabels = options.axesLabels
         this.styles = options.styles
         this.icon = options.icon
         this.bg = options.bg
+
+        if (this.bg) {
+            this.bg.onload = () => this.#draw()
+            this.bg.onerror = () =>  {
+                this.bg = null
+            }
+        }
+
+        Object.values(this.styles).forEach((s) => {
+            s.image.onload = () => this.#draw()
+        })
+
         this.onClick = clickCallBack
 
-        this.canvas = document.createElement('canvas')
-        this.canvas.width = options.size
-        this.canvas.height = options.size
-        this.canvas.style.backgroundColor = 'white'
-        container.appendChild(this.canvas)
-
+        this.canvas = this.#initCanvas()
         this.ctx = this.canvas.getContext('2d')
         this.ctx.imageSmoothingEnabled = false
+        container.appendChild(this.canvas)
+
+        this.overlayCanvas = this.#initOverlayCanvas()
+        this.overlayCtx = this.overlayCanvas.getContext('2d')
+        this.overlayCtx.imageSmoothingEnabled = false
+        container.appendChild(this.overlayCanvas)
+
         this.margin = options.size * 0.1
         this.opacity = options.opacity || 1
 
@@ -47,6 +61,26 @@ class Chart {
 
         this.#addEventListeners()
     }
+
+    #initCanvas() {
+        const canvas = document.createElement('canvas')
+        canvas.width = options.size
+        canvas.height = options.size
+        canvas.style = "background-color:white;"
+        return canvas
+    }
+
+    #initOverlayCanvas() {
+        const overlayCanvas = document.createElement('canvas')
+        overlayCanvas.width = options.size
+        overlayCanvas.height = options.size
+        overlayCanvas.style.position = "absolute"
+        overlayCanvas.style.left = "0px"
+        overlayCanvas.style.pointerEvents = "none"
+
+        return overlayCanvas
+    }
+
     #addEventListeners() {
         const { canvas, dataTrans, dragInfo } = this
         canvas.addEventListener('mousedown', e => {
@@ -79,7 +113,12 @@ class Chart {
                 this.hoveredSample = null
             }
 
-            this.#draw()
+            if (dragInfo.dragging) {
+                this.#draw()
+                this.#drawOverlay()
+            } else {
+                this.#drawOverlay()
+            }
         })
 
         document.addEventListener('mouseup', e => {
@@ -91,11 +130,13 @@ class Chart {
             e.preventDefault()
             const dir = Math.sign(e.deltaY)
             const step = 0.02
-            dataTrans.scale += dir * step
-            dataTrans.scale = Math.max(step, Math.min(2, dataTrans.scale))
+            const scale = 1 + dir * step
+            dataTrans.scale *= scale
 
             this.#updateDataBounds(dataTrans.offset, dataTrans.scale)
+
             this.#draw()
+            this.#drawOverlay()
         })
 
         canvas.addEventListener('click', e => {
@@ -112,6 +153,7 @@ class Chart {
                 this.onClick(this.selectedSample)
             }
             this.#draw()
+            this.#drawOverlay()
         })
     }
 
@@ -143,7 +185,7 @@ class Chart {
         return dataSpace ? math.remapPoint(pixelBounds, defaultDataBounds, p) : p
     }
 
-    #pixelBounds = () => {
+    #pixelBounds() {
         const { canvas, margin } = this
         return {
             top: margin,
@@ -182,23 +224,45 @@ class Chart {
             [0, 1],
         )
 
-        const size = (canvas.width - 2 * this.margin) / this.dataTrans.scale ** 2
-        
+        const bottomRight = math.remapPoint(
+            this.dataBounds,
+            this.pixelBounds,
+            [1, 0],
+        )
 
         if (this.bg) {
-            ctx.drawImage(this.bg, ...topLeft, size, size)
+            ctx.drawImage(
+                this.bg, 
+                ...topLeft, 
+                bottomRight[0] - topLeft[0], 
+                bottomRight[1] - topLeft[1], 
+            )
         }
 
-
         ctx.globalAlpha = this.opacity
-        this.#drawSamples(this.samples)
+        this.#drawSamples(this.samples, ctx)
         ctx.globalAlpha = 1
+
+        this.#drawAxes(canvas)
+    }
+
+    #drawOverlay() {
+        const { overlayCanvas, overlayCtx } = this
+        overlayCtx.clearRect(0, 0, overlayCanvas.width, overlayCanvas.height)
 
         if (this.hoveredSample) {
             this.#emphasizeSample(this.hoveredSample)
         }
 
         if (this.selectedSample) {
+            if (this.nearestSamples && !this.dynamicPoint) {
+                const pixelLoc = math.remapPoint(
+                    this.dataBounds,
+                    this.pixelBounds,
+                    this.selectedSample.point,
+                )
+                this.#showNearest(pixelLoc)
+            }
             this.#emphasizeSample(this.selectedSample, 'yellow')
         }
 
@@ -209,31 +273,24 @@ class Chart {
                 this.pixelBounds,
                 point,
             )
-            graphics.drawPoint(ctx, pixelLoc, 'rgba(0, 0, 0, 0.7)', 10000000)
+            graphics.drawPoint(overlayCtx, pixelLoc, 'rgba(255, 255, 255, 0.7)', 10000000)
             if (this.nearestSamples) {
-                for (const sample of this.nearestSamples) {
-                    const pixelLocN = math.remapPoint(
-                        this.dataBounds,
-                        this.pixelBounds,
-                        sample.point,
-                    )
-                    graphics.drawLine(ctx, pixelLoc, pixelLocN)
-                }
+                this.#showNearest(pixelLoc)
             }
-            graphics.drawImage(ctx, this.styles[label].image, pixelLoc)
+            graphics.drawImage(overlayCtx, this.styles[label].image, pixelLoc)
         }
 
-
-        this.#drawAxes()
+        this.#drawAxes(overlayCanvas)
     }
 
-    #drawAxes() {
-        const { ctx, canvas, pixelBounds, axesLabels, margin } = this
+    #drawAxes(canvas) {
+        const ctx = canvas.getContext('2d')
+        const { pixelBounds, axesLabels, margin } = this
         const { top, bottom, left, right } = pixelBounds
-        ctx.clearRect(0, 0, this.canvas.width, margin)
-        ctx.clearRect(0, 0, margin, this.canvas.height)
-        ctx.clearRect(0, this.canvas.height - margin, this.canvas.width, margin)
-        ctx.clearRect(this.canvas.width - margin, 0, margin, this.canvas.height)
+        ctx.clearRect(0, 0, canvas.width, margin)
+        ctx.clearRect(0, 0, margin, canvas.height)
+        ctx.clearRect(0, canvas.height - margin, canvas.width, margin)
+        ctx.clearRect(canvas.width - margin, 0, margin, canvas.height)
 
         graphics.drawText(ctx, {
             text: axesLabels[0],
@@ -306,20 +363,43 @@ class Chart {
 
     #emphasizeSample(sample, color = 'white') {
         const p = math.remapPoint(this.dataBounds, this.pixelBounds, sample.point)
-        const grd = this.ctx.createRadialGradient(...p, 0, ...p, this.margin)
+        const grd = this.overlayCtx.createRadialGradient(...p, 0, ...p, this.margin)
         grd.addColorStop(0, color)
         grd.addColorStop(1, 'rgba(255, 255, 255, 0)')
-        graphics.drawPoint(this.ctx, p, grd, this.margin * 2)
-        this.#drawSamples([sample])
+        graphics.drawPoint(this.overlayCtx, p, grd, this.margin * 2)
+        this.#drawSamples([sample], this.overlayCtx)
+    }
+
+    #showNearest(pixelLoc) {
+        if (this.samples[0].truth) {
+            return
+        }
+        this.overlayCtx.strokeStyle = "black";
+        for (const sample of this.nearestSamples) {
+            const point = math.remapPoint(
+                this.dataBounds,
+                this.pixelBounds,
+                sample.point
+            );
+            this.overlayCtx.beginPath();
+            this.overlayCtx.moveTo(...pixelLoc)
+            this.overlayCtx.lineTo(...point)
+            this.overlayCtx.stroke()
+        }
     }
 
     selectSample(sample) {
         this.selectedSample = sample
-        this.#draw()
+        if (sample && sample.nearestSamples) {
+            this.nearestSamples = sample.nearestSamples
+        } else {
+            this.nearestSamples = null
+        }
+        this.#drawOverlay()
     }
 
-    #drawSamples(samples) {
-        const { ctx, pixelBounds, dataBounds } = this
+    #drawSamples(samples, ctx) {
+        const { pixelBounds, dataBounds } = this
         for (const sample of samples) {
             const { point, label } = sample
             const pointLoc = math.remapPoint(dataBounds, pixelBounds, point)
@@ -328,11 +408,13 @@ class Chart {
                     graphics.drawImage(ctx, this.styles[label].image, pointLoc)
                     break
                 case 'text':
-                    graphics.drawText(ctx, {
-                        text: this.styles[label].text,
-                        loc: pointLoc,
-                        size: 20,
-                    })
+                    graphics.drawText(
+                        ctx,
+                        {
+                            text: this.styles[label].text,
+                            loc: pointLoc,
+                            size: 20,
+                        })
                     break
                 default:
                     graphics.drawPoint(
@@ -342,16 +424,18 @@ class Chart {
                     )
             }
         }
+
     }
 
     showDynamicPoint(point, label, nearestSamples) {
         this.dynamicPoint = { point, label }
         this.nearestSamples = nearestSamples
-        this.#draw()
+        this.#drawOverlay()
     }
 
     hideDynamicPoint() {
         this.dynamicPoint = null
-        this.#draw()
+        this.nearestSamples = null
+        this.#drawOverlay()
     }
 }

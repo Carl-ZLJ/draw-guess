@@ -3,7 +3,6 @@ const constants = require('../common/constants')
 const featureFunctions = require('../common/features')
 const utils = require('../common/utils')
 const fs = require('fs')
-const path = require('path')
 
 log('Extracting features...')
 const samples = JSON.parse(

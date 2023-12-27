@@ -1,5 +1,6 @@
 class SketchPad {
   constructor(container, onUpdate, size = 400) {
+    this.container = container
     this.canvas = document.createElement('canvas')
     this.canvas.width = size
     this.canvas.height = size
@@ -8,12 +9,12 @@ class SketchPad {
       background-color: white;
       box-shadow: 0 0 10px 2px black;
     `
-    container.appendChild(this.canvas)
+    this.container.appendChild(this.canvas)
 
     this.lineBreak = document.createElement('br')
-    container.appendChild(this.lineBreak)
+    this.container.appendChild(this.lineBreak)
     
-    this.#setupControls()
+    this.#setupControls(container)
     // paths is an array of path
     // path is an array of points
     this.paths = []
@@ -23,7 +24,7 @@ class SketchPad {
     this.#draw()
   }
 
-  #setupControls() {
+  #setupControls(container) {
     this.undoBtn = document.createElement('button')
     this.undoBtn.innerHTML = 'Undo'
     container.appendChild(this.undoBtn)

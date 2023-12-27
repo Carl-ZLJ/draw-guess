@@ -17,16 +17,14 @@ function createRow(container, username, samples) {
             sampleContainer.style.backgroundColor = 'lightgreen'
         }
 
+        const sampleLabel = document.createElement('div')
+        sampleLabel.innerHTML = sample.label
+        sampleContainer.appendChild(sampleLabel)
+
         const img = document.createElement('img')
         img.src = `${constants.IMG_DIR}/${sample.id}.png`
         img.classList.add('thumbnail')
         sampleContainer.appendChild(img)
-
-        const label = document.createElement('span')
-        label.classList.add('label')
-        label.innerText = sample.label
-
-        sampleContainer.appendChild(label)
 
         row.appendChild(sampleContainer)
     }
