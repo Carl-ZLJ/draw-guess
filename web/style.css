@@ -101,6 +101,9 @@ button:disabled:hover {
 
 #confusionContainer {
   position: absolute;
+  background-color: white;
+  right: 0;
+  z-index: 1;
 }
 
 #container {

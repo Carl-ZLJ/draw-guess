@@ -401,17 +401,21 @@ class Chart {
     #drawSamples(samples, ctx) {
         const { pixelBounds, dataBounds } = this
         for (const sample of samples) {
-            const { point, label } = sample
+            let { point, label, truth } = sample
+            if (!truth) {
+                truth = label
+            }
+
             const pointLoc = math.remapPoint(dataBounds, pixelBounds, point)
             switch (this.icon) {
                 case 'image':
-                    graphics.drawImage(ctx, this.styles[label].image, pointLoc)
+                    graphics.drawImage(ctx, this.styles[truth].image, pointLoc)
                     break
                 case 'text':
                     graphics.drawText(
                         ctx,
                         {
-                            text: this.styles[label].text,
+                            text: this.styles[truth].text,
                             loc: pointLoc,
                             size: 20,
                         })
@@ -420,7 +424,7 @@ class Chart {
                     graphics.drawPoint(
                         ctx,
                         pointLoc,
-                        this.styles[label].color,
+                        this.styles[truth].color,
                     )
             }
         }

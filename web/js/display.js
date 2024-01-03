@@ -72,3 +72,12 @@ function togglePad() {
         chart.hideDynamicPoint()
     }
 }
+
+function toggleMatrix() {
+    if (confusionContainer.style.display == 'none') {
+        confusionContainer.style.display = 'block'
+    } else {
+        confusionContainer.style.display = 'none'
+        chart.hideDynamicPoint()
+    }
+}

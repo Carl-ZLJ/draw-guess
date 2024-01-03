@@ -13,6 +13,17 @@ utils.styles = {
     '?': { color: 'red', text: '❓' },
 }
 
+utils.classes = [
+    'car',
+    'fish',    
+    'house',
+    'tree',
+    'bicycle',
+    'guitar',
+    'pencil',
+    'clock',
+]
+
 utils.flaggedSamples = [
     77,
     78,
@@ -186,6 +197,7 @@ utils.toCSV = (headers, samples) => {
     }
     return str
 }
+
 
 if (typeof module !== 'undefined' && module.exports) {
     module.exports = utils

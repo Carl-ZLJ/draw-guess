@@ -22,7 +22,7 @@ use a transparency canvas to only redraw the sample.
 
 - [ ] Long list rendering perf
 
-- [ ] Calculate the sample's width and height in a more reasonable way.
+- [ ] Calculate the sample's width and height in a more reasonable way. Using something called **Convex Hull**, the bound is called **Minimun Bounding box**
 
 - [ ] Calculate a probability for the classification to be correct, based on the 
 number of neighbors of the predicted class.
