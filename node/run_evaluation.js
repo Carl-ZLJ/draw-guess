@@ -1,19 +1,20 @@
 const constants = require('../common/constants')
 const KNN = require('../common/classifiers/knn')
-
+const { resolve } = require('./utils')
+const { log } = require('console')
 const fs = require('fs')
 
 
-console.log('RUNNING CLASSIFICATION ...')
+log('RUNNING CLASSIFICATION ...')
 
 const { samples: trainingSamples } = JSON.parse(
-    fs.readFileSync(constants.TRAINING)
+    fs.readFileSync(resolve(constants.TRAINING))
 )
 
 const knn = new KNN(trainingSamples, 50)
 
 const { samples: testingSamples } = JSON.parse(
-    fs.readFileSync(constants.TESTING)
+    fs.readFileSync(resolve(constants.TESTING))
 )
 
 let totalCount = 0
@@ -24,10 +25,10 @@ for (const sample of testingSamples) {
     correctCount += prediction === sample.label ? 1 : 0
 }
 
-console.log(`Accuracy: ${correctCount} / ${totalCount} (${correctCount / totalCount * 100}%)`)
+log(`Accuracy: ${correctCount} / ${totalCount} (${correctCount / totalCount * 100}%)`)
 
 
-console.log('GENARATING DECISION BOUNDARY ...')
+log('GENARATING DECISION BOUNDARY ...')
 
 const canvas = require('canvas').createCanvas(100, 100)
 const ctx = canvas.getContext('2d')
@@ -47,6 +48,6 @@ for (let i = 0; i < canvas.width; i++) {
 
 const buffer = canvas.toBuffer('image/png')
 
-fs.writeFileSync(constants.DECISION_BOUNDARY, buffer)
+fs.writeFileSync(resolve(constants.DECISION_BOUNDARY), buffer)
 
-console.log('DONE')
+log('DONE')

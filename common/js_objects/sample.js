@@ -462,18 +462,6 @@ const samples = [
     "label": "bicycle"
   },
   {
-    "id": 77,
-    "user_id": 1663855426831,
-    "user": "Henrique Zucareli",
-    "label": "guitar"
-  },
-  {
-    "id": 78,
-    "user_id": 1663855426831,
-    "user": "Henrique Zucareli",
-    "label": "pencil"
-  },
-  {
     "id": 79,
     "user_id": 1663855426831,
     "user": "Henrique Zucareli",
@@ -718,12 +706,6 @@ const samples = [
     "user_id": 1663855739571,
     "user": "Adrian",
     "label": "clock"
-  },
-  {
-    "id": 120,
-    "user_id": 1663855781706,
-    "user": "Sanna Marin",
-    "label": "car"
   },
   {
     "id": 121,
@@ -1296,12 +1278,6 @@ const samples = [
     "label": "clock"
   },
   {
-    "id": 216,
-    "user_id": 1663856289505,
-    "user": "Dd",
-    "label": "car"
-  },
-  {
     "id": 217,
     "user_id": 1663856289505,
     "user": "Dd",
@@ -1824,12 +1800,6 @@ const samples = [
     "label": "clock"
   },
   {
-    "id": 304,
-    "user_id": 1663857420766,
-    "user": "Anukrishnan",
-    "label": "car"
-  },
-  {
     "id": 305,
     "user_id": 1663857420766,
     "user": "Anukrishnan",
@@ -2118,12 +2088,6 @@ const samples = [
     "label": "car"
   },
   {
-    "id": 353,
-    "user_id": 1663857965969,
-    "user": "iron",
-    "label": "fish"
-  },
-  {
     "id": 354,
     "user_id": 1663857965969,
     "user": "iron",
@@ -2268,22 +2232,10 @@ const samples = [
     "label": "fish"
   },
   {
-    "id": 378,
-    "user_id": 1663858221250,
-    "user": "Gurkirat ",
-    "label": "house"
-  },
-  {
     "id": 379,
     "user_id": 1663858221250,
     "user": "Gurkirat ",
     "label": "tree"
-  },
-  {
-    "id": 380,
-    "user_id": 1663858221250,
-    "user": "Gurkirat ",
-    "label": "bicycle"
   },
   {
     "id": 381,
@@ -2589,54 +2541,6 @@ const samples = [
     "id": 431,
     "user_id": 1663858932880,
     "user": "angelo_birrozza",
-    "label": "clock"
-  },
-  {
-    "id": 432,
-    "user_id": 1663859212298,
-    "user": "carnage",
-    "label": "car"
-  },
-  {
-    "id": 433,
-    "user_id": 1663859212298,
-    "user": "carnage",
-    "label": "fish"
-  },
-  {
-    "id": 434,
-    "user_id": 1663859212298,
-    "user": "carnage",
-    "label": "house"
-  },
-  {
-    "id": 435,
-    "user_id": 1663859212298,
-    "user": "carnage",
-    "label": "tree"
-  },
-  {
-    "id": 436,
-    "user_id": 1663859212298,
-    "user": "carnage",
-    "label": "bicycle"
-  },
-  {
-    "id": 437,
-    "user_id": 1663859212298,
-    "user": "carnage",
-    "label": "guitar"
-  },
-  {
-    "id": 438,
-    "user_id": 1663859212298,
-    "user": "carnage",
-    "label": "pencil"
-  },
-  {
-    "id": 439,
-    "user_id": 1663859212298,
-    "user": "carnage",
     "label": "clock"
   },
   {
@@ -3936,36 +3840,6 @@ const samples = [
     "label": "clock"
   },
   {
-    "id": 656,
-    "user_id": 1663861295079,
-    "user": "4am",
-    "label": "car"
-  },
-  {
-    "id": 657,
-    "user_id": 1663861295079,
-    "user": "4am",
-    "label": "fish"
-  },
-  {
-    "id": 658,
-    "user_id": 1663861295079,
-    "user": "4am",
-    "label": "house"
-  },
-  {
-    "id": 659,
-    "user_id": 1663861295079,
-    "user": "4am",
-    "label": "tree"
-  },
-  {
-    "id": 660,
-    "user_id": 1663861295079,
-    "user": "4am",
-    "label": "bicycle"
-  },
-  {
     "id": 661,
     "user_id": 1663861295079,
     "user": "4am",
@@ -4800,36 +4674,6 @@ const samples = [
     "label": "clock"
   },
   {
-    "id": 800,
-    "user_id": 1663864583532,
-    "user": "Adarsh ",
-    "label": "car"
-  },
-  {
-    "id": 801,
-    "user_id": 1663864583532,
-    "user": "Adarsh ",
-    "label": "fish"
-  },
-  {
-    "id": 802,
-    "user_id": 1663864583532,
-    "user": "Adarsh ",
-    "label": "house"
-  },
-  {
-    "id": 803,
-    "user_id": 1663864583532,
-    "user": "Adarsh ",
-    "label": "tree"
-  },
-  {
-    "id": 804,
-    "user_id": 1663864583532,
-    "user": "Adarsh ",
-    "label": "bicycle"
-  },
-  {
     "id": 805,
     "user_id": 1663864583532,
     "user": "Adarsh ",
@@ -5278,12 +5122,6 @@ const samples = [
     "user_id": 1663865939140,
     "user": "Kirru",
     "label": "clock"
-  },
-  {
-    "id": 880,
-    "user_id": 1663866111229,
-    "user": "Afaque",
-    "label": "car"
   },
   {
     "id": 881,
@@ -7884,12 +7722,6 @@ const samples = [
     "label": "fish"
   },
   {
-    "id": 1314,
-    "user_id": 1663887128481,
-    "user": "Maciek W",
-    "label": "house"
-  },
-  {
     "id": 1315,
     "user_id": 1663887128481,
     "user": "Maciek W",
@@ -8158,48 +7990,6 @@ const samples = [
     "user_id": 1663889417446,
     "user": "Maria",
     "label": "clock"
-  },
-  {
-    "id": 1360,
-    "user_id": 1663890315980,
-    "user": "IdrissD",
-    "label": "car"
-  },
-  {
-    "id": 1361,
-    "user_id": 1663890315980,
-    "user": "IdrissD",
-    "label": "fish"
-  },
-  {
-    "id": 1362,
-    "user_id": 1663890315980,
-    "user": "IdrissD",
-    "label": "house"
-  },
-  {
-    "id": 1363,
-    "user_id": 1663890315980,
-    "user": "IdrissD",
-    "label": "tree"
-  },
-  {
-    "id": 1364,
-    "user_id": 1663890315980,
-    "user": "IdrissD",
-    "label": "bicycle"
-  },
-  {
-    "id": 1365,
-    "user_id": 1663890315980,
-    "user": "IdrissD",
-    "label": "guitar"
-  },
-  {
-    "id": 1366,
-    "user_id": 1663890315980,
-    "user": "IdrissD",
-    "label": "pencil"
   },
   {
     "id": 1367,
@@ -9468,12 +9258,6 @@ const samples = [
     "label": "fish"
   },
   {
-    "id": 1578,
-    "user_id": 1663911439989,
-    "user": "baburao",
-    "label": "house"
-  },
-  {
     "id": 1579,
     "user_id": 1663911439989,
     "user": "baburao",
@@ -9514,12 +9298,6 @@ const samples = [
     "user_id": 1663912575737,
     "user": "Mrinmoy Mondal",
     "label": "fish"
-  },
-  {
-    "id": 1586,
-    "user_id": 1663912575737,
-    "user": "Mrinmoy Mondal",
-    "label": "house"
   },
   {
     "id": 1587,
@@ -9646,24 +9424,6 @@ const samples = [
     "user_id": 1663914110330,
     "user": "Walkexperience",
     "label": "clock"
-  },
-  {
-    "id": 1608,
-    "user_id": 1663914386004,
-    "user": "rubin",
-    "label": "car"
-  },
-  {
-    "id": 1609,
-    "user_id": 1663914386004,
-    "user": "rubin",
-    "label": "fish"
-  },
-  {
-    "id": 1610,
-    "user_id": 1663914386004,
-    "user": "rubin",
-    "label": "house"
   },
   {
     "id": 1611,
@@ -12102,34 +11862,10 @@ const samples = [
     "label": "car"
   },
   {
-    "id": 2017,
-    "user_id": 1663959787784,
-    "user": "Erick",
-    "label": "fish"
-  },
-  {
-    "id": 2018,
-    "user_id": 1663959787784,
-    "user": "Erick",
-    "label": "house"
-  },
-  {
-    "id": 2019,
-    "user_id": 1663959787784,
-    "user": "Erick",
-    "label": "tree"
-  },
-  {
     "id": 2020,
     "user_id": 1663959787784,
     "user": "Erick",
     "label": "bicycle"
-  },
-  {
-    "id": 2021,
-    "user_id": 1663959787784,
-    "user": "Erick",
-    "label": "guitar"
   },
   {
     "id": 2022,
@@ -12178,12 +11914,6 @@ const samples = [
     "user_id": 1663961253145,
     "user": "Ketan",
     "label": "guitar"
-  },
-  {
-    "id": 2030,
-    "user_id": 1663961253145,
-    "user": "Ketan",
-    "label": "pencil"
   },
   {
     "id": 2031,
@@ -15894,22 +15624,10 @@ const samples = [
     "label": "car"
   },
   {
-    "id": 2649,
-    "user_id": 1664142893259,
-    "user": "Claudiu",
-    "label": "fish"
-  },
-  {
     "id": 2650,
     "user_id": 1664142893259,
     "user": "Claudiu",
     "label": "house"
-  },
-  {
-    "id": 2651,
-    "user_id": 1664142893259,
-    "user": "Claudiu",
-    "label": "tree"
   },
   {
     "id": 2652,
@@ -16744,12 +16462,6 @@ const samples = [
     "user_id": 1664211977462,
     "user": "AA",
     "label": "pencil"
-  },
-  {
-    "id": 2791,
-    "user_id": 1664211977462,
-    "user": "AA",
-    "label": "clock"
   },
   {
     "id": 2792,
@@ -20256,54 +19968,6 @@ const samples = [
     "label": "clock"
   },
   {
-    "id": 3376,
-    "user_id": 1664989040423,
-    "user": "Arjun ",
-    "label": "car"
-  },
-  {
-    "id": 3377,
-    "user_id": 1664989040423,
-    "user": "Arjun ",
-    "label": "fish"
-  },
-  {
-    "id": 3378,
-    "user_id": 1664989040423,
-    "user": "Arjun ",
-    "label": "house"
-  },
-  {
-    "id": 3379,
-    "user_id": 1664989040423,
-    "user": "Arjun ",
-    "label": "tree"
-  },
-  {
-    "id": 3380,
-    "user_id": 1664989040423,
-    "user": "Arjun ",
-    "label": "bicycle"
-  },
-  {
-    "id": 3381,
-    "user_id": 1664989040423,
-    "user": "Arjun ",
-    "label": "guitar"
-  },
-  {
-    "id": 3382,
-    "user_id": 1664989040423,
-    "user": "Arjun ",
-    "label": "pencil"
-  },
-  {
-    "id": 3383,
-    "user_id": 1664989040423,
-    "user": "Arjun ",
-    "label": "clock"
-  },
-  {
     "id": 3384,
     "user_id": 1664998297934,
     "user": "Adam",
@@ -20410,12 +20074,6 @@ const samples = [
     "user_id": 1665057821209,
     "user": "vec",
     "label": "fish"
-  },
-  {
-    "id": 3402,
-    "user_id": 1665057821209,
-    "user": "vec",
-    "label": "house"
   },
   {
     "id": 3403,
@@ -20554,12 +20212,6 @@ const samples = [
     "user_id": 1665165648489,
     "user": "vlottie",
     "label": "fish"
-  },
-  {
-    "id": 3426,
-    "user_id": 1665165648489,
-    "user": "vlottie",
-    "label": "house"
   },
   {
     "id": 3427,
@@ -21213,54 +20865,6 @@ const samples = [
     "id": 3535,
     "user_id": 1665915434024,
     "user": "D",
-    "label": "clock"
-  },
-  {
-    "id": 3536,
-    "user_id": 1666010556334,
-    "user": "Prabhu",
-    "label": "car"
-  },
-  {
-    "id": 3537,
-    "user_id": 1666010556334,
-    "user": "Prabhu",
-    "label": "fish"
-  },
-  {
-    "id": 3538,
-    "user_id": 1666010556334,
-    "user": "Prabhu",
-    "label": "house"
-  },
-  {
-    "id": 3539,
-    "user_id": 1666010556334,
-    "user": "Prabhu",
-    "label": "tree"
-  },
-  {
-    "id": 3540,
-    "user_id": 1666010556334,
-    "user": "Prabhu",
-    "label": "bicycle"
-  },
-  {
-    "id": 3541,
-    "user_id": 1666010556334,
-    "user": "Prabhu",
-    "label": "guitar"
-  },
-  {
-    "id": 3542,
-    "user_id": 1666010556334,
-    "user": "Prabhu",
-    "label": "pencil"
-  },
-  {
-    "id": 3543,
-    "user_id": 1666010556334,
-    "user": "Prabhu",
     "label": "clock"
   },
   {
@@ -22172,54 +21776,6 @@ const samples = [
   {
     "id": 3695,
     "user_id": 1666997859230,
-    "user": "radu",
-    "label": "clock"
-  },
-  {
-    "id": 3696,
-    "user_id": 1666998028989,
-    "user": "radu",
-    "label": "car"
-  },
-  {
-    "id": 3697,
-    "user_id": 1666998028989,
-    "user": "radu",
-    "label": "fish"
-  },
-  {
-    "id": 3698,
-    "user_id": 1666998028989,
-    "user": "radu",
-    "label": "house"
-  },
-  {
-    "id": 3699,
-    "user_id": 1666998028989,
-    "user": "radu",
-    "label": "tree"
-  },
-  {
-    "id": 3700,
-    "user_id": 1666998028989,
-    "user": "radu",
-    "label": "bicycle"
-  },
-  {
-    "id": 3701,
-    "user_id": 1666998028989,
-    "user": "radu",
-    "label": "guitar"
-  },
-  {
-    "id": 3702,
-    "user_id": 1666998028989,
-    "user": "radu",
-    "label": "pencil"
-  },
-  {
-    "id": 3703,
-    "user_id": 1666998028989,
     "user": "radu",
     "label": "clock"
   },
@@ -23260,12 +22816,6 @@ const samples = [
     "user_id": 1669632107039,
     "user": "Ali",
     "label": "bicycle"
-  },
-  {
-    "id": 3877,
-    "user_id": 1669632107039,
-    "user": "Ali",
-    "label": "guitar"
   },
   {
     "id": 3878,

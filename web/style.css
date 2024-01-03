@@ -58,10 +58,12 @@ button:disabled:hover {
   display: flex;
   flex-direction: column;
   align-items: center;
-    margin: 2px;
-   outline: 2px solid #f60;
-   border-radius: 5px;
-   text-transform: capitalize; flex: 1 1 0;
+  justify-content: space-between;
+  margin: 2px;
+  outline: 2px solid #f60;
+  border-radius: 5px;
+  text-transform: capitalize; flex: 1 1 0;
+  max-width: 8%;
 }
 
 .thumbnail {
@@ -76,6 +78,7 @@ button:disabled:hover {
   white-space: nowrap;
   padding: 10px;
   margin: 2px;
+  max-width: 16%;
 }
 
 .label {
@@ -94,6 +97,10 @@ button:disabled:hover {
   transform: translateY(-50%);
   z-index: 2;
   color: black;
+}
+
+#confusionContainer {
+  position: absolute;
 }
 
 #container {
@@ -128,4 +135,28 @@ button:disabled:hover {
 #statistics {
   font-size: 20px;
   padding: 10px;
+}
+
+.flagged {
+  background-color: red !important;
+}
+
+.infoButton {
+  color: red;
+  cursor: pointer;
+}
+
+.infoButton:hover .tooltipText {
+  visibility: visible;
+}
+
+.tooltipText {
+  color: white;
+  background-color: red;
+  position: absolute;
+  border-radius: 6px;
+  visibility: hidden;
+  font-size: small;
+  padding: 6px;
+  font-weight: normal;
 }

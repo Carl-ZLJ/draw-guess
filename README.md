@@ -27,3 +27,6 @@ use a transparency canvas to only redraw the sample.
 - [ ] Calculate a probability for the classification to be correct, based on the 
 number of neighbors of the predicted class.
 
+
+### Tips
+- JS files in `node` folder need to be run in the same directory, not the root

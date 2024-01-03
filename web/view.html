@@ -10,7 +10,16 @@
   </head>
 
   <body>
-    <h1>Data Viewer</h1>
+    <h1>Data Viewer
+      <span class="infoButton">
+        ⓘ
+        <span class="tooltipText">
+          You can flag samples using Ctrl + LeftClick.
+          <br>
+          Then use the console (flaggedSamples variable).
+        </span>
+      </span>
+    </h1>
     <div id="controlPanel">
       <button onclick="togglePad()">Toggle SketchPad</button>
       <div id="statistics"></div>
@@ -18,7 +27,9 @@
     <div id="inputContainer">
       <div id="predictLabelContainer"></div>
     </div>
-    <div id="chartContainer"></div>
+    <div id="chartContainer">
+      <div id="confusionContainer"></div>
+    </div>
     <div id="container"></div>
 
     <script src="../common/utils.js"></script>
@@ -35,6 +46,7 @@
     <script src="../chart/chart.js"></script>
     <script src="js/display.js"></script>
     <script src="js/sketchPad.js"></script>
+    <script src="js/dataCleaner.js"></script>
     <script>
       const { samples, featureNames } = features
       const trainingSamples = training.samples

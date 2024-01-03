@@ -11,7 +11,13 @@ function createRow(container, username, samples) {
     for (let sample of samples) {
         const sampleContainer = document.createElement('div')
         sampleContainer.id = `sample_${sample.id}`
-        sampleContainer.onclick = () => handleClick(sample, false)
+        sampleContainer.onclick = (e) => {
+            if (e.ctrlKey) {
+                toggleFlaggedSample(sample)
+            } else {
+                handleClick(sample, false)
+            }
+        }
         sampleContainer.classList.add('sample-container')
         if (sample.correct) {
             sampleContainer.style.backgroundColor = 'lightgreen'
