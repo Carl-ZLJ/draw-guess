@@ -3,6 +3,7 @@ const KNN = require('../common/classifiers/knn')
 const { resolve } = require('./utils')
 const { log } = require('console')
 const fs = require('fs')
+const utils = require('../common/utils')
 
 
 log('RUNNING CLASSIFICATION ...')
@@ -28,7 +29,7 @@ for (const sample of testingSamples) {
 log(`Accuracy: ${correctCount} / ${totalCount} (${correctCount / totalCount * 100}%)`)
 
 
-log('GENARATING DECISION BOUNDARY ...')
+log('GENERATING DECISION BOUNDARY ...')
 
 const canvas = require('canvas').createCanvas(100, 100)
 const ctx = canvas.getContext('2d')
@@ -39,15 +40,18 @@ for (let i = 0; i < canvas.width; i++) {
             i / canvas.width,
             1 - j / canvas.height, 
         ]
+        // third dimension
+        point.push(0.2)
         const { label } = knn.predict(point)
         const color = utils.styles[label].color
         ctx.fillStyle = color
         ctx.fillRect(i, j, 1, 1)
     }
+    utils.printProgress(i, canvas.width)
 }
 
 const buffer = canvas.toBuffer('image/png')
 
 fs.writeFileSync(resolve(constants.DECISION_BOUNDARY), buffer)
 
-log('DONE')
+log('\nDONE')

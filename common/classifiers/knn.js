@@ -15,9 +15,9 @@ class KNN {
         const nearestSamples = indexs.map(i => samples[i])
         const labels = nearestSamples.map(s => s.label)
         const label = utils.findMostFrequent(labels)
-        return { 
-          label, 
-          nearestSamples, 
+        return {
+            label,
+            nearestSamples,
         }
     }
 }

@@ -13,7 +13,7 @@ This project is intend to learn Machine Learning. You can follow <ins>__[@Radu](
 
 ### TODO
 
-- [x] Instead of redrawing everything on the canvas when emphsis a sample,
+- [x] Instead of redrawing everything on the canvas when emphasis a sample,
 use a transparency canvas to only redraw the sample.
 
 - [x] Best K value
@@ -24,7 +24,7 @@ use a transparency canvas to only redraw the sample.
 
 - [x] Calculate the sample's width and height in a more reasonable way. 
   - using something called **Convex Hull**
-  - the bound is called **Minimun Bounding box**
+  - the bound is called **Minimum Bounding box**
   - the algorithm is __Graham Scan Algorithm__
 
 - [ ] Calculate a probability for the classification to be correct, based on the 

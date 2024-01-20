@@ -13,7 +13,7 @@ class Chart {
 
         if (this.bg) {
             this.bg.onload = () => this.#draw()
-            this.bg.onerror = () =>  {
+            this.bg.onerror = () => {
                 this.bg = null
             }
         }
@@ -98,8 +98,8 @@ class Chart {
                     math.substract(dragInfo.start, dragInfo.end),
                     dataTrans.scale ** 2,
                 )
-                const newOffest = math.add(dataTrans.offset, dragInfo.offset)
-                this.#updateDataBounds(newOffest, dataTrans.scale)
+                const newOffset = math.add(dataTrans.offset, dragInfo.offset)
+                this.#updateDataBounds(newOffset, dataTrans.scale)
             }
             const pixelLoc = this.#getMouse(e)
             const pixelPoints = this.samples.map(s =>
@@ -232,10 +232,10 @@ class Chart {
 
         if (this.bg) {
             ctx.drawImage(
-                this.bg, 
-                ...topLeft, 
-                bottomRight[0] - topLeft[0], 
-                bottomRight[1] - topLeft[1], 
+                this.bg,
+                ...topLeft,
+                bottomRight[0] - topLeft[0],
+                bottomRight[1] - topLeft[1],
             )
         }
 

@@ -1,15 +1,15 @@
 const geometry = Object.create(null)
 
 /**
- * for all functions below, assume screen coordinates: the x-axis is rightward, 
- * the y-axis is downward 
+ * for all functions below, assume screen coordinates: the x-axis is rightward,
+ * the y-axis is downward
  */
 
 
 /**
- * 
- * @param {[[number, number]]} points 
- * @returns {[number, number]} a point which has the maximum y value and 
+ *
+ * @param {[[number, number]]} points
+ * @returns {[number, number]} a point which has the maximum y value and
  * the leftmost x value
  */
 geometry.lowestPoint = (points) => points.reduce((lowest, point) => {
@@ -20,9 +20,9 @@ geometry.lowestPoint = (points) => points.reduce((lowest, point) => {
 
 
 /**
- * @description sort points in couter-clockwise order relative to given origin
- * @param {[number, number]} origin 
- * @param {[[number, number]]} points 
+ * @description sort points in counter-clockwise order relative to given origin
+ * @param {[number, number]} origin
+ * @param {[[number, number]]} points
  * @returns sorted points
  */
 geometry.sortPoints = (origin, points) => points.slice().sort((a, b) => {
@@ -37,7 +37,7 @@ geometry.sortPoints = (origin, points) => points.slice().sort((a, b) => {
 
 /**
  * @description build a convex hull using Graham Scan Algorithm
- * @param {[[number, number]]} points 
+ * @param {[[number, number]]} points
  */
 geometry.grahamScan = (points) => {
     const lowestPoint = geometry.lowestPoint(points)
@@ -45,13 +45,13 @@ geometry.grahamScan = (points) => {
 
     const stack = [sortedPoints[0], sortedPoints[1], sortedPoints[2]]
 
-    for(let i = 3; i < sortedPoints.length; i++) {
+    for (let i = 3; i < sortedPoints.length; i++) {
         let top = stack.length - 1
-        // last two points in stack calc with new point first, if causes a concav(meaning calcOrientation is 1 or 0), 
+        // last two points in stack calc with new point first, if causes a concav(meaning calcOrientation is 1 or 0),
         // pop the last point, continue with the new last two points
         // until adding a new point won't cause concav, push to the stack
         // after the loop is finished, the result polygon will be convex
-        while(top > 0 && calcOrientation(stack[top - 1], stack[top], sortedPoints[i]) >= 0) {
+        while (top > 0 && calcOrientation(stack[top - 1], stack[top], sortedPoints[i]) >= 0) {
             stack.pop()
             top--
         }
@@ -64,30 +64,30 @@ geometry.grahamScan = (points) => {
 
 /**
  * @description Use two hull's points as an edge of the bounding box to calc the coincident rectangle
- * @param {[[number, number]]} hull 
- * @param {number} i 
- * @param {number} j 
+ * @param {[[number, number]]} hull
+ * @param {number} i
+ * @param {number} j
  */
 geometry.coincidentBox = (hull, i, j) => {
     const diff = (a, b) => [a[0] - b[0], a[1] - b[1]]
     const dot = (a, b) => a[0] * b[0] + a[1] * b[1]
-    const len = a => (a[0] **2 + a[1]** 2) ** 0.5
+    const len = a => (a[0] ** 2 + a[1] ** 2) ** 0.5
     const add = (a, b) => [a[0] + b[0], a[1] + b[1]]
     const multi = (a, n) => [a[0] * n, a[1] * n]
-    const div  = (a, n) => [a[0] / n, a[1] / n]
-    const unit = div(a, len(a))
- 
+    const div = (a, n) => [a[0] / n, a[1] / n]
+    const unit = a => div(a, len(a))
+
     // use i-j as an edge
-    let origin = hull[i]
-    let baseX = unit(diff(hull[j], origin))
-    let baseY = [baseX[1], -baseX[0]]
+    const origin = hull[i]
+    const baseX = unit(diff(hull[j], origin))
+    const baseY = [baseX[1], -baseX[0]]
 
     let left = 0
     let right = 0
     let top = 0
     let bottom = 0
 
-    for(let p of hull) {
+    for (const p of hull) {
         const n = diff(p, origin)
         // n project to new coordinates
         const v = [dot(baseX, n), dot(baseY, n)]
@@ -102,8 +102,8 @@ geometry.coincidentBox = (hull, i, j) => {
     const vertices = [
         add(add(multi(baseX, left), multi(baseY, top)), origin),
         add(add(multi(baseX, left), multi(baseY, bottom)), origin),
-        add(add(multi(baseX, right), multi(baseY, top)), origin),
         add(add(multi(baseX, right), multi(baseY, bottom)), origin),
+        add(add(multi(baseX, right), multi(baseY, top)), origin),
     ]
 
     return {
@@ -115,17 +115,26 @@ geometry.coincidentBox = (hull, i, j) => {
 
 /**
  * @description Choose a bounding box which the area is the minimum
- * @param {Object} object 
+ * @param {Object} object
  * @param {[[number, number]]} object.points
  * @param {[[number, number]]} object.hull
- * @returns 
+ * @returns
  */
-geometry.minimumBoundingBox = ({points, hull}) => {
-    hull = hull || geometry.grahamScan(points)
+geometry.minimumBoundingBox = ({ points }) => {
+    if (points.length < 3) {
+        return {
+            width: 0,
+            height: 0,
+            vertices: points,
+            hull: points,
+        }
+    }
+
+    const hull = geometry.grahamScan(points)
 
     let minArea = Number.MAX_VALUE
     let result = null
-    for(let i = 0; i < hull.length; i++) {
+    for (let i = 0; i < hull.length; i++) {
         const { vertices, width, height } = geometry.coincidentBox(hull, i, (i + 1) % hull.length)
         const area = width * height
         if (area < minArea) {
@@ -134,6 +143,7 @@ geometry.minimumBoundingBox = ({points, hull}) => {
                 vertices,
                 width,
                 height,
+                hull,
             }
         }
     }
@@ -148,9 +158,9 @@ geometry.minimumBoundingBox = ({points, hull}) => {
  * negative, p2 is on the right side,
  * position, p2 is on the left side,
  * 0, p2 is on the line
- * @param {[number, number]} origin 
- * @param {[number, number]} p1 
- * @param {[number, number]} p2 
+ * @param {[number, number]} origin
+ * @param {[number, number]} p1
+ * @param {[number, number]} p2
  * @returns {number} right = 1, left = -1, same line = 0
  */
 function calcOrientation(origin, p1, p2) {
@@ -164,7 +174,7 @@ function calcOrientation(origin, p1, p2) {
 
 /**
  * @description Squared distance between a and b
- * @param {[number, number]} a 
+ * @param {[number, number]} a
  * @param {[number, number]} b
  * @returns {number}
  */

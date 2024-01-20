@@ -15,7 +15,7 @@ utils.styles = {
 
 utils.classes = [
     'car',
-    'fish',    
+    'fish',
     'house',
     'tree',
     'bicycle',
@@ -102,11 +102,11 @@ utils.flaggedSamples = [
     3877
 ]
 
-utils.printProgess = function (current, total) {
+utils.printProgress = function(current, total) {
     process.stdout.clearLine()
     process.stdout.cursorTo(0)
 
-    process.stdout.write(`Progress: ${current}/${total} (${(current / total * 100).toFixed(2)}%)\n`)
+    process.stdout.write(`Progress: ${current}/${total} (${(current / total * 100).toFixed(2)}%)`)
 
 }
 
@@ -123,9 +123,12 @@ utils.groupBy = function(objs, key) {
 }
 
 utils.distance = (a, b) => {
-    return Math.sqrt(
-        (b[1] - a[1]) ** 2 + (b[0] - a[0]) ** 2
-    )
+    let sqDist = 0
+    for (let i = 0; i < a.length; i++) {
+        sqDist += (a[i] - b[i]) ** 2
+    }
+
+    return Math.sqrt(sqDist)
 }
 
 utils.findNearest = (point, points, k = 1) => {
@@ -140,11 +143,11 @@ utils.findNearest = (point, points, k = 1) => {
     // }
     // return minIndex
     const objs = points.map((p, index) => ({ p, index }))
-    const sorted = objs.sort((a, b) =>  
+    const sorted = objs.sort((a, b) =>
         utils.distance(point, a.p) - utils.distance(point, b.p)
     )
-    const indexs = sorted.map(obj => obj.index)
-    return indexs.slice(0, k)
+    const indexes = sorted.map(obj => obj.index)
+    return indexes.slice(0, k)
 }
 
 utils.inverseLerp = (a, b, v) => {
@@ -184,7 +187,7 @@ utils.normalizePoints = (points, minMax) => {
 utils.findMostFrequent = (labels) => {
     const count = {}
     for (const label of labels) {
-       count[label] = (count[label] || 0) + 1
+        count[label] = (count[label] || 0) + 1
     }
     const max = Math.max(...Object.values(count))
     return labels.find(label => count[label] === max)

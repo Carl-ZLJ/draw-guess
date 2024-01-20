@@ -26,7 +26,7 @@ files.forEach(file => {
             generateImageFile(resolve(constants.IMG_DIR + '/' + index + '.png'), paths)
         }
 
-        utils.printProgess(index + 1, files.length * 8)
+        utils.printProgress(index + 1, files.length * 8)
         index++
     }
 })

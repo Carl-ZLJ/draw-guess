@@ -66,27 +66,27 @@ class Confusion {
 
     #prepareMatrix(samples) {
         const matrix = []
-        for(let i = 0; i < this.N; i++) {
+        for (let i = 0; i < this.N; i++) {
             matrix[i] = []
-            for(let j = 0; j < this.N; j++) {
+            for (let j = 0; j < this.N; j++) {
                 matrix[i][j] = 0
             }
         }
-        
-        for(const s of samples) {
+
+        for (const s of samples) {
             matrix[this.classes.indexOf(s.truth) + 1]
-                [this.classes.indexOf(s.label) + 1] ++; 
+            [this.classes.indexOf(s.label) + 1]++;
         }
 
-        for(let i = 1; i < this.N; i++) {
-            for(let j = 0; j < this.N; j++) {
+        for (let i = 1; i < this.N; i++) {
+            for (let j = 0; j < this.N; j++) {
                 matrix[0][j] += matrix[i][j]
                 matrix[i][0] += matrix[i][j]
             }
         }
 
-        for(let i = 1; i < this.N; i++) {
-            matrix[0][i] -= matrix[i][0]            
+        for (let i = 1; i < this.N; i++) {
+            matrix[0][i] -= matrix[i][0]
             if (matrix[0][i] > 0) {
                 matrix[0][i] = `+${matrix[0][i]}`
             }
@@ -95,7 +95,7 @@ class Confusion {
         matrix[0][0] = ''
         return matrix
     }
-    
+
     #fillTable() {
         const { N, table, cellSize, matrix } = this
 
@@ -103,15 +103,15 @@ class Confusion {
             .slice(1)
             .map(a => a.slice(1))
             .flat()
-        
+
         const max = Math.max(...values)
         const min = Math.min(...values)
 
-        for(let i = 0; i < N; i++) {
+        for (let i = 0; i < N; i++) {
             const row = document.createElement('tr')
             table.appendChild(row)
 
-            for(let j = 0; j < N; j++) {
+            for (let j = 0; j < N; j++) {
                 const cell = document.createElement('td')
                 // Todo: delete after testing
                 cell.style.border = '1px solid red'
@@ -121,7 +121,7 @@ class Confusion {
                 cell.textContent = matrix[i][j]
 
                 if (i == 0 && j > 0) {
-                    cell.style.backgroundImage = 
+                    cell.style.backgroundImage =
                         `url(${this.styles[this.classes[j - 1]].image.src})`
                     cell.style.backgroundRepeat = 'no-repeat'
                     cell.style.backgroundPosition = '50% 30%'
@@ -134,7 +134,7 @@ class Confusion {
                 }
 
                 if (j == 0 && i > 0) {
-                    cell.style.backgroundImage = 
+                    cell.style.backgroundImage =
                         `url(${this.styles[this.classes[i - 1]].image.src})`
                     cell.style.backgroundRepeat = 'no-repeat'
                     cell.style.backgroundPosition = '50% 30%'

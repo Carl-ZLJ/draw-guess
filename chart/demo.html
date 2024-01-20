@@ -1,111 +1,107 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Chart Demo</title>
+  </head>
 
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="style.css">
-        <title>Chart Demo</title>
-    </head>
+  <body>
+    <h1>Custom Chart</h1>
+    <div id="chartContainer"></div>
+    <table id="dataTable"></table>
+    <script src="./math.js"></script>
+    <script src="./graphics.js"></script>
+    <script src="./chart.js"></script>
+    <script>
+      const N = 1000;
+      const samples = [];
+      for (let i = 1; i <= N; i++) {
+        const type = Math.random() > 0.5 ? "basic" : "sport";
+        const km = math.lerp(3000, 300000, Math.random());
+        const price =
+          math.remap(3000, 300000, 300000, 20000, km) +
+          (type === "sport" ? 50000 : 0) +
+          math.lerp(-50000, 50000, Math.random());
 
-    <body>
-        <h1>Custom Chart</h1>
-        <div id="chartContainer"></div>
-        <table id="dataTable"></table>
-        <script src="./math.js"></script>
-        <script src="./graphics.js"></script>
-        <script src="./chart.js"></script>
-        <script>
-            const N = 1000
-            const samples = []
-            for (let i = 1; i <= N; i++) {
-                const type = Math.random() > 0.5 ? 'basic' : 'sport'
-                const km = math.lerp(3000, 300000, Math.random())
-                const price = math.remap(3000, 300000, 300000, 20000, km)
-                    + (type === 'sport' ? 50000 : 0)
-                    + math.lerp(-50000, 50000, Math.random())
+        samples.push({
+          id: i,
+          label: type,
+          point: [Math.round(km), Math.round(price)],
+        });
+      }
 
-                samples.push({
-                    id: i,
-                    label: type,
-                    point: [Math.round(km), Math.round(price)]
-                })
-            }
+      const options = {
+        size: 500,
+        axesLabels: ["Kilometers", "Price"],
+        styles: {
+          basic: { color: "cyan", text: "🚗" },
+          sport: { color: "magenta", text: "🏎️" },
+        },
+        icon: "image",
+        opacity: 0.6,
+      };
 
-            const options = {
-                size: 500,
-                axesLabels: ['Kilometers', 'Price'],
-                styles: {
-                    basic: { color: 'cyan', text: '🚗' },
-                    sport: { color: 'magenta', text: '🏎️' },
-                },
-                icon: 'image',
-                opacity: 0.6,
-            }
+      graphics.generateImages(options.styles);
+      // create chart
+      let chart;
+      setTimeout(() => {
+        chart = new Chart(chartContainer, samples, options, handleClick);
+      }, 100);
 
-            graphics.generateImages(options.styles)
-            // create chart
-            let chart
-            setTimeout(() => {
-                chart = new Chart(
-                    chartContainer,
-                    samples,
-                    options,
-                    handleClick,
-                )
-            }, 100)
+      // create table header with id, type, km, price
+      const header = dataTable.createTHead();
+      const tr = header.insertRow();
+      tr.insertCell().innerHTML = "Id";
+      tr.insertCell().innerHTML = "Type";
+      tr.insertCell().innerHTML = "Price";
+      tr.insertCell().innerHTML = "Km";
 
-            // create table header with id, type, km, price
-            const header = dataTable.createTHead()
-            const tr = header.insertRow()
-            tr.insertCell().innerHTML = 'Id'
-            tr.insertCell().innerHTML = 'Type'
-            tr.insertCell().innerHTML = 'Price'
-            tr.insertCell().innerHTML = 'Km'
+      // create table body
+      const body = dataTable.createTBody();
+      for (const sample of samples) {
+        const tr = body.insertRow();
+        tr.id = `row-${sample.id}`;
+        tr.onclick = () => handleClick(sample, false);
+        tr.insertCell().innerHTML = sample.id;
+        tr.insertCell().innerHTML = sample.label;
+        tr.insertCell().innerHTML = sample.point[0];
+        tr.insertCell().innerHTML = sample.point[1];
+      }
 
-            // create table body
-            const body = dataTable.createTBody()
-                for (const sample of samples) {
-                const tr = body.insertRow()
-                tr.id = `row-${sample.id}`
-                tr.onclick = () => handleClick(sample, false)
-                tr.insertCell().innerHTML = sample.id
-                tr.insertCell().innerHTML = sample.label
-                tr.insertCell().innerHTML = sample.point[0]
-                tr.insertCell().innerHTML = sample.point[1]
-            }
+      function handleClick(sample, scroll = true) {
+        // click nothing
+        if (sample == null) {
+          [...document.querySelectorAll("tr.emphasis")].forEach((row) =>
+            row.classList.remove("emphasis"),
+          );
+          return;
+        }
 
-            function handleClick(sample, scroll = true) {
-                // click nothing
-                if (sample == null) {
-                    [...document.querySelectorAll('tr.emphasis')]
-                        .forEach(row => row.classList.remove('emphasis'))
-                    return
-                }
+        const row = document.getElementById(`row-${sample.id}`);
+        // click the same item
+        if (row.classList.contains("emphasis")) {
+          row.classList.remove("emphasis");
+          chart.selectSample(null);
+          return;
+        }
 
-                const row = document.getElementById(`row-${sample.id}`)
-                // click the same item
-                if (row.classList.contains('emphasis')) {
-                    row.classList.remove('emphasis')
-                    chart.selectSample(null)
-                    return
-                }
+        // click another item
+        [...document.querySelectorAll("tr.emphasis")].forEach((row) =>
+          row.classList.remove("emphasis"),
+        );
 
-                // click another item
-                [...document.querySelectorAll('tr.emphasis')]
-                    .forEach(row => row.classList.remove('emphasis'))
+        row.classList.add("emphasis");
 
-                row.classList.add('emphasis')
+        // whether to scroll to the item
+        if (scroll) {
+          row.scrollIntoView({ behavior: "auto", block: "center" });
+        }
 
-                // whether to scroll to the item
-                if (scroll) {
-                    row.scrollIntoView({ behavior: 'auto', block: 'center' })
-                }
-
-                chart.selectSample(sample)
-            }
-        </script>
-    </body>
-
+        chart.selectSample(sample);
+      }
+    </script>
+  </body>
 </html>

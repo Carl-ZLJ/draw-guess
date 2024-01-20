@@ -22,6 +22,7 @@ for (const sample of samples) {
 const featureNames = [
     'Width',
     'Height',
+    'Elongation',
 ]
 
 log('GENERATING SPLITS ...')
@@ -61,7 +62,7 @@ fs.writeFileSync(resolve(constants.TRAINING),
 )
 
 fs.writeFileSync(resolve(constants.TRAINING_CSV),
-    utils.toCSV([...featureNames, 'Lable'], training.map(t => [...t.point, t.label]))
+    utils.toCSV([...featureNames, 'Label'], training.map(t => [...t.point, t.label]))
 )
 
 fs.writeFileSync(resolve(constants.TRAINING_JS),
@@ -90,7 +91,7 @@ fs.writeFileSync(resolve(constants.TESTING),
 )
 
 fs.writeFileSync(resolve(constants.TESTING_CSV),
-    utils.toCSV([...featureNames, 'Lable'], testing.map(t => [...t.point, t.label]))
+    utils.toCSV([...featureNames, 'Label'], testing.map(t => [...t.point, t.label]))
 )
 
 fs.writeFileSync(resolve(constants.TESTING_JS),

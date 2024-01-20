@@ -1,128 +1,142 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>Data Viewer</title>
-  </head>
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+  <title>Data Viewer</title>
+</head>
 
-  <body>
-    <h1>Data Viewer
-      <span class="infoButton">
-        ⓘ
-        <span class="tooltipText">
-          You can flag samples using Ctrl + LeftClick.
-          <br>
-          Then use the console (flaggedSamples variable).
-        </span>
+<body>
+  <h1>
+    Data Viewer
+    <span class="infoButton">
+      ⓘ
+      <span class="tooltipText">
+        You can flag samples using Ctrl + LeftClick.
+        <br />
+        Then use the console (flaggedSamples variable).
       </span>
-    </h1>
-    <div id="controlPanel">
-      <button onclick="togglePad()">Toggle SketchPad</button>
-      <button onclick="toggleMatrix()">Toggle Confusion Matrix</button>
-      <div id="statistics"></div>
-    </div>
-    <div id="inputContainer">
-      <div id="predictLabelContainer"></div>
-    </div>
-    <div id="chartContainer">
-      <div id="confusionContainer"></div>
-    </div>
-    <div id="container"></div>
+    </span>
+  </h1>
+  <div id="controlPanel">
+    <button onclick="togglePad()">Toggle SketchPad</button>
+    <button onclick="toggleMatrix()">Toggle Confusion Matrix</button>
+    <div id="statistics"></div>
+  </div>
+  <div id="inputContainer">
+    <div id="predictLabelContainer"></div>
+  </div>
+  <div id="chartContainer">
+    <div id="confusionContainer"></div>
+  </div>
+  <div id="container"></div>
 
-    <script src="../common/utils.js"></script>
-    <script src="../common/constants.js"></script>
-    <script src="../common/draw.js"></script>
-    <script src="../common/js_objects/features.js"></script>
-    <script src="../common/js_objects/training.js"></script>
-    <script src="../common/js_objects/testing.js"></script>
-    <script src="../common/js_objects/minMax.js"></script>
-    <script src="../common/features.js"></script>
-    <script src="../common/classifiers/knn.js"></script>
-    <script src="../chart/math.js"></script>
-    <script src="../chart/graphics.js"></script>
-    <script src="../chart/chart.js"></script>
-    <script src="../chart/confusion.js"></script>
-    <script src="js/display.js"></script>
-    <script src="js/sketchPad.js"></script>
-    <script src="js/dataCleaner.js"></script>
-    <script>
-      const { samples, featureNames } = features
-      const trainingSamples = training.samples
-      const testingSamples = testing.samples
+  <script src="../common/utils.js"></script>
+  <script src="../common/constants.js"></script>
+  <script src="../common/draw.js"></script>
+  <script src="../common/geometry.js"></script>
+  <script src="../common/js_objects/features.js"></script>
+  <script src="../common/js_objects/training.js"></script>
+  <script src="../common/js_objects/testing.js"></script>
+  <script src="../common/js_objects/minMax.js"></script>
+  <script src="../common/features.js"></script>
+  <script src="../common/classifiers/knn.js"></script>
+  <script src="../chart/math.js"></script>
+  <script src="../chart/graphics.js"></script>
+  <script src="../chart/chart.js"></script>
+  <script src="../chart/confusion.js"></script>
+  <script src="js/display.js"></script>
+  <script src="js/sketchPad.js"></script>
+  <script src="js/dataCleaner.js"></script>
+  <script>
+    const { samples, featureNames } = features;
+    const trainingSamples = training.samples;
+    const testingSamples = testing.samples;
 
-      const knn = new KNN(trainingSamples, 50)
-      let totalCount = 0
-      let correctCount = 0
-      for (const t of testingSamples) {
-        t.truth = t.label        
-        t.label = '?'
-        const { label } = knn.predict(t.point)
-        t.label = label
-        t.correct = t.label === t.truth
-        totalCount++
-        correctCount += t.correct
-      }
-      statistics.innerHTML = `
+    const knn = new KNN(trainingSamples, 50);
+    let totalCount = 0;
+    let correctCount = 0;
+    for (const t of testingSamples) {
+      t.truth = t.label;
+      t.label = "?";
+      const { label } = knn.predict(t.point);
+      t.label = label;
+      t.correct = t.label === t.truth;
+      totalCount++;
+      correctCount += t.correct;
+    }
+    statistics.innerHTML = `
           Total: ${totalCount}<br>
           Correct: ${correctCount}<br>
-          Accuracy: ${correctCount / totalCount * 100}%
-        `
+          Accuracy: ${(correctCount / totalCount) * 100}%
+        `;
 
-      const groupedTrainingSamples = utils.groupBy(trainingSamples, 'user_id')
-      for (let user_id in groupedTrainingSamples) {
-        const samples = groupedTrainingSamples[user_id]
-        const userName = samples[0].user
-        createRow(container, userName, samples)
+    const groupedTrainingSamples = utils.groupBy(trainingSamples, "user_id");
+    for (let user_id in groupedTrainingSamples) {
+      const samples = groupedTrainingSamples[user_id];
+      const userName = samples[0].user;
+      createRow(container, userName, samples);
+    }
+    const h2 = document.createElement("h2");
+    h2.innerHTML = "Testing Samples";
+    container.appendChild(h2);
+
+    const groupedTestingSamples = utils.groupBy(testingSamples, "user_id");
+    for (let user_id in groupedTestingSamples) {
+      const samples = groupedTestingSamples[user_id];
+      const userName = samples[0].user;
+      createRow(container, userName, samples);
+    }
+    // const groupedSamples = utils.groupBy(samples, 'user_id')
+
+    const options = {
+      size: 500,
+      axesLabels: featureNames,
+      styles: utils.styles,
+      opacity: 0.9,
+      icon: "image",
+      bg: new Image(),
+    };
+    options.bg.src = constants.DECISION_BOUNDARY;
+    graphics.generateImages(options.styles);
+    const chart = new Chart(
+      chartContainer,
+      trainingSamples,
+      options,
+      handleClick,
+    );
+
+    const confusion = new Confusion(
+      confusionContainer,
+      testingSamples,
+      utils.classes,
+      options,
+    );
+
+    const sketchPad = new SketchPad(inputContainer, onDrawingUpdate);
+    sketchPad.canvas.style.cssText += `
+        outline: 10000px solid rgba(0, 0, 0, 0.7);`;
+    togglePad();
+
+    function onDrawingUpdate(paths) {
+      if (paths.length <= 0) {
+        chart.hideDynamicPoint();
+        predictLabelContainer.innerHTML = 'Draw something...';
+
+        return;
       }
-      const h2 = document.createElement('h2')
-      h2.innerHTML = 'Testing Samples'
-      container.appendChild(h2)
+      const f = featureFunctions.inUse.map(({ func }) => func(paths));
+      utils.normalizePoints([f], minMax);
+      const { label, nearestSamples } = knn.predict(f);
 
-      const groupedTestingSamples = utils.groupBy(testingSamples, 'user_id')
-      for (let user_id in groupedTestingSamples) {
-        const samples = groupedTestingSamples[user_id]
-        const userName = samples[0].user
-        createRow(container, userName, samples)
-      }
-      // const groupedSamples = utils.groupBy(samples, 'user_id')
+      predictLabelContainer.innerHTML = `Is it a ${label}?`;
 
-      const options = {
-        size: 500,
-        axesLabels: featureNames,
-        styles: utils.styles,
-        opacity: 0.9,
-        icon: 'image',
-        bg: new Image(),
-      }
-      options.bg.src = constants.DECISION_BOUNDARY
-      graphics.generateImages(options.styles)
-      const chart = new Chart(chartContainer, testingSamples, options, handleClick)
-
-      const confusion = new Confusion(confusionContainer, testingSamples, utils.classes, options)
-
-      const sketchPad = new SketchPad(inputContainer, onDrawingUpdate)
-      sketchPad.canvas.style.cssText += `
-        outline: 10000px solid rgba(0, 0, 0, 0.7);`
-      togglePad()
-
-      function onDrawingUpdate(paths) {
-        if (paths.length <= 0) {
-          chart.hideDynamicPoint()
-          return
-        }
-        const f = featureFunctions.inUse.map(({ func }) => func(paths))
-        utils.normalizePoints([f], minMax)
-        const { label, nearestSamples } = knn.predict(f)
-        
-        predictLabelContainer.innerHTML = `Is it a ${label}?`
-
-        chart.showDynamicPoint(f, label, nearestSamples)
-      }
-    </script>
-  </body>
+      chart.showDynamicPoint(f, label, nearestSamples);
+    }
+  </script>
+</body>
 
 </html>
