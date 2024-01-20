@@ -1,3 +1,7 @@
+if (typeof geometry === 'undefined') {
+    console.log('feature')
+    geometry = require('../common/geometry')
+}
 
 const featureFunctions = Object.create(null)
 
@@ -17,9 +21,16 @@ featureFunctions.height = (paths) => {
     return Math.max(...ys) - Math.min(...ys)
 }
 
+featureFunctions.elongation = (paths) => {
+    const points = paths.flat()
+    const { width, height } = geometry.minimumBoundingBox({ points })
+    return (Math.max(width, height) + 1) / (Math.min(width, height) + 1)
+}
+
 featureFunctions.inUse = [
     { name: 'width', func: featureFunctions.width },
     { name: 'height', func: featureFunctions.height },
+    { name: 'elongation', func: featureFunctions.elongation },
 ]
 
 if (typeof module !== 'undefined' && module.exports) {

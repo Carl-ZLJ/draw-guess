@@ -6,5 +6,5 @@ node_modules
 **/*.json
 !package.json
 pnpm-lock.yaml
-data/*
-common/js_objects/*
+data
+common/js_objects
