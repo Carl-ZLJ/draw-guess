@@ -12,10 +12,13 @@
     <h1>Custom Chart</h1>
     <div id="chartContainer"></div>
     <table id="dataTable"></table>
-    <script src="./math.js"></script>
-    <script src="./graphics.js"></script>
-    <script src="./chart.js"></script>
-    <script>
+    <script type="module" src="./math.js"></script>
+    <script type="module" src="./graphics.js"></script>
+    <script type="module" src="./chart.js"></script>
+    <script type="module">
+      import math from "./math.js"
+      import graphics from "./graphics.js"
+      import Chart from "./chart.js"
       const N = 1000;
       const samples = [];
       for (let i = 1; i <= N; i++) {

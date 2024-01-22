@@ -77,3 +77,5 @@ graphics.drawImage = (ctx, image, loc) => {
     )
     ctx.fill()
 }
+
+export default graphics

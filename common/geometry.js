@@ -1,10 +1,51 @@
 const geometry = Object.create(null)
 
+if (typeof utils === 'undefined') {
+    utils = require('../common/utils.js')
+}
+
 /**
  * for all functions below, assume screen coordinates: the x-axis is rightward,
  * the y-axis is downward
  */
+geometry.roundness = (polygon) => {
+    const len = geometry.length(polygon)
+    const area = geometry.area(polygon)
 
+    const R = len / (Math.PI * 2)
+    const circleArea = Math.PI * R * R
+    return circleArea == 0 ? 0 : area / circleArea
+}
+
+geometry.length = (polygon) => {
+    let len = 0
+    for (let i = 0; i < polygon.length; i++) {
+        const nextId = (i + 1) % polygon.length
+        len += utils.distance(polygon[i], polygon[nextId])
+    }
+
+    return len
+}
+
+geometry.area = (polygon) => {
+    let area = 0
+    const A = polygon[0]
+    for (let i = 1; i < polygon.length - 1; i++) {
+        let B = polygon[i]
+        let C = polygon[i + 1]
+        area += geometry.triangleArea(A, B, C)
+    }
+
+    return area
+}
+
+geometry.triangleArea = (A, B, C) => {
+    const a = utils.distance(B, C)
+    const b = utils.distance(A, C)
+    const c = utils.distance(A, B)
+    const p = (a + b + c) / 2
+    return Math.sqrt(p * (p - a) * (p - b) * (p - c))
+}
 
 /**
  *

@@ -11,21 +11,24 @@ const samples = JSON.parse(
 )
 
 
-for (const sample of samples) {
+for (let i = 0; i < samples.length; i++) {
+    const sample = samples[i]
     const paths = JSON.parse(
         fs.readFileSync(resolve(constants.JSON_DIR + '/' + sample.id + '.json'))
     )
 
     sample.point = featureFunctions.inUse.map(({ func }) => func(paths))
+    utils.printProgress(i + 1, samples.length)
 }
 
 const featureNames = [
     'Width',
     'Height',
     'Elongation',
+    'Roundness',
 ]
 
-log('GENERATING SPLITS ...')
+log('\nGENERATING SPLITS ...')
 
 const trainingAmount = samples.length * 0.5
 const training = []

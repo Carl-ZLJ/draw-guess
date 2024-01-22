@@ -40,14 +40,16 @@ for (let i = 0; i < canvas.width; i++) {
             i / canvas.width,
             1 - j / canvas.height, 
         ]
-        // third dimension
-        point.push(0.2)
+        // more dimension
+        while (point.length < trainingSamples[0].point.length) {
+            point.push(0)
+        }
         const { label } = knn.predict(point)
         const color = utils.styles[label].color
         ctx.fillStyle = color
         ctx.fillRect(i, j, 1, 1)
     }
-    utils.printProgress(i, canvas.width)
+    utils.printProgress(i + 1, canvas.width)
 }
 
 const buffer = canvas.toBuffer('image/png')

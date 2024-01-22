@@ -27,7 +27,7 @@ use a transparency canvas to only redraw the sample.
   - the bound is called **Minimum Bounding box**
   - the algorithm is __Graham Scan Algorithm__
 
-- [ ] Calculate a probability for the classification to be correct, based on the 
+- [x] Calculate a probability for the classification to be correct, based on the 
 number of neighbors of the predicted class.
 
 

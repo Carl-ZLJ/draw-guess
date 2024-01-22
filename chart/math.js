@@ -67,3 +67,5 @@ math.findNearest = (point, points, k = 1) => {
     const indexs = sorted.map(obj => obj.index)
     return indexs.slice(0, k)
 }
+
+export default math

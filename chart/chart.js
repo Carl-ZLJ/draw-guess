@@ -1,3 +1,5 @@
+import math from "./math.js"
+import graphics from "./graphics.js"
 class Chart {
     constructor(container, samples, options, clickCallBack = null) {
         // samples {
@@ -24,12 +26,12 @@ class Chart {
 
         this.onClick = clickCallBack
 
-        this.canvas = this.#initCanvas()
+        this.canvas = this.#initCanvas(options)
         this.ctx = this.canvas.getContext('2d')
         this.ctx.imageSmoothingEnabled = false
         container.appendChild(this.canvas)
 
-        this.overlayCanvas = this.#initOverlayCanvas()
+        this.overlayCanvas = this.#initOverlayCanvas(options)
         this.overlayCtx = this.overlayCanvas.getContext('2d')
         this.overlayCtx.imageSmoothingEnabled = false
         container.appendChild(this.overlayCanvas)
@@ -62,7 +64,7 @@ class Chart {
         this.#addEventListeners()
     }
 
-    #initCanvas() {
+    #initCanvas(options) {
         const canvas = document.createElement('canvas')
         canvas.width = options.size
         canvas.height = options.size
@@ -70,7 +72,7 @@ class Chart {
         return canvas
     }
 
-    #initOverlayCanvas() {
+    #initOverlayCanvas(options) {
         const overlayCanvas = document.createElement('canvas')
         overlayCanvas.width = options.size
         overlayCanvas.height = options.size
@@ -443,3 +445,5 @@ class Chart {
         this.#drawOverlay()
     }
 }
+
+export default Chart
