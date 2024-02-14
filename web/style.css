@@ -106,6 +106,13 @@ button:disabled:hover {
   z-index: 1;
 }
 
+#networkCanvas {
+  position: absolute;
+  background-color: black;
+  right: 0;
+  z-index: 1;
+}
+
 #container {
   width: calc(100% - 500px);
 }

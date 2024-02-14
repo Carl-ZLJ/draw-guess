@@ -17,12 +17,16 @@ featureFunctions.pointCount = (paths) => paths.flat().length
 
 featureFunctions.width = (paths) => {
     const points = paths.flat()
+    if (points.length == 0) return 0
+
     const xs = points.map(p => p[0])
     return Math.max(...xs) - Math.min(...xs)
 }
 
 featureFunctions.height = (paths) => {
     const points = paths.flat()
+    if (points.length == 0) return 0
+
     const ys = points.map(p => p[1])
     return Math.max(...ys) - Math.min(...ys)
 }

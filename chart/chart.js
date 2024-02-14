@@ -1,5 +1,3 @@
-import math from "./math.js"
-import graphics from "./graphics.js"
 class Chart {
     constructor(container, samples, options, clickCallBack = null) {
         // samples {
@@ -445,5 +443,3 @@ class Chart {
         this.#drawOverlay()
     }
 }
-
-export default Chart

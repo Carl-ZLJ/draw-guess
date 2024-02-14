@@ -20,7 +20,11 @@ constants.FEATURES_JS = constants.JS_OBJECT + '/features.js'
 constants.TRAINING_JS = constants.JS_OBJECT + '/training.js'
 constants.TESTING_JS = constants.JS_OBJECT + '/testing.js'
 constants.MIN_MAX_JS = constants.JS_OBJECT + '/minMax.js'
-constants.DECISION_BOUNDARY = constants.DATASET_DIR + '/decision_boundary.png'
+
+constants.MODEL_DIR = constants.DATA_DIR + '/model'
+constants.DECISION_BOUNDARY = constants.MODEL_DIR + '/decision_boundary.png'
+constants.MODEL = constants.MODEL_DIR + '/model.json'
+constants.MODEL_JS = constants.MODEL_DIR + '/model.js'
 
 if (typeof module !== 'undefined' && module.exports) {
     module.exports = constants
