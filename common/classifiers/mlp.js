@@ -7,15 +7,15 @@ if (typeof NeuralNetwork === 'undefined') {
 }
 
 class MLP {
-    constructor(neuronCounts, classses) {
+    constructor(neuronCounts, classes) {
         this.neuronCounts = neuronCounts
-        this.classses = classses
+        this.classes = classes
         this.network = new NeuralNetwork(neuronCounts)
     }
 
     load(mlp) {
         this.neuronCounts = mlp.neuronCounts
-        this.classses = mlp.classses
+        this.classes = mlp.classes
         this.network = mlp.network
     }
 
@@ -23,7 +23,7 @@ class MLP {
         const output = NeuralNetwork.feedForward(point, this.network)
         const max = Math.max(...output)
         const index = output.indexOf(max)
-        const label = this.classses[index]
+        const label = this.classes[index]
         return {
             label,
         }
