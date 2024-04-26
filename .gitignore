@@ -2,9 +2,7 @@
 node_modules
 
 # ignore dataset files
-**/*.png
-**/*.json
 !package.json
 pnpm-lock.yaml
-data
+data/dataset
 common/js_objects
